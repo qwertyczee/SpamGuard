@@ -29,29 +29,29 @@ A high-performance, stateless spam detection service running on Cloudflare Worke
 ## Installation
 
 ```bash
-npm install
+bun install
 ```
 
 ## Development
 
 ```bash
 # Run development server
-npm run dev
+bun run dev
 
 # Run tests
-npm test
+bun test
 
 # Run tests with coverage
-npm run test:coverage
+bun run test:coverage
 
 # Type check
-npm run typecheck
+bun run typecheck
 ```
 
 ## Deployment
 
 ```bash
-npm run deploy
+bun run deploy
 ```
 
 ## API Endpoints
