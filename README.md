@@ -12,7 +12,7 @@ A high-performance, stateless spam detection service running on Cloudflare Worke
 
 - **Multi-layer Analysis**: 6 independent analyzers work together for accurate detection
 - **Stateless Design**: No database required - runs entirely in a Cloudflare Worker
-- **Fast**: Typical analysis completes in <50ms
+- **Fast**: Typical analysis completes in <4ms
 - **Accurate**: Tuned for low false positives suitable for business environments
 - **Configurable**: Adjustable thresholds and debug options
 - **Batch Support**: Analyze up to 100 emails in one request
