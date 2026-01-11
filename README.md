@@ -1,24 +1,30 @@
 # SpamGuard
 
-A high-accuracy, stateless spam detection service running on Cloudflare Workers. Inspired by Rspamd, but designed to run entirely at the edge without databases or external dependencies.
+A high-performance, stateless spam detection service running on Cloudflare Workers. Inspired by Rspamd, but designed to run entirely at the edge without databases or external dependencies.
+
+**Current Performance (Enron Spam Dataset):**
+*   **Spam Detection Rate:** 70.92%
+*   **False Positive Rate:** 2.67%
+
+> **Note:** The project history and logs may not reflect the most recent algorithmic adjustments and tuning represented in these statistics.
 
 ## Features
 
 - **Multi-layer Analysis**: 6 independent analyzers work together for accurate detection
 - **Stateless Design**: No database required - runs entirely in a Cloudflare Worker
 - **Fast**: Typical analysis completes in <50ms
-- **Accurate**: >90% spam detection with <10% false positives
+- **Accurate**: Tuned for low false positives suitable for business environments
 - **Configurable**: Adjustable thresholds and debug options
 - **Batch Support**: Analyze up to 100 emails in one request
 
 ## Detection Layers
 
-1. **Header Analyzer** - SPF/DKIM/DMARC validation, header anomalies, authentication failures
-2. **Content Analyzer** - Spam phrases, word patterns, text statistics
-3. **URL Analyzer** - Suspicious domains, URL shorteners, phishing patterns
-4. **HTML Analyzer** - Hidden text, tracking pixels, malicious elements
-5. **Pattern Analyzer** - Obfuscation detection, encoding tricks, structural patterns
-6. **Bayesian Classifier** - Statistical token analysis using pre-trained probabilities
+1.  **Header Analyzer** - SPF/DKIM/DMARC validation, header anomalies, authentication failures
+2.  **Content Analyzer** - Spam phrases, word patterns, text statistics
+3.  **URL Analyzer** - Suspicious domains, URL shorteners, phishing patterns
+4.  **HTML Analyzer** - Hidden text, tracking pixels, malicious elements
+5.  **Pattern Analyzer** - Obfuscation detection, encoding tricks, structural patterns
+6.  **Bayesian Classifier** - Statistical token analysis using pre-trained probabilities
 
 ## Installation
 
@@ -51,69 +57,68 @@ npm run deploy
 ## API Endpoints
 
 ### `GET /`
-
 Returns API information and available endpoints.
 
 ### `GET /health`
-
-Health check endpoint.
+Returns service health status and timestamp.
 
 ### `GET /config`
-
-Returns default configuration values.
+Returns the current default configuration values.
 
 ### `POST /analyze`
+Performs full spam analysis and returns detailed results including individual analyzer scores and matched rules.
 
-Full spam analysis with detailed results.
+**Request Body Parameters:**
 
-**Request:**
+| Parameter | Type | Description |
+|-----------|------|-------------|
+| `from` | string | Sender email address |
+| `to` | string/array | Recipient email address(es) |
+| `subject` | string | Email subject line |
+| `textBody` (or `text_body`, `text`, `body`) | string | Plain text body content |
+| `htmlBody` (or `html_body`, `html`) | string | HTML body content |
+| `raw` | string | Raw MIME email string |
+| `headers` | object | Key-value pairs of email headers |
+| `receivedSpf` (or `received_spf`) | string | value of Received-SPF header |
+| `dkimSignature` (or `dkim_signature`) | string | value of DKIM-Signature header |
+| `authenticationResults` (or `authentication_results`) | string | value of Authentication-Results header |
+| `clientIp` (or `client_ip`) | string | IP address of the sender |
+| `helo` | string | HELO/EHLO string from SMTP session |
+| `debug` | boolean | Set to `true` to include detailed debug info |
+| `config` | object | Override default configuration (see Configuration section) |
 
+**Example Request:**
 ```json
 {
     "from": "sender@example.com",
     "to": "recipient@example.com",
     "subject": "Email Subject",
     "textBody": "Plain text content",
-    "htmlBody": "<html>HTML content</html>",
     "headers": {
-        "received-spf": "pass",
-        "dkim-signature": "..."
+        "received-spf": "pass"
     },
     "debug": true
 }
 ```
 
-**Response:**
-
+**Example Response:**
 ```json
 {
-  "isSpam": false,
-  "score": 2.5,
-  "threshold": 5.0,
-  "confidence": 0.85,
-  "classification": "probable_ham",
-  "analyzers": [...],
-  "topReasons": [...],
-  "processingTimeMs": 12.5,
-  "debug": {...}
+    "score": 0.2,
+    "threshold": 3.5,
+    "confidence": 0.37,
+    "classification": "ham",
+    "analyzers": [...],
+    "topReasons": ["..."],
+    "processingTimeMs": 1,
+    "debug": {...}
 }
 ```
 
 ### `POST /check`
-
-Quick spam check - returns only true/false.
-
-**Request:**
-
-```json
-{
-    "subject": "Test",
-    "textBody": "Content"
-}
-```
+Quick spam check returning a simple boolean verdict. Uses the same input parameters as `/analyze`.
 
 **Response:**
-
 ```json
 {
     "isSpam": false
@@ -121,25 +126,21 @@ Quick spam check - returns only true/false.
 ```
 
 ### `POST /score`
-
-Returns score and classification only.
+Returns only the calculated score, threshold, and classification. Uses the same input parameters as `/analyze`.
 
 **Response:**
-
 ```json
 {
     "score": 2.5,
-    "threshold": 5.0,
+    "threshold": 3.5,
     "classification": "probable_ham"
 }
 ```
 
 ### `POST /batch`
-
-Analyze multiple emails (max 100).
+Analyze multiple emails in a single request (maximum 100).
 
 **Request:**
-
 ```json
 {
     "emails": [
@@ -147,13 +148,12 @@ Analyze multiple emails (max 100).
         { "subject": "Email 2", "textBody": "..." }
     ],
     "config": {
-        "spamThreshold": 5.0
+        "spamThreshold": 4.0
     }
 }
 ```
 
 **Response:**
-
 ```json
 {
   "summary": {
@@ -167,35 +167,34 @@ Analyze multiple emails (max 100).
 ```
 
 ### `POST /analyze/raw`
+Analyze a raw MIME email string.
 
-Analyze raw MIME email.
-
-**Request:**
-
+**Option 1: JSON**
+```json
+{
+    "raw": "From: sender@example.com\r\nSubject: Test\r\n\r\nBody..."
+}
 ```
-Content-Type: text/plain
 
-From: sender@example.com
-To: recipient@example.com
-Subject: Test
-
-Body content here.
-```
+**Option 2: Text/Plain**
+Send the raw email content directly as the request body with `Content-Type: text/plain` or `message/rfc822`.
 
 ## Configuration
 
-| Option                  | Default | Description                               |
-| ----------------------- | ------- | ----------------------------------------- |
-| `spamThreshold`         | 5.0     | Score above which email is marked as spam |
-| `probableSpamThreshold` | 3.0     | Score for "probable spam" classification  |
-| `enableDebug`           | false   | Include debug information in response     |
+These values can be passed in the `config` object to override defaults.
+
+| Option | Default | Description |
+|--------|---------|-------------|
+| `spamThreshold` | 3.5 | Score above which email is marked as spam |
+| `probableSpamThreshold` | 2.0 | Score for "probable spam" classification |
+| `enableDebug` | false | Include debug information in response |
 
 ## Classifications
 
 - **ham** - Score ≤ 1.0, definitely legitimate
-- **probable_ham** - Score 1.0-3.0, likely legitimate
-- **probable_spam** - Score 3.0-5.0, likely spam
-- **spam** - Score ≥ 5.0, definitely spam
+- **probable_ham** - Score 1.0-2.0, likely legitimate
+- **probable_spam** - Score 2.0-3.5, likely spam
+- **spam** - Score ≥ 3.5, definitely spam
 
 ## Usage Examples
 
