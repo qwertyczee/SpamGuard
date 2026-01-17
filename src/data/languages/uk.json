@@ -1,0 +1,1377 @@
+{
+    "language": "uk",
+    "languageName": "Ukrainian",
+    "spamWords": [
+        {
+            "word": "нігерійський принц",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "банківський переказ",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "реквізити банківського рахунку",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "фонд спадщини",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "невитребувані кошти",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "бенефіціар",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "мільйон доларів",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "мільйон доларів сша",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "комісія за переказ",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "комісія за обробку",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "авансовий внесок",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "вестерн юніон",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "біткоїн-гаманець",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "інвестиції в криптовалюту",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "подвоїти свій біткойн",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "розіграш криптовалюти",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "діяти зараз",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "діяти негайно",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "термінове реагування",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "термінова увага",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "негайні дії",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "обмежений час",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "закінчується сьогодні",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "останній шанс",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "останнє повідомлення",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "негайно відповісти",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "протягом 24 годин",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "протягом 48 годин",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "чутливий до часу",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "не зволікай",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "вітаємо переможця",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ти виграв",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "переможець лотереї",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "повідомлення про приз",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "заберіть свій приз",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "повідомлення про виграш",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "щасливий переможець",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "обраний переможець",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "грошовий приз",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "безкоштовний приз",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "лотереї",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "підтвердити свій обліковий запис",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "підтвердити свою особу",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "оновіть свій платіж",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "заблокований обліковий запис",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "обліковий запис заблоковано",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "незвичайна активність",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "підозріла активність",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "несанкціонований доступ",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "натисніть тут, щоб перевірити",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "облікові дані для входу",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "скидання пароля",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "сповіщення системи безпеки",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "ваш обліковий запис буде",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "неможливість перевірки",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "повторно активувати свій",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "відписатися",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "натисніть тут",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "купити зараз",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "замовити зараз",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "безкоштовна пропозиція",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "спеціальна пропозиція",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ексклюзивна угода",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "без ризику",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "без зобов'язань",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "гарантія повернення грошей",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "гарантоване задоволення",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "зателефонуйте зараз",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "безкоштовний номер",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% безкоштовно",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "повністю безкоштовно",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "безкоштовна",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "без комісій",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "найнижча ціна",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "найкраща ціна",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "знижка",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "заощадити багато",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "заощаджувати гроші",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "подвоїти свій",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "збільшити свій",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "заробляти гроші",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "заробляти гроші",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "додатковий дохід",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "робота з дому",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "будь своїм власним босом",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "фінансова свобода",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "розбагатіти",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "отримувати гроші",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "миттєвий доступ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "приєднуйтесь до мільйонів",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "віагра",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "сіаліс",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "аптека",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "інтернет-аптека",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "канадська аптека",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "рецепт",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "без рецепта",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "без рецепта",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "імпотенція",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "втрата ваги",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "схуднути",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "схуднути",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "таблетки для схуднення",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "спалювач жиру",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "чудодійні ліки",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "натуральний засіб",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "антивіковий",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "контент для дорослих",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "ххх",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "знайомства для дорослих",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "знайомства з самотніми людьми",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "гарячі сингли",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "самотні жінки",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "самотня домогосподарка",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "дорогий друже",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "дорогий коханий",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "шановний пане/пані",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "конфіденційний",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "суворо конфіденційно",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "приватне та конфіденційне",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "не ігноруйте",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "повинен відповісти",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "це не спам",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "це не сміття",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "не шахрайство",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "законна пропозиція",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "юридичне повідомлення",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "судове рішення",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "державний грант",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "безкоштовний грант",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ірландська влада",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "повернення податку",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "зустріч": -0.3,
+        "розклад": -0.3,
+        "демонструвати": -0.3,
+        "термін": -0.3,
+        "доданий": -0.3,
+        "вкладення": -0.3,
+        "з повагою": -0.2,
+        "щиро": -0.2,
+        "дякую": -0.3,
+        "подальші дії": -0.3,
+        "як обговорювалося": -0.5,
+        "за нашою розмовою": -0.5,
+        "рахунок-фактура": -0.2,
+        "звіт": -0.2,
+        "короткий зміст": -0.2,
+        "хвилин": -0.3,
+        "порядок денний": -0.3,
+        "конференція": -0.3,
+        "сховище": -0.5,
+        "запит на зняття": -0.8,
+        "зобов'язатися": -0.5,
+        "об'єднати": -0.5,
+        "гілка": -0.5,
+        "розгорнути": -0.5,
+        "документація": -0.3
+    },
+    "bayesianTokens": {
+        "віагра": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "сіаліс": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "розширення": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "нігерійський": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "спадщина": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "бенефіціар": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "лотерея": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "переможець": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "джекпот": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "відписатися": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "відмовитися": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "клацнути": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "безкоштовно": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "гроші": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "готівка": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "приз": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "виграв": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "терміново": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "негайно": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "акт": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "обмежений": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "пропозиція": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "знижка": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "гарантовано": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "безризиковий": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "зобов'язання": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "кредит": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "борг": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "позика": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "іпотека": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "аптека": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "рецепт": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "ліки": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "таблетки": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "вага": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "дієта": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "програти": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "фунти": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "купити": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "замовлення": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "покупка": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "продаж": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "дешевий": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "зберегти": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "угода": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "спеціальний": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ексклюзивний": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "бонус": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "подарунок": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "вітання": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "вибраний": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "підтвердити": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "перевірити": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "обліковий запис": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "пароль": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "призупинено": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "заблоковано": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "безпека": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "оновлення": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "амазонка": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "банк": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "дріт": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "переказ": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "маршрутизація": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "швидкий": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "західний": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "союз": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "біткойн": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "криптовалюта": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "гаманець": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "блокчейн": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "зустріч": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "розклад": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "демонструвати": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "команда": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "термін": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "доданий": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "вкладення": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "документ": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "звіт": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "огляд": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "зворотний зв'язок": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "обговорення": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "порядок денний": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "хвилин": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "конференція": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "дзвінок": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "з повагою": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "щиро": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "дякую": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "цінувати": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "наступний": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "обговорював": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "розмова": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "рахунок-фактура": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "квитанція": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "короткий зміст": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "аналіз": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "дослідження": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "дані": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "результати": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "сховище": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "зобов'язатися": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "об'єднати": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "гілка": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "тягнути": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "запит": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "розгорнути": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "будувати": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "тест": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "налагодження": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "помилка": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "виправити": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "випуск": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "особливість": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "реліз": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "версія": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "документація": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "сервер": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "база даних": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "функція": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "змінна": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "клас": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "метод": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "інтерфейс": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "терміново",
+        "негайний",
+        "негайно",
+        "якомога швидше",
+        "діяти зараз",
+        "не зволікай",
+        "поспішати",
+        "обмежений час",
+        "закінчується",
+        "термін",
+        "останній шанс",
+        "останнє повідомлення",
+        "чутливий до часу",
+        "відповісти зараз",
+        "необхідні дії"
+    ],
+    "greetingWords": [
+        "привіт",
+        "привіт",
+        "дорогий",
+        "гей",
+        "вітання",
+        "доброго ранку",
+        "добрий день",
+        "добрий вечір"
+    ],
+    "genericGreetings": [
+        "шановний пане",
+        "шановна пані",
+        "шановний клієнте",
+        "шановний користувачу",
+        "шановний учасник",
+        "дорогий друже",
+        "дорогий/цінніша",
+        "дорогий одержувачу",
+        "шановний бенефіціар"
+    ]
+}

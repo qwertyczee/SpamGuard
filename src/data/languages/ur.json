@@ -1,0 +1,1369 @@
+{
+    "language": "ur",
+    "languageName": "Urdu",
+    "spamWords": [
+        {
+            "word": "نائجیریا کا شہزادہ",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "تار کی منتقلی",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "بینک اکاؤنٹ کی تفصیلات",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "وراثت فنڈ",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "غیر دعوی شدہ فنڈز",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "فائدہ اٹھانے والا",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "ملین ڈالر",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ملین امریکی ڈالر",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "منتقلی کی فیس",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "پروسیسنگ فیس",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "پیشگی فیس",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ویسٹرن یونین",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "منی گرام",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "بٹ کوائن والیٹ",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "cryptocurrency سرمایہ کاری",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "اپنے بٹ کوائن کو دوگنا کریں۔",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "کرپٹو تحفہ",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "اب عمل کریں",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "فوری طور پر عمل کریں",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "فوری جواب",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "فوری توجہ",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "فوری کارروائی",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "محدود وقت",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "آج ختم ہو رہا ہے",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "آخری موقع",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "حتمی نوٹس",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "فوری طور پر جواب دیں",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "24 گھنٹے کے اندر",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "48 گھنٹوں کے اندر",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "حساس وقت",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "تاخیر نہ کرو",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "مبارک ہو فاتح",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "آپ جیت گئے ہیں",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "لاٹری جیتنے والا",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "انعام کی اطلاع",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "اپنے انعام کا دعوی کریں۔",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "جیتنے کی اطلاع",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "خوش قسمت فاتح",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "منتخب فاتح",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "نقد انعام",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "مفت انعام",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "جھاڑو",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "اپنے اکاؤنٹ کی تصدیق کریں۔",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "اپنی شناخت کی تصدیق کریں۔",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "اپنی ادائیگی کو اپ ڈیٹ کریں۔",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "معطل اکاؤنٹ",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "اکاؤنٹ معطل",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "غیر معمولی سرگرمی",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "مشکوک سرگرمی",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "غیر مجاز رسائی",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "تصدیق کرنے کے لیے یہاں کلک کریں۔",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "لاگ ان کی اسناد",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "پاس ورڈ دوبارہ ترتیب دیں",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "سیکورٹی الرٹ",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "آپ کا اکاؤنٹ ہو جائے گا",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "تصدیق کرنے میں ناکامی",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "اپنے کو دوبارہ چالو کریں۔",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "رکنیت ختم کریں",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "یہاں کلک کریں",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ابھی خریدیں",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ابھی آرڈر کریں",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "مفت پیشکش",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "خصوصی پیشکش",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "خصوصی سودا",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "خطرے سے پاک",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "کوئی ذمہ داری نہیں",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "پیسے واپس کرنے کی ضمانت",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "اطمینان کی ضمانت ہے",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ابھی کال کریں",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ٹول فری",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% مفت",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "مکمل طور پر مفت",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "کوئی قیمت نہیں",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "کوئی فیس نہیں",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "سب سے کم قیمت",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "بہترین قیمت",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "رعایت",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "بڑی بچت",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "پیسے بچائیں",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "اپنے دوگنا",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "اپنے میں اضافہ کریں",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "پیسے کمائیں",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "پیسہ کمانا",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "اضافی آمدنی",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "گھر سے کام",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "اپنے مالک بنو",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "مالی آزادی",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "امیر ہو جاؤ",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ادائیگی حاصل کریں",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "فوری رسائی",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "لاکھوں میں شامل ہوں",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ویاگرا",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "فارمیسی",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "آن لائن فارمیسی",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "کینیڈین فارمیسی",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "نسخہ",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "کوئی نسخہ نہیں",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "نسخے کے بغیر",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "ایستادنی فعلیت کی خرابی",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "وزن میں کمی",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "وزن کم",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "پاؤنڈ کھو",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "خوراک کی گولی",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "چربی جلانے والا",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "معجزاتی علاج",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "قدرتی علاج",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "مخالف عمر رسیدہ",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "بالغ مواد",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "بالغ ڈیٹنگ",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "سنگلز سے ملو",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "گرم سنگلز",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "تنہا خواتین",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "اکیلی گھریلو خاتون",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "پیارے دوست",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "پیارے محبوب",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "پیارے جناب/میڈم",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "خفیہ",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "سختی سے خفیہ",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "نجی اور خفیہ",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "نظر انداز نہ کریں",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "جواب دینا چاہیے",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "یہ سپیم نہیں ہے۔",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "یہ فضول نہیں ہے",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ایک دھوکہ نہیں",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "جائز پیشکش",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "قانونی نوٹس",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "عدالتی حکم",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "حکومتی گرانٹ",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "مفت گرانٹ",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "آئی آر ایس",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "ٹیکس کی واپسی",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "ملاقات": -0.3,
+        "شیڈول": -0.3,
+        "پروجیکٹ": -0.3,
+        "آخری تاریخ": -0.3,
+        "منسلک": -0.3,
+        "منسلکہ": -0.3,
+        "احترام": -0.2,
+        "خلوص سے": -0.2,
+        "شکریہ": -0.3,
+        "پیروی کرنا": -0.3,
+        "جیسا کہ بحث کی گئی ہے": -0.5,
+        "ہماری گفتگو کے مطابق": -0.5,
+        "رسید": -0.2,
+        "رپورٹ": -0.2,
+        "خلاصہ": -0.2,
+        "منٹ": -0.3,
+        "ایجنڈا": -0.3,
+        "کانفرنس": -0.3,
+        "ذخیرہ": -0.5,
+        "کھینچنے کی درخواست": -0.8,
+        "عزم": -0.5,
+        "ضم": -0.5,
+        "شاخ": -0.5,
+        "تعینات": -0.5,
+        "دستاویزات": -0.3
+    },
+    "bayesianTokens": {
+        "ویاگرا": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "توسیع": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "نائجیرین": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "وراثت": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "فائدہ اٹھانے والا": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "لاٹری": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "فاتح": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "جیک پاٹ": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "رکنیت ختم کریں": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "آپٹ آؤٹ": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "کلک کریں": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "مفت": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "پیسہ": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "نقد": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "انعام": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "جیت لیا": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "فوری": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "فوری طور پر": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "عمل": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "محدود": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "پیشکش": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "رعایت": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ضمانت دی": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "خطرے سے پاک": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "ذمہ داری": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "کریڈٹ": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "قرض": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "رہن": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "فارمیسی": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "نسخہ": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "علاج": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "گولیاں": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "وزن": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "خوراک": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "کھونا": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "پاؤنڈ": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "خریدیں": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "حکم": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "خریداری": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "فروخت": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "سستا": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "محفوظ کریں": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "سودا": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "خصوصی": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "بونس": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "تحفہ": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "مبارک ہو": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "منتخب": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "تصدیق کریں": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "اکاؤنٹ": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "پاس ورڈ": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "معطل": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "مقفل": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "سیکورٹی": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "اپ ڈیٹ": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "پے پال": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ای بے": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ایمیزون": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "بینک": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "تار": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "منتقلی": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "روٹنگ": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "تیز": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "مغربی": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "یونین": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "منی گرام": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "بٹ کوائن": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "cryptocurrency": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "پرس": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "بلاکچین": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ملاقات": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "شیڈول": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "پروجیکٹ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ٹیم": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "آخری تاریخ": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "منسلک": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "منسلکہ": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "دستاویز": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "رپورٹ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "جائزہ لیں": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "رائے": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "بحث": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ایجنڈا": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "منٹ": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "کانفرنس": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "کال": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "احترام": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "خلوص سے": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "شکریہ": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "تعریف کریں": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "مندرجہ ذیل": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "بحث کی": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "بات چیت": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "رسید": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "خلاصہ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "تجزیہ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "تحقیق": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ڈیٹا": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "نتائج": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ذخیرہ": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "عزم": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "ضم": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "شاخ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "کھینچنا": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "درخواست": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "تعینات": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "تعمیر": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ٹیسٹ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ڈیبگ": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "غلطی": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "بگ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ٹھیک کریں": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "مسئلہ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "خصوصیت": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "رہائی": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ورژن": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "دستاویزات": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "سرور": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ڈیٹا بیس": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "استفسار": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "فنکشن": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "متغیر": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "کلاس": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "طریقہ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "انٹرفیس": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "فوری",
+        "فوری",
+        "فوری طور پر",
+        "جلد از جلد",
+        "اب عمل کریں",
+        "تاخیر نہ کرو",
+        "جلدی",
+        "محدود وقت",
+        "میعاد ختم",
+        "آخری تاریخ",
+        "آخری موقع",
+        "حتمی نوٹس",
+        "حساس وقت",
+        "اب جواب دیں",
+        "کارروائی کی ضرورت ہے"
+    ],
+    "greetingWords": [
+        "ہیلو",
+        "ہیلو",
+        "پیارے",
+        "ارے",
+        "سلام",
+        "صبح بخیر",
+        "دوپہر بخیر",
+        "شام بخیر"
+    ],
+    "genericGreetings": [
+        "پیارے صاحب",
+        "پیاری میڈم",
+        "پیارے کسٹمر",
+        "پیارے صارف",
+        "پیارے ممبر",
+        "پیارے دوست",
+        "عزیز قابل قدر",
+        "پیارے وصول کنندہ",
+        "پیارے فائدہ اٹھانے والے"
+    ]
+}

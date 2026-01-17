@@ -1,0 +1,1377 @@
+{
+    "language": "be",
+    "languageName": "Belarusian",
+    "spamWords": [
+        {
+            "word": "нігерыйскі прынц",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "банкаўскі перавод",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "рэквізіты банкаўскага рахунку",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "фонд спадчыны",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "незапатрабаваныя сродкі",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "бенефіцыяр",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "мільён долараў",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "мільён долараў зша",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "плата за перавод",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "плата за апрацоўку",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "авансавы ўзнос",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "western union",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "біткойн-кашалёк",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "інвестыцыі ў крыптавалюту",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "падвойце свой біткойн",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "крыпта-розыгрыш",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "дзейнічаць зараз",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "дзейнічаць неадкладна",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "тэрміновае рэагаванне",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "тэрміновая ўвага",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "неадкладныя дзеянні",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "абмежаваны час",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "мінае сёння",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "апошні шанец",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "апошняе паведамленне",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "неадкладна адказаць",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "на працягу 24 гадзін",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "на працягу 48 гадзін",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "адчувальны да часу",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "не марудзь",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "віншуем пераможцу",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ты перамог",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "пераможца латарэі",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "апавяшчэнне аб прызе",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "забраць свой прыз",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "апавяшчэнне аб выйгрышы",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "шчаслівы пераможца",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "абраны пераможца",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "грашовы прыз",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "бясплатны прыз",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "латарэі",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "пацвердзіце свой уліковы запіс",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "пацвердзіце сваю асобу",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "абнавіце свой плацёж",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "прыпынены рахунак",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "рахунак прыпынены",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "незвычайная актыўнасць",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "падазроная актыўнасць",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "несанкцыянаваны доступ",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "націсніце тут, каб праверыць",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "уліковыя дадзеныя для ўваходу",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "скід пароля",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "абвестка бяспекі",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "ваш рахунак будзе",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "неправерка",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "зноў актываваць свой",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "адпісацца",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "націсніце тут",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "купіць зараз",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "замоўце зараз",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "бясплатная прапанова",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "спецыяльная прапанова",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "эксклюзіўная здзелка",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "без рызыкі",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "без абавязацельстваў",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "гарантыя вяртання грошай",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "гарантаванае задавальненне",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "патэлефануйце зараз",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "бясплатны званок",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% бясплатна",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "цалкам бясплатна",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "бясплатна",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "без камісій",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "самая нізкая цана",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "найлепшая цана",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "зніжка",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "зэканоміць шмат",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "зэканоміць грошы",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "падвоіць свой",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "павялічыць свой",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "зарабляць грошы",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "зарабляць грошы",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "дадатковы даход",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "працаваць з дому",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "будзь сваім уласным начальнікам",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "фінансавая свабода",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "разбагацець",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "атрымліваць грошы",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "імгненны доступ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "далучайцеся да мільёнаў",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "віягра",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "цыяліс",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "аптэка",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "інтэрнэт-аптэка",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "канадская аптэка",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "рэцэпт",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "без рэцэпту",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "без рэцэпту",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "эректільная дысфункцыя",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "страта вагі",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "схуднець",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "скінуць кілаграмы",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "таблеткі для пахудання",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "спальвальнік тлушчу",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "цудадзейны сродак",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "натуральны сродак",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "супраць старэння",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "кантэнт для дарослых",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "ххх",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "знаёмствы для дарослых",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "знаёмства з адзінокімі людзьмі",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "гарачыя сінглы",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "адзінокія жанчыны",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "адзінокая хатняя гаспадыня",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "дарагі сябар",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "дарагі/каханая",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "паважаны/паважаная спадарыня/спадарыня",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "канфідэнцыйны",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "строга канфідэнцыйна",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "прыватнае і канфідэнцыйнае",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "не ігнаруйце",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "павінен адказаць",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "гэта не спам",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "гэта не смецце",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "не афёра",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "законная прапанова",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "юрыдычнае паведамленне",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "судовае распараджэнне",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "дзяржаўны грант",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "бясплатны грант",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ірская служба",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "вяртанне падатку",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "сустрэча": -0.3,
+        "расклад": -0.3,
+        "праект": -0.3,
+        "тэрмін": -0.3,
+        "прымацаваны": -0.3,
+        "прыхільнасць": -0.3,
+        "прывітанне": -0.2,
+        "шчыра": -0.2,
+        "дзякуй": -0.3,
+        "наступныя дзеянні": -0.3,
+        "як абмяркоўвалася": -0.5,
+        "паводле нашай размовы": -0.5,
+        "рахунак-фактура": -0.2,
+        "справаздача": -0.2,
+        "рэзюмэ": -0.2,
+        "хвілін": -0.3,
+        "парадак дня": -0.3,
+        "канферэнцыя": -0.3,
+        "сховішча": -0.5,
+        "запыт на зняцце": -0.8,
+        "здзейсніць": -0.5,
+        "аб'яднаць": -0.5,
+        "галіна": -0.5,
+        "разгарнуць": -0.5,
+        "дакументацыя": -0.3
+    },
+    "bayesianTokens": {
+        "віягра": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "цыяліс": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "пашырэнне": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "нігерыйскі": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "спадчыннасць": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "бенефіцыяр": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "латарэя": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "пераможца": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "джэкпот": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "адпісацца": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "адмовіцца": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "націсніце": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "бясплатна": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "грошы": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "наяўныя грошы": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "прыз": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "выйграў": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "тэрмінова": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "неадкладна": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "акт": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "абмежаваны": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "прапанова": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "зніжка": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "гарантаваны": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "безрызыкоўны": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "абавязак": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "крэдыт": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "доўг": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "пазыка": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "іпатэка": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "аптэка": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "рэцэпт": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "лекі": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "таблеткі": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "вага": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "дыета": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "прайграць": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "фунты": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "купіць": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "заказ": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "купля": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "продаж": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "танна": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "захаваць": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "здзелка": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "спецыяльны": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "эксклюзіўны": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "бонус": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "падарунак": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "віншаванні": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "абраны": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "пацвердзіць": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "праверыць": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "рахунак": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "пароль": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "прыпынена": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "заблакіраваны": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "бяспека": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "абнаўленне": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "амазонка": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "банк": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "дрот": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "перавод": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "маршрутызацыя": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "хуткі": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "заходні": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "саюз": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "біткойн": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "крыптавалюта": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "кашалёк": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "блокчэйн": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "сустрэча": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "расклад": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "праект": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "каманда": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "тэрмін": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "прымацаваны": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "прыхільнасць": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "дакумент": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "справаздача": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "агляд": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "водгук": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "абмеркаванне": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "парадак дня": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "хвілін": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "канферэнцыя": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "званок": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "прывітанне": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "шчыра": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "дзякуй": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "цаніць": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "наступны": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "абмеркавалі": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "размова": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "рахунак-фактура": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "квітанцыя": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "рэзюмэ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "аналіз": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "даследаванне": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "дадзеныя": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "вынікі": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "сховішча": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "здзейсніць": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "аб'яднаць": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "галіна": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "цягнуць": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "запыт": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "разгарнуць": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "будаваць": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "тэст": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "адладка": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "памылка": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "выправіць": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "праблема": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "асаблівасць": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "вызваленне": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "версія": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "дакументацыя": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "сервер": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "база дадзеных": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "функцыя": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "зменная": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "клас": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "метад": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "інтэрфейс": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "тэрмінова",
+        "неадкладны",
+        "неадкладна",
+        "як мага хутчэй",
+        "дзейнічаць зараз",
+        "не марудзь",
+        "спяшацца",
+        "абмежаваны час",
+        "мінае",
+        "тэрмін",
+        "апошні шанец",
+        "апошняе паведамленне",
+        "адчувальны да часу",
+        "адказаць зараз",
+        "патрабуецца дзеянне"
+    ],
+    "greetingWords": [
+        "прывітанне",
+        "прывітанне",
+        "дарагі",
+        "гэй",
+        "прывітанні",
+        "добрай раніцы",
+        "добры дзень",
+        "добры вечар"
+    ],
+    "genericGreetings": [
+        "шаноўны спадар",
+        "шаноўная спадарыня",
+        "паважаны кліент",
+        "паважаны карыстальнік",
+        "паважаны ўдзельнік",
+        "дарагі сябар",
+        "дарагі/паважаная",
+        "дарагі атрымальнік",
+        "паважаны бенефіцыяр"
+    ]
+}

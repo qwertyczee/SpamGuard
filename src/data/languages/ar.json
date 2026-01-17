@@ -1,0 +1,1382 @@
+{
+    "language": "ar",
+    "languageName": "Arabic",
+    "spamWords": [
+        {
+            "word": "أمير نيجيري",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "تحويلة كهربية بالسلك",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "تفاصيل الحساب البنكي",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "صندوق الميراث",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "الأموال غير المطالب بها",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "المستفيد",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "مليون دولار",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "مليون دولار أمريكي",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "رسوم التحويل",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "رسوم المعالجة",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "رسوم مقدمة",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ويسترن يونيون",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "موني جرام",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "محفظة بيتكوين",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "الاستثمار في العملات المشفرة",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "ضاعف رصيدك من البيتكوين",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "توزيع عملات رقمية مجانية",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "بادر الآن",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "بادر بالتحرك فوراً",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "استجابة عاجلة",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "عناية عاجلة",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "إجراء فوري",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "لفترة محدودة",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "تنتهي صلاحيتها اليوم",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "الفرصة الأخيرة",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "إشعار نهائي",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "الاستجابة الفورية",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "خلال 24 ساعة",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "خلال 48 ساعة",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "عامل زمني",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "لا تتأخر",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "تهانينا للفائز",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "لقد فزت",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "الفائز باليانصيب",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "إشعار بالجائزة",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "استلم جائزتك",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "إشعار الفوز",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "الفائز المحظوظ",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "تم اختيار الفائز",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "جائزة نقدية",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "جائزة مجانية",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "مسابقة يانصيب",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "تحقق من حسابك",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "أكد هويتك",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "قم بتحديث طريقة الدفع الخاصة بك",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "الحساب المعلق",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "تم تعليق الحساب",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "نشاط غير عادي",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "نشاط مشبوه",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "الوصول غير المصرح به",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "انقر هنا للتحقق",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "بيانات تسجيل الدخول",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "إعادة تعيين كلمة المرور",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "تنبيه أمني",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "سيتم حفظ حسابك",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "عدم التحقق",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "أعد تفعيل حسابك",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "إلغاء الاشتراك",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "انقر هنا",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "اشتري الآن",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "اطلب الآن",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "عرض مجاني",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "عرض خاص",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "عرض حصري",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "بدون مخاطرة",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "لا يوجد التزام",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ضمان استرداد الأموال",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "رضاكم مضمون",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "اتصل الآن",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "رقم مجاني",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "مجاني 100%",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "مجاني بالكامل",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "بدون تكلفة",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "بدون رسوم",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "أقل سعر",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "أفضل سعر",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "تخفيض",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "وفر الكثير",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "وفر المال",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ضاعف",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "قم بزيادة",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "اكسب المال",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "اكسب المال",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "دخل إضافي",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "العمل من المنزل",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "كن رئيس نفسك",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "الحرية المالية",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "كن ثرياً",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "احصل على أجرك",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "وصول فوري",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "انضم إلى الملايين",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "الفياجرا",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "سياليس",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "صيدلية",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "صيدلية إلكترونية",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "صيدلية كندية",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "روشتة",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "بدون وصفة طبية",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "بدون وصفة طبية",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "الضعف الجنسي لدى الرجال",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "فقدان الوزن",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "إنقاص الوزن",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "فقدان الوزن",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "حبوب الحمية",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "حارق الدهون",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "علاج معجزة",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "علاج طبيعي",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "مكافحة الشيخوخة",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "محتوى للبالغين",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "مواعدة البالغين",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "تعرّف على العزاب",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "العزاب الجذابون",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "النساء الوحيدات",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ربة منزل وحيدة",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "صديقي العزيز",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "حبيبي العزيز",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "عزيزي السيد/السيدة",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "مؤتمن",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "سرية للغاية",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "خاص وسري",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "لا تتجاهل",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "يجب الرد",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "هذا ليس بريدًا مزعجًا",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "هذا ليس خردة",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ليست عملية احتيال",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "عرض شرعي",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "إشعار قانوني",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "أمر قضائي",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "منحة حكومية",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "منحة مجانية",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "مصلحة الضرائب",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "استرداد الضرائب",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "مقابلة": -0.3,
+        "جدول": -0.3,
+        "مشروع": -0.3,
+        "موعد التسليم": -0.3,
+        "مُرفَق": -0.3,
+        "مرفق": -0.3,
+        "يعتبر": -0.2,
+        "بإخلاص": -0.2,
+        "شكرًا": -0.2,
+        "شكرًا لك": -0.3,
+        "متابعة": -0.3,
+        "كما نوقش": -0.5,
+        "بحسب محادثتنا": -0.5,
+        "فاتورة": -0.2,
+        "تقرير": -0.2,
+        "ملخص": -0.2,
+        "دقائق": -0.3,
+        "جدول الأعمال": -0.3,
+        "مؤتمر": -0.3,
+        "مستودع": -0.5,
+        "طلب سحب": -0.8,
+        "يقترف": -0.5,
+        "دمج": -0.5,
+        "فرع": -0.5,
+        "نشر": -0.5,
+        "الوثائق": -0.3
+    },
+    "bayesianTokens": {
+        "الفياجرا": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "سياليس": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "تكبير": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "نيجيري": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "الميراث": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "المستفيد": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "اليانصيب": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "الفائز": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "الفوز بالجائزة الكبرى": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "إلغاء الاشتراك": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "انسحب": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "انقر": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "حر": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "مال": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "نقدي": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "جائزة": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "فاز": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "عاجل": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "في الحال": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "يمثل": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "محدود": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "يعرض": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "تخفيض": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "مضمون": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "خالٍ من المخاطر": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "فرض": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "ائتمان": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "دَين": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "يُقرض": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "القرض العقاري": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "صيدلية": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "روشتة": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "دواء": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "حبوب": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "وزن": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "نظام عذائي": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "يخسر": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "رطل": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "يشتري": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "طلب": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "شراء": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "أُوكَازيُون": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "رخيص": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "يحفظ": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "اتفاق": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "خاص": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "حصري": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "علاوة": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "هدية": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "تهانينا": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "تم الاختيار": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "يتأكد": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "يؤكد": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "حساب": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "كلمة المرور": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "معلق": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "مغلق": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "حماية": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "تحديث": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "باي بال": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "إيباي": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "أمازون": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "بنك": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "سلك": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "تحويل": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "التوجيه": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "سريع": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "الغربي": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "الاتحاد": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "موني جرام": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "بيتكوين": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "العملات المشفرة": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "محفظة": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "تقنية البلوك تشين": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "مقابلة": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "جدول": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "مشروع": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "فريق": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "موعد التسليم": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "مُرفَق": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "مرفق": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "وثيقة": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "تقرير": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "مراجعة": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "تعليق": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "مناقشة": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "جدول الأعمال": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "دقائق": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "مؤتمر": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "يتصل": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "يعتبر": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "بإخلاص": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "شكرًا": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "شكر": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "يُقَدِّر": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "التالي": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "محادثة": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "فاتورة": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "إيصال": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "ملخص": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "تحليل": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "بحث": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "بيانات": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "نتائج": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "مستودع": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "يقترف": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "دمج": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "فرع": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "يحذب": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "نشر": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "يبني": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "امتحان": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "تصحيح الأخطاء": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "خطأ": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "حشرة": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "يصلح": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "مشكلة": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ميزة": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "يطلق": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "إصدار": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "الوثائق": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "واجهة برمجة التطبيقات": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "خادم": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "قاعدة البيانات": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "استفسار": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "وظيفة": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "عامل": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "فصل": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "طريقة": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "واجهة المستخدم": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "عاجل",
+        "مباشر",
+        "في الحال",
+        "في اسرع وقت ممكن",
+        "بادر الآن",
+        "لا تتأخر",
+        "عجل",
+        "لفترة محدودة",
+        "تنتهي صلاحيتها",
+        "موعد التسليم",
+        "الفرصة الأخيرة",
+        "إشعار نهائي",
+        "عامل زمني",
+        "أجب الآن",
+        "الإجراء المطلوب"
+    ],
+    "greetingWords": [
+        "أهلاً",
+        "مرحبًا",
+        "عزيزي",
+        "يا",
+        "تحيات",
+        "صباح الخير",
+        "مساء الخير",
+        "مساء الخير"
+    ],
+    "genericGreetings": [
+        "سيدي العزيز",
+        "سيدتي العزيزة",
+        "عزيزي العميل",
+        "عزيزي المستخدم",
+        "عضوي العزيز",
+        "صديقي العزيز",
+        "عزيزي العزيز",
+        "عزيزي المتلقي",
+        "المستفيد العزيز"
+    ]
+}

@@ -1,0 +1,1385 @@
+{
+    "language": "ja",
+    "languageName": "Japanese",
+    "spamWords": [
+        {
+            "word": "ナイジェリアの王子",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "電信送金",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "銀行口座の詳細",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "相続基金",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "未請求資金",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "受益者",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "百万ドル",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "百万米ドル",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "移籍金",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "手数料",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "前払い料金",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ウエスタンユニオン",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "マネーグラム",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "ビットコインウォレット",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "暗号通貨投資",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "ビットコインを2倍にする",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "暗号通貨プレゼント",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "今すぐ行動する",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "すぐに行動する",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "緊急対応",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "緊急対応",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "即時の行動",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "期間限定",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "本日期限切れ",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "最後のチャンス",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "最終通知",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "すぐに対応する",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "24時間以内",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "48時間以内",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "時間に敏感",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "遅れないで",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "優勝おめでとうございます",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "あなたは勝ちました",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "宝くじ当選者",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "賞品通知",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "賞品を受け取る",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "当選通知",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "幸運な勝者",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "選ばれた勝者",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "賞金",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "無料賞品",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "懸賞",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "アカウントを確認する",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "本人確認",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "お支払いを更新する",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "アカウント停止",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "アカウントが停止されました",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "異常な活動",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "不審な活動",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "不正アクセス",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "確認するにはここをクリックしてください",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "ログイン資格情報",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "パスワードのリセット",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "セキュリティ警告",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "あなたのアカウントは",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "検証の失敗",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "再アクティブ化",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "購読解除",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "ここをクリック",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "今すぐ購入",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "今すぐ注文",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "無料オファー",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "特別オファー",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "独占取引",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "リスクフリー",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "義務はありません",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "返金保証",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "満足保証",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "今すぐ電話",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "フリーダイヤル",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100%無料",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "完全に無料",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "無料",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "手数料なし",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "最低価格",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "最安値",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "割引",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "大幅に節約",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "お金を節約する",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "2倍の",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "増やす",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "お金を稼ぐ",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "お金を稼ぐ",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "追加収入",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "在宅勤務",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "自分の上司になる",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "経済的自由",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "金持ちになる",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "報酬を受け取る",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "即時アクセス",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "何百万人もの人々に参加",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "バイアグラ",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "シアリス",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "薬局",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "オンライン薬局",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "カナダの薬局",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "処方箋",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "処方箋なし",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "処方箋なし",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "勃起不全",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "減量",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "体重を減らす",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "体重を減らす",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "ダイエットピル",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "脂肪燃焼剤",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "奇跡の治療法",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "自然療法",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "アンチエイジング",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "アダルトコンテンツ",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "大人の出会い",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "独身者と出会う",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "ホットなシングル",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "孤独な女性",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "孤独な主婦",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "親愛なる友人",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "愛しい人",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "拝啓",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "機密",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "極秘",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "プライベートかつ機密",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "無視しないでください",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "応答しなければならない",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "これはスパムではありません",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "これはジャンクではない",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "詐欺ではない",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "正当な申し出",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "法的通知",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "裁判所命令",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "政府補助金",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "無償助成金",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "税金の還付",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "ミーティング": -0.3,
+        "スケジュール": -0.3,
+        "プロジェクト": -0.3,
+        "締め切り": -0.3,
+        "添付": -0.3,
+        "添付ファイル": -0.3,
+        "よろしく": -0.2,
+        "心から": -0.2,
+        "ありがとう": -0.3,
+        "フォローアップ": -0.3,
+        "議論したように": -0.5,
+        "私たちの会話によると": -0.5,
+        "請求書": -0.2,
+        "報告": -0.2,
+        "まとめ": -0.2,
+        "分": -0.3,
+        "議題": -0.3,
+        "会議": -0.3,
+        "リポジトリ": -0.5,
+        "プルリクエスト": -0.8,
+        "専念": -0.5,
+        "マージ": -0.5,
+        "支店": -0.5,
+        "展開する": -0.5,
+        "ドキュメント": -0.3
+    },
+    "bayesianTokens": {
+        "バイアグラ": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "シアリス": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "拡大": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "ナイジェリア人": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "継承": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "受益者": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "宝くじ": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "勝者": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "ジャックポット": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "購読解除": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "身を引く": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "クリック": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "無料": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "お金": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "現金": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "賞": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "勝利した": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "緊急": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "すぐに": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "活動": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "限定": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "オファー": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "割引": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "保証付き": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "リスクフリー": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "義務": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "クレジット": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "借金": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "ローン": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "モーゲージ": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "薬局": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "処方箋": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "薬": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "錠剤": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "重さ": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "ダイエット": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "失う": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "ポンド": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "買う": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "注文": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "購入": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "販売": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "安い": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "保存": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "取引": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "特別": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "エクスクルーシブ": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ボーナス": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "贈り物": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "おめでとう": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "選択された": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "確認する": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "アカウント": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "パスワード": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "一時停止中": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "ロックされた": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "安全": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "アップデート": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "ペイパル": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "イーベイ": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "アマゾン": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "銀行": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ワイヤー": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "移行": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ルーティング": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "迅速": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "西部": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "連合": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "マネーグラム": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "ビットコイン": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "暗号通貨": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "財布": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "ブロックチェーン": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ミーティング": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "スケジュール": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "プロジェクト": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "チーム": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "締め切り": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "添付": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "添付ファイル": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "書類": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "報告": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "レビュー": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "フィードバック": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "議論": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "議題": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "分": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "会議": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "電話": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "よろしく": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "心から": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "ありがとう": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "感謝": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "感謝する": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "続く": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "議論した": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "会話": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "請求書": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "レシート": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "まとめ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "分析": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "研究": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "データ": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "結果": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "リポジトリ": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "専念": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "マージ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "支店": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "引く": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "リクエスト": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "展開する": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "建てる": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "テスト": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "デバッグ": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "エラー": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "バグ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "修理": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "問題": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "特徴": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "リリース": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "バージョン": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ドキュメント": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "サーバ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "データベース": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "クエリ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "関数": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "変数": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "クラス": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "方法": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "インタフェース": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "緊急",
+        "すぐに",
+        "すぐに",
+        "できるだけ早く",
+        "今すぐ行動する",
+        "遅れないで",
+        "急いで",
+        "期間限定",
+        "期限切れ",
+        "締め切り",
+        "最後のチャンス",
+        "最終通知",
+        "時間に敏感",
+        "今すぐ返信",
+        "必要なアクション"
+    ],
+    "greetingWords": [
+        "こんにちは",
+        "こんにちは",
+        "親愛なる",
+        "おい",
+        "ご挨拶",
+        "おはよう",
+        "こんにちは",
+        "こんばんは"
+    ],
+    "genericGreetings": [
+        "拝啓",
+        "拝啓",
+        "お客様各位",
+        "親愛なるユーザー",
+        "親愛なる会員",
+        "親愛なる友人",
+        "大切な",
+        "親愛なる受取人様",
+        "親愛なる受益者"
+    ]
+}

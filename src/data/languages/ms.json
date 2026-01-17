@@ -1,0 +1,1385 @@
+{
+    "language": "ms",
+    "languageName": "Malay",
+    "spamWords": [
+        {
+            "word": "putera nigeria",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "pemindahan kawat",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "butiran akaun bank",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "dana pusaka",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "dana yang tidak dituntut",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "benefisiari",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "juta dolar",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "juta usd",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "yuran pemindahan",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "yuran pemprosesan",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "yuran pendahuluan",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "kesatuan barat",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "dompet bitcoin",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "pelaburan mata wang kripto",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "gandakan bitcoin anda",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "hadiah kripto",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "bertindak sekarang",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "bertindak segera",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "tindak balas segera",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "perhatian segera",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "tindakan segera",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "masa terhad",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "tamat tempoh hari ini",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "peluang terakhir",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "notis akhir",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "balas segera",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "dalam masa 24 jam",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "dalam masa 48 jam",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "sensitif masa",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "jangan berlengah",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "pemenang tahniah",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "awak telah menang",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "pemenang loteri",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "pemberitahuan hadiah",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "tuntut hadiah anda",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "pemberitahuan kemenangan",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "pemenang bertuah",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "pemenang terpilih",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "hadiah wang tunai",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "hadiah percuma",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "cabutan bertuah",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "sahkan akaun anda",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "sahkan identiti anda",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "kemas kini pembayaran anda",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "akaun yang digantung",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "akaun digantung",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "aktiviti luar biasa",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "aktiviti yang mencurigakan",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "akses tanpa kebenaran",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "klik di sini untuk mengesahkan",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "kelayakan log masuk",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "tetapan semula kata laluan",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "amaran keselamatan",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "akaun anda akan",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "kegagalan untuk mengesahkan",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "aktifkan semula anda",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "berhenti melanggan",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "klik di sini",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "beli sekarang",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "pesan sekarang",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "tawaran percuma",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "tawaran istimewa",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "tawaran eksklusif",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "bebas risiko",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "tiada kewajipan",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "jaminan wang dikembalikan",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "kepuasan terjamin",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "hubungi sekarang",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "bebas tol",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% percuma",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "percuma sepenuhnya",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "tiada kos",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "tiada yuran",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "harga terendah",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "harga terbaik",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "diskaun",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "jimat besar",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "jimat wang",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "gandakan anda",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "tingkatkan anda",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "dapatkan wang",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "buat duit",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "pendapatan tambahan",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "bekerja dari rumah",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "jadilah bos anda sendiri",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "kebebasan kewangan",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "menjadi kaya",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "dibayar",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "akses segera",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "sertai berjuta-juta",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "farmasi",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "farmasi dalam talian",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "farmasi kanada",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "preskripsi",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "tiada preskripsi",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "tanpa preskripsi",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "disfungsi erektil",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "penurunan berat badan",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "menurunkan berat badan",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "kurangkan berat badan",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "pil diet",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "pembakar lemak",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "penawar ajaib",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "ubat semula jadi",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "anti-penuaan",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "kandungan dewasa",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "temu janji dewasa",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "bertemu orang bujang",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "bujang-bujang panas",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "wanita yang kesepian",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "suri rumah yang kesepian",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "kawan baik",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "kekasih tersayang",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "tuan/puan yang dihormati",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "sulit",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "sulit sepenuhnya",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "peribadi dan sulit",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "jangan abaikan",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "mesti bertindak balas",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "ini bukan spam",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ini bukan sampah",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "bukan penipuan",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "tawaran yang sah",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "notis undang-undang",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "perintah mahkamah",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "geran kerajaan",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "geran percuma",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "bayaran balik cukai",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "mesyuarat": -0.3,
+        "jadual": -0.3,
+        "projek": -0.3,
+        "tarikh akhir": -0.3,
+        "dilampirkan": -0.3,
+        "lampiran": -0.3,
+        "salam": -0.2,
+        "dengan ikhlas": -0.2,
+        "terima kasih": -0.3,
+        "susulan": -0.3,
+        "seperti yang dibincangkan": -0.5,
+        "mengikut perbualan kami": -0.5,
+        "invois": -0.2,
+        "laporan": -0.2,
+        "ringkasan": -0.2,
+        "minit": -0.3,
+        "agenda": -0.3,
+        "persidangan": -0.3,
+        "repositori": -0.5,
+        "permintaan tarik": -0.8,
+        "komit": -0.5,
+        "gabungkan": -0.5,
+        "cawangan": -0.5,
+        "menggunakan": -0.5,
+        "dokumentasi": -0.3
+    },
+    "bayesianTokens": {
+        "viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "pembesaran": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "orang nigeria": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "pusaka": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "benefisiari": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "loteri": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "pemenang": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "jackpot": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "berhenti melanggan": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "pilih keluar": {
+            "spam": 0.85,
+            "ham": 0.05
+        },
+        "pilihan keluar": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "klik": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "percuma": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "wang": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "wang tunai": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "hadiah": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "menang": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "segera": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "serta-merta": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "bertindak": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "terhad": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "tawaran": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "diskaun": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "dijamin": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "bebas risiko": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "kewajipan": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "kredit": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "hutang": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "pinjaman": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "gadai janji": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "farmasi": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "preskripsi": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "ubat": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "pil": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "berat": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "diet": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "kalah": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "paun": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "beli": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "pesanan": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "pembelian": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "jualan": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "murah": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "simpan": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "perjanjian": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "istimewa": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "eksklusif": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "bonus": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "tahniah": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "dipilih": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "mengesahkan": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "sahkan": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "akaun": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "kata laluan": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "digantung": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "terkunci": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "keselamatan": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "kemas kini": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazon": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "bank": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "wayar": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "pemindahan": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "penghalaan": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "pantas": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "barat": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "kesatuan": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "mata wang kripto": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "dompet": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "rantaian blok": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "mesyuarat": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "jadual": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "projek": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "pasukan": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "tarikh akhir": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "dilampirkan": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "lampiran": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "dokumen": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "laporan": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ulasan": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "maklum balas": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "perbincangan": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "agenda": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "minit": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "persidangan": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "panggilan": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "salam": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "dengan ikhlas": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "terima kasih": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "menghargai": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "mengikuti": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "dibincangkan": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "perbualan": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "invois": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "resit": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "ringkasan": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "analisis": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "penyelidikan": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "data": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "keputusan": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "repositori": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "komit": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "gabungkan": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "cawangan": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "tarik": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "permintaan": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "menggunakan": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "membina": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ujian": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "nyahpepijat": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "ralat": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "pepijat": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "membetulkan": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "isu": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ciri": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "pelepasan": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "versi": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "dokumentasi": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "pelayan": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "pangkalan data": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "pertanyaan": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "fungsi": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "berubah-ubah": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "kelas": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "kaedah": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "antara muka": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "segera",
+        "serta-merta",
+        "serta-merta",
+        "secepat mungkin",
+        "bertindak sekarang",
+        "jangan berlengah",
+        "cepat",
+        "masa terhad",
+        "tamat tempoh",
+        "tarikh akhir",
+        "peluang terakhir",
+        "notis akhir",
+        "sensitif masa",
+        "balas sekarang",
+        "tindakan diperlukan"
+    ],
+    "greetingWords": [
+        "hai",
+        "hello",
+        "sayang",
+        "hei",
+        "salam",
+        "selamat pagi",
+        "selamat petang",
+        "selamat petang"
+    ],
+    "genericGreetings": [
+        "tuan yang dikasihi",
+        "puan yang dikasihi",
+        "pelanggan yang dikasihi",
+        "pengguna yang dikasihi",
+        "ahli yang dikasihi",
+        "kawan baik",
+        "yang dikasihi",
+        "penerima yang dikasihi",
+        "penerima manfaat yang dikasihi"
+    ]
+}

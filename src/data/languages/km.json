@@ -1,0 +1,1381 @@
+{
+    "language": "km",
+    "languageName": "Khmer",
+    "spamWords": [
+        {
+            "word": "ព្រះអង្គម្ចាស់នីហ្សេរីយ៉ា",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "ការផ្ទេរប្រាក់តាមខ្សែ",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "ព័ត៌មានលម្អិតអំពីគណនីធនាគារ",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "មូលនិធិមរតក",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "មូលនិធិដែលមិនទាន់បានទាមទារ",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "អ្នកទទួលផល",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "លានដុល្លារ",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "លានដុល្លារអាមេរិក",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ថ្លៃសេវាផ្ទេរប្រាក់",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ថ្លៃដំណើរការ",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "ថ្លៃសេវាជាមុន",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "សហភាពខាងលិច",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "លុយនីក្រាម",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "កាបូបលុយប៊ីតខូអ៊ីន",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "ការវិនិយោគរូបិយប័ណ្ណគ្រីបតូ",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "ទ្វេដងនៃ bitcoin របស់អ្នក",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "ការផ្តល់ជូនគ្រីបតូ",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "ធ្វើសកម្មភាពឥឡូវនេះ",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ធ្វើសកម្មភាពភ្លាមៗ",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "ការឆ្លើយតបបន្ទាន់",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ការយកចិត្តទុកដាក់ជាបន្ទាន់",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "សកម្មភាពភ្លាមៗ",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ពេលវេលាមានកំណត់",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ផុតកំណត់ថ្ងៃនេះ",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "ឱកាសចុងក្រោយ",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ការជូនដំណឹងចុងក្រោយ",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ឆ្លើយតបភ្លាមៗ",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ក្នុងរយៈពេល 24 ម៉ោង",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ក្នុងរយៈពេល ៤៨ ម៉ោង",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "ងាយ​ប្រតិកម្ម​នឹង​ពេលវេលា",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "កុំពន្យារពេល",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "អបអរសាទរអ្នកឈ្នះ",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "អ្នកបានឈ្នះ",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "អ្នកឈ្នះឆ្នោត",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ការជូនដំណឹងអំពីរង្វាន់",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ទាមទាររង្វាន់របស់អ្នក",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ការជូនដំណឹងអំពីការឈ្នះ",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "អ្នកឈ្នះសំណាង",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "អ្នកឈ្នះដែលបានជ្រើសរើស",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "រង្វាន់ជាសាច់ប្រាក់",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "រង្វាន់ឥតគិតថ្លៃ",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ការចាប់រង្វាន់",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "ផ្ទៀងផ្ទាត់គណនីរបស់អ្នក",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "បញ្ជាក់អត្តសញ្ញាណរបស់អ្នក",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ធ្វើបច្ចុប្បន្នភាពការទូទាត់របស់អ្នក",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "គណនី​ដែល​ត្រូវ​បាន​ផ្អាក",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "គណនីត្រូវបានផ្អាក",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "សកម្មភាពមិនធម្មតា",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "សកម្មភាពគួរឱ្យសង្ស័យ",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "ការចូលប្រើប្រាស់ដោយគ្មានការអនុញ្ញាត",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "ចុចទីនេះដើម្បីផ្ទៀងផ្ទាត់",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "លិខិតសម្គាល់ចូល",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "កំណត់ពាក្យសម្ងាត់ឡើងវិញ",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "ការជូនដំណឹងសុវត្ថិភាព",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "គណនីរបស់អ្នកនឹងត្រូវបាន",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ការបរាជ័យក្នុងការផ្ទៀងផ្ទាត់",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "ធ្វើឱ្យសកម្មឡើងវិញ",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ឈប់ជាវ",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "ចុចទីនេះ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ទិញឥឡូវនេះ",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "បញ្ជាទិញឥឡូវនេះ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ការផ្តល់ជូនឥតគិតថ្លៃ",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ការផ្តល់ជូនពិសេស",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "កិច្ចព្រមព្រៀងផ្តាច់មុខ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "គ្មានហានិភ័យ",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "គ្មានកាតព្វកិច្ច",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ការធានាសងប្រាក់វិញ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ធានាពេញចិត្ត",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ហៅទូរស័ព្ទឥឡូវនេះ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ឥតគិតថ្លៃ",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ឥតគិតថ្លៃ 100%",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ឥតគិតថ្លៃទាំងស្រុង",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "មិនគិតថ្លៃ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "គ្មានថ្លៃសេវា",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "តម្លៃទាបបំផុត",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "តម្លៃល្អបំផុត",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "បញ្ចុះតម្លៃ",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "សន្សំបានច្រើន",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "សន្សំប្រាក់",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ទ្វេដងរបស់អ្នក",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "បង្កើនរបស់អ្នក",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "រកលុយ",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "រកលុយ",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ប្រាក់ចំណូលបន្ថែម",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ធ្វើការពីផ្ទះ",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ធ្វើជាចៅហ្វាយរបស់ខ្លួនឯង",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "សេរីភាពហិរញ្ញវត្ថុ",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ក្លាយជាអ្នកមាន",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ទទួលបានប្រាក់កម្រៃ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ចូលប្រើភ្លាមៗ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ចូលរួមជាមួយមនុស្សរាប់លាននាក់",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "វីយ៉ាក្រា",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ស៊ីអាលីស",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ឱសថស្ថាន",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "ឱសថស្ថានអនឡាញ",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ឱសថស្ថានកាណាដា",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "វេជ្ជបញ្ជា",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "គ្មានវេជ្ជបញ្ជា",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "ដោយគ្មានវេជ្ជបញ្ជា",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "មុខងារមិនប្រក្រតីនៃលិង្គ",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ការសម្រកទម្ងន់",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "សម្រកទម្ងន់",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "ស្រកទម្ងន់",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "ថ្នាំគ្រាប់របបអាហារ",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "ឧបករណ៍ដុតខ្លាញ់",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "ការព្យាបាលអព្ភូតហេតុ",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "ឱសថធម្មជាតិ",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "ប្រឆាំងភាពចាស់",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "ខ្លឹមសារសម្រាប់មនុស្សពេញវ័យ",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ការណាត់ជួបមនុស្សពេញវ័យ",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ជួបជាមួយមនុស្សនៅលីវ",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "មនុស្ស​នៅ​លីវ​ក្តៅៗ",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ស្ត្រីឯកា",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ស្ត្រីមេផ្ទះឯកោ",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "មិត្តសម្លាញ់",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ជាទីស្រឡាញ់",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "លោក/លោកស្រីជាទីគោរព",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "សម្ងាត់",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "សម្ងាត់យ៉ាងតឹងរ៉ឹង",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ឯកជន និងសម្ងាត់",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "កុំមើលរំលង",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ត្រូវតែឆ្លើយតប",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "នេះមិនមែនជាសារឥតបានការទេ",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "នេះមិនមែនជាសំរាមទេ",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "មិនមែនជាការបោកប្រាស់ទេ",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ការផ្តល់ជូនស្របច្បាប់",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ការជូនដំណឹងផ្លូវច្បាប់",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "ដីការបស់តុលាការ",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ជំនួយរបស់រដ្ឋាភិបាល",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ជំនួយឥតសំណង",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "ការសងប្រាក់ពន្ធ",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "កិច្ចប្រជុំ": -0.3,
+        "កាលវិភាគ": -0.3,
+        "គម្រោង": -0.3,
+        "ថ្ងៃផុតកំណត់": -0.3,
+        "ភ្ជាប់": -0.3,
+        "ឯកសារភ្ជាប់": -0.3,
+        "ដោយក្តីគោរព": -0.2,
+        "ដោយស្មោះអស់ពីចិត្ត": -0.2,
+        "អរគុណ": -0.3,
+        "ការតាមដាន": -0.3,
+        "ដូចដែលបានពិភាក្សា": -0.5,
+        "តាមការសន្ទនារបស់យើង": -0.5,
+        "វិក្កយបត្រ": -0.2,
+        "របាយការណ៍": -0.2,
+        "សេចក្តីសង្ខេប": -0.2,
+        "នាទី": -0.3,
+        "របៀបវារៈ": -0.3,
+        "សន្និសីទ": -0.3,
+        "ឃ្លាំង​ផ្ទុក": -0.5,
+        "ទាញសំណើ": -0.8,
+        "ប្តេជ្ញាចិត្ត": -0.5,
+        "បញ្ចូលគ្នា": -0.5,
+        "សាខា": -0.5,
+        "ដាក់ពង្រាយ": -0.5,
+        "ឯកសារ": -0.3
+    },
+    "bayesianTokens": {
+        "វីយ៉ាក្រា": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "ស៊ីអាលីស": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "ការពង្រីក": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "ជនជាតិនីហ្សេរីយ៉ា": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "មរតក": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "អ្នកទទួលផល": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "ឆ្នោត": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "អ្នកឈ្នះ": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "រង្វាន់ធំ": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "ឈប់ជាវ": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "ជ្រើសរើសមិនចូលរួម": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "ចុច": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ឥតគិតថ្លៃ": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "លុយ": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "សាច់ប្រាក់": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "រង្វាន់": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "ឈ្នះ": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "បន្ទាន់": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "ភ្លាមៗ": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "ទង្វើ": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "មានកំណត់": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "ការផ្តល់ជូន": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "បញ្ចុះតម្លៃ": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ធានា": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "គ្មានហានិភ័យ": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "កាតព្វកិច្ច": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "ឥណទាន": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "បំណុល": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "ប្រាក់កម្ចី": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ប្រាក់កម្ចីទិញផ្ទះ": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "ឱសថស្ថាន": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "វេជ្ជបញ្ជា": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "ថ្នាំ": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "ថ្នាំគ្រាប់": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "ទម្ងន់": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "របបអាហារ": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ចាញ់": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "ផោន": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "ទិញ": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "លំដាប់": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ការទិញ": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ការលក់": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ថោក": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "រក្សាទុក": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "កិច្ចព្រមព្រៀង": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ពិសេស": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ផ្តាច់មុខ": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ប្រាក់រង្វាន់": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "អំណោយ": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "សូមអបអរសាទរ": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "បានជ្រើសរើស": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "បញ្ជាក់": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ផ្ទៀងផ្ទាត់": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "គណនី": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "ពាក្យសម្ងាត់": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ផ្អាក": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "ចាក់សោ": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "សន្តិសុខ": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ការអាប់ដេត": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "ផេផាល": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "អ៊ីបេយ": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "អាម៉ាហ្សូន": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ធនាគារ": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ខ្សែ": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ការផ្ទេរ": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ការ​កំណត់​ផ្លូវ": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "រហ័ស": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "ខាងលិច": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "សហជីព": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "លុយនីក្រាម": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "ប៊ីតខូអ៊ីន": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "រូបិយប័ណ្ណឌីជីថល": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "កាបូបលុយ": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "ប្លុកឆេន": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "កិច្ចប្រជុំ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "កាលវិភាគ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "គម្រោង": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ក្រុម": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ថ្ងៃផុតកំណត់": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ភ្ជាប់": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ឯកសារភ្ជាប់": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "ឯកសារ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "របាយការណ៍": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ពិនិត្យឡើងវិញ": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "មតិប្រតិកម្ម": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ការពិភាក្សា": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "របៀបវារៈ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "នាទី": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "សន្និសីទ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ហៅទូរស័ព្ទ": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "ដោយក្តីគោរព": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ដោយស្មោះអស់ពីចិត្ត": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "អរគុណ": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "កោតសរសើរ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "តាម": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "បានពិភាក្សា": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ការសន្ទនា": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "វិក្កយបត្រ": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "បង្កាន់ដៃ": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "សេចក្តីសង្ខេប": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ការវិភាគ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ការស្រាវជ្រាវ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ទិន្នន័យ": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "លទ្ធផល": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ឃ្លាំង​ផ្ទុក": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "ប្តេជ្ញាចិត្ត": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "បញ្ចូលគ្នា": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "សាខា": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ទាញ": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "សំណើ": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "ដាក់ពង្រាយ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "សាងសង់": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "សាកល្បង": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "បំបាត់កំហុស": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "កំហុស": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "សត្វល្អិត": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ជួសជុល": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "បញ្ហា": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "លក្ខណៈពិសេស": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ចេញផ្សាយ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "កំណែ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "អាភី": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ម៉ាស៊ីនបម្រើ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "មូលដ្ឋានទិន្នន័យ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "សំណួរ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "មុខងារ": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "អថេរ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ថ្នាក់": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "វិធីសាស្ត្រ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ចំណុចប្រទាក់": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "បន្ទាន់",
+        "ភ្លាមៗ",
+        "ភ្លាមៗ",
+        "ឱ្យបានឆាប់បំផុត",
+        "ធ្វើសកម្មភាពឥឡូវនេះ",
+        "កុំពន្យារពេល",
+        "ប្រញាប់",
+        "ពេលវេលាមានកំណត់",
+        "ផុតកំណត់",
+        "ថ្ងៃផុតកំណត់",
+        "ឱកាសចុងក្រោយ",
+        "ការជូនដំណឹងចុងក្រោយ",
+        "ងាយ​ប្រតិកម្ម​នឹង​ពេលវេលា",
+        "ឆ្លើយតបឥឡូវនេះ",
+        "តម្រូវឲ្យមានសកម្មភាព"
+    ],
+    "greetingWords": [
+        "សួស្តី",
+        "សួស្តី",
+        "ជាទីស្រឡាញ់",
+        "សួស្តី",
+        "ជំរាបសួរ",
+        "អរុណសួស្តី",
+        "សួស្តីរសៀល",
+        "សួស្តីពេលល្ងាច"
+    ],
+    "genericGreetings": [
+        "លោកជំទាវ",
+        "លោកជំទាវជាទីស្រឡាញ់",
+        "អតិថិជនជាទីស្រឡាញ់",
+        "អ្នកប្រើប្រាស់ជាទីស្រឡាញ់",
+        "សមាជិកជាទីស្រឡាញ់",
+        "មិត្តសម្លាញ់",
+        "ជាទីស្រឡាញ់ដែលមានតម្លៃ",
+        "អ្នកទទួលជាទីស្រឡាញ់",
+        "អ្នកទទួលផលជាទីស្រឡាញ់"
+    ]
+}

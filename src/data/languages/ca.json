@@ -1,0 +1,1389 @@
+{
+    "language": "ca",
+    "languageName": "Catalan",
+    "spamWords": [
+        {
+            "word": "príncep nigerià",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "transferència bancària",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "dades del compte bancari",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "fons d'herència",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "fons no reclamats",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "beneficiari",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "milions de dòlars",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "milions de dòlars",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "tarifa de transferència",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "tarifa de processament",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "quota anticipada",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "unió occidental",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "cartera de bitcoins",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "inversió en criptomoneda",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "dobla el teu bitcoin",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "sorteig de criptomonedes",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "actua ara",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "actuar immediatament",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "resposta urgent",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "atenció urgent",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "acció immediata",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "temps limitat",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "caduca avui",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "última oportunitat",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "avís final",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "respondre immediatament",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "en 24 hores",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "en 48 hores",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "sensible al temps",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "no esperis",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "felicitats guanyador/a",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "has guanyat",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "guanyador de la loteria",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "notificació de premis",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "reclama el teu premi",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "notificació guanyadora",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "afortunat guanyador",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "guanyador seleccionat",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "premi en metàl·lic",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "premi gratuït",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "sorteig",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "verifica el teu compte",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "confirma la teva identitat",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "actualitza el teu pagament",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "compte suspès",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "compte suspès",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "activitat inusual",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "activitat sospitosa",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "accés no autoritzat",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "feu clic aquí per verificar",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "credencials d'inici de sessió",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "restabliment de contrasenya",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "alerta de seguretat",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "el vostre compte serà",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "fallada de verificació",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "reactiva el teu",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "cancel·lar la subscripció",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "feu clic aquí",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "compra ara",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "demana ara",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "oferta gratuïta",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "oferta especial",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "oferta exclusiva",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "sense risc",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "sense obligació",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "garantia de devolució de diners",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "satisfacció garantida",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "truca ara",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "gratuït",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% gratuït",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "completament gratuït",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "sense cost",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "sense comissions",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "preu més baix",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "millor preu",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "descompte",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "estalvia en gran",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "estalviar diners",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "doble el teu",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "augmentar el vostre",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "guanyar diners",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "guanyar diners",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ingressos addicionals",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "treballar des de casa",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "sigues el teu propi cap",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "llibertat financera",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "fer-se ric",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "cobrar",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "accés instantani",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "uneix-te a milions",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "farmàcia",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "farmàcia en línia",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "farmàcia canadenca",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "recepta",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "sense recepta",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "sense recepta",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "disfunció erèctil",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "pèrdua de pes",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "perdre pes",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "perdre quilos",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "píndola de dieta",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "cremador de greixos",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "cura miraculosa",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "remei natural",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "antienvelliment",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "contingut per a adults",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "cites per a adults",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "conèixer solters",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "solters atractius",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "dones solitàries",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "mestressa de casa solitària",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "estimat amic",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "estimat/da",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "benvolgut senyor/senyora",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "confidencial",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "estrictament confidencial",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "privat i confidencial",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "no ignoris",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ha de respondre",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "això no és correu brossa",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "això no és brossa",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "no és una estafa",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "oferta legítima",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "avís legal",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "ordre judicial",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "subvenció governamental",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "subvenció gratuïta",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "reemborsament d'impostos",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "reunió": -0.3,
+        "horari": -0.3,
+        "projecte": -0.3,
+        "data límit": -0.3,
+        "adjunt": -0.3,
+        "fitxer adjunt": -0.3,
+        "salutacions": -0.2,
+        "sincerament": -0.2,
+        "gràcies": -0.3,
+        "seguiment": -0.3,
+        "com s'ha comentat": -0.5,
+        "segons la nostra conversa": -0.5,
+        "factura": -0.2,
+        "informe": -0.2,
+        "resum": -0.2,
+        "minuts": -0.3,
+        "agenda": -0.3,
+        "conferència": -0.3,
+        "repositori": -0.5,
+        "sol·licitud d'extracció": -0.8,
+        "comprometre": -0.5,
+        "fusionar": -0.5,
+        "branca": -0.5,
+        "desplegar": -0.5,
+        "documentació": -0.3
+    },
+    "bayesianTokens": {
+        "viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "ampliació": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "nigerià": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "herència": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "beneficiari": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "loteria": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "guanyador": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "premi gros": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "cancel·lar la subscripció": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "excloure's": {
+            "spam": 0.85,
+            "ham": 0.05
+        },
+        "exclusió voluntària": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "clic": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "lliure": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "diners": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "diners en efectiu": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "premi": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "va guanyar": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "urgent": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "immediatament": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "acte": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "limitat": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "oferta": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "descompte": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "garantit": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "sense risc": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "obligació": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "crèdit": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "deute": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "préstec": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "hipoteca": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "farmàcia": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "recepta": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "medicaments": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "píndoles": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "pes": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "dieta": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "perdre": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "lliures": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "comprar": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "ordre": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "compra": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "venda": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "barat": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "desar": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "acord": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "especial": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "exclusiu": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "bonificació": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "regal": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "felicitats": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "seleccionat": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "confirmar": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "verificar": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "compte": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "contrasenya": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "suspès": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "bloquejat": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "seguretat": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "actualització": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazones": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "banc": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "filferro": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "transferència": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "enrutament": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ràpid": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "occidental": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "unió": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "criptomoneda": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "cartera": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "cadena de blocs": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "reunió": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "horari": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "projecte": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "equip": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "data límit": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "adjunt": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "fitxer adjunt": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "document": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "informe": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "revisió": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "comentaris": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "discussió": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "agenda": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "minuts": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "conferència": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "trucada": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "salutacions": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "sincerament": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "gràcies": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "apreciar": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "seguint": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "discutit": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "conversa": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "factura": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "rebut": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "resum": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "anàlisi": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "recerca": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "dades": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "resultats": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "repositori": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "comprometre": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "fusionar": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "branca": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "estirar": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "sol·licitud": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "desplegar": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "construir": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "prova": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "depuració": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "error": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "insecte": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "arreglar": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "problema": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "característica": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "alliberament": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "versió": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "documentació": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "servidor": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "base de dades": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "consulta": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "funció": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "variable": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "classe": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "mètode": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "interfície": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "urgent",
+        "immediat",
+        "immediatament",
+        "el més aviat possible",
+        "actua ara",
+        "no esperis",
+        "pressa",
+        "temps limitat",
+        "caduca",
+        "data límit",
+        "última oportunitat",
+        "avís final",
+        "sensible al temps",
+        "respon ara",
+        "acció requerida"
+    ],
+    "greetingWords": [
+        "hola",
+        "hola",
+        "estimat/da",
+        "ei",
+        "salutacions",
+        "bon dia",
+        "bona tarda",
+        "bona nit"
+    ],
+    "genericGreetings": [
+        "benvolgut senyor",
+        "estimada senyora",
+        "estimat client",
+        "estimat usuari",
+        "estimat membre",
+        "estimat amic",
+        "estimat/da",
+        "estimat destinatari",
+        "estimat beneficiari"
+    ]
+}

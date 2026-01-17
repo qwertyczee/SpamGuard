@@ -1,0 +1,1377 @@
+{
+    "language": "mn",
+    "languageName": "Mongolian",
+    "spamWords": [
+        {
+            "word": "нигерийн ханхүү",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "мөнгөн шилжүүлэг",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "банкны дансны мэдээлэл",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "өв залгамжлалын сан",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "нэхэмжлээгүй хөрөнгө",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "ашиг хүртэгч",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "сая доллар",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "сая ам.доллар",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "шилжүүлгийн хураамж",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "боловсруулалтын хураамж",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "урьдчилгаа төлбөр",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "вестерн юнион",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "биткойн түрийвч",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "криптовалютад хөрөнгө оруулалт хийх",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "биткойноо хоёр дахин нэмэгдүүлээрэй",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "крипто бэлэг",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "одоо үйлдэл хий",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "нэн даруй арга хэмжээ авах",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "яаралтай хариу арга хэмжээ",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "яаралтай анхаарал",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "шууд арга хэмжээ авах",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "хязгаарлагдмал хугацаа",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "өнөөдөр хугацаа нь дуусна",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "сүүлийн боломж",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "эцсийн мэдэгдэл",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "тэр даруй хариу өгөх",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "24 цагийн дотор",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "48 цагийн дотор",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "цаг хугацааны мэдрэмжтэй",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "хойшлуулах хэрэггүй",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ялагчдаа баяр хүргэе",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "чи хожсон",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "сугалааны азтан",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "шагналын мэдэгдэл",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "шагналаа аваарай",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ялалтын мэдэгдэл",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "азтай ялагч",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "сонгосон ялагч",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "мөнгөн шагнал",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "үнэгүй шагнал",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "сугалаа",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "бүртгэлээ баталгаажуулна уу",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "өөрийн үнэмлэхийг баталгаажуулна уу",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "төлбөрөө шинэчлэх",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "түдгэлзүүлсэн данс",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "бүртгэлийг түдгэлзүүлсэн",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "ер бусын үйл ажиллагаа",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "сэжигтэй үйл ажиллагаа",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "зөвшөөрөлгүй хандалт",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "баталгаажуулахын тулд энд дарна уу",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "нэвтрэх эрх",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "нууц үг шинэчлэх",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "аюулгүй байдлын сэрэмжлүүлэг",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "таны бүртгэл байх болно",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "баталгаажуулалт амжилтгүй болсон",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "дахин идэвхжүүлэх",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "захиалга цуцлах",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "энд дарна уу",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "одоо худалдаж аваарай",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "одоо захиалаарай",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "үнэгүй санал",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "тусгай санал",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "онцгой хямдрал",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "эрсдэлгүй",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ямар ч үүрэггүй",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "мөнгө буцааж өгөх баталгаа",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "сэтгэл ханамжийн баталгаатай",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "одоо залгаарай",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "төлбөргүй",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% үнэгүй",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "бүрэн үнэгүй",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ямар ч зардалгүй",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "төлбөргүй",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "хамгийн хямд үнэ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "хамгийн сайн үнэ",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "хөнгөлөлт",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "их хэмнэлт",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "мөнгө хэмнэх",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "таныхыг хоёр дахин нэмэгдүүл",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "нэмэгдүүлэх",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "мөнгө олох",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "мөнгө олох",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "нэмэлт орлого",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "гэрээсээ ажиллах",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "өөрийнхөө дарга бай",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "санхүүгийн эрх чөлөө",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "баяжих",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "төлбөр авах",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "шуурхай хандалт",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "сая сая хүнтэй нэгдээрэй",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "виагра",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "циалис",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "эмийн сан",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "онлайн эмийн сан",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "канадын эмийн сан",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "жороор олгох",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "жоргүй",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "жоргүйгээр",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "бэлгийн сулрал",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "жин хасах",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "жин хасах",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "фунт хасах",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "хоолны дэглэмийн эм",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "өөх шатаагч",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "гайхамшигт эмчилгээ",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "байгалийн гаралтай эмчилгээ",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "хөгшрөлтийн эсрэг",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "насанд хүрэгчдийн контент",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "ххх",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "насанд хүрэгчдийн болзоо",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ганц бие хүмүүстэй уулзах",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "халуухан синглүүд",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ганцаардмал эмэгтэйчүүд",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ганц бие гэрийн эзэгтэй",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "хайртай найз минь",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "хайртай хайрт минь",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "эрхэм ноён/хатагтай",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "нууц",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "маш нууцлалтай",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "хувийн болон нууц",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "үл тоомсорлож болохгүй",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "хариу өгөх ёстой",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "энэ спам биш",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "энэ хог биш",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "луйвар биш",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "хууль ёсны санал",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "хууль ёсны мэдэгдэл",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "шүүхийн шийдвэр",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "засгийн газрын буцалтгүй тусламж",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "үнэгүй тэтгэлэг",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "татварын алба",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "татварын буцаан олголт",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "уулзалт": -0.3,
+        "хуваарь": -0.3,
+        "төсөл": -0.3,
+        "хугацаа": -0.3,
+        "хавсаргасан": -0.3,
+        "хавсралт": -0.3,
+        "хүндэтгэл": -0.2,
+        "чин сэтгэлээсээ": -0.2,
+        "баярлалаа": -0.3,
+        "дагаж мөрдөх": -0.3,
+        "хэлэлцсэнчлэн": -0.5,
+        "бидний ярианы дагуу": -0.5,
+        "нэхэмжлэх": -0.2,
+        "тайлан": -0.2,
+        "хураангуй": -0.2,
+        "минут": -0.3,
+        "хөтөлбөр": -0.3,
+        "хурал": -0.3,
+        "хадгалах газар": -0.5,
+        "татах хүсэлт": -0.8,
+        "амлалт өгөх": -0.5,
+        "нэгтгэх": -0.5,
+        "салбар": -0.5,
+        "байршуулах": -0.5,
+        "баримтжуулалт": -0.3
+    },
+    "bayesianTokens": {
+        "виагра": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "циалис": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "томруулах": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "нигери": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "өв залгамжлал": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "ашиг хүртэгч": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "сугалаа": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "ялагч": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "jackpot": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "захиалга цуцлах": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "татгалзах": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "товшилт": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "үнэгүй": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "мөнгө": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "бэлэн мөнгө": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "шагнал": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "хожсон": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "яаралтай": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "тэр даруй": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "үйлдэл": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "хязгаарлагдмал": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "санал": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "хөнгөлөлт": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "баталгаатай": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "эрсдэлгүй": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "үүрэг": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "зээл": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "өр": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "орон сууцны зээл": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "эмийн сан": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "жороор олгох": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "эм": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "жин": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "хоолны дэглэм": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "хожигдох": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "фунт": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "худалдаж авах": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "захиалга": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "худалдан авалт": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "хямдрал": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "хямд": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "хадгалах": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "хэлэлцээр": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "тусгай": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "онцгой": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "урамшуулал": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "бэлэг": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "баяр хүргэе": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "сонгосон": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "баталгаажуулах": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "данс": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "нууц үг": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "түдгэлзүүлсэн": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "түгжээтэй": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "аюулгүй байдал": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "шинэчлэлт": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "амазон": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "банк": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "утас": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "шилжүүлэг": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "чиглүүлэлт": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "хурдан": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "баруун": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "холбоо": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "биткойн": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "криптовалют": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "түрийвч": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "блокчэйн": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "уулзалт": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "хуваарь": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "төсөл": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "баг": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "хугацаа": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "хавсаргасан": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "хавсралт": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "баримт бичиг": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "тайлан": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "шүүмж": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "санал хүсэлт": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "хэлэлцүүлэг": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "хөтөлбөр": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "минут": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "хурал": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "дуудлага": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "хүндэтгэл": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "чин сэтгэлээсээ": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "баярлалаа": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "талархал": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "үнэлэх": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "дагаж буй": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "хэлэлцсэн": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "яриа": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "нэхэмжлэх": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "баримт": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "хураангуй": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "дүн шинжилгээ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "судалгаа": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "өгөгдөл": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "үр дүн": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "хадгалах газар": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "амлалт өгөх": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "нэгтгэх": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "салбар": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "татах": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "хүсэлт": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "байршуулах": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "барих": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "туршилт": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "дибаг хийх": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "алдаа": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "шавьж": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "засах": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "асуудал": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "онцлог": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "суллах": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "хувилбар": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "баримтжуулалт": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "апи": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "сервер": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "мэдээллийн сан": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "асуулга": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "функц": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "хувьсах": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "анги": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "арга": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "интерфэйс": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "яаралтай",
+        "шууд",
+        "тэр даруй",
+        "аль болох хурдан",
+        "одоо үйлдэл хий",
+        "хойшлуулах хэрэггүй",
+        "яарах",
+        "хязгаарлагдмал хугацаа",
+        "хугацаа нь дуусна",
+        "хугацаа",
+        "сүүлийн боломж",
+        "эцсийн мэдэгдэл",
+        "цаг хугацааны мэдрэмжтэй",
+        "одоо хариу өгөх",
+        "шаардлагатай арга хэмжээ"
+    ],
+    "greetingWords": [
+        "сайн уу",
+        "сайн уу",
+        "эрхэм",
+        "хөөе",
+        "мэндчилгээ",
+        "өглөөний мэнд",
+        "өдрийн мэнд",
+        "оройн мэнд"
+    ],
+    "genericGreetings": [
+        "эрхэм ээ",
+        "эрхэм хатагтай",
+        "эрхэм үйлчлүүлэгч",
+        "эрхэм хэрэглэгч",
+        "эрхэм гишүүн",
+        "хайртай найз минь",
+        "эрхэм хүндэт",
+        "эрхэм хүлээн авагч",
+        "эрхэм хүндэт ашиг хүртэгч"
+    ]
+}

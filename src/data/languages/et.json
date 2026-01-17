@@ -1,0 +1,1382 @@
+{
+    "language": "et",
+    "languageName": "Estonian",
+    "spamWords": [
+        {
+            "word": "nigeeria prints",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "pangaülekanne",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "pangakonto andmed",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "pärandifond",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "taotlemata vahendid",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "abisaaja",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "miljon dollarit",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "miljon usa dollarit",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ülekandetasu",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "töötlemistasu",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "ettemaksu",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "western union",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "bitcoini rahakott",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "krüptovaluuta investeering",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "kahekordista oma bitcoini",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "krüptoraha loosimine",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "tegutse kohe",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "tegutse kohe",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "kiireloomuline reageerimine",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "kiireloomuline tähelepanu",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "kohene tegutsemine",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "piiratud aja",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "aegub täna",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "viimane võimalus",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "viimane teade",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "vasta kohe",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "24 tunni jooksul",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "48 tunni jooksul",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "ajatundlik",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ära viivita",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "palju õnne võitjale",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "sa oled võitnud",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "loteriivõitja",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "auhinnateatis",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "nõua oma auhind",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "võiduteade",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "õnnelik võitja",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "valitud võitja",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "rahaline auhind",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "tasuta auhind",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "loosimised",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "kinnita oma konto",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "kinnita oma isikut",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "uuenda oma makset",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "peatatud konto",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "konto peatatud",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "ebatavaline tegevus",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "kahtlane tegevus",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "volitamata juurdepääs",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "kinnitamiseks klõpsake siin",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "sisselogimisandmed",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "parooli lähtestamine",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "turvahoiatus",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "teie konto on",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "kontrollimata jätmine",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "taasaktiveeri oma",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "tellimuse tühistamine",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "klõpsa siia",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "osta kohe",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "telli kohe",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "tasuta pakkumine",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "eripakkumine",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "eksklusiivne pakkumine",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "riskivaba",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "kohustuseta",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "raha tagasi garantii",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "rahulolu garanteeritud",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "helista kohe",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "tasuta kõne",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% tasuta",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "täiesti tasuta",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "tasuta",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "tasuta",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "madalaim hind",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "parim hind",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "allahindlus",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "säästa palju",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "säästa raha",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "kahekordista oma",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "suurenda oma",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "teenida raha",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "raha teenima",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "lisatulu",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "kodust töötamine",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ole iseenda ülemus",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "finantsvabadus",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "rikkaks saamine",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "saada palka",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "kohene juurdepääs",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "liitu miljonitega",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "apteek",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "internetiapteek",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "kanada apteek",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "retsept",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ilma retseptita",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "ilma retseptita",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "erektsioonihäired",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "kaalulangus",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "kaalu langetama",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "kaotada kilosid",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "dieedipill",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "rasvapõletaja",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "imerohi",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "looduslik ravim",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "vananemisvastane",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "täiskasvanutele mõeldud sisu",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "täiskasvanute tutvumine",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "kohtu vallalistega",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "kuumad vallalised",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "üksildased naised",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "üksildane koduperenaine",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "kallis sõber",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "kallis armastatud",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "lugupeetud härra/proua",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "konfidentsiaalne",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "rangelt konfidentsiaalne",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "privaatne ja konfidentsiaalne",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ära ignoreeri",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "peab vastama",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "see ei ole rämpspost",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "see pole rämps",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "mitte pettus",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "õigustatud pakkumine",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "õiguslik teade",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "kohtumäärus",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "valitsuse toetus",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "tasuta toetus",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "maksuamet",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "maksutagastus",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "kohtumine": -0.3,
+        "ajakava": -0.3,
+        "projekt": -0.3,
+        "tähtaeg": -0.3,
+        "lisatud": -0.3,
+        "manus": -0.3,
+        "tervitused": -0.2,
+        "siiralt": -0.2,
+        "tänud": -0.2,
+        "aitäh": -0.3,
+        "järeltegevus": -0.3,
+        "nagu arutatud": -0.5,
+        "meie vestluse järgi": -0.5,
+        "arve": -0.2,
+        "aruanne": -0.2,
+        "kokkuvõte": -0.2,
+        "minutit": -0.3,
+        "päevakord": -0.3,
+        "konverents": -0.3,
+        "hoidla": -0.5,
+        "pull-päring": -0.8,
+        "pühenduma": -0.5,
+        "ühendamine": -0.5,
+        "haru": -0.5,
+        "juurutama": -0.5,
+        "dokumentatsioon": -0.3
+    },
+    "bayesianTokens": {
+        "viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "laienemine": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "nigeerlane": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "pärandus": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "abisaaja": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "loterii": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "võitja": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "jackpot": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "tellimuse tühistamine": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "loobumine": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "klõps": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "tasuta": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "raha": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "sularaha": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "auhind": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "võitis": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "kiireloomuline": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "kohe": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "tegu": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "piiratud": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "pakkumine": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "allahindlus": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "garanteeritud": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "riskivaba": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "kohustus": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "krediit": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "võlg": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "laen": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "hüpoteek": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "apteek": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "retsept": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "ravimid": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "tabletid": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "kaal": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "dieet": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "kaotama": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "naela": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "osta": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "tellimus": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ost": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "müük": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "odav": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "salvesta": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "tehing": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "eriline": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "eksklusiivne": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "boonus": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "kingitus": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "õnnitlused": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "valitud": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "kinnitama": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "kontrollima": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "konto": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "parool": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "peatatud": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "lukustatud": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "turvalisus": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "värskendus": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazon": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "pank": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "traat": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ülekanne": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "marsruutimine": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "kiire": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "lääne": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ametiühing": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "krüptovaluuta": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "rahakott": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "plokiahel": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "kohtumine": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ajakava": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "projekt": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "meeskond": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "tähtaeg": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "lisatud": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "manus": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "dokument": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "aruanne": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "arvustus": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "tagasiside": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "arutelu": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "päevakord": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "minutit": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "konverents": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "kõne": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "tervitused": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "siiralt": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "tänud": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "tänan": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "hindan": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "järgnev": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "arutati": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "vestlus": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "arve": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "kviitung": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "kokkuvõte": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "analüüs": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "uurimistöö": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "andmed": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "tulemused": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "hoidla": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "pühenduma": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "ühendamine": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "haru": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "tõmba": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "taotlus": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "juurutama": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ehitama": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "test": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "silumine": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "viga": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "parandama": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "probleem": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "funktsioon": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "vabastamine": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "versioon": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "dokumentatsioon": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "server": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "andmebaas": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "päring": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "muutuja": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "klass": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "meetod": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "liides": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "kiireloomuline",
+        "kohene",
+        "kohe",
+        "niipea kui võimalik",
+        "tegutse kohe",
+        "ära viivita",
+        "kiirusta",
+        "piiratud aja",
+        "aegub",
+        "tähtaeg",
+        "viimane võimalus",
+        "viimane teade",
+        "ajatundlik",
+        "vasta nüüd",
+        "vajalik toiming"
+    ],
+    "greetingWords": [
+        "tere",
+        "tere",
+        "kallis",
+        "hei",
+        "tervitused",
+        "tere hommikust",
+        "tere pärastlõunal",
+        "head õhtut"
+    ],
+    "genericGreetings": [
+        "kallis härra",
+        "kallis proua",
+        "kallis klient",
+        "kallis kasutaja",
+        "kallis liige",
+        "kallis sõber",
+        "kallis hinnatud",
+        "kallis saaja",
+        "kallis abisaaja"
+    ]
+}

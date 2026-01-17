@@ -25,7 +25,7 @@ import {
     extractTextFromHtml,
 } from "./utils/text";
 import { detectEmailLanguage } from "./utils/language";
-import { getLanguageData, hasLanguageData } from "./data/languages";
+import { getLanguageData, getEnglishData } from "./data/languages";
 import type { LanguageDataset } from "./data/languages/schema";
 
 export class SpamGuard {
@@ -38,7 +38,7 @@ export class SpamGuard {
     /**
      * Analyze an email for spam indicators
      */
-    analyze(input: EmailInput): SpamAnalysisResult {
+    async analyze(input: EmailInput): Promise<SpamAnalysisResult> {
         const startTime = performance.now();
 
         // Parse the email
@@ -54,7 +54,7 @@ export class SpamGuard {
         const languageResult = detectEmailLanguage(email.subject, bodyText);
 
         // Load language-specific dataset
-        const languageData = getLanguageData(languageResult.code);
+        const languageData = await getLanguageData(languageResult.code);
 
         // Options for language-aware analyzers
         const langOptions = {
@@ -157,15 +157,15 @@ export class SpamGuard {
     /**
      * Quick check - returns just true/false
      */
-    isSpam(input: EmailInput): boolean {
-        return this.analyze(input).isSpam;
+    async isSpam(input: EmailInput): Promise<boolean> {
+        return (await this.analyze(input)).isSpam;
     }
 
     /**
      * Get spam score only
      */
-    getScore(input: EmailInput): number {
-        return this.analyze(input).score;
+    async getScore(input: EmailInput): Promise<number> {
+        return (await this.analyze(input)).score;
     }
 
     /**
@@ -187,10 +187,10 @@ export class SpamGuard {
 export const spamGuard = new SpamGuard();
 
 // Export analyze function for convenience
-export function analyzeEmail(
+export async function analyzeEmail(
     input: EmailInput,
     config?: Partial<SpamGuardConfig>
-): SpamAnalysisResult {
+): Promise<SpamAnalysisResult> {
     const guard = config ? new SpamGuard(config) : spamGuard;
     return guard.analyze(input);
 }

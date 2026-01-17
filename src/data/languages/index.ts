@@ -1,27 +1,18 @@
 // ============================================================================
 // Language Dataset Loader
-// Loads and manages multilingual spam detection datasets
+// Loads and manages multilingual spam detection datasets with dynamic imports
 // ============================================================================
 
 import type {
     LanguageDataset,
-    SupportedLanguage,
     SpamWord,
     SpamSubjectPattern,
     TokenProbability,
 } from "./schema";
-import { SUPPORTED_LANGUAGES, isSupportedLanguage } from "./schema";
+import { SUPPORTED_LANGUAGES, LANGUAGE_NAMES, isSupportedLanguage } from "./schema";
 
-// Static imports for all language datasets
+// English as fallback (always available)
 import enData from "./en.json";
-import esData from "./es.json";
-import frData from "./fr.json";
-import deData from "./de.json";
-import ptData from "./pt.json";
-import itData from "./it.json";
-import nlData from "./nl.json";
-import plData from "./pl.json";
-import ruData from "./ru.json";
 
 /**
  * Type for the raw JSON data (before processing)
@@ -40,29 +31,7 @@ interface RawLanguageData {
 }
 
 /**
- * Cached and processed language datasets
- */
-const datasetCache = new Map<string, LanguageDataset>();
-
-/**
- * Map of available language data files
- * Add new languages here as they are generated
- */
-const languageDataMap: Record<string, RawLanguageData | null> = {
-    en: enData as RawLanguageData,
-    es: esData as RawLanguageData,
-    fr: frData as RawLanguageData,
-    de: deData as RawLanguageData,
-    pt: ptData as RawLanguageData,
-    it: itData as RawLanguageData,
-    nl: nlData as RawLanguageData,
-    pl: plData as RawLanguageData,
-    ru: ruData as RawLanguageData,
-};
-
-/**
  * Process raw JSON data into a LanguageDataset
- * Compiles regex patterns and prepares data structures
  */
 function processDataset(raw: RawLanguageData): LanguageDataset {
     return {
@@ -84,126 +53,85 @@ function processDataset(raw: RawLanguageData): LanguageDataset {
 }
 
 /**
+ * Get English dataset (sync, always available)
+ */
+export function getEnglishData(): LanguageDataset {
+    return processDataset(enData as RawLanguageData);
+}
+
+/**
  * Get a language dataset by language code
+ * Dynamically imports the language file, falls back to English if not found
  *
  * @param langCode - ISO 639-1 language code (e.g., "en", "es")
- * @returns Language dataset (falls back to English if not available)
+ * @returns Promise resolving to Language dataset
  */
-export function getLanguageData(langCode: string): LanguageDataset {
-    // Normalize language code
+export async function getLanguageData(langCode: string): Promise<LanguageDataset> {
     const normalizedCode = langCode.toLowerCase().trim();
 
-    // Check cache first
-    if (datasetCache.has(normalizedCode)) {
-        return datasetCache.get(normalizedCode)!;
+    // English is always available via static import
+    if (normalizedCode === "en") {
+        return processDataset(enData as RawLanguageData);
     }
 
-    // Try to get the requested language
-    const rawData = languageDataMap[normalizedCode];
-
-    if (rawData) {
-        const dataset = processDataset(rawData);
-        datasetCache.set(normalizedCode, dataset);
-        return dataset;
+    try {
+        // Dynamic import of the language file
+        const module = await import(`./${normalizedCode}.json`);
+        return processDataset(module.default as RawLanguageData);
+    } catch {
+        // File doesn't exist, fall back to English
+        return processDataset(enData as RawLanguageData);
     }
-
-    // Fall back to English
-    if (normalizedCode !== "en") {
-        console.warn(
-            `Language "${normalizedCode}" not available, falling back to English`
-        );
-    }
-
-    // Get or create English dataset
-    if (!datasetCache.has("en")) {
-        const enDataset = processDataset(enData as RawLanguageData);
-        datasetCache.set("en", enDataset);
-    }
-
-    return datasetCache.get("en")!;
 }
 
 /**
- * Check if a language has a dataset available
- *
- * @param langCode - ISO 639-1 language code
- * @returns true if language dataset is available
+ * Get list of available languages
  */
-export function hasLanguageData(langCode: string): boolean {
-    const normalizedCode = langCode.toLowerCase().trim();
-    return languageDataMap[normalizedCode] !== null && languageDataMap[normalizedCode] !== undefined;
-}
-
-/**
- * Get list of available languages (languages with datasets)
- *
- * @returns Array of available language codes
- */
-export function getAvailableLanguages(): string[] {
-    return Object.entries(languageDataMap)
-        .filter(([, data]) => data !== null)
-        .map(([code]) => code);
-}
-
-/**
- * Get all supported language codes (including those without datasets yet)
- *
- * @returns Array of all supported language codes
- */
-export function getAllSupportedLanguages(): readonly string[] {
+export function getAvailableLanguages(): readonly string[] {
     return SUPPORTED_LANGUAGES;
 }
 
 /**
- * Preload all available language datasets into cache
- * Useful for warming up before handling requests
+ * Get language name for display
  */
-export function preloadAllLanguages(): void {
-    for (const [code, data] of Object.entries(languageDataMap)) {
-        if (data && !datasetCache.has(code)) {
-            datasetCache.set(code, processDataset(data));
-        }
-    }
-}
-
-/**
- * Clear the dataset cache
- * Useful for testing or memory management
- */
-export function clearCache(): void {
-    datasetCache.clear();
+export function getLanguageName(langCode: string): string {
+    const normalizedCode = langCode.toLowerCase().trim();
+    return LANGUAGE_NAMES[normalizedCode as keyof typeof LANGUAGE_NAMES] || langCode;
 }
 
 /**
  * Get spam words for a language
  */
-export function getSpamWords(langCode: string): SpamWord[] {
-    return getLanguageData(langCode).spamWords;
+export async function getSpamWords(langCode: string): Promise<SpamWord[]> {
+    const data = await getLanguageData(langCode);
+    return data.spamWords;
 }
 
 /**
  * Get ham words for a language
  */
-export function getHamWords(langCode: string): Record<string, number> {
-    return getLanguageData(langCode).hamWords;
+export async function getHamWords(langCode: string): Promise<Record<string, number>> {
+    const data = await getLanguageData(langCode);
+    return data.hamWords;
 }
 
 /**
  * Get Bayesian tokens for a language
  */
-export function getBayesianTokens(
-    langCode: string
-): Record<string, TokenProbability> {
-    return getLanguageData(langCode).bayesianTokens;
+export async function getBayesianTokens(langCode: string): Promise<Record<string, TokenProbability>> {
+    const data = await getLanguageData(langCode);
+    return data.bayesianTokens;
 }
 
 /**
  * Get urgency words for a language
  */
-export function getUrgencyWords(langCode: string): string[] {
-    return getLanguageData(langCode).urgencyWords;
+export async function getUrgencyWords(langCode: string): Promise<string[]> {
+    const data = await getLanguageData(langCode);
+    return data.urgencyWords;
 }
 
 // Re-export types and utilities from schema
-export type { LanguageDataset, SupportedLanguage, SpamWord, SpamSubjectPattern, TokenProbability };
-export { SUPPORTED_LANGUAGES, isSupportedLanguage };
+export type { LanguageDataset, SpamWord, SpamSubjectPattern, TokenProbability };
+export { SUPPORTED_LANGUAGES, LANGUAGE_NAMES, isSupportedLanguage };
+export type { SupportedLanguage } from "./schema";

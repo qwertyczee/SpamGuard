@@ -1,0 +1,1382 @@
+{
+    "language": "he",
+    "languageName": "Hebrew",
+    "spamWords": [
+        {
+            "word": "נסיך ניגרי",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "העברה בנקאית",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "פרטי חשבון הבנק",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "קרן ירושה",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "כספים שלא נדרשו",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "מוּטָב",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "מיליון דולר",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "מיליון דולר",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "דמי העברה",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "דמי עיבוד",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "תשלום מראש",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ווסטרן יוניון",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "מאניגרם",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "ארנק ביטקוין",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "השקעה בקריפטו",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "הכפילו את הביטקוין שלכם",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "הגרלת קריפטו",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "לפעול עכשיו",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "לפעול באופן מיידי",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "תגובה דחופה",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "תשומת לב דחופה",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "פעולה מיידית",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "זמן מוגבל",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "פג תוקף היום",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "הזדמנות אחרונה",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "הודעה סופית",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "להגיב באופן מיידי",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "תוך 24 שעות",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "תוך 48 שעות",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "רגיש לזמן",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "אל תתעכב",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "מזל טוב הזוכה",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ניצחת",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "זוכה בלוטו",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "הודעת פרס",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "תבע את הפרס שלך",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "הודעת זכייה",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "זוכה בר מזל",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "הזוכה הנבחר",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "פרס כספי",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "פרס חינם",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "מֵרוֹץ סוּסִים",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "אימות החשבון שלך",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "אשר את זהותך",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "עדכן את התשלום שלך",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "חשבון מושעה",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "חשבון מושעה",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "פעילות יוצאת דופן",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "פעילות חשודה",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "גישה לא מורשית",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "לחץ כאן כדי לאמת",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "פרטי התחברות",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "איפוס סיסמה",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "התראת אבטחה",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "החשבון שלך יהיה",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "כישלון באימות",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "הפעל מחדש את",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "בטל את המנוי",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "לחץ כאן",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "קנה עכשיו",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "הזמינו עכשיו",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "הצעה חינם",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "הַצָעָה מְיוּחֶדֶת",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "עסקה בלעדית",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ללא סיכון",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "אין התחייבות",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "אחריות להחזר כספי",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "שביעות רצון מובטחת",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "התקשרו עכשיו",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "חינם",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% חינם",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "לגמרי בחינם",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ללא עלות",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ללא עמלות",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "המחיר הנמוך ביותר",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "המחיר הטוב ביותר",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "דִיסקוֹנט",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "לחסוך בגדול",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "לחסוך כסף",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "להכפיל את שלך",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "להגדיל את",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "להרוויח כסף",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "להרוויח כסף",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "הכנסה נוספת",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "לעבוד מהבית",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "היה הבוס של עצמך",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "חופש כלכלי",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "להתעשר",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "לקבל תשלום",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "גישה מיידית",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "הצטרפו למיליונים",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ויאגרה",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "סיאליס",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "בֵּית מִרקַחַת",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "בית מרקחת מקוון",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "בית מרקחת קנדי",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "מִרשָׁם",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ללא מרשם",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "ללא מרשם",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "הפרעות זיקפה",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ירידה במשקל",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "לָרֶדֶת בְּמִשְׁקָל",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "לרדת קילוגרמים",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "כדור דיאטה",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "שורף שומן",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "תרופת פלא",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "תרופה טבעית",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "אנטי אייג'ינג",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "תוכן למבוגרים",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "היכרויות למבוגרים",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "לפגוש רווקים/רווקות",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "רווקים חמים",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "נשים בודדות",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "עקרת בית בודדה",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "חבר יקר",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "יקר אהוב",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "אדוני/גברתי היקר/ה",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "סוֹדִי",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "סודי לחלוטין",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "פרטי וסודי",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "אל תתעלם",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "חייב להגיב",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "זה לא ספאם",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "זה לא זבל",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "לא הונאה",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "הצעה לגיטימית",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "הודעה משפטית",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "צו בית משפט",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "מענק ממשלתי",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "מענק חינם",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "מַס הַכנָסָה",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "החזר מס",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "פְּגִישָׁה": -0.3,
+        "לוּחַ זְמַנִים": -0.3,
+        "פּרוֹיֶקט": -0.3,
+        "מוֹעֵד אַחֲרוֹן": -0.3,
+        "מְצוֹרָף": -0.3,
+        "הִתקַשְׁרוּת": -0.3,
+        "דְרִישַׁת שָׁלוֹם": -0.2,
+        "בְּכֵנוּת": -0.2,
+        "תוֹדָה": -0.2,
+        "תודה": -0.3,
+        "מעקב": -0.3,
+        "כפי שנדון": -0.5,
+        "לפי השיחה שלנו": -0.5,
+        "חֶשׁבּוֹנִית": -0.2,
+        "דִוּוּחַ": -0.2,
+        "תַקצִיר": -0.2,
+        "פּרוֹטוֹקוֹל": -0.3,
+        "סֵדֶר הַיוֹם": -0.3,
+        "וְעִידָה": -0.3,
+        "מאגר": -0.5,
+        "בקשת משיכה": -0.8,
+        "לְבַצֵעַ": -0.5,
+        "לְמַזֵג": -0.5,
+        "עָנָף": -0.5,
+        "לִפְרוֹס": -0.5,
+        "תיעוד": -0.3
+    },
+    "bayesianTokens": {
+        "ויאגרה": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "סיאליס": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "הַגדָלָה": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "ניגרי": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "יְרוּשָׁה": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "מוּטָב": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "הַגרָלָה": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "זוֹכֵה": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "קוּפָּה": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "בטל את המנוי": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "ביטול הסכמה": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "נְקִישָׁה": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "לְשַׁחְרֵר": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "כֶּסֶף": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "מְזוּמָנִים": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "פְּרָס": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "ווֹן": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "דָחוּף": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "מִיָד": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "חוֹק": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "מוּגבָּל": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "הַצָעָה": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "דִיסקוֹנט": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "מוּבטָח": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "ללא סיכון": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "חוֹבָה": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "אַשׁרַאי": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "חוֹב": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "לְהַלווֹת": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "לְשַׁעֲבֵּד": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "בֵּית מִרקַחַת": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "מִרשָׁם": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "תרופות": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "גלולות": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "מִשׁקָל": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "דִיאֵטָה": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "לְאַבֵּד": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "פאונד": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "לִקְנוֹת": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "לְהַזמִין": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "לִרְכּוֹשׁ": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "מְכִירָה": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "זוֹל": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "לְהַצִיל": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "עִסקָה": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "מְיוּחָד": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "בִּלעָדִי": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "מַעֲנָק": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "מַתָנָה": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "מזל טוב": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "נִבחָר": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "לְאַשֵׁר": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "לְאַמֵת": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "חֶשְׁבּוֹן": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "סִיסמָה": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "מוּשׁהֶה": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "נָעוּל": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "בִּטָחוֹן": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "לְעַדְכֵּן": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "פייפאל": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "איביי": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "אֲמָזוֹנָה": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "בַּנק": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "חוּט": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "לְהַעֲבִיר": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ניתוב": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "מָהִיר": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "מערבי": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "הִתאַחֲדוּת": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "מאניגרם": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "ביטקוין": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "קריפטו": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "אַרְנָק": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "בלוקצ'יין": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "פְּגִישָׁה": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "לוּחַ זְמַנִים": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "פּרוֹיֶקט": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "קְבוּצָה": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "מוֹעֵד אַחֲרוֹן": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "מְצוֹרָף": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "הִתקַשְׁרוּת": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "מִסְמָך": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "דִוּוּחַ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "סְקִירָה": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "מָשׁוֹב": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "דִיוּן": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "סֵדֶר הַיוֹם": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "פּרוֹטוֹקוֹל": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "וְעִידָה": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "שִׂיחָה": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "דְרִישַׁת שָׁלוֹם": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "בְּכֵנוּת": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "תוֹדָה": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "לְהוֹדוֹת": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "לְהַעֲרִיך": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "הַבָּא": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "נָדוֹן": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "חֶשׁבּוֹנִית": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "קַבָּלָה": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "תַקצִיר": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "אָנָלִיזָה": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "מֶחקָר": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "נְתוּנִים": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "תוצאות": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "מאגר": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "לְבַצֵעַ": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "לְמַזֵג": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "עָנָף": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "מְשׁוֹך": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "בַּקָשָׁה": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "לִפְרוֹס": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "לִבנוֹת": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "מִבְחָן": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "לְנַפּוֹת": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "שְׁגִיאָה": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "חֶרֶק": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "לִקְבּוֹעַ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "לְהַנפִּיק": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "תכונה": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "גִרְסָה": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "תיעוד": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "שרת": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "מסד נתונים": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "שְׁאֵלָה": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "פוּנקצִיָה": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "מִשְׁתַנֶה": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "מַחלָקָה": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "שִׁיטָה": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "מִמְשָׁק": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "דָחוּף",
+        "מִיָדִי",
+        "מִיָד",
+        "בְּהֶקְדֵם הַאֶפְשַׁרִי",
+        "לפעול עכשיו",
+        "אל תתעכב",
+        "לְמַהֵר",
+        "זמן מוגבל",
+        "פג תוקף",
+        "מוֹעֵד אַחֲרוֹן",
+        "הזדמנות אחרונה",
+        "הודעה סופית",
+        "רגיש לזמן",
+        "הגב עכשיו",
+        "נדרשת פעולה"
+    ],
+    "greetingWords": [
+        "היי",
+        "שלום",
+        "יָקָר",
+        "היי",
+        "ברכות",
+        "בוקר טוב",
+        "אחר צהריים טובים",
+        "ערב טוב"
+    ],
+    "genericGreetings": [
+        "אדוני היקר",
+        "גְבֶרֶת נִכבָּדָה",
+        "לקוח יקר",
+        "משתמש יקר",
+        "חבר יקר",
+        "חבר יקר",
+        "יקר ומוערך",
+        "נמען יקר",
+        "מוטב יקר"
+    ]
+}

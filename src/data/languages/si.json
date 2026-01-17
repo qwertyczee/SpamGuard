@@ -1,0 +1,1366 @@
+{
+    "language": "si",
+    "languageName": "Sinhala",
+    "spamWords": [
+        {
+            "word": "නයිජීරියානු කුමාරයා",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "වයර් ට්රාන්ෆර්",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "බැංකු ගිණුම් විස්තර",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "උරුම අරමුදල",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "හිමිකම් නොගත් අරමුදල්",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "ප්‍රතිලාභියා",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "ඩොලර් මිලියන",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ඇමරිකානු ඩොලර් මිලියන",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "මාරු කිරීමේ ගාස්තුව",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "සැකසුම් ගාස්තුව",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "අත්තිකාරම් ගාස්තුව",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "වෙස්ටර්න් යුනියන්",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "මනිග්‍රෑම්",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "බිට්කොයින් මුදල් පසුම්බිය",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "ක්‍රිප්ටෝ මුදල් ආයෝජනය",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "ඔබේ බිට්කොයින් දෙගුණ කරන්න",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "ක්‍රිප්ටෝ දීමනාව",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "දැන් ක්‍රියාත්මක වන්න",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "වහාම ක්‍රියාත්මක වන්න",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "හදිසි ප්‍රතිචාරය",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "හදිසි අවධානය",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ක්ෂණික ක්‍රියාමාර්ග",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "සීමිත කාලයක්",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "අද කල් ඉකුත් වේ",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "අවසාන අවස්ථාව",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "අවසාන නිවේදනය",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "වහාම ප්‍රතිචාර දක්වන්න",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "පැය 24ක් ඇතුළත",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "පැය 48ක් ඇතුළත",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "කාලයට සංවේදී",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ප්‍රමාද වෙන්න එපා",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ජයග්‍රාහකයාට සුභ පැතුම්",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ඔබ දිනුවා.",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ලොතරැයි ජයග්‍රාහකයා",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ත්‍යාග නිවේදනය",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ඔබේ ත්‍යාගය ලබා ගන්න",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ජයග්‍රාහී දැනුම්දීම",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "වාසනාවන්ත ජයග්‍රාහකයා",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "තෝරාගත් ජයග්‍රාහකයා",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "මුදල් ත්‍යාගය",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "නොමිලේ ත්‍යාගය",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "දිනුම් ඇදීම්",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "ඔබගේ ගිණුම සත්‍යාපනය කරන්න",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "ඔබගේ අනන්‍යතාවය තහවුරු කරන්න",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ඔබගේ ගෙවීම යාවත්කාලීන කරන්න",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "අත්හිටුවන ලද ගිණුම",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "ගිණුම අත්හිටුවා ඇත",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "අසාමාන්‍ය ක්‍රියාකාරකම්",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "සැක සහිත ක්‍රියාකාරකම්",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "අනවසර ප්‍රවේශය",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "සත්‍යාපනය කිරීමට මෙතන ක්ලික් කරන්න.",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "පිවිසුම් අක්තපත්‍ර",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "මුරපදය යළි පිහිටුවීම",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "ආරක්ෂක අනතුරු ඇඟවීම",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "ඔබගේ ගිණුම වනුයේ",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "සත්‍යාපනය කිරීමට අපොහොසත් වීම",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "ඔබගේ නැවත සක්‍රිය කරන්න",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "දායකත්වයෙන් ඉවත් වන්න",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "මෙහි ක්ලික් කරන්න",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "දැන් මිලදී ගන්න",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "දැන්ම ඇණවුම් කරන්න",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "නොමිලේ දීමනාව",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "විශේෂ දීමනාව",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "සුවිශේෂී ගනුදෙනුව",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "අවදානම් රහිත",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "බැඳීමක් නැත",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "මුදල් ආපසු ගෙවීමේ සහතිකය",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "තෘප්තිය සහතිකයි",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "දැන්ම අමතන්න",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "නොමිලේ",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% නොමිලේ",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "සම්පූර්ණයෙන්ම නොමිලේ",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "වියදමක් නැත",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ගාස්තු නැත",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "අඩුම මිල",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "හොඳම මිල",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "වට්ටම්",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "විශාල මුදලක් ඉතිරි කරන්න",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "මුදල් ඉතිරි කරන්න",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ඔබේ දෙගුණ කරන්න",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ඔබේ වැඩි කරන්න",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "මුදල් උපයන්න",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "මුදල් උපයන්න",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "අමතර ආදායම",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "නිවසේ සිට වැඩ කරන්න",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ඔබේම ලොක්කා වන්න.",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "මූල්‍ය නිදහස",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "පොහොසත් වන්න",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ගෙවන්න",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ක්ෂණික ප්‍රවේශය",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "මිලියන ගණනක් එකතු වන්න",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "වයග්‍රා",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "සියාලිස්",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ඖෂධ ශාලාව",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "මාර්ගගත ඔසුසල",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "කැනේඩියානු ෆාමසිය",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "බෙහෙත් වට්ටෝරුව",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "බෙහෙත් වට්ටෝරුවක් නැත",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "බෙහෙත් වට්ටෝරුවකින් තොරව",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "ශිෂේණය ඍජු වීම",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "බර අඩුවීම",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "බර අඩු කරගන්න",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "කිලෝ අඩු කරගන්න",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "ආහාර පෙති",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "මේදය දහනය කරන්නා",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "ආශ්චර්යමත් ප්‍රතිකාරය",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "ස්වභාවික පිළියමක්",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "වයස්ගත වීම වැළැක්වීම",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "වැඩිහිටි අන්තර්ගතය",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx सेक्षी",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "වැඩිහිටි ආලය",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "තනිකඩයන් හමුවන්න",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "උණුසුම් තනිකඩයන්",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "තනිකඩ කාන්තාවන්",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "හුදකලා ගෘහණියක්",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "ආදරණීය මිතුරා",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ආදරණීය ආදරණීය",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ආදරණීය සර්/මැඩම්",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "රහසිගත",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "දැඩි ලෙස රහසිගතයි",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "පෞද්ගලික සහ රහසිගත",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "නොසලකා හරින්න එපා",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ප්‍රතිචාර දැක්විය යුතුයි",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "මේක ස්පෑම් නෙවෙයි.",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "මේක කුණු නෙවෙයි.",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "වංචාවක් නොවේ",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "නීත්‍යානුකූල දීමනාව",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "නීතිමය දැන්වීම",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "අධිකරණ නියෝගය",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "රජයේ ප්‍රදානය",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "නොමිලේ දීමනාව",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "අයර්ස්",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "බදු ආපසු ගෙවීම",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "රැස්වීම": -0.3,
+        "කාලසටහන": -0.3,
+        "ව්‍යාපෘතිය": -0.3,
+        "නියමිත කාලය": -0.3,
+        "අමුණා ඇත": -0.3,
+        "ඇමුණුම": -0.3,
+        "සුභ පැතුම්": -0.2,
+        "අවංකවම": -0.2,
+        "ස්තූතියි": -0.2,
+        "ඔයාට ස්තූතියි": -0.3,
+        "අනුගමනය කිරීම": -0.3,
+        "සාකච්ඡා කළ පරිදි": -0.5,
+        "අපගේ සංවාදයට අනුව": -0.5,
+        "ඉන්වොයිසිය": -0.2,
+        "වාර්තාව": -0.2,
+        "සාරාංශය": -0.2,
+        "මිනිත්තු": -0.3,
+        "න්‍යාය පත්‍රය": -0.3,
+        "සමුළුව": -0.3,
+        "ගබඩාව": -0.5,
+        "ඉල්ලීම අදින්න": -0.8,
+        "කැප කරන්න": -0.5,
+        "ඒකාබද්ධ කරන්න": -0.5,
+        "ශාඛාව": -0.5,
+        "යොදවන්න": -0.5,
+        "ලියකියවිලි": -0.3
+    },
+    "bayesianTokens": {
+        "වයග්‍රා": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "සියාලිස්": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "විශාලනය": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "නයිජීරියානු": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "උරුමය": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "ප්‍රතිලාභියා": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "ලොතරැයිය": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "ජයග්‍රාහකයා": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "ජැක්පොට්": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "දායකත්වයෙන් ඉවත් වන්න": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "හැර යන්න": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "ක්ලික් කරන්න": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "නොමිලේ": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "මුදල්": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "ත්‍යාගය": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "දිනුවා": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "හදිසි": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "වහාම": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "ක්‍රියාව": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "සීමිතයි": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "පිරිනැමීම": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "වට්ටම්": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "සහතිකයි": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "අවදානම් රහිත": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "බැඳීම": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "ණය": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "උකස": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "ඖෂධ ශාලාව": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "බෙහෙත් වට්ටෝරුව": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "ඖෂධ": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "පෙති": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "බර": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "ආහාර වේල": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "අහිමි වීම": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "පවුම්": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "මිලදී ගන්න": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "නියෝගය": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "මිලදී ගැනීම": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "විකිණීමට": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ලාභයි": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "සුරකින්න": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "ගනුදෙනුව": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "විශේෂ": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "සුවිශේෂී": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ප්‍රසාද දීමනාව": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "තෑග්ගක්": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "සුභ පැතුම්": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "තෝරා ගන්නා ලදී": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "තහවුරු කරන්න": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "සත්‍යාපනය කරන්න": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "ගිණුම": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "මුරපදය": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "අත්හිටුවන ලදී": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "අගුලු දමා ඇත": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ආරක්ෂාව": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "යාවත්කාලීන කිරීම": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "පේපෑල්": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ඊබේ": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ඇමසන්": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "බැංකුව": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "වයර්": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "මාරු කිරීම": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "මාර්ගගත කිරීම": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "වේගවත්": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "බටහිර": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "සංගමය": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "මනිග්‍රෑම්": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "බිට්කොයින්": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ගුප්ත ව්‍යවහාර මුදල්": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "මුදල් පසුම්බිය": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "බ්ලොක්චේන්": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "රැස්වීම": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "කාලසටහන": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ව්‍යාපෘතිය": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "කණ්ඩායම": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "නියමිත කාලය": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "අමුණා ඇත": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ඇමුණුම": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "ලේඛනය": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "වාර්තාව": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "සමාලෝචනය": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ප්‍රතිපෝෂණය": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "සාකච්ඡාව": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "න්‍යාය පත්‍රය": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "මිනිත්තු": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "සමුළුව": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "අමතන්න": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "අවංකවම": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "ස්තූතියි": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "අගය කරනවා": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "පහත සඳහන්": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "සාකච්ඡා කරන ලදී": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "සංවාදය": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ඉන්වොයිසිය": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "රිසිට්පත": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "සාරාංශය": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "විශ්ලේෂණය": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "පර්යේෂණ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "දත්ත": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "ප්රතිඵල": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ගබඩාව": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "කැප කරන්න": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "ඒකාබද්ධ කරන්න": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ශාඛාව": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "අදින්න": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ඉල්ලීම": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "යොදවන්න": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ගොඩනඟන්න": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "පරීක්ෂණය": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "නිදොස්කරණය": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "දෝෂය": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "නිවැරදි කරන්න": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "කලාපය": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "විශේෂාංගය": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "නිකුතු": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "අනුවාදය": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ලියකියවිලි": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ඒපීඅයි": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "සේවාදායකය": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "දත්ත සමුදාය": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "විමසුම": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ශ්‍රිතය": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "විචල්‍යය": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "පන්තිය": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ක්‍රමය": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "අතුරුමුහුණත": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "හදිසි",
+        "වහාම",
+        "වහාම",
+        "හැකි විගස",
+        "දැන් ක්‍රියාත්මක වන්න",
+        "ප්‍රමාද වෙන්න එපා",
+        "ඉක්මන් කරන්න",
+        "සීමිත කාලයක්",
+        "කල් ඉකුත් වේ",
+        "නියමිත කාලය",
+        "අවසාන අවස්ථාව",
+        "අවසාන නිවේදනය",
+        "කාලයට සංවේදී",
+        "දැන් ප්‍රතිචාර දක්වන්න",
+        "ක්‍රියාමාර්ගයක් අවශ්‍යයි"
+    ],
+    "greetingWords": [
+        "හායි",
+        "ආයුබෝවන්",
+        "ආදරණීය",
+        "හේයි",
+        "සුභ පැතුම්",
+        "සුභ උදෑසනක්",
+        "සුභ සන්ධ්යාවක්",
+        "සුභ සන්ද්යාවක්"
+    ],
+    "genericGreetings": [
+        "හිතවත් මහතාණෙනි",
+        "ආදරණීය මැඩම්",
+        "හිතවත් පාරිභෝගිකයා",
+        "ආදරණීය පරිශීලකයා",
+        "ආදරණීය සාමාජිකයා",
+        "ආදරණීය මිතුරා",
+        "ආදරණීය වටිනා",
+        "ආදරණීය ලබන්නා",
+        "ආදරණීය ප්‍රතිලාභියා"
+    ]
+}

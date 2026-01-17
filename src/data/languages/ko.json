@@ -1,0 +1,1380 @@
+{
+    "language": "ko",
+    "languageName": "Korean",
+    "spamWords": [
+        {
+            "word": "나이지리아 왕자",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "송금",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "은행 계좌 정보",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "상속재산",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "미수령 자금",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "수익자",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "백만 달러",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "백만 달러",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "이체 수수료",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "처리 수수료",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "선불금",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "웨스턴 유니언",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "머니그램",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "비트코인 지갑",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "암호화폐 투자",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "비트코인을 두 배로 늘리세요",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "암호화폐 증정 이벤트",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "지금 행동하세요",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "즉시 행동하세요",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "긴급 대응",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "긴급 조치 필요",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "즉각적인 조치",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "제한된 시간",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "오늘 만료됩니다",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "마지막 기회",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "최종 통지",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "즉시 응답하세요",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "24시간 이내",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "48시간 이내",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "시간에 민감한",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "지체하지 마세요",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "수상자님 축하드립니다",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "당신이 이겼습니다",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "복권 당첨자",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "경품 당첨 안내",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "상품을 받으세요",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "당첨 알림",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "행운의 당첨자",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "선정된 우승자",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "현금 상금",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "무료 경품",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "경품 행사",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "계정을 인증하세요",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "본인 확인을 해주세요",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "결제 정보를 업데이트하세요",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "정지된 계정",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "계정 정지됨",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "비정상적인 활동",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "의심스러운 활동",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "무단 접근",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "여기를 클릭하여 확인하세요",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "로그인 자격 증명",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "비밀번호 재설정",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "보안 경고",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "귀하의 계정은 다음과 같습니다.",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "확인 실패",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "다시 활성화하세요",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "구독 취소",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "여기를 클릭하세요",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "지금 구매하세요",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "지금 주문하세요",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "무료 제공",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "특별 메뉴",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "단독 특가",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "위험 부담 없음",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "의무 없음",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "환불 보장",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "만족 보장",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "지금 전화하세요",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "무료 전화",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% 무료",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "완전 무료",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "무료",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "수수료 없음",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "최저가",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "최저가",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "할인",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "크게 절약하세요",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "돈을 절약하세요",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "두 배로 늘리세요",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "당신의 것을 늘리세요",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "돈을 벌어라",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "돈을 벌다",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "추가 소득",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "재택근무",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "사장님이 되어 보세요",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "재정적 자유",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "부자가 되다",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "돈을 받으세요",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "즉시 액세스",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "수백만 명과 함께하세요",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "비아그라",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "시알리스",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "약국",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "온라인 약국",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "캐나다 약국",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "처방",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "처방전 없이",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "처방전 없이",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "발기부전",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "체중 감량",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "체중 감량",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "체중 감량",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "다이어트 약",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "지방 연소제",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "기적의 치료법",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "천연 치료법",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "노화 방지",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "성인 콘텐츠",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "트리플 엑스",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "성인 데이트",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "싱글들을 만나보세요",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "핫 싱글",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "외로운 여성들",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "외로운 주부",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "친구에게",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "사랑하는 이여",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "존경하는 고객님/사모님",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "비밀의",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "극비",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "비공개 및 기밀",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "무시하지 마세요",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "반드시 응답해야 합니다",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "이것은 스팸이 아닙니다",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "이건 쓰레기가 아닙니다",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "사기가 아닙니다",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "합법적인 제안",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "법적 고지",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "법원 명령",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "정부 보조금",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "무료 보조금",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "국세청",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "세금 환급",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "회의": -0.3,
+        "일정": -0.3,
+        "프로젝트": -0.3,
+        "사선": -0.3,
+        "첨부된": -0.3,
+        "부착": -0.3,
+        "문안 인사": -0.2,
+        "감사합니다": -0.3,
+        "감사해요": -0.2,
+        "후속 조치": -0.3,
+        "논의된 바와 같이": -0.5,
+        "우리 대화에 따르면": -0.5,
+        "송장": -0.2,
+        "보고서": -0.2,
+        "요약": -0.2,
+        "분": -0.3,
+        "의제": -0.3,
+        "저장소": -0.5,
+        "풀 리퀘스트": -0.8,
+        "저지르다": -0.5,
+        "병합": -0.5,
+        "나뭇가지": -0.5,
+        "배포": -0.5,
+        "선적 서류 비치": -0.3
+    },
+    "bayesianTokens": {
+        "비아그라": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "시알리스": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "확대": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "나이지리아인": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "계승": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "수익자": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "운": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "우승자": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "공동 자금": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "구독 취소": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "거부": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "딸깍 하는 소리": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "무료": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "돈": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "현금": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "상": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "이겼다": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "긴급한": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "즉시": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "행동": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "제한된": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "권하다": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "할인": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "보장됨": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "위험 부담 없음": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "의무": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "신용 거래": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "빚": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "대출": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "저당": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "약국": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "처방": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "약물": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "의사": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "무게": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "다이어트": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "잃다": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "파운드": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "구입하다": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "주문하다": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "구입": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "판매": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "값이 싼": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "구하다": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "거래": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "특별한": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "독점적인": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "보너스": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "선물": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "축하해요": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "선택된": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "확인하다": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "계정": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "비밀번호": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "정지된": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "잠김": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "보안": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "업데이트": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "페이팔": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "이베이": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "아마존": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "은행": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "철사": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "옮기다": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "라우팅": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "스위프트": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "서부 사람": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "노동 조합": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "머니그램": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "비트코인": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "암호화폐": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "지갑": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "블록체인": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "회의": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "일정": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "프로젝트": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "팀": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "사선": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "첨부된": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "부착": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "문서": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "보고서": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "검토": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "피드백": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "논의": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "의제": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "분": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "부르다": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "문안 인사": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "감사합니다": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "감사해요": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "감사하다": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "고마워하다": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "수행원": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "논의됨": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "대화": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "송장": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "영수증": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "요약": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "분석": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "연구": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "데이터": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "결과": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "저장소": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "저지르다": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "병합": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "나뭇가지": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "당기다": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "요구": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "배포": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "짓다": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "시험": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "디버그": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "오류": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "벌레": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "고치다": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "문제": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "특징": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "풀어 주다": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "버전": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "선적 서류 비치": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "섬기는 사람": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "데이터 베이스": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "질문": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "기능": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "변하기 쉬운": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "수업": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "방법": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "인터페이스": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "긴급한",
+        "즉각적인",
+        "즉시",
+        "최대한 빨리",
+        "지금 행동하세요",
+        "지체하지 마세요",
+        "서두르다",
+        "제한된 시간",
+        "만료됨",
+        "사선",
+        "마지막 기회",
+        "최종 통지",
+        "시간에 민감한",
+        "지금 바로 응답하세요",
+        "조치 필요"
+    ],
+    "greetingWords": [
+        "안녕",
+        "안녕하세요",
+        "~에게",
+        "여기요",
+        "인사말",
+        "좋은 아침이에요",
+        "좋은 오후에요",
+        "좋은 저녁이에요"
+    ],
+    "genericGreetings": [
+        "귀하에게",
+        "근계",
+        "고객님, 안녕하세요",
+        "사용자님께",
+        "회원님께",
+        "친구에게",
+        "소중한 여러분께",
+        "친애하는 수신인",
+        "친애하는 수혜자님"
+    ]
+}

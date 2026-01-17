@@ -1,0 +1,1381 @@
+{
+    "language": "gl",
+    "languageName": "Galician",
+    "spamWords": [
+        {
+            "word": "príncipe nixeriano",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "transferencia bancaria",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "datos da conta bancaria",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "fondo de herdanza",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "fondos non reclamados",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "beneficiario",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "millóns de dólares",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "millóns de dólares estadounidenses",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "taxa de transferencia",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "taxa de procesamento",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "taxa anticipada",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "unión occidental",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "carteira de bitcoins",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "investimento en criptomoedas",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "dobra o teu bitcoin",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "sorteo de criptomoedas",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "actúa agora",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "actuar inmediatamente",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "resposta urxente",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "atención urxente",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "acción inmediata",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "tempo limitado",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "caduca hoxe",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "última oportunidade",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "aviso final",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "responder inmediatamente",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "dentro de 24 horas",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "dentro de 48 horas",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "sensible ao tempo",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "non te demores",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "parabéns ao gañador/a",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "gañaches",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "gañador da lotaría",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "notificación de premio",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "reclama o teu premio",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "notificación gañadora",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "gañador afortunado",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "gañador seleccionado",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "premio en metálico",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "premio gratuíto",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "sorteos",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "verificar a túa conta",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "confirmar a túa identidade",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "actualiza o teu pagamento",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "conta suspendida",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "conta suspendida",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "actividade inusual",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "actividade sospeitosa",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "acceso non autorizado",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "fai clic aquí para verificar",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "credenciais de inicio de sesión",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "restablecemento de contrasinal",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "alerta de seguridade",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "a túa conta estará",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "falta de verificación",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "reactiva o teu",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "cancelar a subscrición",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "fai clic aquí",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "mercar agora",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "encarga agora",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "oferta gratuíta",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "oferta especial",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "oferta exclusiva",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "sen riscos",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "sen obrigas",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "garantía de devolución do diñeiro",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "satisfacción garantida",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "chamar agora",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "gratuíto",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% gratuíto",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "completamente gratuíto",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "sen custo",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "sen taxas",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "prezo máis baixo",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "mellor prezo",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "desconto",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "aforrar en grande",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "aforrar cartos",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "o dobre do teu",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "aumentar o seu",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "gañar cartos",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "gañar cartos",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ingresos adicionais",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "traballar desde casa",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ser o teu propio xefe",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "liberdade financeira",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "facerse rico",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "cobrar",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "acceso instantáneo",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "únete a millóns",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "farmacia",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "farmacia en liña",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "farmacia canadense",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "receita médica",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "sen receita",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "sen receita médica",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "disfunción eréctil",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "perda de peso",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "perder peso",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "perder quilos",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "pílula de dieta",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "queimador de graxa",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "cura milagrosa",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "remedio natural",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "antienvellecemento",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "contido para adultos",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "citas para adultos",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "coñecer solteiros/as",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "solteiros atractivos",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "mulleres solitarias",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ama de casa solitaria",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "querido amigo/a",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "querido/a amado/a",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "estimado señor/señora",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "confidencial",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "estritamente confidencial",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "privado e confidencial",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "non ignores",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "debe responder",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "isto non é correo lixo",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "isto non é lixo",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "non é unha estafa",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "oferta lexítima",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "aviso legal",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "orde xudicial",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "subvención gobernamental",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "subvención gratuíta",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "reembolso de impostos",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "reunión": -0.3,
+        "horario": -0.3,
+        "proxecto": -0.3,
+        "prazo": -0.3,
+        "adxunto": -0.3,
+        "anexo": -0.3,
+        "saúdos": -0.2,
+        "sinceramente": -0.2,
+        "grazas": -0.3,
+        "seguimento": -0.3,
+        "como se comentou": -0.5,
+        "segundo a nosa conversa": -0.5,
+        "factura": -0.2,
+        "informe": -0.2,
+        "resumo": -0.2,
+        "minutos": -0.3,
+        "axenda": -0.3,
+        "conferencia": -0.3,
+        "repositorio": -0.5,
+        "solicitude de extracción": -0.8,
+        "confirmar": -0.5,
+        "fusionar": -0.5,
+        "rama": -0.5,
+        "despregar": -0.5,
+        "documentación": -0.3
+    },
+    "bayesianTokens": {
+        "viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "ampliación": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "nixeriano": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "herdanza": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "beneficiario": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "lotería": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "gañador": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "bote": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "cancelar a subscrición": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "exclusión voluntaria": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "clic": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "libre": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "diñeiro": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "diñeiro en efectivo": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "premio": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "gañou": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "urxente": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "inmediatamente": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "acto": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "limitado": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "oferta": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "desconto": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "garantido": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "sen riscos": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "obriga": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "crédito": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "débeda": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "préstamo": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "hipoteca": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "farmacia": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "receita médica": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "medicación": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "pílulas": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "peso": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "dieta": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "perder": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "libras": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "comprar": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "orde": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "compra": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "venda": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "barato": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "gardar": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "acordo": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "especial": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "exclusivo": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "bonificación": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "agasallo": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "parabéns": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "seleccionado": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "confirmar": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "verificar": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "conta": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "contrasinal": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "suspendido": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "pechado": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "seguridade": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "actualización": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazonas": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "banco": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "arame": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "transferencia": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "enrutamento": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "rápido": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "occidental": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "unión": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "criptomoeda": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "carteira": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "cadea de bloques": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "reunión": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "horario": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "proxecto": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "equipo": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "prazo": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "adxunto": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "anexo": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "documento": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "informe": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "revisión": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "retroalimentación": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "discusión": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "axenda": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "minutos": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "conferencia": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "chamada": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "saúdos": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "sinceramente": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "grazas": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "apreciar": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "seguinte": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "discutido": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "conversa": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "factura": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "recibo": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "resumo": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "análise": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "investigación": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "datos": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "resultados": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "repositorio": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "fusionar": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "rama": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "tirar": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "solicitude": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "despregar": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "construír": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "proba": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "depuración": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "erro": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "bicho": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "arranxo": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "problema": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "característica": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "liberación": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "versión": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "documentación": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "servidor": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "base de datos": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "consulta": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "función": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "variable": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "clase": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "método": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "interface": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "urxente",
+        "inmediato",
+        "inmediatamente",
+        "canto antes",
+        "actúa agora",
+        "non te demores",
+        "présa",
+        "tempo limitado",
+        "caduca",
+        "prazo",
+        "última oportunidade",
+        "aviso final",
+        "sensible ao tempo",
+        "responder agora",
+        "acción requirida"
+    ],
+    "greetingWords": [
+        "ola",
+        "ola",
+        "querido/a",
+        "ola",
+        "saúdos",
+        "bos días",
+        "boas tardes",
+        "boas noites"
+    ],
+    "genericGreetings": [
+        "estimado señor",
+        "querida señora",
+        "querido cliente",
+        "querido usuario",
+        "querido membro",
+        "querido amigo/a",
+        "querido/a",
+        "querido destinatario",
+        "estimado beneficiario"
+    ]
+}

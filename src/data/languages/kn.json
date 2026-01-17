@@ -1,0 +1,1373 @@
+{
+    "language": "kn",
+    "languageName": "Kannada",
+    "spamWords": [
+        {
+            "word": "ನೈಜೀರಿಯನ್ ರಾಜಕುಮಾರ",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "ತಂತಿ ವರ್ಗಾವಣೆ",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "ಬ್ಯಾಂಕ್ ಖಾತೆ ವಿವರಗಳು",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "ಆನುವಂಶಿಕ ನಿಧಿ",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "ಹಕ್ಕು ಪಡೆಯದ ನಿಧಿಗಳು",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "ಫಲಾನುಭವಿ",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "ಮಿಲಿಯನ್ ಡಾಲರ್‌ಗಳು",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ಮಿಲಿಯನ್ ಯುಎಸ್ಡಿ",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ವರ್ಗಾವಣೆ ಶುಲ್ಕ",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ಸಂಸ್ಕರಣಾ ಶುಲ್ಕ",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "ಮುಂಗಡ ಶುಲ್ಕ",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ಪಶ್ಚಿಮ ಒಕ್ಕೂಟ",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "ಮನಿಗ್ರಾಮ್",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "ಬಿಟ್‌ಕಾಯಿನ್ ವ್ಯಾಲೆಟ್",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "ಕ್ರಿಪ್ಟೋಕರೆನ್ಸಿ ಹೂಡಿಕೆ",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "ನಿಮ್ಮ ಬಿಟ್‌ಕಾಯಿನ್ ಅನ್ನು ದ್ವಿಗುಣಗೊಳಿಸಿ",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "ಕ್ರಿಪ್ಟೋ ಕೊಡುಗೆ",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "ಈಗಲೇ ವರ್ತಿಸಿ",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ತಕ್ಷಣ ಕ್ರಮ ಕೈಗೊಳ್ಳಿ",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "ತುರ್ತು ಪ್ರತಿಕ್ರಿಯೆ",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ತುರ್ತು ಗಮನ",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ತಕ್ಷಣದ ಕ್ರಮ",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ಸೀಮಿತ ಸಮಯ",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ಇಂದು ಅವಧಿ ಮುಗಿಯುತ್ತದೆ",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "ಕೊನೆಯ ಅವಕಾಶ",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ಅಂತಿಮ ಸೂಚನೆ",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ತಕ್ಷಣ ಪ್ರತಿಕ್ರಿಯಿಸಿ",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "24 ಗಂಟೆಗಳ ಒಳಗೆ",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "48 ಗಂಟೆಗಳ ಒಳಗೆ",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "ಸಮಯ ಸೂಕ್ಷ್ಮ",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ತಡ ಮಾಡಬೇಡಿ",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ವಿಜೇತರಿಗೆ ಅಭಿನಂದನೆಗಳು",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ನೀವು ಗೆದ್ದಿದ್ದೀರಿ.",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ಲಾಟರಿ ವಿಜೇತ",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ಬಹುಮಾನ ಅಧಿಸೂಚನೆ",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ನಿಮ್ಮ ಬಹುಮಾನವನ್ನು ಪಡೆದುಕೊಳ್ಳಿ",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ಗೆಲುವಿನ ಅಧಿಸೂಚನೆ",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ಅದೃಷ್ಟಶಾಲಿ ವಿಜೇತ",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ಆಯ್ಕೆಯಾದ ವಿಜೇತರು",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ನಗದು ಬಹುಮಾನ",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ಉಚಿತ ಬಹುಮಾನ",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ಸ್ವೀಪ್‌ಸ್ಟೇಕ್‌ಗಳು",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಪರಿಶೀಲಿಸಿ",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "ನಿಮ್ಮ ಗುರುತನ್ನು ದೃಢೀಕರಿಸಿ",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ನಿಮ್ಮ ಪಾವತಿಯನ್ನು ನವೀಕರಿಸಿ",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "ಅಮಾನತುಗೊಳಿಸಿದ ಖಾತೆ",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "ಖಾತೆಯನ್ನು ಅಮಾನತುಗೊಳಿಸಲಾಗಿದೆ",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "ಅಸಾಮಾನ್ಯ ಚಟುವಟಿಕೆ",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "ಅನುಮಾನಾಸ್ಪದ ಚಟುವಟಿಕೆ",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "ಅನಧಿಕೃತ ಪ್ರವೇಶ",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "ಪರಿಶೀಲಿಸಲು ಇಲ್ಲಿ ಕ್ಲಿಕ್ ಮಾಡಿ",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "ಲಾಗಿನ್ ರುಜುವಾತುಗಳು",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ಪಾಸ್‌ವರ್ಡ್ ಮರುಹೊಂದಿಸಿ",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "ಭದ್ರತಾ ಎಚ್ಚರಿಕೆ",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "ನಿಮ್ಮ ಖಾತೆಯು",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ಪರಿಶೀಲಿಸಲು ವಿಫಲವಾಗಿದೆ",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "ನಿಮ್ಮ",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ಅನ್‌ಸಬ್‌ಸ್ಕ್ರೈಬ್ ಮಾಡಿ",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "ಇಲ್ಲಿ ಕ್ಲಿಕ್ ಮಾಡಿ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ಈಗ ಖರೀದಿಸಿ",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ಈಗಲೇ ಆರ್ಡರ್ ಮಾಡಿ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ಉಚಿತ ಕೊಡುಗೆ",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ವಿಶೇಷ ಕೊಡುಗೆ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ವಿಶೇಷ ಡೀಲ್",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ಅಪಾಯ ಮುಕ್ತ",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ಯಾವುದೇ ಬಾಧ್ಯತೆ ಇಲ್ಲ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ಹಣ ಹಿಂದಿರುಗಿಸುವ ಖಾತ್ರಿ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ತೃಪ್ತಿ ಖಾತರಿ",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ಈಗ ಕರೆ ಮಾಡಿ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ಟೋಲ್ ಫ್ರೀ",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% ಉಚಿತ",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ಸಂಪೂರ್ಣವಾಗಿ ಉಚಿತ",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ಯಾವುದೇ ವೆಚ್ಚವಿಲ್ಲ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ಯಾವುದೇ ಶುಲ್ಕವಿಲ್ಲ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ಕಡಿಮೆ ಬೆಲೆ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ಉತ್ತಮ ಬೆಲೆ",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ರಿಯಾಯಿತಿ",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "ದೊಡ್ಡ ಮೊತ್ತವನ್ನು ಉಳಿಸಿ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ಹಣ ಉಳಿಸಿ",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ನಿಮ್ಮದನ್ನು ದ್ವಿಗುಣಗೊಳಿಸಿ",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ನಿಮ್ಮ ಹೆಚ್ಚಿಸಿ",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ಹಣ ಗಳಿಸಿ",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ಹಣ ಸಂಪಾದಿಸಿ",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ಹೆಚ್ಚುವರಿ ಆದಾಯ",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ಮನೆಯಿಂದ ಕೆಲಸ ಮಾಡಿ",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ನಿಮ್ಮ ಸ್ವಂತ ಬಾಸ್ ಆಗಿರಿ.",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ಆರ್ಥಿಕ ಸ್ವಾತಂತ್ರ್ಯ",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ಶ್ರೀಮಂತನಾಗು",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ಹಣ ಪಡೆಯಿರಿ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ತ್ವರಿತ ಪ್ರವೇಶ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ಲಕ್ಷಾಂತರ ಜನರನ್ನು ಸೇರಿ",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ವಯಾಗ್ರ",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ಸಿಯಾಲಿಸ್",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ಔಷಧಾಲಯ",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "ಆನ್‌ಲೈನ್ ಔಷಧಾಲಯ",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ಕೆನಡಿಯನ್ ಔಷಧಾಲಯ",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "ಪ್ರಿಸ್ಕ್ರಿಪ್ಷನ್",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ಪ್ರಿಸ್ಕ್ರಿಪ್ಷನ್ ಇಲ್ಲ",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "ಪ್ರಿಸ್ಕ್ರಿಪ್ಷನ್ ಇಲ್ಲದೆ",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "ನಿಮಿರುವಿಕೆಯ ಅಪಸಾಮಾನ್ಯ ಕ್ರಿಯೆ",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ತೂಕ ಇಳಿಕೆ",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "ತೂಕ ಇಳಿಸಿ",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "ತೂಕ ಇಳಿಸಿ",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "ಆಹಾರ ಮಾತ್ರೆ",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "ಕೊಬ್ಬು ಕರಗಿಸುವವನು",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "ಪವಾಡ ಚಿಕಿತ್ಸೆ",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "ನೈಸರ್ಗಿಕ ಪರಿಹಾರ",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "ವಯಸ್ಸಾಗುವಿಕೆ ವಿರೋಧಿ",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "ವಯಸ್ಕ ವಿಷಯ",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx ಕನ್ನಡ",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ವಯಸ್ಕರ ಡೇಟಿಂಗ್",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ಸಿಂಗಲ್ಸ್ ಭೇಟಿ ಮಾಡಿ",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "ಹಾಟ್ ಸಿಂಗಲ್ಸ್",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ಒಂಟಿ ಮಹಿಳೆಯರು",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ಒಂಟಿ ಗೃಹಿಣಿ",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "ಪ್ರಿಯ ಮಿತ್ರ",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ಪ್ರಿಯ ಪ್ರಿಯರೇ",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ಪ್ರಿಯ ಸರ್/ಮೇಡಂ",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "ಗೌಪ್ಯ",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "ಕಟ್ಟುನಿಟ್ಟಾಗಿ ಗೌಪ್ಯ",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ಖಾಸಗಿ ಮತ್ತು ಗೌಪ್ಯ",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ನಿರ್ಲಕ್ಷಿಸಬೇಡಿ",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ಪ್ರತಿಕ್ರಿಯಿಸಬೇಕು",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "ಇದು ಸ್ಪ್ಯಾಮ್ ಅಲ್ಲ.",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ಇದು ಕಸವಲ್ಲ.",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ಹಗರಣವಲ್ಲ.",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ಕಾನೂನುಬದ್ಧ ಕೊಡುಗೆ",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ಕಾನೂನು ಸೂಚನೆ",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "ನ್ಯಾಯಾಲಯದ ಆದೇಶ",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ಸರ್ಕಾರಿ ಅನುದಾನ",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ಉಚಿತ ಅನುದಾನ",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ಐಆರ್ಎಸ್",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "ತೆರಿಗೆ ಮರುಪಾವತಿ",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "ಸಭೆ": -0.3,
+        "ವೇಳಾಪಟ್ಟಿ": -0.3,
+        "ಯೋಜನೆ": -0.3,
+        "ಗಡುವು": -0.3,
+        "ಲಗತ್ತಿಸಲಾಗಿದೆ": -0.3,
+        "ಲಗತ್ತು": -0.3,
+        "ಶುಭಾಶಯಗಳು": -0.2,
+        "ಪ್ರಾಮಾಣಿಕವಾಗಿ": -0.2,
+        "ಧನ್ಯವಾದಗಳು": -0.3,
+        "ಅನುಸರಿಸಲಾಗುತ್ತಿದೆ": -0.3,
+        "ಚರ್ಚಿಸಿದಂತೆ": -0.5,
+        "ನಮ್ಮ ಸಂಭಾಷಣೆಯ ಪ್ರಕಾರ": -0.5,
+        "ಸರಕುಪಟ್ಟಿ": -0.2,
+        "ವರದಿ": -0.2,
+        "ಸಾರಾಂಶ": -0.2,
+        "ನಿಮಿಷಗಳು": -0.3,
+        "ಕಾರ್ಯಸೂಚಿ": -0.3,
+        "ಸಮ್ಮೇಳನ": -0.3,
+        "ಸಂಗ್ರಹಾಲಯ": -0.5,
+        "ಪುಲ್ ವಿನಂತಿ": -0.8,
+        "ಬದ್ಧಗೊಳಿಸು": -0.5,
+        "ವಿಲೀನಗೊಳಿಸಿ": -0.5,
+        "ಶಾಖೆ": -0.5,
+        "ನಿಯೋಜಿಸು": -0.5,
+        "ದಸ್ತಾವೇಜೀಕರಣ": -0.3
+    },
+    "bayesianTokens": {
+        "ವಯಾಗ್ರ": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "ಸಿಯಾಲಿಸ್": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "ಹಿಗ್ಗುವಿಕೆ": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "ನೈಜೀರಿಯನ್": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "ಆನುವಂಶಿಕತೆ": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "ಫಲಾನುಭವಿ": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "ಲಾಟರಿ": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "ವಿಜೇತ": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "ಜಾಕ್‌ಪಾಟ್": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "ಅನ್‌ಸಬ್‌ಸ್ಕ್ರೈಬ್ ಮಾಡಿ": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "ಆಯ್ಕೆಯಿಂದ ಹೊರಗುಳಿಯಿರಿ": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "ಕ್ಲಿಕ್ ಮಾಡಿ": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ಉಚಿತ": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "ಹಣ": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ನಗದು": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "ಬಹುಮಾನ": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "ಗೆದ್ದಿದೆ": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "ತುರ್ತು": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "ತಕ್ಷಣ": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "ಕಾರ್ಯ": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ಸೀಮಿತ": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "ಕೊಡುಗೆ": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ರಿಯಾಯಿತಿ": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ಖಾತರಿಪಡಿಸಲಾಗಿದೆ": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "ಅಪಾಯ-ಮುಕ್ತ": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "ಬಾಧ್ಯತೆ": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "ಕ್ರೆಡಿಟ್": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "ಸಾಲ": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ಅಡಮಾನ": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "ಔಷಧಾಲಯ": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "ಪ್ರಿಸ್ಕ್ರಿಪ್ಷನ್": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "ಔಷಧಿ": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "ಮಾತ್ರೆಗಳು": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "ತೂಕ": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "ಆಹಾರ ಪದ್ಧತಿ": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ಕಳೆದುಕೊಳ್ಳಿ": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "ಪೌಂಡ್‌ಗಳು": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "ಖರೀದಿಸಿ": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "ಆದೇಶ": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ಖರೀದಿ": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ಮಾರಾಟ": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ಅಗ್ಗದ": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "ಉಳಿಸು": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "ಒಪ್ಪಂದ": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ವಿಶೇಷ": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ಬೋನಸ್": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ಉಡುಗೊರೆ": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "ಅಭಿನಂದನೆಗಳು": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ದೃಢೀಕರಿಸಿ": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ಪರಿಶೀಲಿಸಿ": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "ಖಾತೆ": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "ಪಾಸ್ವರ್ಡ್": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ಅಮಾನತುಗೊಳಿಸಲಾಗಿದೆ": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "ಬೀಗ ಹಾಕಲಾಗಿದೆ": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ಭದ್ರತೆ": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ನವೀಕರಿಸಿ": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "ಪೇಪಾಲ್": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ಇಬೇ": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ಅಮೆಜಾನ್": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ಬ್ಯಾಂಕ್": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ತಂತಿ": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ವರ್ಗಾವಣೆ": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ರೂಟಿಂಗ್": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ವೇಗವಾದ": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "ಪಶ್ಚಿಮದ": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ಒಕ್ಕೂಟ": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "ಮನಿಗ್ರಾಮ್": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "ಬಿಟ್‌ಕಾಯಿನ್": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ಕ್ರಿಪ್ಟೋಕರೆನ್ಸಿ": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ಕೈಚೀಲ": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "ಬ್ಲಾಕ್‌ಚೈನ್": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ಸಭೆ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ವೇಳಾಪಟ್ಟಿ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ಯೋಜನೆ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ತಂಡ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ಗಡುವು": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ಲಗತ್ತಿಸಲಾಗಿದೆ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ಲಗತ್ತು": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "ದಾಖಲೆ": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "ವರದಿ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ವಿಮರ್ಶೆ": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ಪ್ರತಿಕ್ರಿಯೆ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ಚರ್ಚೆ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ಕಾರ್ಯಸೂಚಿ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ನಿಮಿಷಗಳು": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ಸಮ್ಮೇಳನ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ಕರೆ ಮಾಡಿ": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "ಶುಭಾಶಯಗಳು": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ಪ್ರಾಮಾಣಿಕವಾಗಿ": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "ಧನ್ಯವಾದಗಳು": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "ಮೆಚ್ಚಿಕೊಳ್ಳಿ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ಅನುಸರಿಸುವುದು": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "ಚರ್ಚಿಸಲಾಗಿದೆ": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ಸಂಭಾಷಣೆ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ಸರಕುಪಟ್ಟಿ": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "ರಶೀದಿ": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "ಸಾರಾಂಶ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ವಿಶ್ಲೇಷಣೆ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ಸಂಶೋಧನೆ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ಡೇಟಾ": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "ಫಲಿತಾಂಶಗಳು": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ಸಂಗ್ರಹಾಲಯ": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "ಬದ್ಧಗೊಳಿಸು": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "ವಿಲೀನಗೊಳಿಸಿ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ಶಾಖೆ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ಎಳೆಯಿರಿ": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ವಿನಂತಿ": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "ನಿಯೋಜಿಸು": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ನಿರ್ಮಿಸಲು": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ಪರೀಕ್ಷೆ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ಡೀಬಗ್ ಮಾಡಿ": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "ದೋಷ": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ಕೀಟ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ಸರಿಪಡಿಸಿ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ಸಮಸ್ಯೆ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ವೈಶಿಷ್ಟ್ಯ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ಬಿಡುಗಡೆ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ಆವೃತ್ತಿ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ದಸ್ತಾವೇಜೀಕರಣ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ಎಪಿಐ": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ಸರ್ವರ್": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ಡೇಟಾಬೇಸ್": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ಪ್ರಶ್ನೆ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ವೇರಿಯಬಲ್": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ವರ್ಗ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ವಿಧಾನ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ಇಂಟರ್ಫೇಸ್": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "ತುರ್ತು",
+        "ತಕ್ಷಣದ",
+        "ತಕ್ಷಣ",
+        "ಆದಷ್ಟು ಬೇಗ",
+        "ಈಗಲೇ ವರ್ತಿಸಿ",
+        "ತಡ ಮಾಡಬೇಡಿ",
+        "ತ್ವರೆ ಮಾಡಿ",
+        "ಸೀಮಿತ ಸಮಯ",
+        "ಅವಧಿ ಮುಗಿಯುತ್ತದೆ",
+        "ಗಡುವು",
+        "ಕೊನೆಯ ಅವಕಾಶ",
+        "ಅಂತಿಮ ಸೂಚನೆ",
+        "ಸಮಯ ಸೂಕ್ಷ್ಮ",
+        "ಈಗ ಪ್ರತಿಕ್ರಿಯಿಸಿ",
+        "ಕ್ರಮ ಅಗತ್ಯ"
+    ],
+    "greetingWords": [
+        "ನಮಸ್ತೆ",
+        "ನಮಸ್ಕಾರ",
+        "ಪ್ರಿಯ",
+        "ಹೇ",
+        "ಶುಭಾಶಯಗಳು",
+        "ಶುಭೋದಯ",
+        "ಶುಭ ಮಧ್ಯಾಹ್ನ",
+        "ಶುಭ ಸಂಜೆ"
+    ],
+    "genericGreetings": [
+        "ಪ್ರಿಯ ಸರ್",
+        "ಪ್ರಿಯ ಮೇಡಂ",
+        "ಪ್ರಿಯ ಗ್ರಾಹಕರೇ",
+        "ಪ್ರಿಯ ಬಳಕೆದಾರರೇ",
+        "ಪ್ರಿಯ ಸದಸ್ಯರೇ",
+        "ಪ್ರಿಯ ಮಿತ್ರ",
+        "ಪ್ರಿಯವಾದ",
+        "ಪ್ರಿಯ ಸ್ವೀಕರಿಸುವವರೇ",
+        "ಪ್ರಿಯ ಫಲಾನುಭವಿಯೇ"
+    ]
+}

@@ -1,0 +1,1369 @@
+{
+    "language": "yo",
+    "languageName": "Yoruba",
+    "spamWords": [
+        {
+            "word": "ọmọ-alade naijiria",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "gbigbe waya",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "àwọn àlàyé àkọọ́lẹ̀ báńkì",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "owó ogún",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "owó tí a kò béèrè fún",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "olùjẹun",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "milionu dọla",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "mílíọ̀nù owó dọ́là",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "owo gbigbe",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "owo iṣiṣẹ",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "owo ilosiwaju",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "western union",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "àpò bitcoin",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "idoko-owo cryptocurrency",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "ilọpo meji bitcoin rẹ",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "ìfilọ́lẹ̀ crypto",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "gbé ìgbésẹ̀ nísinsìnyí",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "gbé ìgbésẹ̀ lẹ́sẹ̀kẹsẹ̀",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "ìdáhùn kíákíá",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "àfiyèsí kíákíá",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ìgbésẹ̀ lẹ́sẹ̀kẹsẹ̀",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "àkókò tó lopin",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "yoo pari loni",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "aye ikẹhin",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ìkìlọ̀ ìkẹyìn",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "dáhùn lẹ́sẹ̀kẹsẹ̀",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "láàrín wákàtí mẹ́rìnlélógún",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "láàrín wákàtí 48",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "akoko ti o ni imọlara",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "má ṣe fi àkókò ṣòfò",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "olùborí oríire oríire",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "o ti ṣẹgun",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "olùborí lọ́tìrì",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ìfitónilétí ẹ̀bùn",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "gba ẹ̀bùn rẹ",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ìfitónilétí ìṣẹ́gun",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "olubori oriire",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "olubori ti a yan",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ẹ̀bùn owó",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ẹbun ọfẹ",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "àwọn ìdíje",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "ṣàrídájú àkọọ́lẹ̀ rẹ",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "jẹrisi idanimọ rẹ",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ṣe àtúnṣe ìsanwó rẹ",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "àkọọ́lẹ̀ tí a ti dá dúró",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "ti da akọọnti duro",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "iṣẹ-ṣiṣe ti ko wọpọ",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "iṣẹ ti o fura si",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "iwọle laigba aṣẹ",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "tẹ ibi lati jẹrisi",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "àwọn ìwé ẹ̀rí ìwọlé",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "atunto ọrọ igbaniwọle",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "ìkìlọ̀ ààbò",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "àkọọ́lẹ̀ rẹ yóò wà",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "àìṣe àyẹ̀wò",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "tún mu rẹ ṣiṣẹ",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "yọ iforukọsilẹ kuro",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "kiliki ibi",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ra bayibayi",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "paṣẹ nisinsinyi",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ìfilọ́lẹ̀ ọ̀fẹ́",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ìfilọ́lẹ̀ pàtàkì",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "adehun iyasọtọ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "laisi ewu",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ko si ojuse",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "iṣeduro owo pada",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "itẹlọrun ni idaniloju",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "pe nisinsinyi",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "owo-ori ọfẹ",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% ọ̀fẹ́",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ọfẹ patapata",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ko si owo",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ko si owo idiyele",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "iye owo ti o kere julọ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "iye owo to dara julọ",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ẹdinwo",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "fipamọ́ ńlá",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "fi owo pamọ",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ilọpo meji tirẹ",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "mu rẹ pọ si",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "jo'gun owo",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ṣe owó",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "owo-wiwọle afikun",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ṣiṣẹ́ láti ilé",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "jẹ́ olórí ara rẹ",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ominira eto inawo",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "di ọlọ́rọ̀",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "gba owo osu",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ìwọlé lẹ́sẹ̀kẹsẹ̀",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "darapọ mọ awọn miliọnu",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ile elegbogi",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "ile elegbogi ori ayelujara",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ile elegbogi kanada",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "iwe ilana oogun",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ko si iwe ilana oogun",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "láìsí ìwé àṣẹ dókítà",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "àìlera erectile",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "pipadanu iwuwo",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "padanu iwuwo",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "padanu awọn poun",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "oògùn oúnjẹ",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "ẹ̀rọ ìgbóná ọ̀rá",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "ìwòsàn ìyanu",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "ìwòsàn àdánidá",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "egboogi-ogbo",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "akoonu agbalagba",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ibaṣepọ agbalagba",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "pade awọn apẹjọ",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "àwọn àpọ́n tí wọ́n gbóná",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "àwọn obìnrin tí wọ́n dá nìkan",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ìyàwó ilé tí ó dá nìkan",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "ọ̀rẹ́ ọ̀wọ́n",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "olùfẹ́ ọ̀wọ́n olùfẹ́ ọ̀wọ́n",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ọ̀gá/ìyáàfin ọ̀wọ́n",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "aṣiri",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "aṣiri patapata",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ikọkọ ati aṣiri",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "má ṣe fojú fo",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "gbọ́dọ̀ dáhùn",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "èyí kìí ṣe spam",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "èyí kìí ṣe àjẹkù",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "kìí ṣe ẹ̀tàn",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ìfilọ́lẹ̀ tó tọ́",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "àkíyèsí òfin",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "àṣẹ ilé ẹjọ́",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "owó ìrànlọ́wọ́ ìjọba",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ifunni ọfẹ",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "agbapada owo-ori",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "ìpàdé": -0.3,
+        "ìṣètò": -0.3,
+        "iṣẹ́ akanṣe": -0.3,
+        "akoko ipari": -0.3,
+        "ti a so mọ": -0.3,
+        "asomọ": -0.3,
+        "ikini": -0.2,
+        "tọkàntọkàn": -0.2,
+        "o ṣeun": -0.2,
+        "e dupe": -0.3,
+        "atẹle": -0.3,
+        "gẹ́gẹ́ bí a ti ṣe àgbéyẹ̀wò rẹ̀": -0.5,
+        "gẹ́gẹ́ bí ìjíròrò wa": -0.5,
+        "iwe-owo": -0.2,
+        "ijabọ": -0.2,
+        "àkópọ̀": -0.2,
+        "ìṣẹ́jú": -0.3,
+        "eto-ọrọ": -0.3,
+        "ibi ipamọ": -0.5,
+        "ìbéèrè láti fa": -0.8,
+        "dá": -0.5,
+        "dapọ": -0.5,
+        "ẹ̀ka": -0.5,
+        "gbe lọ": -0.5,
+        "awọn iwe-ẹri": -0.3
+    },
+    "bayesianTokens": {
+        "viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "fífẹ̀ sí i": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "ọmọ orílẹ̀-èdè nàìjíríà": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "ogún": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "olùjẹun": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "lotiri": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "olubori": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "jackpot": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "yọ iforukọsilẹ kuro": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "jade lairotẹlẹ": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "tẹ": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ọfẹ": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "owo": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "owó olowo": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "ẹbun": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "borí": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "kíákíá": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "lẹ́sẹ̀kẹsẹ̀": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "iṣe": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "ni opin": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "ìfilọ́lẹ̀": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ẹdinwo": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ìdánilójú": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "laisi ewu": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "ojuse": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "kirẹditi": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "gbese": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "awin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "gbèsè ilé": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "ile elegbogi": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "iwe ilana oogun": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "oògùn": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "àwọn ìşìnkì": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "iwuwo": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "ounjẹ": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "padanu": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "pọun": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "ra": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "paṣẹ": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "rira": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "tita": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "olowo poku": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "fipamọ́": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "iṣowo": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "pataki": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "iyasoto": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ajeseku": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ẹ̀bùn": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "oriire": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "ti a yan": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "jẹrisi": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "àkọọ́lẹ̀": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "ọrọ igbaniwọle": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ti daduro": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "tiipa": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "aabo": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "imudojuiwọn": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazon": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ile ifowo pamo": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "wáyà": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "gbigbe": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ipa ọna": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "yára": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "ìwọ̀-oòrùn": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ẹgbẹ́ òṣèlú": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "owó-owó alágbèéká": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "àpò owó": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "blockchain": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ìpàdé": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ìṣètò": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "iṣẹ́ akanṣe": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ẹgbẹ́": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "akoko ipari": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ti a so mọ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "asomọ": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "iwe aṣẹ": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "ijabọ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "atunyẹwo": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "esi": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ìjíròrò": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "eto-ọrọ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ìṣẹ́jú": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "pe": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "ikini": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "tọkàntọkàn": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "o ṣeun": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "mọrírì": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "títẹ̀lé": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "a ti jiroro": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "iwe-owo": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "iwe-ẹri isanwo": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "àkópọ̀": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ìṣàyẹ̀wò": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ìwádìí": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "data": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "awọn abajade": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ibi ipamọ": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "dá": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "dapọ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ẹ̀ka": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "fa": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ìbéèrè": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "gbe lọ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "kọ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "idanwo": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "àtúnṣe àṣìṣe": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "àṣìṣe": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "kokoro": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "atunse": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "iṣoro": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ẹya ara ẹrọ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "itusilẹ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ẹya": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "awọn iwe-ẹri": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "olupin": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ibi ipamọ data": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "iṣẹ́": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "oniyipada": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "kilasi": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ọ̀nà": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "wiwo": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "kíákíá",
+        "lẹ́sẹ̀kẹsẹ̀",
+        "lẹ́sẹ̀kẹsẹ̀",
+        "kíákíá",
+        "gbé ìgbésẹ̀ nísinsìnyí",
+        "má ṣe fi àkókò ṣòfò",
+        "kánkán",
+        "àkókò tó lopin",
+        "pari",
+        "akoko ipari",
+        "aye ikẹhin",
+        "ìkìlọ̀ ìkẹyìn",
+        "akoko ti o ni imọlara",
+        "fesi nisinsinyi",
+        "igbese ti a nilo"
+    ],
+    "greetingWords": [
+        "bawo ni",
+        "pẹlẹ o",
+        "ọ̀wọ́n",
+        "ẹ kú àárọ̀",
+        "ikini",
+        "e kaaro",
+        "e kaasan",
+        "ka a ale"
+    ],
+    "genericGreetings": [
+        "ọmọluwabi ọkunrin ọwọn",
+        "ìyáàfin ọ̀wọ́n",
+        "onibara ọwọn",
+        "olùlò ọ̀wọ́n",
+        "ọmọ ẹgbẹ́ ọ̀wọ́n",
+        "ọ̀rẹ́ ọ̀wọ́n",
+        "iyebíye ọ̀wọ́n",
+        "olùgbà ọ̀wọ́n",
+        "olùrànlọ́wọ́ ọ̀wọ́n"
+    ]
+}

@@ -1,0 +1,1377 @@
+{
+    "language": "cy",
+    "languageName": "Welsh",
+    "spamWords": [
+        {
+            "word": "tywysog nigeriaidd",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "trosglwyddiad gwifren",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "manylion cyfrif banc",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "cronfa etifeddiaeth",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "arian heb ei hawlio",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "buddiolwr",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "miliwn o ddoleri",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "miliwn o ddoleri",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ffi trosglwyddo",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ffi brosesu",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "ffi ymlaen llaw",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "undeb gorllewinol",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "waled bitcoin",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "buddsoddiad cryptocurrency",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "dyblu eich bitcoin",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "rhodd crypto",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "gweithredu nawr",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "gweithredu ar unwaith",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "ymateb brys",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "sylw brys",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "gweithredu ar unwaith",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "amser cyfyngedig",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "yn dod i ben heddiw",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "cyfle olaf",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "hysbysiad terfynol",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ymateb ar unwaith",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "o fewn 24 awr",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "o fewn 48 awr",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "sensitif i amser",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "peidiwch ag oedi",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "llongyfarchiadau enillydd",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "rydych chi wedi ennill",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "enillydd y loteri",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "hysbysiad gwobr",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "hawlio eich gwobr",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "hysbysiad buddugol",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "enillydd lwcus",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "enillydd dethol",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "gwobr ariannol",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "gwobr am ddim",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "raffl",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "gwirio eich cyfrif",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "cadarnhau eich hunaniaeth",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "diweddaru eich taliad",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "cyfrif wedi'i atal",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "cyfrif wedi'i atal",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "gweithgaredd anarferol",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "gweithgaredd amheus",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "mynediad heb awdurdod",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "cliciwch yma i wirio",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "manylion mewngofnodi",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ailosod cyfrinair",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "rhybudd diogelwch",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "bydd eich cyfrif yn",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "methiant i wirio",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "ail-actifadu eich",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "dad-danysgrifio",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "cliciwch yma",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "prynu nawr",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "archebu nawr",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "cynnig am ddim",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "cynnig arbennig",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "bargen unigryw",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "di-risg",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "dim rhwymedigaeth",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "gwarant arian yn ôl",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "boddhad wedi'i warantu",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ffoniwch nawr",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "rhadffôn",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% am ddim",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "hollol rhad ac am ddim",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "dim cost",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "dim ffioedd",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "pris isaf",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "y pris gorau",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "disgownt",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "arbed yn fawr",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "arbed arian",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "dyblu eich",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "cynyddu eich",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ennill arian",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "gwneud arian",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "incwm ychwanegol",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "gweithio o gartref",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "byddwch yn fos eich hun",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "rhyddid ariannol",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "dod yn gyfoethog",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "cael eich talu",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "mynediad ar unwaith",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ymunwch â miliynau",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "fferyllfa",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "fferyllfa ar-lein",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "fferyllfa canada",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "presgripsiwn",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "dim presgripsiwn",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "heb bresgripsiwn",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "camweithrediad erectile",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "colli pwysau",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "colli pwysau",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "colli bunnoedd",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "pilsen diet",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "llosgydd braster",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "iachâd gwyrthiol",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "meddyginiaeth naturiol",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "gwrth-heneiddio",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "cynnwys oedolion",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "dyddio oedolion",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "cwrdd â senglau",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "senglau poeth",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "menywod unig",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "gwraig tŷ unig",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "ffrind annwyl",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "annwyl annwyl",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "annwyl syr/madam",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "cyfrinachol",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "cyfrinachol yn llwyr",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "preifat a chyfrinachol",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "peidiwch ag anwybyddu",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "rhaid ymateb",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "nid sbam yw hwn",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "nid sothach yw hyn",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "nid sgam",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "cynnig cyfreithlon",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "hysbysiad cyfreithiol",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "gorchymyn llys",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "grant llywodraeth",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "grant am ddim",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "ad-daliad treth",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "cyfarfod": -0.3,
+        "amserlen": -0.3,
+        "prosiect": -0.3,
+        "dyddiad cau": -0.3,
+        "ynghlwm": -0.3,
+        "atodiad": -0.3,
+        "cofion": -0.2,
+        "yn ddiffuant": -0.2,
+        "diolch": -0.3,
+        "dilyn i fyny": -0.3,
+        "fel y trafodwyd": -0.5,
+        "yn ôl ein sgwrs": -0.5,
+        "anfoneb": -0.2,
+        "adroddiad": -0.2,
+        "crynodeb": -0.2,
+        "munudau": -0.3,
+        "agenda": -0.3,
+        "cynhadledd": -0.3,
+        "storfa": -0.5,
+        "cais tynnu": -0.8,
+        "ymrwymo": -0.5,
+        "uno": -0.5,
+        "cangen": -0.5,
+        "defnyddio": -0.5,
+        "dogfennaeth": -0.3
+    },
+    "bayesianTokens": {
+        "viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "ehangu": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "nigeriaidd": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "etifeddiaeth": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "buddiolwr": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "loteri": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "enillydd": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "jacpot": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "dad-danysgrifio": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "optio allan": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "cliciwch": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "rhydd": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "arian": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "arian parod": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "gwobr": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "enillodd": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "brys": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "ar unwaith": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "gweithredu": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "cyfyngedig": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "cynnig": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "disgownt": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "gwarantedig": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "di-risg": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "rhwymedigaeth": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "credyd": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "dyled": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "benthyciad": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "morgais": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "fferyllfa": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "presgripsiwn": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "meddyginiaeth": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "pils": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "pwysau": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "diet": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "colli": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "prynu": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "archeb": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "gwerthiant": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "rhad": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "arbed": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "bargen": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "arbennig": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "unigryw": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "bonws": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "rhodd": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "llongyfarchiadau": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "wedi'i ddewis": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "cadarnhau": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "gwirio": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "cyfrif": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "cyfrinair": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "wedi'i atal": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "wedi'i gloi": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "diogelwch": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "diweddariad": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazon": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "banc": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "gwifren": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "trosglwyddo": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "llwybro": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "cyflym": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "gorllewinol": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "undeb": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "cryptocurrency": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "waled": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "blockchain": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "cyfarfod": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "amserlen": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "prosiect": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "tîm": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "dyddiad cau": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ynghlwm": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "atodiad": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "dogfen": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "adroddiad": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "adolygiad": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "adborth": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "trafodaeth": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "agenda": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "munudau": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "cynhadledd": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "galwad": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "cofion": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "yn ddiffuant": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "diolch": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "gwerthfawrogi": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "yn dilyn": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "trafodwyd": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "sgwrs": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "anfoneb": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "derbynneb": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "crynodeb": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "dadansoddiad": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ymchwil": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "data": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "canlyniadau": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "storfa": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "ymrwymo": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "uno": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "cangen": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "tynnu": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "cais": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "defnyddio": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "adeiladu": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "prawf": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "dadfygio": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "gwall": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "byg": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "trwsio": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "mater": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "nodwedd": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "rhyddhau": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "fersiwn": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "dogfennaeth": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "gweinydd": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "cronfa ddata": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ymholiad": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "swyddogaeth": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "newidyn": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "dosbarth": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "dull": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "rhyngwyneb": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "brys",
+        "ar unwaith",
+        "ar unwaith",
+        "cyn gynted â phosibl",
+        "gweithredu nawr",
+        "peidiwch ag oedi",
+        "brysiwch",
+        "amser cyfyngedig",
+        "yn dod i ben",
+        "dyddiad cau",
+        "cyfle olaf",
+        "hysbysiad terfynol",
+        "sensitif i amser",
+        "ymateb nawr",
+        "camau gweithredu sydd eu hangen"
+    ],
+    "greetingWords": [
+        "helo",
+        "helo",
+        "annwyl",
+        "hei",
+        "cyfarchion",
+        "bore da",
+        "prynhawn da",
+        "noswaith dda"
+    ],
+    "genericGreetings": [
+        "annwyl syr",
+        "annwyl madam",
+        "cwsmer annwyl",
+        "annwyl ddefnyddiwr",
+        "annwyl aelod",
+        "ffrind annwyl",
+        "annwyl werthfawr",
+        "derbynnydd annwyl",
+        "annwyl fuddiolwr"
+    ]
+}

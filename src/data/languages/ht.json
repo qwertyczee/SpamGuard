@@ -1,0 +1,1377 @@
+{
+    "language": "ht",
+    "languageName": "Haitian Creole",
+    "spamWords": [
+        {
+            "word": "prens nijeryen",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "transfè labank",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "detay kont labank",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "fon eritaj",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "lajan ki pa reklame",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "benefisyè",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "milyon dola",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "milyon dola ameriken",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "frè transfè",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "frè pwosesis",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "frè davans",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "inyon lwès",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "bous bitcoin",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "envestisman kriptografik",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "double bitcoin ou",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "kado kriptografik",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "aji kounye a",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "aji imedyatman",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "repons ijan",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "atansyon ijan",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "aksyon imedya",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "tan limite",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ekspire jodi a",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "dènye chans",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "dènye avi",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "reponn imedyatman",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "nan 24 èdtan",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "nan 48 èdtan",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "sansib a tan",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "pa pran reta",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "felisitasyon gayan",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ou genyen",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "gayan lotri",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "notifikasyon pri",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "reklame pri ou a",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "notifikasyon genyen",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "chansè gayan",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "gayan chwazi a",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "pri lajan kach",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "pri gratis",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "tiraj osò",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "verifye kont ou",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "konfime idantite ou",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "mete ajou peman ou an",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "kont sispann",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "kont sispann",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "aktivite dwòl",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "aktivite sispèk",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "aksè san otorizasyon",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "klike la a pou verifye",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "kalifikasyon koneksyon",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "reyajiste modpas",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "alèt sekirite",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "kont ou a pral",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "echèk pou verifye",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "reaktive ou",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "dezabòne",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "klike la a",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "achte kounye a",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "kòmande kounye a",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "òf gratis",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "òf espesyal",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "kontra eksklizif",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "san risk",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "pa gen obligasyon",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "garanti ranbousman",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "satisfaksyon garanti",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "rele kounye a",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "nimewo gratis",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% gratis",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "konplètman gratis",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "pa gen okenn pri",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "pa gen frè",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "pri ki pi ba a",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "pi bon pri",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "rabè",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "ekonomize anpil",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ekonomize lajan",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "double ou",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ogmante ou",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "touche lajan",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "fè lajan",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "revni siplemantè",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "travay lakay",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "se pwòp bòs ou",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "libète finansyè",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "vin rich",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "resevwa lajan",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "aksè enstantane",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "rantre nan plizyè milyon moun",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "syalis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "famasi",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "famasi sou entènèt",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "famasi kanadyen",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "preskripsyon",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "san preskripsyon",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "san preskripsyon",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "disfonksyon erektil",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "pèdi pwa",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "pèdi pwa",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "pèdi liv",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "grenn rejim",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "boule grès",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "remèd mirak",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "remèd natirèl",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "anti-vyeyisman",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "kontni pou granmoun",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "rankont pou granmoun",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "rankontre moun selibatè",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "selibatè cho",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "fanm ki poukont yo",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "madanm kay poukont li",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "chè zanmi",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "chè anpil",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "mesye/madam",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "konfidansyèl",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "estrikteman konfidansyèl",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "prive ak konfidansyèl",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "pa inyore",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "dwe reponn",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "sa a se pa spam",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "sa a se pa tenten",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "se pa yon frod",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "òf lejitim",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "avi legal",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "lòd tribinal la",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "sibvansyon gouvènman an",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "sibvansyon gratis",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "ranbousman taks",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "reyinyon": -0.3,
+        "orè": -0.3,
+        "pwojè": -0.3,
+        "dat limit": -0.3,
+        "atache": -0.3,
+        "atachman": -0.3,
+        "respè": -0.2,
+        "sensèman": -0.2,
+        "mèsi": -0.3,
+        "swivi": -0.3,
+        "jan nou te diskite a": -0.5,
+        "dapre konvèsasyon nou an": -0.5,
+        "fakti": -0.2,
+        "rapò": -0.2,
+        "rezime": -0.2,
+        "minit": -0.3,
+        "ajanda": -0.3,
+        "konferans": -0.3,
+        "depo": -0.5,
+        "demann rale": -0.8,
+        "angaje": -0.5,
+        "fizyone": -0.5,
+        "branch": -0.5,
+        "deplwaye": -0.5,
+        "dokimantasyon": -0.3
+    },
+    "bayesianTokens": {
+        "viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "syalis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "agrandisman": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "nijeryen": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "eritaj": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "benefisyè": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "lotri": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "gayan": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "gwo lo": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "dezabòne": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "refize": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "klike": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "gratis": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "lajan": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "lajan kach": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "pri": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "genyen": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "ijan": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "imedyatman": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "aji": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "limite": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "ofri": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "rabè": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "garanti": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "san risk": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "obligasyon": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "kredi": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "dèt": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "prè": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ipotèk": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "famasi": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "preskripsyon": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "medikaman": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "grenn": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "pwa": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "rejim alimantè": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "pèdi": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "liv": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "achte": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "lòd": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "vant": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "bon mache": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "sove": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "kontra": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "espesyal": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "eksklizif": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "bonis": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "kado": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "felisitasyon": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "chwazi": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "konfime": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "verifye": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "kont": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "modpas": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "sispann": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "fèmen": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "sekirite": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "aktyalizasyon": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazon": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "bank": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "fil": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "transfè": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "routaj": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "rapid": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "lwès": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "sendika": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "kriptomonnen": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "bous": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "blòkchenn": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "reyinyon": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "orè": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "pwojè": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ekip": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "dat limit": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "atache": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "atachman": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "dokiman": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "rapò": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "revizyon": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "fidbak": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "diskisyon": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ajanda": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "minit": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "konferans": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "rele": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "respè": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "sensèman": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "mèsi": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "apresye": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "swivan": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "diskite": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "konvèsasyon": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "fakti": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "resi": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "rezime": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "analiz": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "rechèch": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "done": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "rezilta yo": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "depo": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "angaje": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "fizyone": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "branch": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "rale": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "demann": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "deplwaye": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "bati": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "tès": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "debogaj": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "erè": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ensèk": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ranje": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "pwoblèm": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "karakteristik": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "lage": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "vèsyon": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "dokimantasyon": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "sèvè": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "baz done": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "fonksyon": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "varyab": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "klas": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "metòd": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "koòdone": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "ijan",
+        "imedya",
+        "imedyatman",
+        "pi vit posib",
+        "aji kounye a",
+        "pa pran reta",
+        "prese",
+        "tan limite",
+        "ekspire",
+        "dat limit",
+        "dènye chans",
+        "dènye avi",
+        "sansib a tan",
+        "reponn kounye a",
+        "aksyon ki nesesè"
+    ],
+    "greetingWords": [
+        "bonjou",
+        "bonjou",
+        "chè",
+        "hey",
+        "bonjou",
+        "bonjou",
+        "bon apremidi",
+        "bonswa"
+    ],
+    "genericGreetings": [
+        "bonjou mesye",
+        "chè madam",
+        "chè kliyan",
+        "chè itilizatè",
+        "chè manm",
+        "chè zanmi",
+        "chè anpil valè",
+        "chè moun k ap resevwa a",
+        "chè benefisyè"
+    ]
+}

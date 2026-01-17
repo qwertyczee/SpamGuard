@@ -1,0 +1,1357 @@
+{
+    "language": "tt",
+    "languageName": "Tatar",
+    "spamWords": [
+        {
+            "word": "нигерия принцы",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "банк күчерүе",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "банк счеты мәгълүматлары",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "мирас фонды",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "таләп ителмәгән акчалар",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "файда алучы",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "миллион доллар",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "миллион акш доллары",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "күчерү өчен түләү",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "эшкәртү өчен түләү",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "алдан түләү",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "вестерн юнион",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "биткойн капчыгы",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "криптовалюта инвестицияләре",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "биткойныгызны икеләтә арттырыгыз",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "крипто бүләк",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "хәзер эш итегез",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "шунда ук эш итегез",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "ашыгыч җавап",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ашыгыч игътибар",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "кичекмәстән чаралар күрү",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "чикләнгән вакыт",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "бүген бетә",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "соңгы мөмкинлек",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "соңгы хәбәрнамә",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "шунда ук җавап бир",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "24 сәгать эчендә",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "48 сәгать эчендә",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "вакытка бәйле",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "тоткарланмагыз",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "җиңүчене котлыйм",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "син җиңдең",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "лотерея җиңүчесе",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "бүләк турында белдерү",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "бүләгеңне ал",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "җиңү турында белдерү",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "бәхетле җиңүче",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "сайланган җиңүче",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "акчалата бүләк",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "бушлай бүләк",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "лотерея",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "аккаунтыгызны раслагыз",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "шәхесегезне раслагыз",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "түләүне яңартыгыз",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "туктатылган хисап",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "хисап язмасы туктатылды",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "гадәти булмаган эшчәнлек",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "шикле эшчәнлек",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "рөхсәтсез керү",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "раслау өчен монда басыгыз",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "керү мәгълүматлары",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "серсүзне яңадан торгызу",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "куркынычсызлык турында кисәтү",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "сезнең аккаунтыгыз булачак",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "тикшермәү",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "яңадан активлаштырыгыз",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "язылудан баш тарту",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "монда басыгыз",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "хәзер сатып алыгыз",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "хәзер заказ бирегез",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "бушлай тәкъдим",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "махсус тәкъдим",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "эксклюзив килешү",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "куркынычсыз",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "бернинди йөкләмә дә юк",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "акчаны кире кайтару гарантиясе",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "канәгатьләнү гарантияләнә",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "хәзер шалтыратыгыз",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "бушлай",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% бушлай",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "тулысынча бушлай",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "бушлай",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "түләү юк",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "иң түбән бәя",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "иң яхшы бәя",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ташлама",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "зур акча саклагыз",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "акча саклагыз",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "икеләтә",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "арттырыгыз",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "акча эшләү",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "акча эшләү",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "өстәмә керем",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "өйдән эшләү",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "үзеңә хуҗа бул",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "финанс иреге",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "байый башла",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "түләгез",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "тиз керү",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "миллионлаган кешегә кушылыгыз",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "виагра",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "циалис",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "даруханә",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "онлайн даруханә",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "канада даруханәсе",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "рецепт",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "рецептсыз",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "рецептсыз",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "эрекция дисфункциясе",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "авырлыкны югалту",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "авырлыкны югалту",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "килограммнарны югалту",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "диета даруы",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "май яндыручы",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "могҗизалы дәва",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "табигый чара",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "картаюга каршы",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "өлкәннәр өчен контент",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "ххх",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "өлкәннәр белән танышу",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ялгызлар белән танышыгыз",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "кайнар ялгызлар",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ялгыз хатын-кызлар",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ялгыз хуҗабикә",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "кадерле дустым",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "кадерле сөйгәнем",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "хөрмәтле әфәнде/ханым",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "конфиденциаль",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "катгый серле",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "шәхси һәм конфиденциаль",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "игътибарсыз калдырмагыз",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "җавап бирергә тиеш",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "бу спам түгел",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "бу чүп түгел",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "алдау түгел",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "законлы тәкъдим",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "юридик белдерү",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "суд карары",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "хөкүмәт гранты",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "бушлай грант",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "салымны кире кайтару",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "очрашу": -0.3,
+        "расписание": -0.3,
+        "проект": -0.3,
+        "соңгы срок": -0.3,
+        "беркетелгән": -0.3,
+        "кушымта": -0.3,
+        "хөрмәт белән": -0.2,
+        "чын күңелдән": -0.2,
+        "рәхмәт": -0.3,
+        "артыннан бару": -0.3,
+        "фикер алышынганча": -0.5,
+        "безнең сөйләшүебез буенча": -0.5,
+        "счет-фактура": -0.2,
+        "отчет": -0.2,
+        "кыскача мәгълүмат": -0.2,
+        "минутлар": -0.3,
+        "көн тәртибе": -0.3,
+        "конференция": -0.3,
+        "репозиторий": -0.5,
+        "сорауны тартып алу": -0.8,
+        "йөкләмә бирү": -0.5,
+        "кушылу": -0.5,
+        "тармак": -0.5,
+        "урнаштыру": -0.5,
+        "документлаштыру": -0.3
+    },
+    "bayesianTokens": {
+        "виагра": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "циалис": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "зурайту": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "нигерияле": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "мирас": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "файда алучы": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "лотерея": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "җиңүче": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "джекпот": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "язылудан баш тарту": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "баш тарту": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "басыгыз": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "бушлай": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "акча": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "бүләк": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "җиңде": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "ашыгыч": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "шунда ук": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "гамәл": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "чикләнгән": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "тәкъдим": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ташлама": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "гарантияләнгән": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "куркынычсыз": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "бурыч": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "кредит": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ипотека": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "даруханә": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "рецепт": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "дарулар": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "авырлык": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "диета": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "югалту": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "фунтлар": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "сатып алу": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "заказ": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "сату": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "арзан": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "саклау": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "килешү": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "махсус": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "эксклюзив": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "бонус": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "котлаулар": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "сайланган": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "раслау": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "тикшерү": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "хисап": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "серсүз": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "туктатылган": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "бикле": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "куркынычсызлык": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "яңарту": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazon": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "банк": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "чыбык": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "күчерү": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "маршрутлаштыру": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "тиз": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "көнбатыш": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "берлек": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "биткойн": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "криптовалюта": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "янчык": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "блокчейн": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "очрашу": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "расписание": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "проект": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "команда": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "соңгы срок": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "беркетелгән": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "кушымта": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "документ": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "отчет": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "карап чыгу": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "кире элемтә": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "фикер алышу": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "көн тәртибе": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "минутлар": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "конференция": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "шалтырату": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "хөрмәт белән": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "чын күңелдән": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "рәхмәт": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "бәяләү": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "артыннан бару": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "фикер алыштылар": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "сөйләшү": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "счет-фактура": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "квитанция": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "кыскача мәгълүмат": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "анализ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "тикшеренү": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "мәгълүматлар": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "нәтиҗәләр": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "репозиторий": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "йөкләмә бирү": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "кушылу": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "тармак": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "тарту": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "сорау": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "урнаштыру": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "төзү": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "сынау": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "отладка": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "хата": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "бөҗәк": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "төзәтү": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "мәсьәлә": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "үзенчәлек": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "азат итү": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "версия": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "документлаштыру": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "апи": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "сервер": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "мәгълүмат базасы": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "функция": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "үзгәрүчән": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "класс": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "метод": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "интерфейс": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "ашыгыч",
+        "тиз арада",
+        "шунда ук",
+        "тиз арада",
+        "хәзер эш итегез",
+        "тоткарланмагыз",
+        "ашыгу",
+        "чикләнгән вакыт",
+        "вакыты чыга",
+        "соңгы срок",
+        "соңгы мөмкинлек",
+        "соңгы хәбәрнамә",
+        "вакытка бәйле",
+        "хәзер җавап бир",
+        "кирәкле гамәл"
+    ],
+    "greetingWords": [
+        "сәлам",
+        "сәлам",
+        "кадерле",
+        "әй",
+        "сәламләү сүзләре",
+        "хәерле иртә",
+        "хәерле көн",
+        "хәерле кич"
+    ],
+    "genericGreetings": [
+        "хөрмәтле әфәндем",
+        "хөрмәтле ханым",
+        "хөрмәтле клиент",
+        "хөрмәтле кулланучы",
+        "хөрмәтле әгъза",
+        "кадерле дустым",
+        "кадерле",
+        "кадерле алучы",
+        "хөрмәтле файда алучы"
+    ]
+}

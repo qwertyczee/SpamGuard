@@ -1,0 +1,1381 @@
+{
+    "language": "ceb",
+    "languageName": "Cebuano",
+    "spamWords": [
+        {
+            "word": "prinsipe sa nigeria",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "pagbalhin sa wire",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "mga detalye sa bank account",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "pundo sa panulondon",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "wala maangkon nga pondo",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "benepisyaryo",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "milyon nga dolyar",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "milyon nga usd",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "bayad sa pagbalhin",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "bayad sa pagproseso",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "bayad sa pag-abante",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "unyon sa kasadpan",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "pitaka sa bitcoin",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "pamuhunan sa cryptocurrency",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "dobleha ang imong bitcoin",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "panghatag og crypto",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "lihok na karon",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "molihok dayon",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "dinalian nga tubag",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "dinalian nga atensyon",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "diha-diha nga aksyon",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "limitado nga oras",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "matapos karong adlawa",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "katapusang higayon",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "katapusang pahibalo",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "tubag dayon",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "sulod sa 24 oras",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "sulod sa 48 ka oras",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "sensitibo sa oras",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ayaw paglangan",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "pahalipay nga mananaog",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "nakadaog ka",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "mananaog sa loterya",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "pahibalo sa premyo",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "angkona ang imong premyo",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "pahibalo sa pagdaog",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "swerteng mananaog",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "napili nga mananaog",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "premyong kwarta",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "libreng premyo",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "sweepstakes",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "i-verify ang imong account",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "kumpirmahi ang imong identidad",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "i-update ang imong bayad",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "gisuspinde nga account",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "gisuspinde ang account",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "dili kasagaran nga kalihokan",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "kadudahang kalihokan",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "wala gitugutan nga pag-access",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "i-klik dinhi aron mapamatud-an",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "mga kredensyal sa pag-login",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "pag-reset sa password",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "alerto sa seguridad",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "ang imong account mahimong",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "kapakyasan sa pag-verify",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "i-aktibo pag-usab ang imong",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "pag-unsubscribe",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "i-klik dinhi",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "palita karon",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "order karon",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "libreng tanyag",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "espesyal nga tanyag",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "eksklusibong kasabutan",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "walay risgo",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "walay obligasyon",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "garantiya sa pagbalik sa kwarta",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "garantiya sa katagbawan",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "tawag karon",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "walay bayad",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% libre",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "hingpit nga libre",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "walay gasto",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "walay bayad",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "labing ubos nga presyo",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "labing maayong presyo",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "diskwento",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "dako nga tipig",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "makadaginot og kwarta",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "dobleha ang imong",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "dugangi ang imong",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "pagpangita og kwarta",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "pagpangita og kwarta",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "dugang nga kita",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "trabaho gikan sa balay",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "mahimong imong kaugalingong amo",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "kagawasan sa panalapi",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "madato",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "sweldohan",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "dali nga pag-access",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "apil sa minilyon",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "botika",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "online nga botika",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "botika sa canada",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "reseta",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "walay reseta",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "walay reseta",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "dili maayong pagtindog",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "pagkawala sa timbang",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "mawad-an og timbang",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "mawad-an og libra",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "pildoras sa pagdiyeta",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "pangsunog sa tambok",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "milagrosong tambal",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "natural nga tambal",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "kontra-pagkatigulang",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "sulud sa mga hamtong",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "pakigdeyt sa mga hamtong",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "pakigkita sa mga single",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "init nga mga single",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "mga babaye nga nag-inusara",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "nag-inusarang ginang sa panimalay",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "minahal nga higala",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "minahal nga hinigugma",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "mahal nga ginoo/ginang",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "kompidensyal",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "hugot nga kompidensyal",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "pribado ug kompidensyal",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ayaw ibaliwala",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "kinahanglan motubag",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "dili kini spam",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "dili kini basura",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "dili pangilad",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "lehitimong tanyag",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "legal nga pahibalo",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "mando sa korte",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "grant sa gobyerno",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "libreng grant",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "pag-uli sa buhis",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "miting": -0.3,
+        "iskedyul": -0.3,
+        "proyekto": -0.3,
+        "deadline": -0.3,
+        "gilakip": -0.3,
+        "pagkabit": -0.3,
+        "mga pagtimbaya": -0.2,
+        "tinud-anay": -0.2,
+        "salamat": -0.3,
+        "pagsunod": -0.3,
+        "sama sa gihisgutan": -0.5,
+        "sumala sa among panagsulti": -0.5,
+        "resibo": -0.2,
+        "report": -0.2,
+        "katingbanan": -0.2,
+        "mga minuto": -0.3,
+        "agenda": -0.3,
+        "komperensya": -0.3,
+        "tipiganan": -0.5,
+        "hangyo sa pagbira": -0.8,
+        "mopasalig": -0.5,
+        "paghiusa": -0.5,
+        "sanga": -0.5,
+        "i-deploy": -0.5,
+        "dokumentasyon": -0.3
+    },
+    "bayesianTokens": {
+        "viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "pagpadako": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "nigerian": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "panulondon": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "benepisyaryo": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "loterya": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "mananaog": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "dako nga premyo": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "pag-unsubscribe": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "pag-undang": {
+            "spam": 0.85,
+            "ham": 0.05
+        },
+        "pag-opt out": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "pag-klik": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "libre": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "kwarta": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "premyo": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "nakadaog": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "dinalian": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "dayon": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "buhat": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "limitado": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "tanyag": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "diskwento": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "garantiyado": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "walay risgo": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "obligasyon": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "kredito": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "utang": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "mortgage": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "botika": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "reseta": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "tambal": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "mga pildoras": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "gibug-aton": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "pagkaon": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "mapildi": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "libra": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "mopalit": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "order": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "pagpalit": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "baligya": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "barato": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "tipigan": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "kasabutan": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "espesyal": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "eksklusibo": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "bonus": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "regalo": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "pahalipay": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "napili": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "kumpirmahi": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "pamatud-i": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "asoy": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "pasword": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "gisuspinde": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "naka-lock": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "seguridad": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "pag-update": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazon": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "bangko": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "alambre": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "pagbalhin": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ruta": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "paspas": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "kasadpan": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "unyon": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "cryptocurrency": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "pitaka": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "blockchain": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "miting": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "iskedyul": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "proyekto": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "grupo": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "deadline": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "gilakip": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "pagkabit": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "dokumento": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "report": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "pagrepaso": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "feedback": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "diskusyon": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "agenda": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "mga minuto": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "komperensya": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "tawag": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "mga pagtimbaya": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "tinud-anay": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "salamat": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "pasalamat": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "mapasalamaton": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "mosunod": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "gihisgutan": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "panagsulti": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "resibo": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "katingbanan": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "pagtuki": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "panukiduki": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "datos": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "mga resulta": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "tipiganan": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "mopasalig": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "paghiusa": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "sanga": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "pagbira": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "hangyo": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "i-deploy": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "pagtukod": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "pagsulay": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "pag-debug": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "sayop": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "insekto": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ayuhon": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "isyu": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "bahin": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "pagpagawas": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "bersyon": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "dokumentasyon": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "tigsilbi": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "database": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "pangutana": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "gimbuhaton": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "mausab-usab": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "klase": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "pamaagi": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "interface": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "dinalian",
+        "diha-diha dayon",
+        "dayon",
+        "labing madali",
+        "lihok na karon",
+        "ayaw paglangan",
+        "pagdali",
+        "limitado nga oras",
+        "matapos",
+        "deadline",
+        "katapusang higayon",
+        "katapusang pahibalo",
+        "sensitibo sa oras",
+        "tubag karon",
+        "gikinahanglan nga aksyon"
+    ],
+    "greetingWords": [
+        "kumusta",
+        "kumusta",
+        "mahal",
+        "uy",
+        "mga pangumusta",
+        "maayong buntag",
+        "maayong hapon",
+        "maayong gabii"
+    ],
+    "genericGreetings": [
+        "mahal nga ginoo",
+        "mahal nga ginang",
+        "minahal nga kustomer",
+        "minahal nga tiggamit",
+        "minahal nga miyembro",
+        "minahal nga higala",
+        "minahal nga gimahal",
+        "minahal nga tigdawat",
+        "minahal nga benepisyaryo"
+    ]
+}

@@ -6,7 +6,7 @@
 
 import type { AnalyzerResult, RuleMatch, ParsedEmail } from "../types";
 import type { LanguageDataset } from "../data/languages/schema";
-import { getLanguageData } from "../data/languages";
+import { getEnglishData } from "../data/languages";
 import { ALL_PATTERNS } from "../data/patterns";
 import {
     extractTextFromHtml,
@@ -98,10 +98,9 @@ export function analyzePatterns(
     const matches: RuleMatch[] = [];
     let totalScore = 0;
 
-    // Get language dataset
+    // Get language dataset (use provided data or fall back to English)
     const langData =
-        options.languageData ||
-        getLanguageData(options.languageCode || "en");
+        options.languageData || getEnglishData();
 
     // Get content to analyze
     const textBody = email.textBody || "";

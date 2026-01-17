@@ -1,0 +1,1365 @@
+{
+    "language": "ku",
+    "languageName": "Kurdish",
+    "spamWords": [
+        {
+            "word": "mîrê nîjeryayê",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "veguhestina bankî",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "hûrguliyên hesabê bankê",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "fona mîratê",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "fonên nehatine xwestin",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "lêtê",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "milyon dolar",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "milyon dolar",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "xercê veguhastinê",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "xercê pêvajoyê",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "xercê pêşîn",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "yekîtiya rojavayî",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "berîka bitcoin",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "veberhênana krîptopereyan",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "bitcoinê xwe duqat bike",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "diyariya krîptoyê",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "niha tevbigerin",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "tavilê tevbigerin",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "bersiva lezgîn",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "baldariya lezgîn",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "çalakiya tavilê",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "dem sînorkirî",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "îro diqede",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "derfeta dawî",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "agahdariya dawî",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "yekser bersiv bide",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "di nav 24 demjimêran de",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "di nav 48 demjimêran de",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "hesasê demê",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "dereng nemîne",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "pîrozbahî serketî",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "te qezenc kir",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "qezenckarê loto",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "agahdariya xelatê",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "xelata xwe bistîne",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "agahdariya serketinê",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "serketîyê bextewar",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "serketîyê hilbijartî",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "xelata pereyan",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "xelata belaş",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "pêşbirkên lotoyê",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "hesabê xwe piştrast bike",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "nasnameya xwe piştrast bike",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "dravdana xwe nûve bike",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "hesabê sekinandî",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "hesab hatiye rawestandin",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "çalakiyek neasayî",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "çalakiya gumanbar",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "gihîştina bê destûr",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "ji bo piştrastkirinê li vir bitikîne",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "agahiyên têketinê",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "vesazkirina şîfreyê",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "hişyariya ewlehiyê",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "hesabê te dê bibe",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "têkçûna piştrastkirinê",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "xwe ji nû ve çalak bike",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "betalkirina abonetiyê",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "li vir bitikîne",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "dibe ez çi bikim",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "niha siparîş bike",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "pêşniyara belaş",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "pêşniyara taybet",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "peymana taybet",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "bê rîsk",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "bê mecbûrî",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "garantiya vegerandina pereyan",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "razîbûn garantîkirî",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "niha telefon bike",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "bêpere",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "%100 belaş",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "bi temamî belaş",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "bêpere",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "bê xerc",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "bihayê herî kêm",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "baştirîn bihayê",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "kêmkirinî",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "mezin teserûf bike",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "pere berhevkirin",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "duqatkirina xwe",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "zêdekirina xwe",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "pere qezenc bike",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "pere qezenc bike",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "dahata zêde",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ji malê kar bike",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "bibe serokê xwe",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "azadiya darayî",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "dewlemend bibe",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "mûçe werbigire",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "gihîştina tavilê",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "tevlî milyonan bibe",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "vîagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "sîalîs",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "dermanxane",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "dermanxaneya serhêl",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "dermanxaneya kanadayî",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "reçete",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "bê reçete",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "bê reçete",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "bêhêziya zayendî",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "kêmbûna kîloyan",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "kîloyan kêm bike",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "kîloyan winda bike",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "hebê parêzê",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "şewitandina rûnê",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "dermanê mûcîzeyî",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "dermanê xwezayî",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "dijî-pîrbûnê",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "naveroka mezinan",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "hevdîtina mezinan",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "hevdîtina bi kesên tenê re",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "singleyên germ",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "jinên tenê",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "xanima malê ya tenê",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "hevalê hêja",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "evîndarê delal",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "birêz/xanima hêja",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "bawerane",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "bi tevahî nepenî",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "taybet û nepenî",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "paşguh neke",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "divê bersiv bide",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "ev ne spam e",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ev ne şerbet e",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ne xapandin e",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "pêşniyara rewa",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "agahdariya qanûnî",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "biryara dadgehê",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "alîkariya hikûmetê",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "bexşa belaş",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "vegerandina bacê",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "hevdîtinî": -0.3,
+        "pîlan": -0.3,
+        "rêvename": -0.3,
+        "dema dawî": -0.3,
+        "pêvekirî": -0.3,
+        "pêvek": -0.3,
+        "silav": -0.2,
+        "dilrast": -0.2,
+        "spas": -0.2,
+        "spas dikim": -0.3,
+        "şopandin": -0.3,
+        "wekî ku hatiye nîqaşkirin": -0.5,
+        "li gor axaftina me": -0.5,
+        "biha": -0.2,
+        "nûçe": -0.2,
+        "berhevkirinî": -0.2,
+        "deqîqe": -0.3,
+        "naverok": -0.3,
+        "şêwre": -0.3,
+        "depo": -0.5,
+        "daxwaza kişandinê": -0.8,
+        "bikaranîn": -0.5,
+        "bihevkelyan": -0.5,
+        "gûlî": -0.5,
+        "belgekirin": -0.3
+    },
+    "bayesianTokens": {
+        "vîagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "sîalîs": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "mezinkirinî": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "nîjeryayî": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "mîratî": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "lêtê": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "qismetnazî": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "serketî": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "xelata mezin": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "betalkirina abonetiyê": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "vekişîn": {
+            "spam": 0.85,
+            "ham": 0.05
+        },
+        "redkirin": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "klîk": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "belaş": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "dirav": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "perê pêşîn": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "biha": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "qezenc kir": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "acîl": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "derhal": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "ewlekarî": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "sînordar": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "pêşnîyar": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "kêmkirinî": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "garantîkirî": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "bê rîsk": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "xwegirêdanî": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "krêdî": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "suc": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "dehnkirin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "dehnê ser mal": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "dermanxane": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "reçete": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "derman": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "heb": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "pîvan": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "parêz": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "windakirin": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "lîre": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "kirrîn": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "emir": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "firotin": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "erzan": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "rizgarkirin": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "bazirganî": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "taybetî": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "hew": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "xelat": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "dîyarî": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "pîrozbahî": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "hilbijartî": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "tesdîqkirin": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "lidûsekirin": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "konto": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "şîfre": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "rawestandî": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "kilîtkirî": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "nûvekirin": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazon": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "banke": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "têlik": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "derbaskirin": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "rêwerz": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "bilez": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "rajava": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "yekîtî": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "diravê krîpto": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "tûrikê diravan": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "zincîra blokê": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "hevdîtinî": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "pîlan": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "rêvename": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "kom": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "dema dawî": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "pêvekirî": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "pêvek": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "belge": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "nûçe": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "axaftin": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "bersiv": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "nîqaş": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "naverok": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "deqîqe": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "şêwre": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "bang": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "silav": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "dilrast": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "spas": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "sipaskirin": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "rûmetdan": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "pêketînî": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "nîqaş kirin": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "kêfî": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "meqbûz": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "berhevkirinî": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "lêkolîne": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "lêkolîn": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "jimare": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "encam": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "depo": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "bikaranîn": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "bihevkelyan": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "gûlî": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "kişandin": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "tika": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "avakirin": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "îmtîhan": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "debugkirin": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "şaşî": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "rûnask": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "pêvekirin": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "pirs": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "berdan": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "awa": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "belgekirin": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "apî": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "server": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "database": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "karkirin": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "têgûherr": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "sinif": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "navrû": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "acîl",
+        "derhal",
+        "derhal",
+        "zûtirîn dem",
+        "niha tevbigerin",
+        "dereng nemîne",
+        "lezdan",
+        "dem sînorkirî",
+        "diqede",
+        "dema dawî",
+        "derfeta dawî",
+        "agahdariya dawî",
+        "hesasê demê",
+        "niha bersiv bide",
+        "çalakiya pêwîst"
+    ],
+    "greetingWords": [
+        "merheba",
+        "slav",
+        "ezîz",
+        "hey",
+        "silav",
+        "beyanî baş",
+        "paş nîvro",
+        "êvar baş"
+    ],
+    "genericGreetings": [
+        "birêzê hêja",
+        "xanima hêja",
+        "mişteriya hêja",
+        "bikarhênerê hêja",
+        "endamê hêja",
+        "hevalê hêja",
+        "hêja û bi qîmet",
+        "wergirê hêja",
+        "sûdmendê hêja"
+    ]
+}

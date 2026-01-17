@@ -1,0 +1,1376 @@
+{
+    "language": "zh",
+    "languageName": "Chinese (Simplified)",
+    "spamWords": [
+        {
+            "word": "尼日利亚王子",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "电汇",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "银行账户详情",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "遗产基金",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "无人认领的资金",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "受益人",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "百万美元",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "百万美元",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "转账费",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "手续费",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "预付费",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "西联汇款",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "速汇金",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "比特币钱包",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "加密货币投资",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "你的比特币翻倍",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "加密货币赠送",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "立即行动",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "立即行动",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "紧急响应",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "紧急关注",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "立即行动",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "限时优惠",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "今天到期",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "最后机会",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "最后通知",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "立即回应",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "24小时内",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "48小时内",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "时间敏感型",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "不要拖延",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "恭喜获奖者",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "你赢了",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "彩票中奖者",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "中奖通知",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "领取您的奖品",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "中奖通知",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "幸运儿",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "选定的获奖者",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "现金奖励",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "免费奖品",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "抽奖",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "验证您的帐户",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "确认您的身份",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "更新您的付款信息",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "已暂停账户",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "账户已暂停",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "异常活动",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "可疑活动",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "未经授权的访问",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "点击此处进行验证",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "登录凭据",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "密码重置",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "安全警报",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "您的账户将",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "验证失败",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "重新激活您的",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "取消订阅",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "点击这里",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "立即购买",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "立即订购",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "免费优惠",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "特价",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "独家优惠",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "无风险",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "无义务",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "退款保证",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "满意保证",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "立即致电",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "免费电话",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% 免费",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "完全免费",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "免费",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "无费用",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "最低价格",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "最优价格",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "折扣",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "省钱大优惠",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "省钱",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "双倍的",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "增加你的",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "赚钱",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "赚钱",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "额外收入",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "在家办公",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "自己当老板",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "财务自由",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "致富",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "获得报酬",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "即时访问",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "加入数百万人的行列",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "伟哥",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "希爱力",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "药店",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "网上药房",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "加拿大药房",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "处方",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "无需处方",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "无需处方",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "勃起功能障碍",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "减肥",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "减肥",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "减肥",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "减肥药",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "燃脂剂",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "奇迹疗法",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "自然疗法",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "抗衰老",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "成人内容",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "成人约会",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "结识单身人士",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "热门单身人士",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "孤独的女人",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "孤独的家庭主妇",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "亲爱的朋友",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "亲爱的",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "尊敬的先生/女士",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "机密的",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "绝密",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "私密和保密",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "不要忽视",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "必须回应",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "这不是垃圾邮件。",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "这不是垃圾",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "这不是骗局",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "合法报价",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "法律声明",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "法院命令",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "政府拨款",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "免费赠款",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "美国国税局",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "退税",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "会议": -0.3,
+        "日程": -0.3,
+        "项目": -0.3,
+        "最后期限": -0.3,
+        "随附的": -0.3,
+        "依恋": -0.3,
+        "问候": -0.2,
+        "真挚地": -0.2,
+        "谢谢": -0.3,
+        "后续报道": -0.3,
+        "如讨论中所述": -0.5,
+        "根据我们的谈话": -0.5,
+        "发票": -0.2,
+        "报告": -0.2,
+        "概括": -0.2,
+        "分钟": -0.3,
+        "议程": -0.3,
+        "仓库": -0.5,
+        "拉取请求": -0.8,
+        "犯罪": -0.5,
+        "合并": -0.5,
+        "分支": -0.5,
+        "部署": -0.5,
+        "文档": -0.3
+    },
+    "bayesianTokens": {
+        "伟哥": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "希爱力": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "放大": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "尼日利亚": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "遗产": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "受益人": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "彩票": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "优胜者": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "头奖": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "取消订阅": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "选择退出": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "点击": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "自由的": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "钱": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "现金": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "奖": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "韩元": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "紧迫的": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "立即地": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "行为": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "有限的": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "提供": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "折扣": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "保证": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "无风险": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "义务": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "信用": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "债务": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "贷款": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "抵押": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "药店": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "处方": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "药物": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "药片": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "重量": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "饮食": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "失去": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "磅": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "买": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "命令": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "购买": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "销售": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "便宜的": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "节省": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "交易": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "特别的": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "独家的": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "奖金": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "礼物": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "恭喜！": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "选定": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "确认": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "核实": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "帐户": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "密码": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "暂停": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "已锁定": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "安全": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "更新": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "贝宝": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "亚马逊": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "银行": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "金属丝": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "转移": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "路由": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "迅速": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "西": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "联盟": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "速汇金": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "比特币": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "加密货币": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "钱包": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "区块链": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "会议": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "日程": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "项目": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "团队": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "最后期限": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "随附的": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "依恋": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "文档": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "报告": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "审查": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "反馈": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "讨论": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "议程": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "分钟": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "称呼": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "问候": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "真挚地": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "谢谢": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "感谢": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "欣赏": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "下列的": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "对话": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "发票": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "收据": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "概括": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "分析": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "研究": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "数据": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "结果": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "仓库": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "犯罪": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "合并": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "分支": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "拉": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "要求": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "部署": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "建造": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "测试": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "调试": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "错误": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "漏洞": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "使固定": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "问题": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "特征": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "发布": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "版本": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "服务器": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "数据库": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "询问": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "功能": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "多变的": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "班级": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "方法": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "界面": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "紧迫的",
+        "即时",
+        "立即地",
+        "尽快",
+        "立即行动",
+        "不要拖延",
+        "匆忙",
+        "限时优惠",
+        "到期",
+        "最后期限",
+        "最后机会",
+        "最后通知",
+        "时间敏感型",
+        "立即回复",
+        "需要采取行动"
+    ],
+    "greetingWords": [
+        "你好",
+        "你好",
+        "亲爱的",
+        "嘿",
+        "问候",
+        "早上好",
+        "下午好",
+        "晚上好"
+    ],
+    "genericGreetings": [
+        "尊敬的先生",
+        "尊敬的女士",
+        "尊敬的顾客",
+        "尊敬的用户",
+        "尊敬的会员",
+        "亲爱的朋友",
+        "尊敬的",
+        "亲爱的收件人",
+        "尊敬的受益人"
+    ]
+}

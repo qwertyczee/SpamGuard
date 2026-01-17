@@ -11,7 +11,7 @@ import type {
     ParsedEmail,
 } from "../types";
 import type { LanguageDataset, SpamWord } from "../data/languages/schema";
-import { getLanguageData } from "../data/languages";
+import { getEnglishData } from "../data/languages";
 import {
     calculateTextStats,
     normalizeText,
@@ -117,10 +117,9 @@ export function analyzeContent(
     const matches: RuleMatch[] = [];
     let totalScore = 0;
 
-    // Get language dataset
+    // Get language dataset (use provided data or fall back to English)
     const langData =
-        options.languageData ||
-        getLanguageData(options.languageCode || "en");
+        options.languageData || getEnglishData();
 
     // Get text content
     const textBody = email.textBody || "";
@@ -249,7 +248,8 @@ export function analyzeContent(
     }
 
     // Check ham words using language-specific data (reduce score)
-    for (const [hamWord, adjustment] of Object.entries(langData.hamWords)) {
+    const hamEntries = Object.entries(langData.hamWords) as [string, number][];
+    for (const [hamWord, adjustment] of hamEntries) {
         if (normalizedAll.includes(hamWord)) {
             matches.push({
                 rule: {

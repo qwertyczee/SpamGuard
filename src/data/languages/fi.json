@@ -1,0 +1,1381 @@
+{
+    "language": "fi",
+    "languageName": "Finnish",
+    "spamWords": [
+        {
+            "word": "nigerian prinssi",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "tilisiirto",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "pankkitilin tiedot",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "perintörahasto",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "lunastamattomat varat",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "edunsaaja",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "miljoonaa dollaria",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "miljoonaa yhdysvaltain dollaria",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "siirtomaksu",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "käsittelymaksu",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "ennakkomaksu",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "western union",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "bitcoin-lompakko",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "kryptovaluuttasijoitus",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "tuplaa bitcoinisi",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "kryptoarvonta",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "toimi nyt",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "toimi välittömästi",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "kiireellinen vastaus",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "kiireellinen huomio",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "välittömät toimet",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "rajoitetun ajan",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "vanhenee tänään",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "viimeinen mahdollisuus",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "viimeinen ilmoitus",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "vastaa välittömästi",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "24 tunnin sisällä",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "48 tunnin sisällä",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "aikaherkkä",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "älä viivyttele",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "onnittelut voittajalle",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "olet voittanut",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "arpajaisvoittaja",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "palkintoilmoitus",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "lunasta palkintosi",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "voittoilmoitus",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "onnekas voittaja",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "valittu voittaja",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "rahapalkinto",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ilmainen palkinto",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "arpajaiset",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "vahvista tilisi",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "vahvista henkilöllisyytesi",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "päivitä maksusi",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "jäädytetty tili",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "tili jäädytetty",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "epätavallinen toiminta",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "epäilyttävä toiminta",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "luvaton pääsy",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "napsauta tästä vahvistaaksesi",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "kirjautumistiedot",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "salasanan palautus",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "turvallisuushälytys",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "tilisi on",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "varmentamatta jättäminen",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "aktivoi uudelleen",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "peruuta tilaus",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "klikkaa tästä",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "osta nyt",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "tilaa nyt",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ilmainen tarjous",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "erikoistarjous",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "yksinoikeustarjous",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "riskitön",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ei velvoitetta",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "rahat takaisin -takuu",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "tyytyväisyystakuu",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "soita nyt",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "maksuton",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100 % ilmainen",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "täysin ilmainen",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ei kustannuksia",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ei maksuja",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "halvin hinta",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "paras hinta",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "alennus",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "säästä paljon",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "säästää rahaa",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "tuplaa omasi",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "lisää omaa",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ansaita rahaa",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ansaita rahaa",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "lisätuloja",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "etätyö",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ole oma pomosi",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "taloudellinen vapaus",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "rikastua",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "saada palkkaa",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "välitön pääsy",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "liity miljooniin",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "apteekki",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "verkkoapteekki",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "kanadalainen apteekki",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "resepti",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ilman reseptiä",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "ilman reseptiä",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "erektiohäiriö",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "painonpudotus",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "laihtua",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "laihtua",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "laihdutuspilleri",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "rasvanpolttaja",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "ihmelääke",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "luonnollinen lääke",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "ikääntymistä estävä",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "aikuisille suunnattu sisältö",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "aikuisten deittailu",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "tavata sinkkuja",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "kuumia sinkkuja",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "yksinäiset naiset",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "yksinäinen kotirouva",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "rakas ystävä",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "rakas rakastettu",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "hyvä herra/rouva",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "luottamuksellinen",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "ehdottoman luottamuksellinen",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "yksityinen ja luottamuksellinen",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "älä jätä huomiotta",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "täytyy vastata",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "tämä ei ole roskapostia",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "tämä ei ole roskaa",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ei huijaus",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "laillinen tarjous",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "oikeudellinen huomautus",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "tuomioistuimen määräys",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "valtionavustus",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ilmainen apuraha",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "verovirasto",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "veronpalautus",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "kokous": -0.3,
+        "ajoittaa": -0.3,
+        "projekti": -0.3,
+        "määräaika": -0.3,
+        "liitteenä": -0.3,
+        "liite": -0.3,
+        "terveiset": -0.2,
+        "vilpittömästi": -0.2,
+        "kiitos": -0.3,
+        "seuranta": -0.3,
+        "kuten keskusteltiin": -0.5,
+        "keskustelumme perusteella": -0.5,
+        "laskuttaa": -0.2,
+        "raportti": -0.2,
+        "yhteenveto": -0.2,
+        "minuuttia": -0.3,
+        "asialista": -0.3,
+        "konferenssi": -0.3,
+        "arkisto": -0.5,
+        "pull-pyyntö": -0.8,
+        "sitoutua": -0.5,
+        "yhdistää": -0.5,
+        "haara": -0.5,
+        "ottaa käyttöön": -0.5,
+        "dokumentaatio": -0.3
+    },
+    "bayesianTokens": {
+        "viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "laajentuminen": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "nigerialainen": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "perintö": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "edunsaaja": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "arpajaiset": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "voittaja": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "jättipotti": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "peruuta tilaus": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "kieltäytyminen": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "klikkaus": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ilmainen": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "raha": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "käteinen": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "palkinto": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "voitti": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "kiireellinen": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "heti": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "toimia": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "rajoitettu": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "tarjous": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "alennus": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "taattu": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "riskitön": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "velvollisuus": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "luotto": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "velka": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "lainata": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "kiinnitys": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "apteekki": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "resepti": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "lääkitys": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "pillerit": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "paino": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "ruokavalio": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "menettää": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "puntaa": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "ostaa": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "tilata": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "alennusmyynti": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "halpa": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "tallentaa": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "sopimus": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "erityinen": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "yksinomainen": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "bonus": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "lahja": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "onnittelut": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "valittu": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "vahvistaa": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "varmistaa": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "tili": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "salasana": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "keskeytetty": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "lukittu": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "turvallisuus": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "päivittää": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazon": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "pankki": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "lanka": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "siirtää": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "reititys": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "nopea": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "länsimainen": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "liitto": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "kryptovaluutta": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "lompakko": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "lohkoketju": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "kokous": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ajoittaa": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "projekti": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "joukkue": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "määräaika": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "liitteenä": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "liite": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "asiakirja": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "raportti": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "arvostelu": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "palaute": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "keskustelu": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "asialista": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "minuuttia": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "konferenssi": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "soittaa": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "terveiset": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "vilpittömästi": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "kiitos": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "kiittää": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "arvostaa": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "jälkeen": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "keskusteltu": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "laskuttaa": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "kuitti": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "yhteenveto": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "analyysi": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "tutkimus": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "data": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "tulokset": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "arkisto": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "sitoutua": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "yhdistää": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "haara": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "vedä": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "pyytää": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "ottaa käyttöön": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "rakentaa": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "testata": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "virheenjäljitys": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "virhe": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "vika": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "korjata": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "antaa": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ominaisuus": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "julkaisu": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "versio": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "dokumentaatio": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "palvelin": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "tietokanta": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "kysely": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "toiminto": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "muuttuja": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "luokka": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "menetelmä": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "käyttöliittymä": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "kiireellinen",
+        "välitön",
+        "heti",
+        "niin pian kuin mahdollista",
+        "toimi nyt",
+        "älä viivyttele",
+        "kiire",
+        "rajoitetun ajan",
+        "vanhenee",
+        "määräaika",
+        "viimeinen mahdollisuus",
+        "viimeinen ilmoitus",
+        "aikaherkkä",
+        "vastaa nyt",
+        "vaadittu toimenpide"
+    ],
+    "greetingWords": [
+        "hei",
+        "hei",
+        "rakas",
+        "hei",
+        "tervehdykset",
+        "hyvää huomenta",
+        "hyvää iltapäivää",
+        "hyvää iltaa"
+    ],
+    "genericGreetings": [
+        "hyvä herra",
+        "hyvä rouva",
+        "hyvä asiakas",
+        "hyvä käyttäjä",
+        "hyvä jäsen",
+        "rakas ystävä",
+        "rakas arvostettu",
+        "rakas vastaanottaja",
+        "hyvä edunsaaja"
+    ]
+}

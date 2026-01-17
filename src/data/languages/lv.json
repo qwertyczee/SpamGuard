@@ -1,0 +1,1381 @@
+{
+    "language": "lv",
+    "languageName": "Latvian",
+    "spamWords": [
+        {
+            "word": "nigērijas princis",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "bankas pārskaitījums",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "bankas konta dati",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "mantojuma fonds",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "nepieprasīti līdzekļi",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "saņēmējs",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "miljons dolāru",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "miljons asv dolāru",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "pārskaitījuma maksa",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "apstrādes maksa",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "avansa maksa",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "rietumu savienība",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "bitkoinu maks",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "kriptovalūtu investīcijas",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "divkāršojiet savu bitkoinu",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "kriptovalūtu izloze",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "rīkojies tagad",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "rīkoties nekavējoties",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "steidzama atbilde",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "steidzama uzmanība",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "tūlītēja rīcība",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ierobežots laiks",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "derīguma termiņš beidzas šodien",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "pēdējā iespēja",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "pēdējais paziņojums",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "atbildēt nekavējoties",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "24 stundu laikā",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "48 stundu laikā",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "laika ziņā jutīgs",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "nekavējies",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "apsveicu uzvarētāju",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "tu esi uzvarējis",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "loterijas uzvarētājs",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "balvas paziņojums",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "pieprasiet savu balvu",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "uzvaras paziņojums",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "laimīgais uzvarētājs",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "izvēlētais uzvarētājs",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "naudas balva",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "bezmaksas balva",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "loterijas",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "verificēt savu kontu",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "apstipriniet savu identitāti",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "atjauniniet savu maksājumu",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "apturēts konts",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "konts ir apturēts",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "neparasta aktivitāte",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "aizdomīga darbība",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "nesankcionēta piekļuve",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "noklikšķiniet šeit, lai pārbaudītu",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "pieteikšanās akreditācijas dati",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "paroles atiestatīšana",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "drošības brīdinājums",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "jūsu konts būs",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "neizdevās verificēt",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "atkārtoti aktivizēt savu",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "atteikties no abonēšanas",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "noklikšķiniet šeit",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "pirkt tagad",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "pasūtīt tagad",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "bezmaksas piedāvājums",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "īpašais piedāvājums",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ekskluzīvs piedāvājums",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "bez riska",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "bez saistībām",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "naudas atmaksas garantija",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "apmierinātība garantēta",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "zvaniet tūlīt",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "bezmaksas tālrunis",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% bez maksas",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "pilnīgi bez maksas",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "bez maksas",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "bez maksas",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "zemākā cena",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "labākā cena",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "atlaide",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "ietaupīt lielu",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ietaupīt naudu",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "dubultojiet savu",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "palieliniet savu",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "nopelnīt naudu",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "pelnīt naudu",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "papildu ienākumi",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "darbs no mājām",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "esi pats sev priekšnieks",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "finansiālā brīvība",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "kļūt bagātam",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "saņemt samaksu",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "tūlītēja piekļuve",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "pievienojieties miljoniem",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "aptieka",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "tiešsaistes aptieka",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "kanādas aptieka",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "recepte",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "bez receptes",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "bez receptes",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "erektilā disfunkcija",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "svara zudums",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "zaudēt svaru",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "zaudēt mārciņas",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "diētas tabletes",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "tauku dedzinātājs",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "brīnumlīdzeklis",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "dabisks līdzeklis",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "pretnovecošanās līdzeklis",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "pieaugušajiem paredzēts saturs",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "pieaugušo iepazīšanās",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "satikt vientuļus cilvēkus",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "karsti singli",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "vientuļas sievietes",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "vientuļa mājsaimniece",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "dārgais draugs",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "dārgais mīļotais",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "godātais kungs/kundze",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "konfidenciāls",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "stingri konfidenciāli",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "privāta un konfidenciāla",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "neignorējiet",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "jāatbild",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "tas nav surogātpasts",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "tas nav atkritumi",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "nav krāpniecība",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "likumīgs piedāvājums",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "juridisks paziņojums",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "tiesas rīkojums",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "valdības dotācija",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "bezmaksas dotācija",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "nodokļu atmaksa",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "tikšanās": -0.3,
+        "grafiks": -0.3,
+        "projekts": -0.3,
+        "termiņš": -0.3,
+        "pievienots": -0.3,
+        "pielikums": -0.3,
+        "sveicieni": -0.2,
+        "sirsnīgi": -0.2,
+        "paldies": -0.3,
+        "sekojot līdzi": -0.3,
+        "kā apspriests": -0.5,
+        "pēc mūsu sarunas": -0.5,
+        "rēķins": -0.2,
+        "ziņojums": -0.2,
+        "kopsavilkums": -0.2,
+        "minūtes": -0.3,
+        "darba kārtība": -0.3,
+        "konference": -0.3,
+        "repozitorijs": -0.5,
+        "pieprasījuma": -0.8,
+        "izdarīt": -0.5,
+        "apvienot": -0.5,
+        "filiāle": -0.5,
+        "izvietot": -0.5,
+        "dokumentācija": -0.3
+    },
+    "bayesianTokens": {
+        "viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "paplašināšanās": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "nigēriešu": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "mantojums": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "saņēmējs": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "loterija": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "uzvarētājs": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "džekpots": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "atteikties no abonēšanas": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "atteikties": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "klikšķis": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "bezmaksas": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "nauda": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "skaidra nauda": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "balva": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "uzvarēja": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "steidzams": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "nekavējoties": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "akts": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "ierobežots": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "piedāvājums": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "atlaide": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "garantēts": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "bez riska": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "pienākums": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "kredīts": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "parāds": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "aizdevums": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "hipotēka": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "aptieka": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "recepte": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "medikamenti": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "tabletes": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "svars": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "diēta": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "zaudēt": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "mārciņas": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "pirkt": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "pasūtījums": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "pirkums": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "izpārdošana": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "lēts": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "saglabāt": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "darījums": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "īpašs": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ekskluzīvs": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "bonuss": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "dāvana": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "apsveikumi": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "atlasīts": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "apstiprināt": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "pārbaudīt": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "konts": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "parole": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "apturēta": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "bloķēts": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "drošība": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "atjauninājums": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazon": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "banka": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "stieple": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "pārskaitījums": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "maršrutēšana": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ātrs": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "rietumu": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "savienība": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitkoins": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "kriptovalūta": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "maks": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "blokķēde": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "tikšanās": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "grafiks": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "projekts": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "komanda": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "termiņš": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "pievienots": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "pielikums": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "dokuments": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "ziņojums": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "apskats": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "atsauksmes": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "diskusija": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "darba kārtība": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "minūtes": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "konference": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "zvans": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "sveicieni": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "sirsnīgi": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "paldies": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "novērtēt": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "sekojošais": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "apspriests": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "saruna": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "rēķins": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "kvīts": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "kopsavilkums": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "analīze": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "pētījums": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "dati": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "rezultāti": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "repozitorijs": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "izdarīt": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "apvienot": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "filiāle": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "vilkt": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "pieprasījums": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "izvietot": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "būvēt": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "pārbaude": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "atkļūdot": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "kļūda": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "labot": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "jautājums": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "iezīme": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "atbrīvošana": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "versija": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "dokumentācija": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "serveris": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "datubāze": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "vaicājums": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "funkcija": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "mainīgais": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "klase": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "metode": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "saskarne": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "steidzams",
+        "tūlītēja",
+        "nekavējoties",
+        "pēc iespējas ātrāk",
+        "rīkojies tagad",
+        "nekavējies",
+        "steigā",
+        "ierobežots laiks",
+        "derīguma termiņš beidzas",
+        "termiņš",
+        "pēdējā iespēja",
+        "pēdējais paziņojums",
+        "laika ziņā jutīgs",
+        "atbildēt tagad",
+        "nepieciešama darbība"
+    ],
+    "greetingWords": [
+        "sveiki",
+        "sveiki",
+        "dārgais",
+        "hei",
+        "sveicieni",
+        "labrīt",
+        "labdien",
+        "labvakar"
+    ],
+    "genericGreetings": [
+        "dārgais kungs",
+        "dārgā kundze",
+        "dārgais klient",
+        "cienījamais lietotāj!",
+        "dārgais biedri",
+        "dārgais draugs",
+        "dārgais, vērtīgais",
+        "dārgais saņēmējs",
+        "dārgais saņēmējs"
+    ]
+}

@@ -1,0 +1,1381 @@
+{
+    "language": "hy",
+    "languageName": "Armenian",
+    "spamWords": [
+        {
+            "word": "նիգերիայի արքայազն",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "բանկային փոխանցում",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "բանկային հաշվի մանրամասները",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "ժառանգության ֆոնդ",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "չպահանջված միջոցներ",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "շահառու",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "միլիոն դոլար",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "միլիոն ամն դոլար",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "փոխանցման վճար",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "մշակման վճար",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "նախավճար",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "արևմտյան միություն",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "մանիգրամ",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "բիթքոյն դրամապանակ",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "կրիպտոարժույթային ներդրում",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "կրկնապատկեք ձեր բիթքոյնը",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "կրիպտո նվեր",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "գործիր հիմա",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "անմիջապես գործիր",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "շտապ արձագանք",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "անհապաղ ուշադրություն",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "անհապաղ գործողություն",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "սահմանափակ ժամանակ",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "լրանում է այսօր",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "վերջին հնարավորություն",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "վերջնական ծանուցում",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "անմիջապես արձագանքել",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "24 ժամվա ընթացքում",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "48 ժամվա ընթացքում",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "ժամանակի նկատմամբ զգայուն",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "մի՛ հետաձգիր",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "շնորհավորում եմ հաղթողին",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "դու հաղթել ես",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "վիճակախաղի հաղթող",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "մրցանակի մասին ծանուցում",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "պահանջեք ձեր մրցանակը",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "հաղթողի ծանուցում",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "բախտավոր հաղթող",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ընտրված հաղթող",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "դրամական մրցանակ",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "անվճար մրցանակ",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "վիճակախաղեր",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "հաստատեք ձեր հաշիվը",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "հաստատեք ձեր ինքնությունը",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "թարմացրեք ձեր վճարումը",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "կասեցված հաշիվ",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "հաշիվը կասեցված է",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "անսովոր գործունեություն",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "կասկածելի գործունեություն",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "չարտոնված մուտք",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "սեղմեք այստեղ՝ ստուգելու համար",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "մուտքի տվյալներ",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "գաղտնաբառի վերականգնում",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "անվտանգության ծանուցում",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "ձեր հաշիվը կլինի",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ստուգման ձախողում",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "վերաակտիվացրեք ձեր",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "հրաժարվել բաժանորդագրությունից",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "սեղմեք այստեղ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "գնել հիմա",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "պատվիրեք հիմա",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "անվճար առաջարկ",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "հատուկ առաջարկ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "բացառիկ գործարք",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ռիսկից զերծ",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ոչ մի պարտավորություն",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "գումարի վերադարձման երաշխիք",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "գոհունակությունը երաշխավորված է",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "զանգահարեք հիմա",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "անվճար զանգ",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% անվճար",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "լիովին անվճար",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "անվճար",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "վճարներ չկան",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ամենացածր գինը",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "լավագույն գինը",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "զեղչ",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "մեծ խնայողություն",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "խնայեք գումար",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "կրկնապատկեք ձեր",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "մեծացրեք ձեր",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "գումար վաստակել",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "գումար վաստակել",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "լրացուցիչ եկամուտ",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "աշխատել տնից",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "եղիր քո սեփական ղեկավարը",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ֆինանսական ազատություն",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "հարստանալ",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "վարձատրվել",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ակնթարթային մուտք",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "միացե՛ք միլիոնավորներին",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "վիագրա",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "սիալիս",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "դեղատուն",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "առցանց դեղատուն",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "կանադական դեղատուն",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "դեղատոմս",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "առանց դեղատոմսի",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "առանց դեղատոմսի",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "էրեկտիլ դիսֆունկցիա",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "քաշի կորուստ",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "նիհարել",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "կորցնել կիլոգրամներ",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "դիետիկ հաբ",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "ճարպ այրիչ",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "հրաշագործ բուժում",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "բնական միջոց",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "ծերացման դեմ",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "մեծահասակների համար նախատեսված բովանդակություն",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "մեծահասակների ժամադրություններ",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "հանդիպել միայնակների",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "տաք միայնակներ",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "միայնակ կանայք",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "միայնակ տնային տնտեսուհի",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "սիրելի ընկեր",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "սիրելիս",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "հարգելի պարոն/տիկին",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "գաղտնի",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "խիստ գաղտնի",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "անձնական և գաղտնի",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "մի անտեսիր",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "պետք է արձագանքի",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "սա սպամ չէ",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "սա աղբ չէ",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ոչ թե խաբեություն",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "օրինական առաջարկ",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "իրավական ծանուցում",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "դատարանի որոշում",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "կառավարության դրամաշնորհ",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "անվճար դրամաշնորհ",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "հարկային բեռ",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "հարկի վերադարձ",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "հանդիպում": -0.3,
+        "ժամանակացույց": -0.3,
+        "նախագիծ": -0.3,
+        "վերջնաժամկետ": -0.3,
+        "կցված": -0.3,
+        "կցորդ": -0.3,
+        "հարգանքներով": -0.2,
+        "անկեղծորեն": -0.2,
+        "շնորհակալություն": -0.3,
+        "հետևողականություն": -0.3,
+        "ինչպես քննարկվել է": -0.5,
+        "մեր զրույցի համաձայն": -0.5,
+        "հաշիվ-ապրանքագիր": -0.2,
+        "հաշվետվություն": -0.2,
+        "ամփոփում": -0.2,
+        "րոպե": -0.3,
+        "օրակարգ": -0.3,
+        "համաժողով": -0.3,
+        "պահոց": -0.5,
+        "քաշել հարցումը": -0.8,
+        "կատարել": -0.5,
+        "միաձուլել": -0.5,
+        "ճյուղ": -0.5,
+        "տեղակայել": -0.5,
+        "փաստաթղթեր": -0.3
+    },
+    "bayesianTokens": {
+        "վիագրա": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "սիալիս": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "մեծացում": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "նիգերիական": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "ժառանգություն": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "շահառու": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "վիճակախաղ": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "հաղթող": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "ջեքփոթ": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "հրաժարվել բաժանորդագրությունից": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "հրաժարվել": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "սեղմել": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "անվճար": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "փող": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "կանխիկ": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "մրցանակ": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "հաղթեց": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "շտապ": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "անմիջապես": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "գործողություն": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "սահմանափակ": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "առաջարկ": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "զեղչ": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "երաշխավորված": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "ռիսկից զերծ": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "պարտավորություն": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "վարկ": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "պարտք": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "հիփոթեք": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "դեղատուն": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "դեղատոմս": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "դեղորայք": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "դեղահաբեր": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "քաշը": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "դիետա": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "պարտվել": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "ֆունտ": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "գնել": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "կարգ": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "գնում": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "վաճառք": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "էժան": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "պահպանել": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "գործարք": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "հատուկ": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "բացառիկ": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "բոնուս": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "նվեր": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "շնորհավորանքներ": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "ընտրված": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "հաստատել": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ստուգել": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "հաշիվ": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "գաղտնաբառ": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "կասեցված": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "կողպված": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "անվտանգություն": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "թարմացում": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ամազոն": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "բանկ": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "մետաղալար": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "փոխանցում": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "երթուղի": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "արագ": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "արևմտյան": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "միություն": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "մանիգրամ": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "բիթքոյն": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "կրիպտոարժույթ": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "դրամապանակ": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "բլոկչեյն": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "հանդիպում": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ժամանակացույց": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "նախագիծ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "թիմ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "վերջնաժամկետ": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "կցված": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "կցորդ": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "փաստաթուղթ": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "հաշվետվություն": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "վերանայում": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "հետադարձ կապ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "քննարկում": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "օրակարգ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "րոպե": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "համաժողով": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "զանգ": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "հարգանքներով": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "անկեղծորեն": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "շնորհակալություն": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "գնահատել": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "հետևող": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "քննարկված": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "զրույց": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "հաշիվ-ապրանքագիր": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "ստացական": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "ամփոփում": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "վերլուծություն": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "հետազոտություն": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "տվյալներ": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "արդյունքներ": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "պահոց": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "կատարել": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "միաձուլել": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ճյուղ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "քաշել": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "խնդրանք": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "տեղակայել": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "կառուցել": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "փորձարկում": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "վրիպազերծում": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "սխալ": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "միջատ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "շտկել": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "թողարկում": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "առանձնահատկություն": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ազատ արձակել": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "տարբերակ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "փաստաթղթեր": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "սերվեր": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "տվյալների բազա": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "հարցում": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ֆունկցիա": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "փոփոխական": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "դաս": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "մեթոդ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ինտերֆեյս": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "շտապ",
+        "անհապաղ",
+        "անմիջապես",
+        "հնարավորինս շուտ",
+        "գործիր հիմա",
+        "մի՛ հետաձգիր",
+        "շտապել",
+        "սահմանափակ ժամանակ",
+        "ժամկետը լրանում է",
+        "վերջնաժամկետ",
+        "վերջին հնարավորություն",
+        "վերջնական ծանուցում",
+        "ժամանակի նկատմամբ զգայուն",
+        "պատասխանիր հիմա",
+        "պահանջվում է գործողություն"
+    ],
+    "greetingWords": [
+        "բարև",
+        "բարև",
+        "սիրելի",
+        "հեյ",
+        "ողջույններ",
+        "բարի լույս",
+        "բարի կեսօր",
+        "բարի երեկո"
+    ],
+    "genericGreetings": [
+        "սիրելի պարոն",
+        "սիրելի տիկին",
+        "սիրելի հաճախորդ",
+        "սիրելի օգտատեր",
+        "սիրելի անդամ",
+        "սիրելի ընկեր",
+        "թանկագին",
+        "սիրելի ստացող",
+        "սիրելի շահառու"
+    ]
+}

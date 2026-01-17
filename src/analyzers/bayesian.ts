@@ -6,7 +6,7 @@
 
 import type { AnalyzerResult, RuleMatch, ParsedEmail } from "../types";
 import type { LanguageDataset, TokenProbability } from "../data/languages/schema";
-import { getLanguageData } from "../data/languages";
+import { getEnglishData } from "../data/languages";
 import { extractTextFromHtml } from "../utils/text";
 
 /**
@@ -108,10 +108,9 @@ export function analyzeBayesian(
 ): AnalyzerResult {
     const matches: RuleMatch[] = [];
 
-    // Get language dataset
+    // Get language dataset (use provided data or fall back to English)
     const langData =
-        options.languageData ||
-        getLanguageData(options.languageCode || "en");
+        options.languageData || getEnglishData();
 
     // Get all text content
     const textBody = email.textBody || "";

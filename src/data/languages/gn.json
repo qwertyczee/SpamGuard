@@ -1,0 +1,1378 @@
+{
+    "language": "gn",
+    "languageName": "Guarani",
+    "spamWords": [
+        {
+            "word": "príncipe nigeriano rehegua",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "transferencia de alambre rehegua",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "umi detalle cuenta bancaria rehegua",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "fondo herencia rehegua",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "umi fondo ndojejeruréiva",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "beneficiario rehegua",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "millones de dólares",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "millón usd",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "cuota de transferencia rehegua",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "cuota de procesamiento rehegua",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "cuota anticipada rehegua",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "unión occidental rehegua",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "pirapire rehegua",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "billetera bitcoin rehegua",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "inversión criptomoneda rehegua",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "doble nde bitcoin rehegua",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "cripto ñeme’ẽ",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "eactua ko’áĝa",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "oactua pya’e",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "ombohovái pya’e",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "atención urgente rehegua",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "acción pya’e ojejapóva",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "tiempo limitado",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ovenséva ko árape",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "oportunidad paha",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "marandu paha",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ombohovái pya’e",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "24 aravo’i ryepýpe",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "48 aravo’i ryepýpe",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "tiempo rehegua",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ani rembotapykue",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "vy'apavê ganador",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "peẽ pegana vaʼekue",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "lotería oganáva",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "jopói rehegua marandu",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ejerure nde jopói",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "marandu oganáva",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "afortunado ganador",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ojeporavóva ganador",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "jopói efectivo rehegua",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "jopói gratis",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "sorteo rehegua",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "emoañete nde cuenta",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "emoañete nde identidad",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "embopyahu nde jehepyme’ẽ",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "cuenta suspendida rehegua",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "cuenta oñesuspende",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "tembiapo jepivegua’ỹva",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "actividad sospechosa rehegua",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "jeike ndojeautorisáiva",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "eity ko’ápe emoañete hag̃ua",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "umi credencial jeikerã rehegua",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ñe’ẽñemi ñemohenda jey",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "alerta seguridad rehegua",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "nde cuenta ha’éta",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ndojehechái haguére",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "eactiva jey nde",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ojedesabona va’erã",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "eity ko’ápe",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ejogua ko’áĝa",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "orden ko'ágã",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "oferta gratuita rehegua",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "oferta especial rehegua",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "trato exclusivo rehegua",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ndorekói riesgo",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ndaipóri obligación",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "garantía de devolución de dinero rehegua",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "satisfacción oñegarantisáva",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ehenói ko’áĝa",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "peaje gratuito rehegua",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% gratis",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "completamente gratis",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ndojehepyme’ẽi mba’eve",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ndaipóri honorario",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "precio imbovyvéva",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "precio iporãvéva",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "hepysa'ive",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "osalva tuicha",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "oñongatu viru",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "doble nde",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "embohetave nde",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ogana viru",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ojapo viru",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ingreso extra rehegua",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "omba’apo ógagui",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ha’e nde jefe tee",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "libertad financiera rehegua",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ipirapire heta mba’e",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ojepaga haguã",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "jeike pya’e",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ojoaju millones-pe",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra rehegua",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cialis rehegua",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "farmacia rehegua",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "farmacia en línea rehegua",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "farmacia canadiense rehegua",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "receta rehegua",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ndaipóri receta",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "receta’ỹre",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "disfunción eréctil rehegua",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "pérdida de peso rehegua",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "oguejy haguã ipire",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "operde umi kilo",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "dieta píldora rehegua",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "ikyrakue jehapyha",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "pohã milagro rupive",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "remedio natural rehegua",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "antienvejecimiento rehegua",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "contenido adulto rehegua",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "umi kakuaáva ndive osẽva",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "oikuaa umi soltero-kuérape",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "umi soltero hakuáva",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "kuña ha’eño",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "kuña ogapypegua ha’eño",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "angirũ ahayhuetéva",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "querido querido",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "querido karai/kuñakarai",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "confidencial rehegua",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "estrictamente confidencial rehegua",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "privado ha confidencial rehegua",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ani pemboyke",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ombohováiva’erã",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "kóva ndaha’éi spam",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "péva ndaha’éi basura",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ndaha’éi peteĩ estafa",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "oferta legítima rehegua",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "marandu legal rehegua",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "orden judicial rehegua",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "subvención gobierno rehegua",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "subvención gratuita rehegua",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "impuesto jehepyme’ẽ jey",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "aty": -0.3,
+        "tiempo": -0.3,
+        "apopyrã": -0.3,
+        "arange g̃uahẽ meve": -0.3,
+        "oñembojoapýva": -0.3,
+        "ambojoaju heseve kuatia": -0.3,
+        "maitei": -0.2,
+        "jesarekópe": -0.2,
+        "aguyjevete": -0.2,
+        "aguyje": -0.3,
+        "seguimiento rehegua": -0.3,
+        "oñeñe’ẽ haguéicha": -0.5,
+        "por ñane ñomongeta": -0.5,
+        "ñemumbyrehai": -0.2,
+        "momarandu": -0.2,
+        "mombyky": -0.2,
+        "aravo'i": -0.3,
+        "agenda rehegua": -0.3,
+        "ñe'esyry": -0.3,
+        "tendañongatuha": -0.5,
+        "tira jerure": -0.8,
+        "japo": -0.5,
+        "oñembojoaju haguã": -0.5,
+        "yvyrarakã": -0.5,
+        "pyso": -0.5,
+        "kuatiañe’ẽ rehegua": -0.3
+    },
+    "bayesianTokens": {
+        "viagra rehegua": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cialis rehegua": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "ampliación rehegua": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "nigeriano": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "hejapyre": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "beneficiario rehegua": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "lotería rehegua": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "oganáva": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "jackpot rehegua": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "ojedesabona va’erã": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "optout rehegua": {
+            "spam": 0.85,
+            "ham": 0.05
+        },
+        "opt-out rehegua": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "eñemboja": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "reiguáva": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "viru": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "viruete": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "hepyme'ẽ": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "mymba'aty": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "pya'eve": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "ag̃aiténtema": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "apo": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "limitado": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "hepy'ỹva": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "hepysa'ive": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "oñegarantisa": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "ndorekóiva riesgo": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "apopyrãtee": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "ijeroviaha": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "tepyme'ẽrã": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "jeporupy": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "mbo'itaguy": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "farmacia rehegua": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "receta rehegua": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "pohã rehegua": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "pastilla rehegua": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "pohýi": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "karuporã": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "takykue": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "libras rehegua": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "jogua": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "hekopete": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "mboguejy": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "hepy'ỹ": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "pysyrõ": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "ñe'ẽpeteĩ": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "mba'eraite": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ñoite": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "bono rehegua": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "jopói": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "vy'apavê": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "ojeporavóva": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "moneĩ": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "vichea": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "mba'erepy": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "taiñomi": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "jejokopyre": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "oñemboty": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "kyhyje'ỹ": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "mbopyahu": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal rehegua": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay rehegua": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazón rehegua": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "viruñeñongatuha": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "itaembo": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "mbohasa": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "enrutamiento rehegua": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "pya’e": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "kuarahyreike gotyo": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "unión rehegua": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "pirapire rehegua": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin rehegua": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "criptomoneda rehegua": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "viruryru": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "blockchain rehegua": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "aty": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "tiempo": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "apopyrã": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "arange g̃uahẽ meve": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "oñembojoapýva": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ambojoaju heseve kuatia": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "kuatia": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "momarandu": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "mandu'arãjey": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "jeikovai": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "agenda rehegua": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "aravo'i": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ñe'esyry": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "henói": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "maitei": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "jesarekópe": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "aguyjevete": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "aguyjeme'ẽ": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "momorã": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "uperiregua": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "oñeñe’ẽ hese": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ñomongeta": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ñemumbyrehai": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "virume'ẽhare": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "mombyky": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "hesa'ỹijo": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "tembikuaareka": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "marandurenda": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "ojehecháva": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "tendañongatuha": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "japo": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "oñembojoaju haguã": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "yvyrarakã": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "mombo": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "tembijerure": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "pyso": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "mba'e'apo": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "aranduchauka": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "depuración rehegua": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "jejavy": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "myatyrõ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "mba'e": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "heseguáva": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "mosãso": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "je'eháicha": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "kuatiañe’ẽ rehegua": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "servidor rehegua": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "base de datos rehegua": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "mba'eporandu": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "hembiapo": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "variable": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "mbo'ehakoty": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "tapereko": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "interfaz rehegua": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "pya'eve",
+        "ag̃aiteguáva",
+        "ag̃aiténtema",
+        "asap",
+        "eactua ko’áĝa",
+        "ani rembotapykue",
+        "py'arag̃e",
+        "tiempo limitado",
+        "ovenséma",
+        "arange g̃uahẽ meve",
+        "oportunidad paha",
+        "marandu paha",
+        "tiempo rehegua",
+        "ombohovái ko’áĝa",
+        "acción oñeikotevêva"
+    ],
+    "greetingWords": [
+        "mba'éichapa",
+        "mba'éichapa",
+        "mi",
+        "nde",
+        "maitei",
+        "mba'éichapa ndepyhare",
+        "tandeka'aru porãite",
+        "mba'éichapa ndepyhare"
+    ],
+    "genericGreetings": [
+        "karaimi",
+        "querida señora",
+        "marchánte",
+        "querido usuario",
+        "querido miembro",
+        "angirũ ahayhuetéva",
+        "querido oñemomba’eguasúva",
+        "querido recipiente",
+        "querido beneficiario"
+    ]
+}

@@ -1,0 +1,1377 @@
+{
+    "language": "lt",
+    "languageName": "Lithuanian",
+    "spamWords": [
+        {
+            "word": "nigerijos princas",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "banko pavedimas",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "banko sąskaitos duomenys",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "paveldėjimo fondas",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "nepareikalautos lėšos",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "naudos gavėjas",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "milijonas dolerių",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "milijonas jav dolerių",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "pervedimo mokestis",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "apdorojimo mokestis",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "išankstinis mokestis",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "vakarų sąjunga",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "„moneygram“",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "bitkoinų piniginė",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "investicijos į kriptovaliutas",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "padvigubinkite savo bitkoiną",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "kriptovaliutų dovanojimas",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "veik dabar",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "veikti nedelsiant",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "skubus atsakas",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "skubus dėmesys",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "neatidėliotini veiksmai",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ribotas laikas",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "galioja šiandien",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "paskutinis šansas",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "galutinis pranešimas",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "atsakyti nedelsiant",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "per 24 valandas",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "per 48 valandas",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "laiko atžvilgiu jautrus",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "nedelsk",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "sveikinu nugalėtoją",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "tu laimėjai",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "loterijos laimėtojas",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "prizo pranešimas",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "atsiimkite savo prizą",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "laimėjimo pranešimas",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "laimingas laimėtojas",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "išrinktas nugalėtojas",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "piniginis prizas",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "nemokamas prizas",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "loterijos",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "patvirtinkite savo paskyrą",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "patvirtinti savo tapatybę",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "atnaujinkite savo mokėjimą",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "sustabdyta paskyra",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "paskyra sustabdyta",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "neįprasta veikla",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "įtartina veikla",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "neteisėta prieiga",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "spustelėkite čia, kad patvirtintumėte",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "prisijungimo duomenys",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "slaptažodžio nustatymas iš naujo",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "saugumo įspėjimas",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "jūsų sąskaita bus",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "nepavyko patikrinti",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "iš naujo suaktyvinti savo",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "atsisakyti prenumeratos",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "spustelėkite čia",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "pirkti dabar",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "užsisakykite dabar",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "nemokamas pasiūlymas",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "specialus pasiūlymas",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "išskirtinis pasiūlymas",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "nerizikinga",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "jokių įsipareigojimų",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "pinigų grąžinimo garantija",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "pasitenkinimas garantuotas",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "skambinkite dabar",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "nemokamas numeris",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% nemokama",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "visiškai nemokamai",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "be jokių išlaidų",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "jokių mokesčių",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "mažiausia kaina",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "geriausia kaina",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "nuolaida",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "sutaupyti daug",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "sutaupyti pinigų",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "padvigubinkite savo",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "padidinti savo",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "užsidirbti pinigų",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "užsidirbti pinigų",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "papildomos pajamos",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "darbas iš namų",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "būti savo paties viršininku",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "finansinė laisvė",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "praturtėti",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "gauti atlyginimą",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "momentinė prieiga",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "prisijunkite prie milijonų",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "vaistinė",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "internetinė vaistinė",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "kanados vaistinė",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "receptas",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "be recepto",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "be recepto",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "erekcijos disfunkcija",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "svorio metimas",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "numesti svorio",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "numesti svarų",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "dietos tabletė",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "riebalų degintojas",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "stebuklingas vaistas",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "natūrali priemonė",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "senėjimą stabdantis",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "turinys suaugusiesiems",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "suaugusiųjų pasimatymai",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "susipažinti su vienišiais",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "populiarūs vienišiai",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "vienišos moterys",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "vieniša namų šeimininkė",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "brangus drauge",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "brangus mylimas",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "gerbiamasis pone / gerbiamoji ponia",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "konfidencialu",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "griežtai konfidencialu",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "privatus ir konfidencialus",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "neignoruokite",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "privalo atsakyti",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "tai ne šlamštas",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "tai ne šiukšlės",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ne apgaulė",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "teisėtas pasiūlymas",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "teisinis pranešimas",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "teismo nutartis",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "vyriausybės dotacija",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "nemokama dotacija",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "mokesčių grąžinimas",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "susitikimas": -0.3,
+        "tvarkaraštis": -0.3,
+        "projektas": -0.3,
+        "terminas": -0.3,
+        "pridėtas": -0.3,
+        "priedas": -0.3,
+        "linkėjimai": -0.2,
+        "nuoširdžiai": -0.2,
+        "ačiū": -0.3,
+        "tolesni veiksmai": -0.3,
+        "kaip aptarta": -0.5,
+        "pagal mūsų pokalbį": -0.5,
+        "sąskaita faktūra": -0.2,
+        "ataskaita": -0.2,
+        "santrauka": -0.2,
+        "minutės": -0.3,
+        "darbotvarkė": -0.3,
+        "konferencija": -0.3,
+        "saugykla": -0.5,
+        "užklausa dėl ištraukimo": -0.8,
+        "įsipareigoti": -0.5,
+        "sujungti": -0.5,
+        "filialas": -0.5,
+        "dislokuoti": -0.5,
+        "dokumentacija": -0.3
+    },
+    "bayesianTokens": {
+        "viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "plėtra": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "nigerietis": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "paveldėjimas": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "naudos gavėjas": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "loterija": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "nugalėtojas": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "jackpotas": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "atsisakyti prenumeratos": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "atsisakyti": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "spustelėkite": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "nemokamas": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "pinigai": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "grynieji pinigai": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "prizas": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "laimėjo": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "skubus": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "nedelsiant": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "aktas": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "ribotas": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "pasiūlymas": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "nuolaida": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "garantuotas": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "nerizikingas": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "įsipareigojimas": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "kreditas": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "skola": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "paskola": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "hipoteka": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "vaistinė": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "receptas": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "vaistai": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "tabletės": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "svoris": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "dieta": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "prarasti": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "svarai": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "pirkti": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "užsakymas": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "pirkimas": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "išpardavimas": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "pigus": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "išsaugoti": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "sandoris": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ypatingas": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "išskirtinis": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "premija": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "dovana": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "sveikinimai": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "pasirinktas": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "patvirtinti": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "patikrinti": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "sąskaita": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "slaptažodis": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "sustabdytas": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "užrakintas": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "saugumas": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "atnaujinimas": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "„amazon“": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "bankas": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "viela": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "perkėlimas": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "maršrutizavimas": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "greitas": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "vakarietiškas": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "sąjunga": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "„moneygram“": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitkoinas": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "kriptovaliuta": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "piniginė": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "blokų grandinė": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "susitikimas": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "tvarkaraštis": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "projektas": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "komanda": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "terminas": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "pridėtas": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "priedas": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "dokumentas": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "ataskaita": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "apžvalga": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "atsiliepimai": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "diskusija": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "darbotvarkė": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "minutės": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "konferencija": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "skambutis": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "linkėjimai": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "nuoširdžiai": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "ačiū": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "vertinu": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "sekantis": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "aptartas": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "pokalbis": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "sąskaita faktūra": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "kvitas": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "santrauka": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "analizė": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "tyrimai": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "duomenys": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "rezultatai": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "saugykla": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "įsipareigoti": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "sujungti": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "filialas": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "traukti": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "prašymas": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "dislokuoti": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "statyti": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "testas": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "derinti": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "klaida": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "pataisyti": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "problema": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "funkcija": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "išleidimas": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "versija": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "dokumentacija": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "serveris": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "duomenų bazė": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "užklausa": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "kintamasis": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "klasė": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "metodas": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "sąsaja": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "skubus",
+        "neatidėliotinas",
+        "nedelsiant",
+        "kuo greičiau",
+        "veik dabar",
+        "nedelsk",
+        "skubėti",
+        "ribotas laikas",
+        "baigiasi",
+        "terminas",
+        "paskutinis šansas",
+        "galutinis pranešimas",
+        "laiko atžvilgiu jautrus",
+        "atsakyti dabar",
+        "reikalingas veiksmas"
+    ],
+    "greetingWords": [
+        "sveiki",
+        "sveiki",
+        "brangusis",
+        "ei",
+        "sveikinimai",
+        "labas rytas",
+        "laba diena",
+        "labas vakaras"
+    ],
+    "genericGreetings": [
+        "gerbiamasis pone",
+        "gerbiamoji ponia",
+        "gerbiamas klientas",
+        "gerbiamas vartotojau",
+        "gerbiamas narys",
+        "brangus drauge",
+        "brangusis, vertinamas",
+        "mielas gavėjas",
+        "mielas naudos gavėjas"
+    ]
+}

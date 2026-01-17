@@ -1,0 +1,1336 @@
+{
+    "language": "haw",
+    "languageName": "Hawaiian",
+    "spamWords": [
+        {
+            "word": "ke aliʻi o nigeria",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "hoʻoili uea",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "nā kikoʻī moʻokāki panakō",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "waihona hoʻoilina",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "nā kālā i koi ʻole ʻia",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "mea pōmaikaʻi",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "miliona kālā",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "miliona usd",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "uku hoʻoili",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "uku hana",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "uku mua",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ʻahahui komohana",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "ʻeke kālā bitcoin",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "hoʻopukapuka kālā cryptocurrency",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "pālua i kāu bitcoin",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "makana crypto",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "hana i kēia manawa",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "hana koke",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "pane wikiwiki",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ka nānā wikiwiki",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "hana koke",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "manawa palena",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "pau i kēia lā",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "manawa hope loa",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "hoʻolaha hope loa",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "e pane koke mai",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "i loko o 24 mau hola",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "i loko o 48 mau hola",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "pili i ka manawa",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "mai hoʻokaʻulua",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "hoʻomaikaʻi i ka mea lanakila",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ua lanakila ʻoe",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "mea lanakila loteri",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "hoʻolaha makana",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "e koi i kāu makana",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "leka hoʻomaopopo lanakila",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "mea lanakila laki",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ka mea lanakila i koho ʻia",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "makana kālā",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "makana manuahi",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "nā hoʻokūkū hoʻokūkū",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "e hōʻoia i kāu moʻokāki",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "e hōʻoia i kou ʻike",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "hōʻano hou i kāu uku",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "moʻokāki i hoʻopau ʻia",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "ua hoʻopau ʻia ka moʻokāki",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "hana maʻamau ʻole",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "hana kānalua",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "komo ʻae ʻole ʻia",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "kaomi ma aneʻi e hōʻoia",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "nā palapala hōʻoia komo",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "hoʻonohonoho hou i ka ʻōlelo huna",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "leka hoʻomaopopo palekana",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "e lilo ana kāu moʻokāki",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ka hōʻoia ʻole ʻana",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "e hoʻāla hou i kāu",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "hoʻopau i ke kau inoa",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "kaomi ma aneʻi",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "kūʻai i kēia manawa",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "kauoha i kēia manawa",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "hāʻawi manuahi",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "hāʻawi kūikawā",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ʻaelike kūikawā",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ʻaʻohe pilikia",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ʻaʻohe kuleana",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "hōʻoia hoʻihoʻi kālā",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "hōʻoia ʻia ka ʻoluʻolu",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "kāhea mai i kēia manawa",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "kelepona manuahi",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% manuahi",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "manuahi loa",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ʻaʻohe uku",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ʻaʻohe uku",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ke kumukūʻai haʻahaʻa loa",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ke kumukūʻai maikaʻi loa",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "hoʻēmi",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "mālama nui",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "mālama kālā",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "pālua kāu",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "e hoʻonui i kāu",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "loaʻa kālā",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "loaʻa kālā",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "loaʻa kālā keu",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "hana mai ka home",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "e lilo i kou haku ponoʻī",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ke kūʻokoʻa kālā",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "e waiwai",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "e uku ʻia",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "komo koke",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "e hui pū me nā miliona",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ʻo nā kīʻaha",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "hale kūʻai lāʻau lapaʻau",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "hale kūʻai lāʻau lapaʻau pūnaewele",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "hale kūʻai lāʻau lapaʻau kanada",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "lāʻau lapaʻau",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ʻaʻohe palapala lapaʻau",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "me ke kauoha ʻole",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "ka hana ʻino o ka erectile",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ka emi ʻana o ke kaumaha",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "e hoʻemi i ke kaumaha",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "e hoʻemi i nā paona",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "lāʻau hoʻoponopono ʻai",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "mea puhi momona",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "lāʻau lapaʻau mana",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "lāʻau lapaʻau kūlohelohe",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "kū'ē i ka ʻelemakule",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "ʻike pākeke",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ka launa pū ʻana me nā mākua",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "e hui me nā poʻe hoʻokahi",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "nā poʻe hoʻokahi wela",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "nā wahine mehameha",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "wahine noho mehameha",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "hoaaloha aloha",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "e ka mea aloha",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "e ka haku/wahine aloha",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "hūnā",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "hūnā loa",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "pilikino a hūnā",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "mai hoʻowahāwahā",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "pono e pane",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "ʻaʻole kēia he spam",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ʻaʻole kēia he ʻōpala",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ʻaʻole he hoʻopunipuni",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "hāʻawi kūpono",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "hoʻolaha kānāwai",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "kauoha a ka ʻaha hoʻokolokolo",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "kālā aupuni",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "hāʻawi manuahi",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ʻoihana hoʻolimalima (irs)",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "hoʻihoʻi ʻauhau",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "hālāwai": -0.3,
+        "papa manawa": -0.3,
+        "papahana": -0.3,
+        "lā palena pau": -0.3,
+        "hoʻopili ʻia": -0.3,
+        "hoʻopili ʻana": -0.3,
+        "me ke aloha": -0.2,
+        "me ka ʻoiaʻiʻo": -0.2,
+        "mahalo": -0.3,
+        "hahai ʻana": -0.3,
+        "e like me ka mea i kūkākūkā ʻia": -0.5,
+        "e like me kā mākou kamaʻilio ʻana": -0.5,
+        "bila hoʻopaʻa inoa": -0.2,
+        "hōʻike": -0.2,
+        "hōʻuluʻulu manaʻo": -0.2,
+        "mau minuke": -0.3,
+        "hālāwai kūkā": -0.3,
+        "waihona": -0.5,
+        "noi huki": -0.8,
+        "hoʻopaʻa": -0.5,
+        "hoʻohui": -0.5,
+        "lālā": -0.5,
+        "hoʻolaha": -0.5,
+        "palapala": -0.3
+    },
+    "bayesianTokens": {
+        "viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "ʻo nā kīʻaha": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "hoʻonui": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "nigerian": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "hoʻoilina": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "mea pōmaikaʻi": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "loteri": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "mea lanakila": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "makana nui": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "hoʻopau i ke kau inoa": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "koho ʻole": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "kaomi": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "manuahi": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "kālā": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "makana": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "lanakila": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "wikiwiki": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "koke": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "hana": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "palena ʻia": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "hāʻawi": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "hoʻēmi": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "i hōʻoia ʻia": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "ʻaʻohe pilikia": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "kuleana": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "hōʻaiʻē": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ʻaiʻē": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "moraki": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "hale kūʻai lāʻau lapaʻau": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "lāʻau lapaʻau": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "nā pila": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "kaumaha": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "ʻai": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "nalowale": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "paona": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "kūʻai": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "kauoha": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "kūʻai aku": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "makepono": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "mālama": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "ʻaelike": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "kūikawā": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "kū hoʻokahi": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "bonus": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "hoʻomaikaʻi": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "i koho ʻia": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "hōʻoia": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "moʻokāki": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "hua huna": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "hoʻopau ʻia": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "ua laka ʻia": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "palekana": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "hōʻano hou": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ʻamazon": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "panakō": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "uea": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "hoʻoili": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ke alakaʻi ʻana": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "komohana": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ʻahahui": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "kālā kālā": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ʻeke kālā": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "poloka poloka": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "hālāwai": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "papa manawa": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "papahana": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "hui": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "lā palena pau": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "hoʻopili ʻia": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "hoʻopili ʻana": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "palapala": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "hōʻike": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "loiloi": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "manaʻo hoʻihoʻi": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "kūkākūkā": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "mau minuke": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "hālāwai kūkā": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "kāhea": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "me ke aloha": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "me ka ʻoiaʻiʻo": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "mahalo": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "e hahai ana": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "kūkākūkā ʻia": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "kamaʻilio ʻana": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "bila hoʻopaʻa inoa": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "palapala hoʻokipa": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "hōʻuluʻulu manaʻo": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "noiʻi": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ʻikepili": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "nā hualoaʻa": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "waihona": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "hoʻopaʻa": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "hoʻohui": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "lālā": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "huki": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "noi": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "hoʻolaha": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "kūkulu": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "hoʻāʻo": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "hoʻoponopono hewa": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "hewa": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "pepeke": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "hoʻoponopono": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "pilikia": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "hiʻohiʻona": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "hoʻokuʻu": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "mana": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ʻapi": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "kikowaena": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "waihona ʻikepili": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "nīnau": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "loli": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "papa": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ʻano hana": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "pilina": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "wikiwiki",
+        "koke",
+        "koke",
+        "hiki wawe",
+        "hana i kēia manawa",
+        "mai hoʻokaʻulua",
+        "wikiwiki",
+        "manawa palena",
+        "pau ka manawa",
+        "lā palena pau",
+        "manawa hope loa",
+        "hoʻolaha hope loa",
+        "pili i ka manawa",
+        "e pane mai i kēia manawa",
+        "hana e pono ai"
+    ],
+    "greetingWords": [
+        "hui",
+        "aloha",
+        "aloha",
+        "ʻeā",
+        "aloha",
+        "aloha kakahiaka",
+        "aloha awakea, aloha auinalā",
+        "aloha ahiahi"
+    ],
+    "genericGreetings": [
+        "e ka haku",
+        "e kuʻu wahine aloha",
+        "mea kūʻai aku aloha",
+        "mea hoʻohana aloha",
+        "lālā aloha",
+        "hoaaloha aloha",
+        "mea i mahalo nui ʻia",
+        "e ka mea loaʻa aloha",
+        "e ka mea pōmaikaʻi"
+    ]
+}

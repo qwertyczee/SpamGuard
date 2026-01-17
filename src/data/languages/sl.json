@@ -1,0 +1,1373 @@
+{
+    "language": "sl",
+    "languageName": "Slovenian",
+    "spamWords": [
+        {
+            "word": "nigerijski princ",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "bančno nakazilo",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "podatki o bančnem računu",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "sklad za dediščino",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "nezahtevanih sredstev",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "upravičenec",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "milijon dolarjev",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "milijon ameriških dolarjev",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "provizija za prenos",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "pristojbina za obdelavo",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "predplačilo",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "zahodna unija",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "bitcoin denarnica",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "naložba v kriptovalute",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "podvojite svoj bitcoin",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "kripto nagradna igra",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "ukrepaj zdaj",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ukrepajte takoj",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "nujni odziv",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "nujna pozornost",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "takojšnje ukrepanje",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "omejen čas",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "poteče danes",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "zadnja priložnost",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "zadnje obvestilo",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "takoj odgovori",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "v 24 urah",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "v 48 urah",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "časovno občutljiv",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ne odlašaj",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "čestitke zmagovalcu",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "zmagal/a si",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "dobitnik loterije",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "obvestilo o nagradi",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "prevzemi svojo nagrado",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "obvestilo o zmagi",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "srečni zmagovalec",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "izbrani zmagovalec",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "denarna nagrada",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "brezplačna nagrada",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "nagradne igre",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "preverite svoj račun",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "potrdite svojo identiteto",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "posodobite svoje plačilo",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "začasno ustavljen račun",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "račun začasno ustavljen",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "nenavadna dejavnost",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "sumljiva dejavnost",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "nepooblaščen dostop",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "kliknite tukaj za preverjanje",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "prijavne poverilnice",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ponastavitev gesla",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "varnostno opozorilo",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "vaš račun bo",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "neuspeh pri preverjanju",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "ponovno aktivirajte svoj",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "odjavi se",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "kliknite tukaj",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "kupi zdaj",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "naroči zdaj",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "brezplačna ponudba",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "posebna ponudba",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ekskluzivna ponudba",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "brez tveganja",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "brez obveznosti",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "garancija za vračilo denarja",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "zadovoljstvo zagotovljeno",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "pokliči zdaj",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "brezplačna številka",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100 % brezplačno",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "popolnoma brezplačno",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "brez stroškov",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "brez provizij",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "najnižja cena",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "najboljša cena",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "popust",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "veliko prihranite",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "prihranite denar",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "podvoji svoje",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "povečajte svoje",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "zaslužiti denar",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "zaslužiti denar",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "dodatni dohodek",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "delo od doma",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "bodi svoj šef",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "finančna svoboda",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "obogateti",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "biti plačan",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "takojšen dostop",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "pridružite se milijonom",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "lekarna",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "spletna lekarna",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "kanadska lekarna",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "recept",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "brez recepta",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "brez recepta",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "erektilna disfunkcija",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "izguba teže",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "shujšati",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "izgubiti kilograme",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "tabletka za hujšanje",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "kurilec maščob",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "čudežno zdravilo",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "naravno zdravilo",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "proti staranju",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "vsebina za odrasle",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "zmenki za odrasle",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "spoznaj samske",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "vroče samske",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "osamljene ženske",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "osamljena gospodinja",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "dragi prijatelj",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "dragi/draga",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "spoštovani/a",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "zaupno",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "strogo zaupno",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "zasebno in zaupno",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ne prezri",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "mora odgovoriti",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "to ni neželena pošta",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "to ni smeti",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ni prevara",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "legitimna ponudba",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "pravno obvestilo",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "sodni nalog",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "državna subvencija",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "brezplačna donacija",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "vračilo davka",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "srečanje": -0.3,
+        "urnik": -0.3,
+        "projekt": -0.3,
+        "rok": -0.3,
+        "priložen": -0.3,
+        "priloga": -0.3,
+        "pozdravi": -0.2,
+        "iskreno": -0.2,
+        "hvala": -0.3,
+        "nadaljnje ukrepanje": -0.3,
+        "kot je bilo razpravljano": -0.5,
+        "po najinem pogovoru": -0.5,
+        "račun": -0.2,
+        "poročilo": -0.2,
+        "povzetek": -0.2,
+        "minut": -0.3,
+        "dnevni red": -0.3,
+        "konferenca": -0.3,
+        "skladišče": -0.5,
+        "zahteva za vlečenje": -0.8,
+        "zavezati": -0.5,
+        "združitev": -0.5,
+        "veja": -0.5,
+        "razporediti": -0.5,
+        "dokumentacija": -0.3
+    },
+    "bayesianTokens": {
+        "viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "širitev": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "nigerijski": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "dedovanje": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "upravičenec": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "loterija": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "zmagovalec": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "jackpot": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "odjavi se": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "odjava": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "klik": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "brezplačno": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "denar": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "gotovina": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "nagrada": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "zmagal": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "nujno": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "takoj": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "dejanje": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "omejeno": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "ponudba": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "popust": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "zagotovljeno": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "brez tveganja": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "obveznost": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "kredit": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "dolg": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "posojilo": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "hipoteka": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "lekarna": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "recept": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "zdravila": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "tablete": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "teža": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "dieta": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "izgubiti": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "funtov": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "kupiti": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "naročilo": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "nakup": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "prodaja": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "poceni": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "shrani": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "dogovor": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "poseben": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ekskluzivno": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "bonus": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "darilo": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "čestitke": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "izbrano": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "potrdi": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "preveri": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "račun": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "geslo": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "suspendiran": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "zaklenjeno": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "varnost": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "posodobitev": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazon": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "banka": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "žica": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "prenos": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "usmerjanje": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "hiter": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "zahodni": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "zveza": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "kriptovaluta": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "denarnica": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "veriženje blokov": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "srečanje": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "urnik": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "projekt": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ekipa": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "rok": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "priložen": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "priloga": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "dokument": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "poročilo": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "pregled": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "povratne informacije": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "razprava": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "dnevni red": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "minut": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "konferenca": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "klic": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "pozdravi": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "iskreno": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "hvala": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "cenim": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "naslednje": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "razpravljali": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "pogovor": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "potrdilo": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "povzetek": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "analiza": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "raziskave": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "podatki": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "rezultati": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "skladišče": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "zavezati": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "združitev": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "veja": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "potegniti": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "zahteva": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "razporediti": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "graditi": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "preizkus": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "odpravljanje napak": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "napaka": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "hrošč": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "popraviti": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "izdaja": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "funkcija": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "različica": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "dokumentacija": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "strežnik": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "zbirka podatkov": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "poizvedba": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "spremenljivka": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "razred": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "metoda": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "vmesnik": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "nujno",
+        "takojšnje",
+        "takoj",
+        "čim prej",
+        "ukrepaj zdaj",
+        "ne odlašaj",
+        "hiti",
+        "omejen čas",
+        "poteče",
+        "rok",
+        "zadnja priložnost",
+        "zadnje obvestilo",
+        "časovno občutljiv",
+        "odgovori zdaj",
+        "potrebno ukrepanje"
+    ],
+    "greetingWords": [
+        "zdravo",
+        "pozdravljeni",
+        "dragi/draga",
+        "hej",
+        "pozdravi",
+        "dobro jutro",
+        "dober dan",
+        "dober večer"
+    ],
+    "genericGreetings": [
+        "dragi gospod",
+        "draga gospa",
+        "spoštovani kupec",
+        "dragi uporabnik",
+        "dragi član",
+        "dragi prijatelj",
+        "dragi/draga cenjena/dragi",
+        "dragi prejemnik",
+        "dragi upravičenec"
+    ]
+}

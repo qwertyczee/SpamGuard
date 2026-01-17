@@ -1,0 +1,1389 @@
+{
+    "language": "eo",
+    "languageName": "Esperanto",
+    "spamWords": [
+        {
+            "word": "niĝeria princo",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "banktranspago",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "bankkontaj detaloj",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "hereda fonduso",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "nepostulitaj financoj",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "profitanto",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "miliono da dolaroj",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "miliono da usonaj dolaroj",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "translokiga kotizo",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "prilabora kotizo",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "antaŭpago",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "okcidenta unio",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "mongramo",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "bitmonujo",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "investo en kriptomoneroj",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "duobligu vian bitmonon",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "kripta donaco",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "agu nun",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "agi tuj",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "urĝa respondo",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "urĝa atento",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "tuja ago",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "limigita tempo",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "eksvalidiĝas hodiaŭ",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "lasta ŝanco",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "fina avizo",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "respondu tuj",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ene de 24 horoj",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ene de 48 horoj",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "temposentema",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ne prokrastu",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "gratulojn gajninto",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "vi venkis",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "loteriogajninto",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "premio-sciigo",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "postulu vian premion",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "gajnanta sciigo",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "bonŝanca gajninto",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "elektita gajninto",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "kontantpremio",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "senpaga premio",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "loterioj",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "konfirmi vian konton",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "konfirmi vian identecon",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ĝisdatigu vian pagon",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "suspendita konto",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "konto suspendita",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "nekutima agado",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "suspektinda agado",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "neaŭtorizita aliro",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "klaku ĉi tie por kontroli",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "ensalutaj akreditaĵoj",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "pasvorta restarigo",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "sekureca alarmo",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "via konto estos",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "malsukceso kontroli",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "reaktivigu vian",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "malaboni",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "klaku ĉi tie",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "aĉetu nun",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "mendu nun",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "senpaga oferto",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "speciala oferto",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ekskluziva interkonsento",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "senriska",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "neniu devo",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "garantio pri mono redonita",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "kontento garantiita",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "telefonu nun",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "senpaga",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% senpaga",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "tute senpaga",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "senkosta",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "neniuj kotizoj",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "plej malalta prezo",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "plej bona prezo",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "rabato",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "ŝparu multe",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ŝpari monon",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "duobligu vian",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "pliigu vian",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "gajni monon",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "gajni monon",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ekstra enspezo",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "laboro de hejme",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "estu via propra estro",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "financa libereco",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "riĉiĝi",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "esti pagata",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "tuja aliro",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "aliĝu al milionoj",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "apoteko",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "reta apoteko",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "kanada apoteko",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "recepto",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "sen recepto",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "sen recepto",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "erekta misfunkcio",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "malpeziĝo",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "malpeziĝi",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "perdi funtojn",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "dietopilolo",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "grasobruligilo",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "mirakla kuraco",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "natura kuracilo",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "kontraŭ-aĝiĝa",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "plenkreska enhavo",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "plenkreskula rendevuado",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "renkonti unuopaĵojn",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "varmegaj unuopaĵoj",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "solecaj virinoj",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "soleca dommastrino",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "kara amiko",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "kara amato",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "estimata sinjoro/sinjorino",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "konfidenca",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "strikte konfidenca",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "privata kaj konfidenca",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ne ignoru",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "devas respondi",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "ĉi tio ne estas spamo",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ĉi tio ne estas rubaĵo",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ne fraŭdo",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "legitima oferto",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "jura avizo",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "verdikto",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "registara subvencio",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "senpaga stipendio",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "impostrepago",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "renkontiĝo": -0.3,
+        "horaro": -0.3,
+        "projekto": -0.3,
+        "templimo": -0.3,
+        "alkroĉita": -0.3,
+        "alligitaĵo": -0.3,
+        "salutoj": -0.2,
+        "sincere": -0.2,
+        "dankon": -0.3,
+        "sekvado": -0.3,
+        "kiel diskutite": -0.5,
+        "laŭ nia konversacio": -0.5,
+        "fakturo": -0.2,
+        "raporto": -0.2,
+        "resumo": -0.2,
+        "minutoj": -0.3,
+        "tagordo": -0.3,
+        "konferenco": -0.3,
+        "deponejo": -0.5,
+        "tirpeto": -0.8,
+        "fari": -0.5,
+        "kunfandi": -0.5,
+        "branĉo": -0.5,
+        "deploji": -0.5,
+        "dokumentado": -0.3
+    },
+    "bayesianTokens": {
+        "viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "pligrandigo": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "niĝeria": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "heredaĵo": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "profitanto": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "loterio": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "gajninto": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "premiego": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "malaboni": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "elekti ne partopreni": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "klaku": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "libera": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "mono": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "kontanta mono": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "premio": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "venkis": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "urĝa": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "tuj": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "ago": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "limigita": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "oferto": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "rabato": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "garantiita": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "senriska": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "devo": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "kredito": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "ŝuldo": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "prunto": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "hipoteko": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "apoteko": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "recepto": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "medikamento": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "piloloj": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "pezo": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "dieto": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "perdi": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "funtoj": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "aĉeti": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "ordo": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "aĉeto": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "vendo": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "malmultekosta": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "konservi": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "interkonsento": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "speciala": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ekskluziva": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "gratifiko": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "donaco": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "gratulojn": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "elektita": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "konfirmi": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "kontroli": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "konto": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "pasvorto": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "suspendita": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "ŝlosita": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "sekureco": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ĝisdatigo": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazono": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "banko": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "drato": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "translokigo": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "vojigo": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "rapida": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "okcidenta": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "unio": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "mongramo": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitmono": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "kriptovaluto": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "monujo": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "blokĉeno": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "renkontiĝo": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "horaro": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "projekto": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "teamo": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "templimo": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "alkroĉita": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "alligitaĵo": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "dokumento": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "raporto": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "recenzo": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "retrosciigo": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "diskuto": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "tagordo": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "minutoj": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "konferenco": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "voko": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "salutoj": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "sincere": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "dankon": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "danki": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "aprezi": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "sekvanta": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "diskutita": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "konversacio": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "fakturo": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "kvitanco": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "resumo": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "analizo": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "esplorado": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "datumoj": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "rezultoj": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "deponejo": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "fari": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "kunfandi": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "branĉo": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "tiri": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "peto": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "deploji": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "konstrui": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "testo": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "sencimigi": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "eraro": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "cimo": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ripari": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "problemo": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "trajto": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "liberigo": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "versio": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "dokumentado": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "servilo": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "datumbazo": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "demando": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "funkcio": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "variablo": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "klaso": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "metodo": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "interfaco": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "urĝa",
+        "tuja",
+        "tuj",
+        "kiel eble plej baldaŭ",
+        "agu nun",
+        "ne prokrastu",
+        "rapidu",
+        "limigita tempo",
+        "eksvalidiĝas",
+        "templimo",
+        "lasta ŝanco",
+        "fina avizo",
+        "temposentema",
+        "respondu nun",
+        "ago necesa"
+    ],
+    "greetingWords": [
+        "saluton",
+        "saluton",
+        "kara",
+        "hej",
+        "salutoj",
+        "bonan matenon",
+        "bonan posttagmezon",
+        "bonan vesperon"
+    ],
+    "genericGreetings": [
+        "kara sinjoro",
+        "kara sinjorino",
+        "kara kliento",
+        "kara uzanto",
+        "kara membro",
+        "kara amiko",
+        "kara estimata",
+        "kara ricevanto",
+        "kara profitanto"
+    ]
+}

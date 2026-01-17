@@ -1,0 +1,1332 @@
+{
+    "language": "mi",
+    "languageName": "Maori",
+    "spamWords": [
+        {
+            "word": "te rangatira o ngāiria",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "whakawhiti waea",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "ngā taipitopito pūkete putea",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "putea tuku iho",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "ngā moni kāore i keremehia",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "te hunga whai pānga",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "miriona tāra",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "miriona tāra",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "utu whakawhiti",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "utu tukatuka",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "utu mua",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "te uniana o te hauauru",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moni karamu",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "putea bitcoin",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "haumitanga moni matihiko",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "takiruahia tō bitcoin",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "koha moni matihiko",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "mahi inaianei",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "mahi tonu",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "urupare tere",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "aro nui",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "mahi tonu",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "wā iti",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ka pau i tēnei rā",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "whai wāhitanga whakamutunga",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "pānui whakamutunga",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "whakautu tonu",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "i roto i ngā haora 24",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "i roto i ngā haora 48",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "wā-arotahi",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "kaua e whakaroa",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ngā mihi ki te toa",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "kua toa koe",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "toa rōta",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "pānuitanga taonga",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "keremehia tō taonga",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "pānuitanga toa",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "toa waimarie",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "toa i whiriwhiria",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "taonga moni",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "taonga kore utu",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ngā whakataetae",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "manatokohia tō pūkete",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "whakaū i tō tuakiri",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "whakahou i tō utu",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "pūkete kua whakatārewatia",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "kua whakatārewatia te pūkete",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "mahi rerekē",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "ngā mahi whakapae",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "urunga kore mana",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "pāwhiritia ki konei hei manatoko",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "ngā tohu takiuru",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "tautuhi kupuhipa",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "whakatūpato haumarutanga",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "ka waiho tō pūkete",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "te korenga e manatoko",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "whakahohe anō i tō",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "whakakore ohaurunga",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "pāwhiri ki konei",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "hoko inaianei",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "tono inaianei",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "tuku kore utu",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "tuku motuhake",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "kirimana motuhake",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "kore mōrearea",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "kāore he herenga",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "taurangi whakahoki moni",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "te makona kua whakamanahia",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "waea mai inaianei",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "kore utu",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% kore utu",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "tino kore utu",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "kāore he utu",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "kāore he utu",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "te utu iti rawa",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "te utu pai rawa atu",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "hekenga utu",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "penapena nui",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "penapena moni",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "takiruahia tō",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "whakanuia tō",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "whiwhi moni",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "whiwhi moni",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "moni whiwhi tāpiri",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "mahi mai i te kāinga",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "kia noho hei rangatira mōu ake",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "herekoretanga pūtea",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "whai rawa",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "whiwhi utu",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "urunga tere",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "uru atu ki ngā miriona",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "whare rongoā",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "whare rongoā ipurangi",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "whare rongoā o kānata",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "whakahaunga",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "kāore he whakahaunga",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "kāore he whakahaunga",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "te ngoikore o te ure",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "te whakaheke taumaha",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "whakaitihia te taumaha",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "whakaitihia ngā pauna",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "pire kai",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "te tahu ngako",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "rongoā whakamiharo",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "rongoā taiao",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "ārai-pakeketanga",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "ihirangi pakeke",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "te whakaipoipo pakeke",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "tūtaki ki ngā tāngata takitahi",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "ngā takakau wera",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ngā wāhine mokemoke",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "wahine noho mokemoke",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "hoa aroha",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "e te hoa aroha",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "e te rangatira/e kui",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "huna",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "tino huna",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "tūmataiti, ā, huna hoki",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "kaua e warewarehia",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "me whakautu",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "ehara tēnei i te pāme",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ehara tēnei i te para",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ehara i te tinihanga",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "tuku tika",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "pānui ture",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "whakatau a te kooti",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "pūtea tautoko a te kāwanatanga",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "tahua kore utu",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "whakahokinga taake",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "hui": -0.3,
+        "wātaka": -0.3,
+        "kaupapa": -0.3,
+        "rā kati": -0.3,
+        "tāpirihia": -0.3,
+        "āpitihanga": -0.3,
+        "ngā mihi": -0.3,
+        "pono": -0.2,
+        "te whai i te mahi": -0.3,
+        "e ai ki te kōrero": -0.5,
+        "e ai ki tā mātou kōrero": -0.5,
+        "nama nama": -0.2,
+        "pūrongo": -0.2,
+        "whakarāpopototanga": -0.2,
+        "meneti": -0.3,
+        "kaupapa mahi": -0.3,
+        "huihuinga": -0.3,
+        "putunga taonga": -0.5,
+        "tono tōia": -0.8,
+        "tuku": -0.5,
+        "whakakotahi": -0.5,
+        "peka": -0.5,
+        "whakatū": -0.5,
+        "ngā tuhinga": -0.3
+    },
+    "bayesianTokens": {
+        "viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "whakanui": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "te tangata o ngāiria": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "tuku iho": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "te hunga whai pānga": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "rōtā": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "toa": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "taonga nui": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "whakakore ohaurunga": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "kōwhiri kia kaua e whakauru": {
+            "spam": 0.85,
+            "ham": 0.05
+        },
+        "kōwhiri kia kaua e whiriwhiri": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "pāwhiri": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "kore utu": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "moni": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "taonga": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "tere": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "tonu": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "mahi": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "iti": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "tuku": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "hekenga utu": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "kua whakamanahia": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "kore mōrearea": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "herenga": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "nama": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "mōkete": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "whare rongoā": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "whakahaunga": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "rongoā": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "pire": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "taumaha": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "kai": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ngaro": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "pauna": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "hoko": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "tono": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "iti te utu": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "tiaki": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "whakaaetanga": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "motuhake": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "tāpiri": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "koha": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "ngā mihi": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "kua tīpakohia": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "whakaū": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "manatoko": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "pūkete": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "kupuhipa": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "i whakatārewatia": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "kua raka": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "haumarutanga": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "whakahōu": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazon": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "peeke": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "waea": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "whakawhiti": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "te ara": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "uru": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "uniana": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moni karamu": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "moni matihiko": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "pēke moni": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "poraka mekameka": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "hui": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "wātaka": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "kaupapa": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "tīma": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "rā kati": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "tāpirihia": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "āpitihanga": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "tuhinga": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "pūrongo": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "arotake": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "urupare": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "kōrero": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "kaupapa mahi": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "meneti": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "huihuinga": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "pono": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "whakawhetai": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "maioha": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "e whai ake nei": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "i kōrerohia": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "nama nama": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "rīhiti": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "whakarāpopototanga": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "tātaritanga": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "rangahau": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "raraunga": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "ngā hua": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "putunga taonga": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "whakakotahi": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "peka": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "tōia": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "whakatū": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "hanga": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "whakamātautau": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "patuiro": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "hapa": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "pepeke": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "whakatika": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "take": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "āhuatanga": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "tukunga": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "putanga": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ngā tuhinga": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "tūmau": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "pātengi raraunga": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "pātai": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "taurangi": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "akomanga": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "tikanga": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "atanga": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "tere",
+        "tonu",
+        "tonu",
+        "āianei tonu",
+        "mahi inaianei",
+        "kaua e whakaroa",
+        "hohoro",
+        "wā iti",
+        "pau te wā",
+        "rā kati",
+        "whai wāhitanga whakamutunga",
+        "pānui whakamutunga",
+        "wā-arotahi",
+        "whakautu mai inaianei",
+        "mahi e hiahiatia ana"
+    ],
+    "greetingWords": [
+        "kia ora",
+        "kia ora",
+        "e te aroha",
+        "hei",
+        "ngā mihi",
+        "mōrena",
+        "ngā mihi o te ahiahi",
+        "pō pai"
+    ],
+    "genericGreetings": [
+        "e te rangatira",
+        "e kui",
+        "kiritaki aroha",
+        "e te kaiwhakamahi",
+        "mema aroha",
+        "hoa aroha",
+        "e arohaina ana",
+        "e te kaiwhiwhi",
+        "e te hunga whai hua"
+    ]
+}

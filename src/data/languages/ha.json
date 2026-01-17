@@ -1,0 +1,1357 @@
+{
+    "language": "ha",
+    "languageName": "Hausa",
+    "spamWords": [
+        {
+            "word": "yariman najeriya",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "canja wurin waya",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "cikakkun bayanan asusun banki",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "asusun gado",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "kuɗaɗen da ba a nema ba",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "mai cin gajiyar",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "dala miliyan",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "dala miliyan",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "kudin canja wuri",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "kuɗin sarrafawa",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "kuɗin gaba",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ƙungiyar yamma",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "walat ɗin bitcoin",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "zuba jari na cryptocurrency",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "ninka bitcoin ɗinka sau biyu",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "kyautar crypto",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "yi aiki yanzu",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "yi aiki nan da nan",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "martanin gaggawa",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "gaggawa kulawa",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "mataki nan take",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "lokaci mai iyaka",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "zai ƙare a yau",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "dama ta ƙarshe",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "sanarwa ta ƙarshe",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "amsa nan take",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "cikin awanni 24",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "cikin awanni 48",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "mai saurin lokaci",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "kar a jinkirta",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "mai nasara ta taya murna",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ka yi nasara",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "wanda ya lashe caca",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "sanarwar kyaututtuka",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "nemi kyautarka",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "sanarwar cin nasara",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "mai sa'a",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "wanda aka zaɓa",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "kyautar kuɗi",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "kyauta kyauta",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "gasar share fage",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "tabbatar da asusunka",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "tabbatar da asalin ku",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "sabunta biyan kuɗin ku",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "asusun da aka dakatar",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "an dakatar da asusu",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "wani aiki na musamman",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "wani abu mai zargi",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "samun dama ba tare da izini ba",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "danna nan don tabbatarwa",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "bayanan shiga",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "sake saita kalmar sirri",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "faɗakarwar tsaro",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "asusunka zai kasance",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "gazawar tabbatarwa",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "sake kunna naka",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "cire rajista",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "danna nan",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "saya yanzu",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "yi oda yanzu",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "tayin kyauta",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "tayi na musamman",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "yarjejeniya ta musamman",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "babu haɗari",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "babu wani wajibi",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "garantin dawo da kuɗi",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "gamsuwa ta tabbata",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "kira yanzu",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "kyauta",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% kyauta",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "kyauta gaba ɗaya",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "babu farashi",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "babu kuɗi",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "mafi ƙarancin farashi",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "mafi kyawun farashi",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "rangwame",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "adana babban",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "adana kuɗi",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ninki biyu naka",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ƙara yawan ku",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "sami kuɗi",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "samun kuɗi",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ƙarin kuɗi",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "aiki daga gida",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "zama shugabanka na kanka",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "'yancin kuɗi",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "samun arziki",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "a biya",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "samun dama nan take",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "shiga miliyoyin mutane",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "kantin magani",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "kantin magani ta yanar gizo",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "kantin magani na kanada",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "takardar sayan magani",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "babu takardar sayan magani",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "ba tare da takardar likita ba",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "matsalar rashin karfin mazakuta",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "asarar nauyi",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "rage nauyi",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "rasa fam",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "maganin rage cin abinci",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "mai ƙona kitse",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "maganin mu'ujiza",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "magani na halitta",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "anti-tsufa",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "abubuwan da ke cikin manya",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "soyayyar manya",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "haɗu da marasa aure",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "masu zafi marasa aure",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "mata masu kaɗaici",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "matar gida mai kaɗaici",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "masoyiyata aboki",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "masoyiyata ƙaunatacciya",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "yallaɓai/madam",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "sirri",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "sirri sosai",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "masu zaman kansu da sirri",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "kar a yi watsi da",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "dole ne a mayar da martani",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "wannan ba wasikun banza bane",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "wannan ba shara ba ne",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ba zamba ba ne",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "tayin halaltacce",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "sanarwar doka",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "umarnin kotu",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "tallafin gwamnati",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "kyauta kyauta",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "mayar da haraji",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "taro": -0.3,
+        "jadawali": -0.3,
+        "aikin": -0.3,
+        "wa'adin ƙarshe": -0.3,
+        "a haɗe": -0.3,
+        "abin da aka haɗa": -0.3,
+        "gaisuwa": -0.2,
+        "da gaske": -0.2,
+        "na gode": -0.3,
+        "bin diddigi": -0.3,
+        "kamar yadda aka tattauna": -0.5,
+        "bisa ga tattaunawarmu": -0.5,
+        "takardar lissafin kuɗi": -0.2,
+        "rahoto": -0.2,
+        "taƙaitaccen bayani": -0.2,
+        "mintuna": -0.3,
+        "ajanda": -0.3,
+        "taron": -0.3,
+        "ma'ajiyar bayanai": -0.5,
+        "buƙatar ja": -0.8,
+        "aikata": -0.5,
+        "haɗa": -0.5,
+        "reshe": -0.5,
+        "tura": -0.5,
+        "takardun aiki": -0.3
+    },
+    "bayesianTokens": {
+        "viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "faɗaɗawa": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "ɗan najeriya": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "gado": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "mai cin gajiyar": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "caca": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "mai nasara": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "jackpot": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "cire rajista": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "fita daga": {
+            "spam": 0.85,
+            "ham": 0.05
+        },
+        "fita": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "dannawa": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "kyauta": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "kuɗi": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "tsabar kuɗi": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "ya ci nasara": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "gaggawa": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "nan da nan": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "aiki": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "iyakance": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "tayin": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "rangwame": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "an tabbatar": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "babu haɗari": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "wajibi": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "bashi": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "rancen kuɗi": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "jinginar gida": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "kantin magani": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "takardar sayan magani": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "magani": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "kwayoyi": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "nauyi": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "abinci mai gina jiki": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "rasa": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "fam": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "saya": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "oda": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "siya": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "sayarwa": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "mai arha": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "adana": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "yarjejeniya": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "na musamman": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "kari": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "taya murna": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "an zaɓa": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "tabbatar": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "asusu": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "kalmar sirri": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "an dakatar": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "kulle": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "tsaro": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "sabuntawa": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazon": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "banki": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "waya": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "canja wuri": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "hanyar sarrafawa": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "mai sauri": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "yamma": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ƙungiyar haɗin gwiwa": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "cryptocurrency": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "walat": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "blockchain": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "taro": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "jadawali": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "aikin": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ƙungiyar": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "wa'adin ƙarshe": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "a haɗe": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "abin da aka haɗa": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "takardar aiki": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "rahoto": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "bita": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ra'ayi": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "tattaunawa": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ajanda": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "mintuna": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "taron": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "kira": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "gaisuwa": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "da gaske": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "na gode": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "godiya": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "masu biyo baya": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "an tattauna": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "takardar lissafin kuɗi": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "rasit": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "taƙaitaccen bayani": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "bincike": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "bayanai": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "sakamako": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ma'ajiyar bayanai": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "aikata": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "haɗa": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "reshe": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ja": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "buƙata": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "tura": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ginawa": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "gwaji": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "gyara kurakurai": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "kuskure": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ƙwari": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "gyara": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "matsala": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "fasali": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "fitarwa": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "sigar": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "takardun aiki": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "uwar garken": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "rumbun bayanai": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "tambaya": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "mai canzawa": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "aji": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "hanyar": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "hanyar sadarwa": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "gaggawa",
+        "nan take",
+        "nan da nan",
+        "da zarar an samu",
+        "yi aiki yanzu",
+        "kar a jinkirta",
+        "sauri",
+        "lokaci mai iyaka",
+        "yana ƙarewa",
+        "wa'adin ƙarshe",
+        "dama ta ƙarshe",
+        "sanarwa ta ƙarshe",
+        "mai saurin lokaci",
+        "amsa yanzu",
+        "aikin da ake buƙata"
+    ],
+    "greetingWords": [
+        "sannu",
+        "sannu",
+        "masoyiyata",
+        "kai",
+        "gaisuwa",
+        "ina kwana",
+        "barka da yamma",
+        "barka da yamma"
+    ],
+    "genericGreetings": [
+        "ranka ya daɗe",
+        "masoyiya uwargida",
+        "masoyi abokin ciniki",
+        "masoyi mai amfani",
+        "masoyi memba",
+        "masoyiyata aboki",
+        "masoyi mai daraja",
+        "masoyi mai karɓa",
+        "masoyi mai cin gajiyar"
+    ]
+}

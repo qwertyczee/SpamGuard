@@ -1,0 +1,1390 @@
+{
+    "language": "ro",
+    "languageName": "Romanian",
+    "spamWords": [
+        {
+            "word": "prinț nigerian",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "transfer bancar",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "detaliile contului bancar",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "fond de moștenire",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "fonduri nerevendicate",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "beneficiar",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "milioane de dolari",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "milioane de dolari americani",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "comision de transfer",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "taxă de procesare",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "taxă în avans",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "western union",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "portofel bitcoin",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "investiții în criptomonede",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "dublează-ți bitcoin-ul",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "concurs criptomonedă",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "acționează acum",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "acționează imediat",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "răspuns urgent",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "atenție urgentă",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "acțiune imediată",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "timp limitat",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "expiră astăzi",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "ultima șansă",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "notificare finală",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "răspunde imediat",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "în termen de 24 de ore",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "în termen de 48 de ore",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "sensibil la timp",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "nu întârzia",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "felicitări câștigător",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ai câștigat",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "câștigător la loterie",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "notificare de premiu",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "revendică-ți premiul",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "notificare câștigătoare",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "norocos câștigător",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "câștigător selectat",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "premiu în bani",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "premiu gratuit",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "tombolă",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "verifică-ți contul",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "confirmați-vă identitatea",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "actualizați-vă plata",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "cont suspendat",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "cont suspendat",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "activitate neobișnuită",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "activitate suspectă",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "acces neautorizat",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "faceți clic aici pentru a verifica",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "credențiale de conectare",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "resetare parolă",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "alertă de securitate",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "contul dumneavoastră va fi",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "eșecul verificării",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "reactivează-ți",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "dezabonare",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "click aici",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "cumpără acum",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "comandă acum",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ofertă gratuită",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ofertă specială",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ofertă exclusivă",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "fără riscuri",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "fără obligații",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "garanție de returnare a banilor",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "satisfacție garantată",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "sună acum",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "fără taxă",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% gratuit",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "complet gratuit",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "fără costuri",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "fără taxe",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "cel mai mic preț",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "cel mai bun preț",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "reducere",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "economisește mult",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "economisește bani",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "dublați-vă",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "crește-ți",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "câștiga bani",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "a face bani",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "venit suplimentar",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "lucru de acasă",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "fii propriul tău șef",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "libertate financiară",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "se îmbogăţi",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "fi plătit",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "acces instantaneu",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "alătură-te milioanelor",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "farmacie",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "farmacie online",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "farmacie canadiană",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "rețetă",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "fără rețetă",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "fără prescripție medicală",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "disfuncție erectilă",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "pierdere în greutate",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "slăbește",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "pierde kilograme",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "pastilă de slăbit",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "arzător de grăsimi",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "leac miraculos",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "remediu natural",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "anti-îmbătrânire",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "conținut pentru adulți",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "întâlniri pentru adulți",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "întâlnește persoane singure",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "single-uri sexy",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "femei singure",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "gospodină singură",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "dragă prietenă",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "dragă/iubită",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "stimate domnule/stimate doamnă",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "confidenţial",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "strict confidențial",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "privat și confidențial",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "nu ignora",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "trebuie să răspundă",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "acesta nu este spam",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "acestea nu sunt gunoaie",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "nu este o înșelătorie",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ofertă legitimă",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "notificare legală",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "hotărâre judecătorească",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "subvenție guvernamentală",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "subvenție gratuită",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "rambursare de impozite",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "întâlnire": -0.3,
+        "programa": -0.3,
+        "proiect": -0.3,
+        "termen limită": -0.3,
+        "ataşat": -0.3,
+        "atașament": -0.3,
+        "salutări": -0.2,
+        "sincer": -0.2,
+        "mulţumesc": -0.2,
+        "mulțumesc": -0.3,
+        "urmărire": -0.3,
+        "așa cum s-a discutat": -0.5,
+        "conform conversației noastre": -0.5,
+        "factura": -0.2,
+        "raport": -0.2,
+        "rezumat": -0.2,
+        "minute": -0.3,
+        "ordinea de zi": -0.3,
+        "conferinţă": -0.3,
+        "repertoriu": -0.5,
+        "cerere de extragere": -0.8,
+        "comite": -0.5,
+        "îmbinare": -0.5,
+        "ramură": -0.5,
+        "implementa": -0.5,
+        "documentare": -0.3
+    },
+    "bayesianTokens": {
+        "viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "mărire": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "nigerian": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "moştenire": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "beneficiar": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "loterie": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "câştigător": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "jackpot": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "dezabonare": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "a renunța": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "clic": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "gratuit": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "bani": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "numerar": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "premiu": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "won": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "urgent": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "imediat": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "act": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "limitat": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "oferi": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "reducere": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "garantat": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "fără riscuri": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "obligaţie": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "credit": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "creanţă": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "împrumut": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ipotecare": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "farmacie": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "rețetă": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "medicament": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "pastile": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "greutate": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "dietă": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "pierde": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "livre": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "cumpăra": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "comanda": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "cumpărare": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "vânzare": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ieftin": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "salva": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "afacere": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "special": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "exclusiv": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "bonus": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "cadou": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "felicitări": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "selectat": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "confirma": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "verifica": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "cont": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "parolă": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "suspendat": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "blocat": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "securitate": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "actualizare": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazon": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "bancar": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "sârmă": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "transfer": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "rutare": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "rapid": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "vestic": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "uniune": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "criptomonedă": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "portofel": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "blockchain": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "întâlnire": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "programa": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "proiect": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "echipă": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "termen limită": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ataşat": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "atașament": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "document": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "raport": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "recenzie": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "feedback": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "discuţie": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ordinea de zi": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "minute": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "conferinţă": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "apel": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "salutări": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "sincer": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "mulţumesc": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "mulțumesc": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "aprecia": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "următorul": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "discutat": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "conversaţie": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "factura": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "chitanță": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "rezumat": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "analiză": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "cercetare": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "date": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "rezultate": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "repertoriu": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "comite": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "îmbinare": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ramură": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "trage": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "cerere": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "implementa": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "construi": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "test": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "depanare": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "eroare": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "insectă": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "repara": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "emisiune": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "caracteristică": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "eliberare": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "versiune": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "documentare": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "server": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "bază de date": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "interogare": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "funcţie": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "variabilă": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "clasă": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "metodă": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "interfață": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "urgent",
+        "imediat",
+        "imediat",
+        "cât mai curând posibil",
+        "acționează acum",
+        "nu întârzia",
+        "grabă",
+        "timp limitat",
+        "expiră",
+        "termen limită",
+        "ultima șansă",
+        "notificare finală",
+        "sensibil la timp",
+        "răspunde acum",
+        "acțiune necesară"
+    ],
+    "greetingWords": [
+        "hi",
+        "buna ziua",
+        "dragă/dragă",
+        "hei",
+        "salutări",
+        "bună dimineaţa",
+        "bună ziua",
+        "bună seara"
+    ],
+    "genericGreetings": [
+        "stimate domn",
+        "stimată doamnă",
+        "dragă client",
+        "dragă utilizator",
+        "dragă membru",
+        "dragă prietenă",
+        "dragă/dragă",
+        "dragă destinatar",
+        "dragă beneficiar"
+    ]
+}

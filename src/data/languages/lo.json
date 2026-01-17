@@ -1,0 +1,1372 @@
+{
+    "language": "lo",
+    "languageName": "Lao",
+    "spamWords": [
+        {
+            "word": "ເຈົ້າຊາຍໄນຈີເຣຍ",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "ການໂອນເງິນຜ່ານທະນາຄານ",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "ລາຍລະອຽດບັນຊີທະນາຄານ",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "ກອງທຶນມໍລະດົກ",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "ເງິນທີ່ບໍ່ໄດ້ຮັບການຮຽກຮ້ອງ",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "ຜູ້ໄດ້ຮັບຜົນປະໂຫຍດ",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "ລ້ານໂດລາ",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ລ້ານໂດລາສະຫະລັດ",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ຄ່າທຳນຽມການໂອນ",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ຄ່າທຳນຽມການດຳເນີນການ",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "ຄ່າທຳນຽມລ່ວງໜ້າ",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ເວສເຕີນ ຢູນຽນ",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "ເງິນແກຣມ",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "ກະເປົາເງິນ bitcoin",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "ການລົງທຶນໃນສະກຸນເງິນດິຈິຕອນ",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "ສອງເທົ່າຂອງ bitcoin ຂອງທ່ານ",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "ການແຈກຂອງລາງວັນ crypto",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "ປະຕິບັດດຽວນີ້",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ປະຕິບັດທັນທີ",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "ການຕອບສະໜອງດ່ວນ",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ຄວາມສົນໃຈດ່ວນ",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ການປະຕິບັດທັນທີ",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ເວລາຈຳກັດ",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ໝົດອາຍຸມື້ນີ້",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "ໂອກາດສຸດທ້າຍ",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ແຈ້ງການສຸດທ້າຍ",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ຕອບກັບທັນທີ",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ພາຍໃນ 24 ຊົ່ວໂມງ",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ພາຍໃນ 48 ຊົ່ວໂມງ",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "ມີຄວາມອ່ອນໄຫວຕໍ່ເວລາ",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ຢ່າຊັກຊ້າ",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ຊົມເຊີຍຜູ້ຊະນະ",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ເຈົ້າໄດ້ຊະນະແລ້ວ",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ຜູ້ຊະນະຫວຍ",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ແຈ້ງການລາງວັນ",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ຮຽກຮ້ອງເອົາລາງວັນຂອງທ່ານ",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ການແຈ້ງເຕືອນການຊະນະ",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ຜູ້ໂຊກດີ",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ຜູ້ຊະນະທີ່ເລືອກ",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ລາງວັນເງິນສົດ",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ລາງວັນຟຣີ",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ການຊິງໂຊກ",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "ຢືນຢັນບັນຊີຂອງທ່ານ",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "ຢືນຢັນຕົວຕົນຂອງທ່ານ",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ອັບເດດການຈ່າຍເງິນຂອງທ່ານ",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "ບັນຊີທີ່ຖືກໂຈະ",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "ບັນຊີຖືກໂຈະ",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "ກິດຈະກຳຜິດປົກກະຕິ",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "ກິດຈະກຳທີ່ໜ້າສົງໄສ",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "ການເຂົ້າເຖິງໂດຍບໍ່ໄດ້ຮັບອະນຸຍາດ",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "ຄລິກທີ່ນີ້ເພື່ອຢືນຢັນ",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "ຂໍ້ມູນປະຈຳຕົວເຂົ້າສູ່ລະບົບ",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ຣີເຊັດລະຫັດຜ່ານ",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "ການແຈ້ງເຕືອນຄວາມປອດໄພ",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "ບັນຊີຂອງທ່ານຈະເປັນ",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ຄວາມລົ້ມເຫຼວໃນການຢືນຢັນ",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "ເປີດໃຊ້ງານຄືນໃໝ່",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ຍົກເລີກການສະໝັກ",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "ຄລິກທີ່ນີ້",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ຊື້ດຽວນີ້",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ສັ່ງຊື້ດຽວນີ້",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ຂໍ້ສະເໜີຟຣີ",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ຂໍ້ສະເໜີພິເສດ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ຂໍ້ສະເໜີພິເສດ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ບໍ່ມີຄວາມສ່ຽງ",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ບໍ່ມີພັນທະ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ຮັບປະກັນເງິນຄືນ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ຮັບປະກັນຄວາມພໍໃຈ",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ໂທຫາດຽວນີ້",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ໂທຟຣີ",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ຟຣີ 100%",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ຟຣີໝົດ",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ບໍ່ມີຄ່າໃຊ້ຈ່າຍ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ບໍ່ມີຄ່າທຳນຽມ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ລາຄາຕໍ່າສຸດ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ລາຄາທີ່ດີທີ່ສຸດ",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ສ່ວນຫຼຸດ",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "ປະຢັດໄດ້ຫຼາຍ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ປະຢັດເງິນ",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ສອງເທົ່າຂອງເຈົ້າ",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ເພີ່ມທະວີການຂອງທ່ານ",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ຫາເງິນ",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ຫາເງິນ",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ລາຍໄດ້ເສີມ",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ເຮັດວຽກຢູ່ເຮືອນ",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ເປັນນາຍຈ້າງຂອງຕົວເອງ",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ອິດສະລະພາບທາງດ້ານການເງິນ",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ລວຍຂຶ້ນ",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ໄດ້ຮັບຄ່າຈ້າງ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ເຂົ້າເຖິງໄດ້ທັນທີ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ເຂົ້າຮ່ວມຫຼາຍລ້ານຄົນ",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ຢາວິກຣາ",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ຢາຊີອາລິສ",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ຮ້ານຂາຍຢາ",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "ຮ້ານຂາຍຢາອອນໄລນ໌",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ຮ້ານຂາຍຢາການາດາ",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "ໃບສັ່ງຢາ",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ບໍ່ມີໃບສັ່ງຢາ",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "ໂດຍບໍ່ມີໃບສັ່ງຢາ",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "ການເຮັດວຽກຜິດປົກກະຕິຂອງອະໄວຍະວະເພດ",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ການຫຼຸດນ້ຳໜັກ",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "ຫຼຸດນ້ຳໜັກ",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "ຫຼຸດນ້ຳໜັກ",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "ຢາເມັດອາຫານ",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "ເຄື່ອງເຜົາຜານໄຂມັນ",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "ການປິ່ນປົວມະຫັດສະຈັນ",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "ຢາແກ້ຕາມທຳມະຊາດ",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "ຕ້ານການແກ່ກ່ອນໄວ",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "ເນື້ອຫາສຳລັບຜູ້ໃຫຍ່",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ການນັດພົບສຳລັບຜູ້ໃຫຍ່",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ພົບກັບຄົນໂສດ",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "ຄົນໂສດທີ່ຮ້ອນແຮງ",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ຜູ້ຍິງໂດດດ່ຽວ",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ແມ່ບ້ານທີ່ໂດດດ່ຽວ",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "ເພື່ອນຮັກ",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ທີ່ຮັກ",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ທ່ານ/ທ່ານນາງທີ່ຮັກແພງ",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "ເປັນຄວາມລັບ",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "ເປັນຄວາມລັບຢ່າງເຂັ້ມງວດ",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ສ່ວນຕົວ ແລະ ເປັນຄວາມລັບ",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ຢ່າລະເລີຍ",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ຕ້ອງຕອບສະໜອງ",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "ນີ້ບໍ່ແມ່ນສະແປມ",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ນີ້ບໍ່ແມ່ນຂີ້ເຫຍື້ອ",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ບໍ່ແມ່ນການຫຼອກລວງ",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ຂໍ້ສະເໜີທີ່ຖືກຕ້ອງຕາມກົດໝາຍ",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ແຈ້ງການທາງກົດໝາຍ",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "ຄຳສັ່ງສານ",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ເງິນຊ່ວຍເຫຼືອຈາກລັດຖະບານ",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ເງິນຊ່ວຍເຫຼືອຟຣີ",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "ການຄືນເງິນພາສີ",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "ກອງປະຊຸມ": -0.3,
+        "ຕາຕະລາງເວລາ": -0.3,
+        "ໂຄງການ": -0.3,
+        "ເສັ້ນຕາຍ": -0.3,
+        "ຕິດຄັດມາ": -0.3,
+        "ສິ່ງແນບມາ": -0.3,
+        "ດ້ວຍຄວາມນັບຖື": -0.2,
+        "ດ້ວຍຄວາມຈິງໃຈ": -0.2,
+        "ຂອບໃຈ": -0.3,
+        "ການຕິດຕາມ": -0.3,
+        "ດັ່ງທີ່ໄດ້ສົນທະນາກັນ": -0.5,
+        "ຕາມການສົນທະນາຂອງພວກເຮົາ": -0.5,
+        "ໃບແຈ້ງໜີ້": -0.2,
+        "ລາຍງານ": -0.2,
+        "ສະຫຼຸບ": -0.2,
+        "ນາທີ": -0.3,
+        "ນັດໝາຍ": -0.3,
+        "ບ່ອນເກັບມ້ຽນຂໍ້ມູນ": -0.5,
+        "ດຶງຄຳຮ້ອງຂໍ": -0.8,
+        "ຜູກມັດ": -0.5,
+        "ລວມເຂົ້າກັນ": -0.5,
+        "ສາຂາ": -0.5,
+        "ນຳໃຊ້": -0.5,
+        "ເອກະສານ": -0.3
+    },
+    "bayesianTokens": {
+        "ຢາວິກຣາ": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "ຢາຊີອາລິສ": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "ການຂະຫຍາຍ": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "ຊາວໄນຈີເຣຍ": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "ການສືບທອດ": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "ຜູ້ໄດ້ຮັບຜົນປະໂຫຍດ": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "ຫວຍ": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "ຜູ້ຊະນະ": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "ລາງວັນໃຫຍ່": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "ຍົກເລີກການສະໝັກ": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "ການເລືອກທີ່ຈະບໍ່ເຂົ້າຮ່ວມ": {
+            "spam": 0.85,
+            "ham": 0.05
+        },
+        "ເລືອກອອກ": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "ຄລິກ": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ຟຣີ": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "ເງິນ": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ເງິນສົດ": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "ລາງວັນ": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "ຊະນະ": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "ຮີບດ່ວນ": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "ທັນທີ": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "ກະທຳ": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "ຈຳກັດ": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "ສະເໜີ": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ສ່ວນຫຼຸດ": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ຮັບປະກັນ": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "ບໍ່ມີຄວາມສ່ຽງ": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "ພັນທະ": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "ເຄຣດິດ": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "ໜີ້ສິນ": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "ເງິນກູ້": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ເງິນກູ້ຈຳນອງ": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "ຮ້ານຂາຍຢາ": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "ໃບສັ່ງຢາ": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "ຢາ": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "ຢາເມັດ": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "ນ້ຳໜັກ": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "ອາຫານການກິນ": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ເສຍ": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "ປອນ": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "ຊື້": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ສັ່ງຊື້": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ຂາຍ": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ລາຄາຖືກ": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "ຊ່ວຍ": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "ຂໍ້ຕົກລົງ": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ພິເສດ": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ສະເພາະ": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ໂບນັດ": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ຂອງຂວັນ": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "ຊົມເຊີຍ": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "ເລືອກແລ້ວ": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ຢືນຢັນ": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ກວດສອບ": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "ບັນຊີ": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "ລະຫັດຜ່ານ": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ຖືກໂຈະໄວ້": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "ລັອກແລ້ວ": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ຄວາມປອດໄພ": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ອັບເດດ": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "ເພລພາລ": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ອີເບ": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ອາເມຊອນ": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ທະນາຄານ": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ສາຍ": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ໂອນ": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ການກຳນົດເສັ້ນທາງ": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ໄວ": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "ຕາເວັນຕົກ": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ສະຫະພັນ": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "ເງິນແກຣມ": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "ບິດຄອຍ": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ສະກຸນເງິນດິຈິຕອນ": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ກະເປົາເງິນ": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "ບລັອກເຊນ": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ກອງປະຊຸມ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ຕາຕະລາງເວລາ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ໂຄງການ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ທີມ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ເສັ້ນຕາຍ": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ຕິດຄັດມາ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ສິ່ງແນບມາ": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "ເອກະສານ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ລາຍງານ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ທົບທວນຄືນ": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ຄຳຕິຊົມ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ການສົນທະນາ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ນັດໝາຍ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ນາທີ": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ໂທ": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "ດ້ວຍຄວາມນັບຖື": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ດ້ວຍຄວາມຈິງໃຈ": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "ຂອບໃຈ": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "ຊື່ນຊົມ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ກຳລັງຕິດຕາມ": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "ປຶກສາຫາລື": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ໃບແຈ້ງໜີ້": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "ໃບຮັບເງິນ": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "ສະຫຼຸບ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ການວິເຄາະ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ການຄົ້ນຄວ້າ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ຂໍ້ມູນ": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "ຜົນໄດ້ຮັບ": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ບ່ອນເກັບມ້ຽນຂໍ້ມູນ": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "ຜູກມັດ": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "ລວມເຂົ້າກັນ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ສາຂາ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ດຶງ": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ການຮ້ອງຂໍ": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "ນຳໃຊ້": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ສ້າງ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ທົດສອບ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ແກ້ໄຂບັນຫາ": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "ຄວາມຜິດພາດ": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ແມງໄມ້": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ແກ້ໄຂ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ບັນຫາ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ຄຸນສົມບັດ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ປ່ອຍ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ລຸ້ນ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ເຊີບເວີ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ຖານຂໍ້ມູນ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ຄຳຖາມ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ໜ້າທີ່": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ຕົວແປ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ຊັ້ນ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ວິທີການ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ອິນເຕີເຟດ": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "ຮີບດ່ວນ",
+        "ທັນທີ",
+        "ທັນທີ",
+        "ໄວເທົ່າທີ່ຈະໄວໄດ້",
+        "ປະຕິບັດດຽວນີ້",
+        "ຢ່າຊັກຊ້າ",
+        "ຮີບຮ້ອນ",
+        "ເວລາຈຳກັດ",
+        "ໝົດອາຍຸ",
+        "ເສັ້ນຕາຍ",
+        "ໂອກາດສຸດທ້າຍ",
+        "ແຈ້ງການສຸດທ້າຍ",
+        "ມີຄວາມອ່ອນໄຫວຕໍ່ເວລາ",
+        "ຕອບກັບດຽວນີ້",
+        "ຕ້ອງມີການດຳເນີນການ"
+    ],
+    "greetingWords": [
+        "ສະບາຍດີ",
+        "ສະບາຍດີ",
+        "ທີ່ຮັກ",
+        "ສະບາຍດີ",
+        "ຄຳທັກທາຍ",
+        "ສະບາຍດີຕອນເຊົ້າ",
+        "ສະບາຍດີຕອນບ່າຍ",
+        "ສະບາຍດີຕອນແລງ"
+    ],
+    "genericGreetings": [
+        "ທ່ານທີ່ຮັກແພງ",
+        "ທ່ານນາງທີ່ຮັກແພງ",
+        "ລູກຄ້າທີ່ຮັກແພງ",
+        "ຜູ້ໃຊ້ທີ່ຮັກແພງ",
+        "ສະມາຊິກທີ່ຮັກແພງ",
+        "ເພື່ອນຮັກ",
+        "ທີ່ຮັກແພງ",
+        "ຜູ້ຮັບທີ່ຮັກແພງ",
+        "ຜູ້ໄດ້ຮັບຜົນປະໂຫຍດທີ່ຮັກແພງ"
+    ]
+}

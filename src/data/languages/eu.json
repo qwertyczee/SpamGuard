@@ -1,0 +1,1389 @@
+{
+    "language": "eu",
+    "languageName": "Basque",
+    "spamWords": [
+        {
+            "word": "nigeriako printzea",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "banku-transferentzia",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "banku-kontuaren xehetasunak",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "oinordetza funtsa",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "erreklamatu gabeko funtsak",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "onuradun",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "milioi dolar",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "milioi dolar",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "transferentzia-kuota",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "prozesatzeko kuota",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "aurrerapen-kuota",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "mendebaldeko batasuna",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "diru-grama",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "bitcoin zorroa",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "kriptografia-inbertsioa",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "bikoiztu zure bitcoin-a",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "kriptografia zozketa",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "jardun orain",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "berehala jardun",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "premiazko erantzuna",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "premiazko arreta",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "berehalako ekintza",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "denbora mugatua",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "gaur iraungitzen da",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "azken aukera",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "azken oharra",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "berehala erantzun",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "24 orduko epean",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "48 orduko epean",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "denbora sentikorra",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ez atzeratu",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "zorionak irabazleari",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "irabazi duzu",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "loteriako irabazlea",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "sari-jakinarazpena",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "erreklamatu zure saria",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "irabazlearen jakinarazpena",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "irabazle zoriontsua",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "hautatutako irabazlea",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "diru-saria",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "doako saria",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "zozketa",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "egiaztatu zure kontua",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "baieztatu zure nortasuna",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "eguneratu zure ordainketa",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "kontu etenda",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "kontua etenda",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "jarduera ezohikoa",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "jarduera susmagarria",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "baimenik gabeko sarbidea",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "egin klik hemen egiaztatzeko",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "saioa hasteko kredentzialak",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "pasahitza berrezartzea",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "segurtasun alerta",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "zure kontua izango da",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "egiaztatzeko porrota",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "berriro aktibatu zure",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "harpidetza kendu",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "egin klik hemen",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "erosi orain",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "eskaera egin orain",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "doako eskaintza",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "eskaintza berezia",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "eskaintza esklusiboa",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "arriskurik gabekoa",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "inolako obligaziorik gabe",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "dirua itzultzeko bermea",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "gogobetetasuna bermatuta",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "deitu orain",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "doako telefonoa",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "%100ean doan",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "guztiz doan",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "kosturik gabe",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "tasarik gabe",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "prezio baxuena",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "prezio onena",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "deskontua",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "aurreztu handia",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "dirua aurreztu",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "bikoiztu zure",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "handitu zure",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "dirua irabazi",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "dirua irabazi",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "diru-sarrera gehigarriak",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "etxetik lan egin",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "izan zaitez zure buruaren nagusia",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "finantza askatasuna",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "aberastu",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ordaindu",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "berehalako sarbidea",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "milioika batu",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "farmazia",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "online farmazia",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "kanadako farmazia",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "errezeta",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "errezeta gabe",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "errezeta gabe",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "erekzio-disfuntzioa",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "pisu galera",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "pisua galdu",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "kiloak galdu",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "dieta pilula",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "gantz erregailu",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "mirari sendabidea",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "erremedio naturala",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "zahartzearen aurkakoa",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "helduentzako edukia",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "helduentzako zita",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ezagutu singleak",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "single beroak",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "emakume bakartiak",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "etxekoandre bakartia",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "lagun maitea",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "maite maitea",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "jaun/andre agurgarria",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "konfidentziala",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "guztiz konfidentziala",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "pribatua eta konfidentziala",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ez egin kasurik",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "erantzun behar du",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "hau ez da spama",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "hau ez da zaborra",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ez da iruzurra",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "eskaintza zilegi",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "legezko oharra",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "epaitegiaren agindua",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "gobernuaren diru-laguntza",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "doako diru-laguntza",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "zerga-itzulketa",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "bilera": -0.3,
+        "ordutegia": -0.3,
+        "proiektua": -0.3,
+        "epea": -0.3,
+        "erantsita": -0.3,
+        "eranskina": -0.3,
+        "agurra": -0.2,
+        "zintzotasunez": -0.2,
+        "eskerrik asko": -0.3,
+        "jarraipena egiten": -0.3,
+        "eztabaidatu bezala": -0.5,
+        "gure elkarrizketaren arabera": -0.5,
+        "faktura": -0.2,
+        "txostena": -0.2,
+        "laburpena": -0.2,
+        "minutu": -0.3,
+        "agenda": -0.3,
+        "konferentzia": -0.3,
+        "biltegi": -0.5,
+        "eskaera ateratzea": -0.8,
+        "konpromisoa hartu": -0.5,
+        "batu": -0.5,
+        "adarra": -0.5,
+        "zabaldu": -0.5,
+        "dokumentazioa": -0.3
+    },
+    "bayesianTokens": {
+        "viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "handitze": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "nigeriarra": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "herentzia": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "onuradun": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "loteria": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "irabazle": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "sari nagusia": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "harpidetza kendu": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "aukerarik ez": {
+            "spam": 0.85,
+            "ham": 0.05
+        },
+        "aukera baztertzea": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "klik egin": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "doan": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "dirua": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "eskudirutan": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "saria": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "irabazi": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "premiazko": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "berehala": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "ekintza": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "mugatua": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "eskaintza": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "deskontua": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "bermatuta": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "arriskurik gabeko": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "betebeharra": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "kreditu": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "zorra": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "mailegu": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "hipoteka": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "farmazia": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "errezeta": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "botika": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "pilulak": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "pisua": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "dieta": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "galdu": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "libra": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "erosi": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "eskaera": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "erosketa": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "salmenta": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "merkea": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "gorde": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "akordio": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "berezia": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "esklusiboa": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "bonus": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "opari": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "zorionak": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "hautatua": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "baieztatu": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "egiaztatu": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "kontua": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "pasahitza": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "esekita": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "blokeatuta": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "segurtasuna": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "eguneratzea": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazonia": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "banku": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "alanbre": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "transferentzia": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "bideratzea": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "azkar": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "mendebaldeko": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "sindikatu": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "diru-grama": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "kriptografia-moneta": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "zorro": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "bloke-katea": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "bilera": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ordutegia": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "proiektua": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "taldea": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "epea": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "erantsita": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "eranskina": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "dokumentu": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "txostena": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "berrikuspena": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "iritzia": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "eztabaida": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "agenda": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "minutu": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "konferentzia": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "deitu": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "agurra": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "zintzotasunez": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "eskerrik asko": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "eskerrak": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "eskertu": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "jarraituz": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "eztabaidatu": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "elkarrizketa": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "faktura": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "ordainagiria": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "laburpena": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "analisi": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ikerketa": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "datuak": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "emaitzak": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "biltegi": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "konpromisoa hartu": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "batu": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "adarra": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "tira": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "zabaldu": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "eraiki": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "proba": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "arazketa": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "errorea": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "intsektu": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "konpondu": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "arazo": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ezaugarri": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "askatu": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "bertsioa": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "dokumentazioa": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "zerbitzari": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "datu-base": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "kontsulta": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "funtzio": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "aldagai": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "klase": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "metodo": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "interfazea": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "premiazko",
+        "berehalako",
+        "berehala",
+        "ahalik eta azkarren",
+        "jardun orain",
+        "ez atzeratu",
+        "presaka",
+        "denbora mugatua",
+        "iraungitzen da",
+        "epea",
+        "azken aukera",
+        "azken oharra",
+        "denbora sentikorra",
+        "erantzun orain",
+        "beharrezko ekintza"
+    ],
+    "greetingWords": [
+        "kaixo",
+        "kaixo",
+        "maitea",
+        "kaixo",
+        "agurrak",
+        "egun on",
+        "arratsalde on",
+        "arratsalde on"
+    ],
+    "genericGreetings": [
+        "jaun maitea",
+        "andre maitea",
+        "bezero maitea",
+        "erabiltzaile maitea",
+        "kide maitea",
+        "lagun maitea",
+        "maitea, baloratua",
+        "hartzaile maitea",
+        "onuradun maitea"
+    ]
+}

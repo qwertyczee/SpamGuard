@@ -1,0 +1,1389 @@
+{
+    "language": "sq",
+    "languageName": "Albanian",
+    "spamWords": [
+        {
+            "word": "princ nigerian",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "transfer bankar",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "detajet e llogarisë bankare",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "fond trashëgimie",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "fonde të pakërkuara",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "përfitues",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "milion dollarë",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "milion dollarë amerikanë",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "tarifë transferimi",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "tarifë përpunimi",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "tarifë paraprake",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "western union",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "portofol bitcoin",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "investim në kriptomonedha",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "dyfishoni bitcoin-in tuaj",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "dhuratë kriptosh",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "vepro tani",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "vepro menjëherë",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "përgjigje urgjente",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "vëmendje urgjente",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "veprim i menjëhershëm",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "kohë e kufizuar",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "skadon sot",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "shansi i fundit",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "njoftim përfundimtar",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "përgjigju menjëherë",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "brenda 24 orëve",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "brenda 48 orëve",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "i ndjeshëm ndaj kohës",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "mos vono",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "urime fitues",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ti ke fituar",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "fitues i lotarisë",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "njoftim për çmimin",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "merr çmimin tënd",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "njoftim fitues",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "fitues me fat",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "fituesi i zgjedhur",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "çmim në para",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "çmim falas",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "lotari",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "verifiko llogarinë tënde",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "konfirmoni identitetin tuaj",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "përditësoni pagesën tuaj",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "llogari e pezulluar",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "llogaria është pezulluar",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "aktivitet i pazakontë",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "aktivitet i dyshimtë",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "qasje e paautorizuar",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "klikoni këtu për të verifikuar",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "kredencialet e hyrjes",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "rivendosja e fjalëkalimit",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "alarm sigurie",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "llogaria juaj do të jetë",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "dështimi për të verifikuar",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "riaktivizoni tuajin",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "çabonohu",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "kliko këtu",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "bli tani",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "porosit tani",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ofertë falas",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ofertë speciale",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "marrëveshje ekskluzive",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "pa rrezik",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "pa detyrim",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "garanci për kthimin e parave",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "kënaqësi e garantuar",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "telefono tani",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "pa pagesë",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% falas",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "plotësisht falas",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "pa kosto",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "pa tarifa",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "çmimi më i ulët",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "çmimi më i mirë",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "zbritje",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "kurseni shumë",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "kurseni para",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "dyfisho",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "rritni tuajin",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "fito para",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "fitoj para",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "të ardhura shtesë",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "punë nga shtëpia",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ji shefi i vetes",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "liri financiare",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "pasurohu",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "paguhem",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "qasje e menjëhershme",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "bashkohu me miliona",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "farmaci",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "farmaci online",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "farmaci kanadeze",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "recetë",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "pa recetë",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "pa recetë",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "mosfunksionim erektil",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "humbje peshe",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "humb peshë",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "humb peshë",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "pilulë diete",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "djegës yndyre",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "kurë mrekullie",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "ilaç natyral",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "kundër plakjes",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "përmbajtje për të rritur",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "takime për të rritur",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "takoni beqarë",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "beqarë të nxehtë",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "gra të vetmuara",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "shtëpiake e vetmuar",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "mik i dashur",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "i dashur i dashur",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "i nderuar zotëri/zonjë",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "konfidencial",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "rreptësisht konfidencial",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "private dhe konfidenciale",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "mos e injoro",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "duhet të përgjigjet",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "kjo nuk është spam",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "kjo nuk është mbeturinë",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "nuk është mashtrim",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ofertë legjitime",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "njoftim ligjor",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "urdhër gjykate",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "grant qeveritar",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "grant falas",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "taksat",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "rimbursim taksash",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "takim": -0.3,
+        "orar": -0.3,
+        "projekt": -0.3,
+        "afati i fundit": -0.3,
+        "bashkangjitur": -0.3,
+        "shtojcë": -0.3,
+        "përshëndetje": -0.2,
+        "sinqerisht": -0.2,
+        "faleminderit": -0.3,
+        "ndjekje": -0.3,
+        "siç u diskutua": -0.5,
+        "sipas bisedës sonë": -0.5,
+        "faturë": -0.2,
+        "raport": -0.2,
+        "përmbledhje": -0.2,
+        "minuta": -0.3,
+        "axhendë": -0.3,
+        "konferencë": -0.3,
+        "depo": -0.5,
+        "kërkesë për tërheqje": -0.8,
+        "kryej": -0.5,
+        "bashkoj": -0.5,
+        "degë": -0.5,
+        "vendos": -0.5,
+        "dokumentacion": -0.3
+    },
+    "bayesianTokens": {
+        "viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "zgjerim": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "nigerian": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "trashëgimi": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "përfitues": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "llotari": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "fitues": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "çmim i madh": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "çabonohu": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "çregjistrim": {
+            "spam": 0.85,
+            "ham": 0.05
+        },
+        "çregjistrohu": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "kliko": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "falas": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "para": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "para të gatshme": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "çmim": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "fitoi": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "urgjent": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "menjëherë": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "akt": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "i kufizuar": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "ofertë": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "zbritje": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "i garantuar": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "pa rrezik": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "detyrim": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "kredi": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "borxh": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "hua": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "hipotekë": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "farmaci": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "recetë": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "ilaç": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "pilula": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "peshë": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "dietë": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "humbas": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "paund": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "blej": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "urdhër": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "blerje": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "shitje": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "i lirë": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "ruaj": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "marrëveshje": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "i veçantë": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ekskluziv": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "bonus": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "dhuratë": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "urime": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "zgjedhur": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "konfirmoj": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "verifikoj": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "llogari": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "fjalëkalim": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "pezulluar": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "i mbyllur": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "siguri": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "përditësim": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazonë": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "bankë": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "tel": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "transferim": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "rrugëzimi": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "i shpejtë": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "perëndimor": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "bashkim": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "kriptomonedhë": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "portofol": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "blockchain": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "takim": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "orar": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "projekt": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ekip": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "afati i fundit": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "bashkangjitur": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "shtojcë": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "dokument": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "raport": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "rishikim": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "reagime": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "diskutim": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "axhendë": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "minuta": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "konferencë": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "thirrje": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "përshëndetje": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "sinqerisht": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "faleminderit": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "falënderoj": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "vlerësoj": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "duke ndjekur": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "diskutuar": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "bisedë": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "faturë": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "përmbledhje": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "analizë": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "kërkim": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "të dhëna": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "rezultatet": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "depo": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "kryej": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "bashkoj": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "degë": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "tërheq": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "kërkesë": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "vendos": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ndërtoj": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "provë": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "korrigjoj gabimet": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "gabim": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "insekt": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "rregulloj": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "çështje": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "veçori": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "lirim": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "version": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "dokumentacion": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "server": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "bazë të dhënash": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "pyetje": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "funksion": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ndryshore": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "klasë": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "metodë": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ndërfaqe": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "urgjent",
+        "i menjëhershëm",
+        "menjëherë",
+        "sa më shpejt të jetë e mundur",
+        "vepro tani",
+        "mos vono",
+        "nxito",
+        "kohë e kufizuar",
+        "skadon",
+        "afati i fundit",
+        "shansi i fundit",
+        "njoftim përfundimtar",
+        "i ndjeshëm ndaj kohës",
+        "përgjigju tani",
+        "veprim i kërkuar"
+    ],
+    "greetingWords": [
+        "përshëndetje",
+        "përshëndetje",
+        "i dashur",
+        "hej",
+        "përshëndetje",
+        "mirëmëngjes",
+        "mirëdita",
+        "mirëmbrëma"
+    ],
+    "genericGreetings": [
+        "i dashur zotëri",
+        "zonjë e dashur",
+        "klient i dashur",
+        "përdorues i dashur",
+        "anëtar i dashur",
+        "mik i dashur",
+        "i dashur dhe i vlerësuar",
+        "marrës i dashur",
+        "përfitues i dashur"
+    ]
+}

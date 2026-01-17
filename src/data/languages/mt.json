@@ -1,0 +1,1389 @@
+{
+    "language": "mt",
+    "languageName": "Maltese",
+    "spamWords": [
+        {
+            "word": "prinċep niġerjan",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "trasferiment bankarju",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "dettalji tal-kont bankarju",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "fond tal-wirt",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "fondi mhux mitluba",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "benefiċjarju",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "miljun dollaru",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "miljun dollaru amerikan",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "tariffa tat-trasferiment",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "tariffa tal-ipproċessar",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "ħlas bil-quddiem",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "unjoni tal-punent",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "kartiera tal-bitcoin",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "investiment fil-kriptomunita",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "irdoppja l-bitcoin tiegħek",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "rigal tal-kripto",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "aġixxi issa",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "aġixxi immedjatament",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "rispons urġenti",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "attenzjoni urġenti",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "azzjoni immedjata",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ħin limitat",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "jiskadi llum",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "l-aħħar ċans",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "avviż finali",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "wieġeb immedjatament",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "fi żmien 24 siegħa",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "fi żmien 48 siegħa",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "sensittiv għall-ħin",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "tittardjax",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "prosit rebbieħ/a",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "int irbaħt",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "rebbieħ tal-lotterija",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "notifika tal-premju",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "itlob il-premju tiegħek",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "notifika rebbieħa",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "rebbieħ fortunat",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "rebbieħ magħżul",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "premju fi flus",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "premju b'xejn",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "kompetizzjonijiet",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "ivverifika l-kont tiegħek",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "ikkonferma l-identità tiegħek",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "aġġorna l-pagament tiegħek",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "kont sospiż",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "kont sospiż",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "attività mhux tas-soltu",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "attività suspettuża",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "aċċess mhux awtorizzat",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "ikklikkja hawn biex tivverifika",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "kredenzjali tal-login",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "irrisettjar tal-password",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "twissija ta' sigurtà",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "il-kont tiegħek se jkun",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "nuqqas ta' verifika",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "erġa' attiva tiegħek",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "tneħħi l-abbonament",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "ikklikkja hawn",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ixtri issa",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ordna issa",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "offerta bla ħlas",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "offerta speċjali",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ftehim esklussiv",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "mingħajr riskju",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "l-ebda obbligu",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "garanzija ta' flus lura",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "sodisfazzjon garantit",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ċempel issa",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "bla ħlas",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% b'xejn",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "kompletament ħieles",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "bla ħlas",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "l-ebda ħlas",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "l-inqas prezz",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "l-aħjar prezz",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "skont",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "iffranka bil-kbir",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "iffranka l-flus",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "irdoppja tiegħek",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "żid tiegħek",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "jaqla' l-flus",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "tagħmel il-flus",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "dħul żejjed",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "xogħol mid-dar",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "kun il-kap tiegħek stess",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "libertà finanzjarja",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "sir għani",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "titħallas",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "aċċess immedjat",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ingħaqad ma' miljuni",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "il-viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ċialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "spiżerija",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "spiżerija online",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "spiżerija kanadiża",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "riċetta",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "mingħajr riċetta",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "mingħajr riċetta",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "disfunzjoni erettili",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "telf ta' piż",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "titlef il-piż",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "titlef il-liri",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "pillola tad-dieta",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "ħruq tax-xaħam",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "kura mirakoluża",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "rimedju naturali",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "kontra t-tixjiħ",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "kontenut għall-adulti",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "dating għall-adulti",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "iltaqa' ma' nies single",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "singles sħan",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "nisa solitarji",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "mara tad-dar waħedha",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "għażiż ħabib",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "għażiż/a",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "għażiż sinjur/sinjura",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "kunfidenzjali",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "strettament kunfidenzjali",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "privat u kunfidenzjali",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "tinjorax",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "irid jirrispondi",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "dan mhux spam",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "dan mhux skart",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "mhux frodi",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "offerta leġittima",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "avviż legali",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "ordni tal-qorti",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "għotja tal-gvern",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "għotja bla ħlas",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "rifużjoni tat-taxxa",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "laqgħa": -0.3,
+        "skeda": -0.3,
+        "proġett": -0.3,
+        "skadenza": -0.3,
+        "mehmuż": -0.3,
+        "twaħħil": -0.3,
+        "tislijiet": -0.2,
+        "sinċerament": -0.2,
+        "grazzi": -0.3,
+        "segwitu": -0.3,
+        "kif diskuss": -0.5,
+        "skont il-konverżazzjoni tagħna": -0.5,
+        "fattura": -0.2,
+        "rapport": -0.2,
+        "sommarju": -0.2,
+        "minuti": -0.3,
+        "aġenda": -0.3,
+        "konferenza": -0.3,
+        "repożitorju": -0.5,
+        "talba għall-ġbid": -0.8,
+        "impenn": -0.5,
+        "għaqqad": -0.5,
+        "fergħa": -0.5,
+        "skjerja": -0.5,
+        "dokumentazzjoni": -0.3
+    },
+    "bayesianTokens": {
+        "il-viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "ċialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "tkabbir": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "niġerjan": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "wirt": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "benefiċjarju": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "lotterija": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "rebbieħ": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "jackpot": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "tneħħi l-abbonament": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "għażla li ma tibqax impjegat/a": {
+            "spam": 0.85,
+            "ham": 0.05
+        },
+        "għażla li ma tibqax tagħżel": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "ikklikkja": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "b'xejn": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "flus": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "flus kontanti": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "premju": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "rebaħ": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "urġenti": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "immedjatament": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "att": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "limitat": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "offerta": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "skont": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "garantit": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "mingħajr riskju": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "obbligu": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "kreditu": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "dejn": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "self": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ipoteka": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "spiżerija": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "riċetta": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "medikazzjoni": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "pilloli": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "piż": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "dieta": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "titlef": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "liri": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "ixtri": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "ordni": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "xiri": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "bejgħ": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "irħis": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "salva": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "ftehim": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "speċjali": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "esklussiv": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "bonus": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "rigal": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "prosit": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "magħżul": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ikkonferma": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "verifika": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "kont": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "password": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "sospiż": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "imsakkar": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "sigurtà": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "aġġornament": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazon": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "bank": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "wajer": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "trasferiment": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "rottaġġ": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "malajr": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "tal-punent": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "unjoni": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "kriptomunita": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "kartiera": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "blockchain": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "laqgħa": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "skeda": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "proġett": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "tim": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "skadenza": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "mehmuż": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "twaħħil": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "dokument": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "rapport": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "reviżjoni": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "feedback": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "diskussjoni": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "aġenda": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "minuti": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "konferenza": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "sejħa": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "tislijiet": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "sinċerament": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "grazzi": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "japprezza": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "wara": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "iddiskutew": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "konverżazzjoni": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "fattura": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "irċevuta": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "sommarju": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "analiżi": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "riċerka": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "dejta": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "riżultati": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "repożitorju": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "impenn": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "għaqqad": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "fergħa": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "iġbed": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "talba": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "skjerja": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ibni": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "test": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "debug": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "żball": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "bug": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "tiswija": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "kwistjoni": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "karatteristika": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "rilaxx": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "verżjoni": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "dokumentazzjoni": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "server": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "bażi tad-dejta": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "mistoqsija": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "funzjoni": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "varjabbli": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "klassi": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "metodu": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "interfaċċja": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "urġenti",
+        "immedjat",
+        "immedjatament",
+        "mill-aktar fis possibbli",
+        "aġixxi issa",
+        "tittardjax",
+        "għaġġla",
+        "ħin limitat",
+        "jiskadi",
+        "skadenza",
+        "l-aħħar ċans",
+        "avviż finali",
+        "sensittiv għall-ħin",
+        "wieġeb issa",
+        "azzjoni meħtieġa"
+    ],
+    "greetingWords": [
+        "ċaw",
+        "bonjour",
+        "għażiż",
+        "ħej",
+        "tislijiet",
+        "bonġu",
+        "waranofsinhar it-tajjeb",
+        "il-lejla t-tajba"
+    ],
+    "genericGreetings": [
+        "għażiż sinjur",
+        "għażiża sinjura",
+        "għażiż klijent",
+        "għażiż utent",
+        "għażiż membru",
+        "għażiż ħabib",
+        "għażiż/a",
+        "għażiż riċevitur",
+        "benefiċjarju għażiż"
+    ]
+}

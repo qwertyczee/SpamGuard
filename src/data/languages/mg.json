@@ -1,0 +1,1361 @@
+{
+    "language": "mg",
+    "languageName": "Malagasy",
+    "spamWords": [
+        {
+            "word": "andriana nizeriana",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "fandefasam-bola amin'ny banky",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "antsipirian'ny kaonty any amin'ny banky",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "tahirim-bola lova",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "vola tsy nalaina",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "tombontsoa",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "tapitrisa dolara",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "tapitrisa dolara amerikana",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "saram-pamindrana",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "saram-panodinana",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "saram-pandraharahana mialoha",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "western union",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "poketra bitcoin",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "fampiasam-bola amin'ny vola virtoaly",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "avo roa heny ny bitcoin-nao",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "fanomezana crypto",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "mihetsika izao",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "mihetsika avy hatrany",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "valiny maika",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "fikarakarana maika",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "hetsika avy hatrany",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "fotoana voafetra",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "tapitra androany",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "fahafahana farany",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "fampandrenesana farany",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "mamaly avy hatrany",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ao anatin'ny 24 ora",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ao anatin'ny 48 ora",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "saro-pady amin'ny fotoana",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "aza misalasala",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "arahabaina mpandresy",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "nandresy ianao",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "mpandresy amin'ny loteria",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "fampandrenesana momba ny loka",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "alaivo ny lokao",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "fampandrenesana fandresena",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "mpandresy tsara vintana",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "mpandresy voafantina",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "loka vola",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "loka maimaim-poana",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "loteria",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "hamarino ny kaontinao",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "hamarino ny maha-ianao anao",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "havaozy ny fandoavam-bola nataonao",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "kaonty naato",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "kaonty najanona",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "hetsika tsy mahazatra",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "hetsika mampiahiahy",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "fidirana tsy nahazoana alalana",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "tsindrio eto raha hanamarina",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "fahazoan-dàlana hidirana",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "famerenana ny tenimiafina",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "fanairana fiarovana",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "ny kaontinao dia ho",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "tsy fanamarinana",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "avereno ampiasaina indray ny anao",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "manafoana ny famandrihana",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "kitiho eto",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "hividy izao",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "manafatra izao",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "tolotra maimaim-poana",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "tolotra manokana",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "fifanarahana manokana",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "tsy misy risika",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "tsy misy adidy",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "antoka famerenam-bola",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "fahafaham-po azo antoka",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "antsoy izao",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "maimaim-poana",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "maimaimpoana 100%",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "maimaim-poana tanteraka",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "tsy misy vidiny",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "tsy misy sarany",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "vidiny ambany indrindra",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "vidiny tsara indrindra",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "discount",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "mitsitsy be",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "mitsitsy vola",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "avo roa heny ny anao",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ampitomboy ny anao",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "mahazo vola",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "mahazo vola",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "fidiram-bola fanampiny",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "miasa any an-trano",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "aoka ianao ho sefo anao",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "fahalalahana ara-bola",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "manankarena",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "mahazo karama",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "fidirana eo no ho eo",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "miaraha amin'ny olona an-tapitrisany",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "levitra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "levitra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "pharmacy",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "fivarotam-panafody an-tserasera",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "fivarotam-panafody kanadiana",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "prescription",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "tsy misy prescription",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "tsy misy prescription",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "tsy fahatomombanan'ny fananganana",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "fihenan-danja",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "mampihena lanja",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "mampihena kilao",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "pilina sakafo",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "mpandoro tavy",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "fanasitranana mahagaga",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "fanafody voajanahary",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "anti-fahanterana",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "votoaty ho an'ny olon-dehibe",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "fiarahana amin'ny olon-dehibe",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "mihaona amin'ny mpitovo",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "mpitovo mafana",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "vehivavy manirery",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "vehivavy mpikarakara tokantrano manirery",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "sakaiza malala",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "malala malala",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "tompoko/ramatoa malala",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "tsiambaratelo",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "tsiambaratelo tanteraka",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "manokana sy miafina",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "aza atao tsirambina",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "tsy maintsy mamaly",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "tsy spam ity",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "tsy fako ity",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "tsy fisolokiana",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "tolotra ara-dalàna",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "fampandrenesana ara-dalàna",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "didim-pitsarana",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "fanampiana avy amin'ny governemanta",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "fanomezana maimaim-poana",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "famerenam-bola amin'ny hetra",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "fivoriamben'ny": -0.3,
+        "fandaharam-potoana": -0.3,
+        "tetikasa": -0.3,
+        "fe-potoana": -0.3,
+        "mifatotra": -0.3,
+        "miraiki-po": -0.3,
+        "jerena": -0.2,
+        "amin-kitsimpo": -0.2,
+        "misaotra": -0.2,
+        "misaotra anao": -0.3,
+        "fanaraha-maso": -0.3,
+        "araka ny efa noresahina": -0.5,
+        "araka ny resaka nifanaovantsika": -0.5,
+        "faktiora": -0.2,
+        "tatitra": -0.2,
+        "famintinana": -0.2,
+        "minitra": -0.3,
+        "ny fihaonambe": -0.3,
+        "tahiry": -0.5,
+        "fangatahana misintona": -0.8,
+        "ankino": -0.5,
+        "mampiray": -0.5,
+        "sampana": -0.5,
+        "miisa": -0.5,
+        "tahirin-kevitra": -0.3
+    },
+    "bayesianTokens": {
+        "levitra": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "fahafahana": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "nizeriana": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "lova": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "tombontsoa": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "lottery": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "mpandresy": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "loka lehibe": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "manafoana ny famandrihana": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "hiala anarana": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "tsindrio": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "maimaim-poana": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "money": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "vola": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "loka": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "nandresy": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "maika": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "avy hatrany": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "zavatra": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "voafetra": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "tolotra": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "discount": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "azo antoka": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "mety-maimaim-poana": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "adidy aman'andraikitra": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "sary nahazoan-": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "trosa": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "findramam-bola": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "antoka": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "pharmacy": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "prescription": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "fanafody": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "lanja": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "very": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "kilao": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "mividy": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "mba": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "purchase": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "varotra": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "mora vidy": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "afa-tsy": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "fifanarahana": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "special": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "manokana": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "tombony": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "fanomezana": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "arahabaina": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "voafantina": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "manamarina": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "tantara": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "password": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "nahantona": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "mihidy": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "aro": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "vaovao farany": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazon": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "banky": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "tariby": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "famindrana": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "tambazotra": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "haingam-pandeha": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "andrefana": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "union": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "vola virtoaly": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "kitapom-batsy": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "blockchain": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "fivoriamben'ny": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "fandaharam-potoana": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "tetikasa": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ekipa": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "fe-potoana": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "mifatotra": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "miraiki-po": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "tahirin-kevitra": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "tatitra": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "famerenana": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "valin-kafatra": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "discussion": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "minitra": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ny fihaonambe": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "antso": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "jerena": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "amin-kitsimpo": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "misaotra": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "ankasitraho": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "fanarahana": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "niresaka": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "resaka": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "faktiora": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "rosia": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "famintinana": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "fanadihadiana": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "research": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ny fanazavana": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "vokatra": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "tahiry": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "ankino": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "mampiray": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "sampana": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "sintony": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "i paoly apostoly": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "miisa": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "manaova": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "fitsapana": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "fanitsiana olana": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "fahadisoana": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "bibikely": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "manamboatra": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "olana": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "endri-javatra": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "nafahana": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "malagasy bible": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "mpizara": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "banky angona": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "fangatahana": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "asa": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "miovaova": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "kilasy": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "fomba": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "interface tsara": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "maika",
+        "avy hatrany",
+        "avy hatrany",
+        "faran'izay haingana indrindra",
+        "mihetsika izao",
+        "aza misalasala",
+        "faingàna",
+        "fotoana voafetra",
+        "lany daty",
+        "fe-potoana",
+        "fahafahana farany",
+        "fampandrenesana farany",
+        "saro-pady amin'ny fotoana",
+        "valio izao",
+        "hetsika ilaina"
+    ],
+    "greetingWords": [
+        "salama",
+        "salama",
+        "ry",
+        "hey",
+        "fiarahabana",
+        "salama",
+        "salama",
+        "salama"
+    ],
+    "genericGreetings": [
+        "andriamatoa",
+        "ramatoa malala",
+        "mpanjifa malala",
+        "ry mpampiasa malala",
+        "mpikambana malala",
+        "sakaiza malala",
+        "sarobidy",
+        "ry mpandray malala",
+        "ry mpandray soa malala"
+    ]
+}

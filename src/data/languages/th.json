@@ -1,0 +1,1371 @@
+{
+    "language": "th",
+    "languageName": "Thai",
+    "spamWords": [
+        {
+            "word": "เจ้าชายไนจีเรีย",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "การโอนเงินผ่านธนาคาร",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "รายละเอียดบัญชีธนาคาร",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "กองทุนมรดก",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "เงินที่ไม่มีผู้มาขอรับ",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "ผู้รับผลประโยชน์",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "ล้านดอลลาร์",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ล้านดอลลาร์สหรัฐ",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ค่าธรรมเนียมการโอน",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ค่าธรรมเนียมการดำเนินการ",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "ค่าธรรมเนียมล่วงหน้า",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "เวสเทิร์นยูเนียน",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "มันนี่แกรม",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "กระเป๋าเงินบิตคอยน์",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "การลงทุนในสกุลเงินดิจิทัล",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "เพิ่มบิตคอยน์ของคุณเป็นสองเท่า",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "แจกคริปโต",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "ลงมือเลยตอนนี้",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ดำเนินการทันที",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "การตอบสนองอย่างเร่งด่วน",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ความสนใจอย่างเร่งด่วน",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ดำเนินการทันที",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "เวลาจำกัด",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "หมดอายุวันนี้",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "โอกาสสุดท้าย",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ประกาศสุดท้าย",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ตอบกลับทันที",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ภายใน 24 ชั่วโมง",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ภายใน 48 ชั่วโมง",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "กำหนดเวลามีความสำคัญ",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "อย่ารอช้า",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ขอแสดงความยินดีกับผู้ชนะ",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "คุณชนะแล้ว",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ผู้ถูกรางวัลลอตเตอรี่",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ประกาศรางวัล",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "รับรางวัลของคุณ",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "การแจ้งเตือนที่ชนะ",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ผู้โชคดี",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ผู้ชนะที่ได้รับการคัดเลือก",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "รางวัลเงินสด",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "รางวัลฟรี",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ชิงโชค",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "ยืนยันบัญชีของคุณ",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "ยืนยันตัวตนของคุณ",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "อัปเดตการชำระเงินของคุณ",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "บัญชีถูกระงับ",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "บัญชีถูกระงับ",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "กิจกรรมที่ผิดปกติ",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "กิจกรรมที่น่าสงสัย",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "การเข้าถึงโดยไม่ได้รับอนุญาต",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "คลิกที่นี่เพื่อตรวจสอบ",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "ข้อมูลประจำตัวสำหรับการเข้าสู่ระบบ",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "รีเซ็ตรหัสผ่าน",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "การแจ้งเตือนด้านความปลอดภัย",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "บัญชีของคุณจะเป็น",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ล้มเหลวในการตรวจสอบ",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "เปิดใช้งานของคุณอีกครั้ง",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ยกเลิกการสมัครรับข้อมูล",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "คลิกที่นี่",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ซื้อเลย",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "สั่งซื้อเลย",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ข้อเสนอฟรี",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ข้อเสนอพิเศษ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ข้อเสนอสุดพิเศษ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ปราศจากความเสี่ยง",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ไม่มีข้อผูกมัด",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "รับประกันคืนเงิน",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "รับประกันความพึงพอใจ",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "โทรเลยตอนนี้",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "โทรฟรี",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ฟรี 100%",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ฟรีโดยสมบูรณ์",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ไม่มีค่าใช้จ่าย",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ไม่มีค่าธรรมเนียม",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ราคาต่ำสุด",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ราคาดีที่สุด",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "การลดราคา",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "ประหยัดได้มาก",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ประหยัดเงิน",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "เพิ่มเป็นสองเท่า",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "เพิ่มของคุณ",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "หาเงิน",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "หาเงิน",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "รายได้เสริม",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ทำงานจากบ้าน",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "เป็นเจ้านายของตัวเอง",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "อิสรภาพทางการเงิน",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "รวย",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "รับเงิน",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "เข้าถึงได้ทันที",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "เข้าร่วมกับผู้คนนับล้าน",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ไวอากร้า",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "เซียลิส",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ร้านขายยา",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "ร้านขายยาออนไลน์",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ร้านขายยาแคนาดา",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "ใบสั่งยา",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ไม่ต้องมีใบสั่งยา",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "โดยไม่ต้องมีใบสั่งยา",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "ภาวะหย่อนสมรรถภาพทางเพศ",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "การลดน้ำหนัก",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "ลดน้ำหนัก",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "ลดน้ำหนัก",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "ยาลดน้ำหนัก",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "ยาเผาผลาญไขมัน",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "การรักษาแบบปาฏิหาริย์",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "ยาสมุนไพร",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "ต่อต้านริ้วรอย",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "เนื้อหาสำหรับผู้ใหญ่",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "การหาคู่สำหรับผู้ใหญ่",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "พบปะคนโสด",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "คนโสดสุดฮอต",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ผู้หญิงที่โดดเดี่ยว",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "แม่บ้านเหงา",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "เพื่อนรัก",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ที่รัก",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "เรียน ท่านสุภาพบุรุษ/สุภาพสตรี",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "เป็นความลับ",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "เป็นความลับอย่างเคร่งครัด",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "เป็นส่วนตัวและเป็นความลับ",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "อย่าเพิกเฉย",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ต้องตอบสนอง",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "นี่ไม่ใช่สแปม",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "นี่ไม่ใช่ขยะ",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ไม่ใช่การหลอกลวง",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ข้อเสนอที่ถูกต้อง",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ประกาศทางกฎหมาย",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "คำสั่งศาล",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "เงินอุดหนุนจากรัฐบาล",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "เงินช่วยเหลือฟรี",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "กรมสรรพากร",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "การคืนภาษี",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "การประชุม": -0.3,
+        "กำหนดการ": -0.3,
+        "โครงการ": -0.3,
+        "กำหนดเวลา": -0.3,
+        "ที่แนบมา": -0.3,
+        "เอกสารแนบ": -0.3,
+        "ด้วยความเคารพ": -0.2,
+        "ขอแสดงความนับถือ": -0.2,
+        "ขอบคุณ": -0.3,
+        "ติดตามผล": -0.3,
+        "ตามที่ได้หารือกัน": -0.5,
+        "ตามที่เราได้คุยกันไว้": -0.5,
+        "ใบแจ้งหนี้": -0.2,
+        "รายงาน": -0.2,
+        "สรุป": -0.2,
+        "นาที": -0.3,
+        "ที่เก็บข้อมูล": -0.5,
+        "คำขอพูล": -0.8,
+        "ให้สัญญา": -0.5,
+        "ผสาน": -0.5,
+        "สาขา": -0.5,
+        "ปรับใช้": -0.5,
+        "เอกสารประกอบ": -0.3
+    },
+    "bayesianTokens": {
+        "ไวอากร้า": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "เซียลิส": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "การขยายภาพ": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "ไนจีเรีย": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "มรดก": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "ผู้รับผลประโยชน์": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "ลอตเตอรี่": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "ผู้ชนะ": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "แจ็กพอต": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "ยกเลิกการสมัครรับข้อมูล": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "ยกเลิก": {
+            "spam": 0.85,
+            "ham": 0.05
+        },
+        "ยกเลิกการเข้าร่วม": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "คลิก": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ฟรี": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "เงิน": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "เงินสด": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "รางวัล": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "วอน": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "ด่วน": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "โดยทันที": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "กระทำ": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "จำกัด": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "เสนอ": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "การลดราคา": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "รับประกัน": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "ปราศจากความเสี่ยง": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "ภาระผูกพัน": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "เครดิต": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "หนี้": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "เงินกู้": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "จำนอง": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "ร้านขายยา": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "ใบสั่งยา": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "ยา": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "ยาเม็ด": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "น้ำหนัก": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "อาหาร": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "สูญเสีย": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "ปอนด์": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "ซื้อ": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "คำสั่ง": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ขาย": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ราคาถูก": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "บันทึก": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "ข้อเสนอ": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "พิเศษ": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "โบนัส": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ของขวัญ": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "ยินดีด้วย": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "เลือก": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ยืนยัน": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ตรวจสอบ": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "บัญชี": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "รหัสผ่าน": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ถูกระงับ": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "ล็อก": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ความปลอดภัย": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "อัปเดต": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "เพย์ปอล": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "อีเบย์": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "อเมซอน": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ธนาคาร": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ลวด": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "โอนย้าย": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "การกำหนดเส้นทาง": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "รวดเร็ว": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "ทางทิศตะวันตก": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "สหภาพ": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "มันนี่แกรม": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "บิตคอยน์": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "สกุลเงินดิจิทัล": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "กระเป๋าสตางค์": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "บล็อกเชน": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "การประชุม": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "กำหนดการ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "โครงการ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ทีม": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "กำหนดเวลา": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ที่แนบมา": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "เอกสารแนบ": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "เอกสาร": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "รายงาน": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ทบทวน": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ข้อเสนอแนะ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "การอภิปราย": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "นาที": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "เรียก": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "ด้วยความเคารพ": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ขอแสดงความนับถือ": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "ขอบคุณ": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "ชื่นชม": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "กำลังติดตาม": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "ได้หารือกันแล้ว": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "การสนทนา": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ใบแจ้งหนี้": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "ใบเสร็จ": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "สรุป": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "การวิเคราะห์": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "วิจัย": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ข้อมูล": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "ผลลัพธ์": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ที่เก็บข้อมูล": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "ให้สัญญา": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "ผสาน": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "สาขา": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ดึง": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ขอ": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "ปรับใช้": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "สร้าง": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ทดสอบ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ดีบัก": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "ข้อผิดพลาด": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "บั๊ก": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "แก้ไข": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ปัญหา": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "คุณสมบัติ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ปล่อย": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "เวอร์ชั่น": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "เอกสารประกอบ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "เซิร์ฟเวอร์": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ฐานข้อมูล": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "คำถาม": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "การทำงาน": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ตัวแปร": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ระดับ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "วิธี": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "อินเทอร์เฟซ": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "ด่วน",
+        "ทันที",
+        "โดยทันที",
+        "โดยเร็วที่สุด",
+        "ลงมือเลยตอนนี้",
+        "อย่ารอช้า",
+        "รีบ",
+        "เวลาจำกัด",
+        "หมดอายุ",
+        "กำหนดเวลา",
+        "โอกาสสุดท้าย",
+        "ประกาศสุดท้าย",
+        "กำหนดเวลามีความสำคัญ",
+        "ตอบกลับตอนนี้",
+        "จำเป็นต้องดำเนินการ"
+    ],
+    "greetingWords": [
+        "สวัสดี",
+        "สวัสดี",
+        "ที่รัก",
+        "เฮ้",
+        "สวัสดี",
+        "สวัสดีตอนเช้า",
+        "สวัสดีตอนบ่าย",
+        "สวัสดีตอนเย็น"
+    ],
+    "genericGreetings": [
+        "เรียนท่านสุภาพบุรุษ",
+        "เรียน คุณผู้หญิง",
+        "เรียนลูกค้า",
+        "เรียนผู้ใช้งาน",
+        "เรียนสมาชิก",
+        "เพื่อนรัก",
+        "เรียน ท่านผู้มีเกียรติ",
+        "เรียน ผู้รับที่รัก",
+        "เรียนผู้รับประโยชน์"
+    ]
+}

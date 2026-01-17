@@ -1,0 +1,1373 @@
+{
+    "language": "uz",
+    "languageName": "Uzbek",
+    "spamWords": [
+        {
+            "word": "nigeriya shahzodasi",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "bank pul o'tkazmasi",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "bank hisob raqami tafsilotlari",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "meros fondi",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "talab qilinmagan mablag'lar",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "benefitsiar",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "million dollar",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "million aqsh dollari",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "o'tkazish narxi",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "qayta ishlash narxi",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "oldindan to'lov",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "western union",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "bitcoin hamyoni",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "kriptovalyuta investitsiyasi",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "bitcoiningizni ikki baravar oshiring",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "kripto sovg'asi",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "hozir harakat qiling",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "darhol harakat qiling",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "shoshilinch choralar",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "shoshilinch e'tibor",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "darhol harakat",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "cheklangan vaqt",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "bugun tugaydi",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "oxirgi imkoniyat",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "yakuniy bildirishnoma",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "darhol javob bering",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "24 soat ichida",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "48 soat ichida",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "vaqtga sezgir",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "kechiktirmang",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "tabriklayman g'olib",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "siz yutdingiz",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "lotereya g'olibi",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "mukofot haqida bildirishnoma",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "sovriningizni talab qiling",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "yutuqli bildirishnoma",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "omadli g'olib",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "tanlangan g'olib",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "pul mukofoti",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "bepul mukofot",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "lotereya",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "hisobingizni tasdiqlang",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "shaxsingizni tasdiqlang",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "to'lovingizni yangilang",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "to'xtatib qo'yilgan hisob",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "hisob to'xtatildi",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "noodatiy faoliyat",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "shubhali faoliyat",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "ruxsatsiz kirish",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "tasdiqlash uchun bu yerni bosing",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "tizimga kirish ma'lumotlari",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "parolni tiklash",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "xavfsizlik ogohlantirishi",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "hisobingiz bo'ladi",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "tekshirishda xatolik",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "qayta faollashtiring",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "obunani bekor qilish",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "bu yerni bosing",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "hozir xarid qilish",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "hozir buyurtma bering",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "bepul taklif",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "maxsus taklif",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "eksklyuziv taklif",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "xavfsiz",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "majburiyat yo'q",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "pulni qaytarib berish kafolati",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "qoniqish kafolatlangan",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "hozir qo'ng'iroq qiling",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "bepul",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% bepul",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "butunlay bepul",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "bepul",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "to'lovlar yo'q",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "eng past narx",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "eng yaxshi narx",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "chegirma",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "katta tejash",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "pulni tejash",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ikki baravar ko'p",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "oshirish",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "pul ishlash",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "pul ishlash",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "qo'shimcha daromad",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "uydan ishlash",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "o'z xo'jayiningiz bo'ling",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "moliyaviy erkinlik",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "boyib ketmoq",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "pul olish",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "tezkor kirish",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "millionlarga qo'shiling",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "sialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "dorixona",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "onlayn dorixona",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "kanada dorixonasi",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "retsept",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "retseptsiz",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "retseptsiz",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "erektil disfunktsiya",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "vazn yo'qotish",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "ozish",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "funt yo'qotish",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "parhez tabletkasi",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "yog 'yoqish moslamasi",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "mo''jizaviy davolash",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "tabiiy vosita",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "qarishga qarshi",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "kattalar uchun mo'ljallangan kontent",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "kattalar uchun tanishuv",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "yolg'izlar bilan tanishing",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "issiq singllar",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "yolg'iz ayollar",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "yolg'iz uy bekasi",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "aziz do'stim",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "aziz sevgilim",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "aziz janob/xonim",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "maxfiy",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "qat'iy maxfiy",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "shaxsiy va maxfiy",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "e'tiborsiz qoldirmang",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "javob berish kerak",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "bu spam emas",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "bu axlat emas",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "firibgarlik emas",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "qonuniy taklif",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "qonuniy ogohlantirish",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "sud qarori",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "davlat granti",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "bepul grant",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "soliqni qaytarish",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "uchrashuv": -0.3,
+        "jadval": -0.3,
+        "loyiha": -0.3,
+        "topshirish muddati; tugatish muddati": -0.3,
+        "biriktirilgan": -0.3,
+        "ilova": -0.3,
+        "hurmat bilan": -0.2,
+        "chin dildan": -0.2,
+        "rahmat": -0.3,
+        "kuzatib borish": -0.3,
+        "muhokama qilinganidek": -0.5,
+        "suhbatimizga ko'ra": -0.5,
+        "faktura": -0.2,
+        "hisobot": -0.2,
+        "xulosa": -0.2,
+        "daqiqa": -0.3,
+        "kun tartibi": -0.3,
+        "konferensiya": -0.3,
+        "omborxona": -0.5,
+        "tortish so'rovi": -0.8,
+        "majburiyat olish": -0.5,
+        "birlashish": -0.5,
+        "filial": -0.5,
+        "joylashtirish": -0.5,
+        "hujjatlar": -0.3
+    },
+    "bayesianTokens": {
+        "viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "kengaytirish": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "nigeriyalik": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "meros": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "benefitsiar": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "lotereya": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "g'olib": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "jackpot": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "obunani bekor qilish": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "qatnashishdan voz kechish; obunani bekor qilish": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "bosish": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "bepul": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "pul": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "naqd pul": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "mukofot": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "yutib oldi": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "shoshilinch": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "darhol": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "harakat": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "cheklangan": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "taklif": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "chegirma": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "kafolatlangan": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "xavfsiz": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "majburiyat": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "kredit": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "qarz": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ipoteka": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "dorixona": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "retsept": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "dori": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "tabletkalar": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "vazn": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "parhez": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "yutqazish": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "funt": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "sotib olish": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "buyurtma": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "savdo": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "arzon": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "saqlash": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "bitim": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "maxsus": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "eksklyuziv": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "bonus": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "sovg'a": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "tabriklar": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "tanlangan": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "tasdiqlash": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "tekshirish": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "hisob": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "parol": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "to'xtatib qo'yilgan": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "qulflangan": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "xavfsizlik": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "yangilash": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazon": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "bank": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "sim": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "o'tkazish": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "marshrutizatsiya": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "tezkor": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "g'arbiy": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "kasaba uyushma": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitkoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "kriptovalyuta": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "hamyon": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "blokcheyn": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "uchrashuv": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "jadval": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "loyiha": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "jamoa": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "topshirish muddati; tugatish muddati": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "biriktirilgan": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ilova": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "hujjat": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "hisobot": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "sharh": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "fikr-mulohaza": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "muhokama": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "kun tartibi": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "daqiqa": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "konferensiya": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "qo'ng'iroq": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "hurmat bilan": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "chin dildan": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "rahmat": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "qadrlash": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ergashish": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "muhokama qilindi": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "suhbat": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "faktura": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "kvitansiya": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "xulosa": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "tahlil": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "tadqiqot": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ma'lumotlar": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "natijalar": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "omborxona": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "majburiyat olish": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "birlashish": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "filial": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "torting": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "so'rov": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "joylashtirish": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "qurish": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "sinov": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "nosozliklarni tuzatish": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "xato": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "hasharot": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "tuzatish": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "masala": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "xususiyat": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ozod qilish": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "versiya": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "hujjatlar": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "server": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ma'lumotlar bazasi": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "funksiya": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "o'zgaruvchan": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "sinf": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "usul": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "interfeys": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "shoshilinch",
+        "darhol",
+        "darhol",
+        "iloji boricha tezroq",
+        "hozir harakat qiling",
+        "kechiktirmang",
+        "shoshilish",
+        "cheklangan vaqt",
+        "muddati tugaydi",
+        "topshirish muddati; tugatish muddati",
+        "oxirgi imkoniyat",
+        "yakuniy bildirishnoma",
+        "vaqtga sezgir",
+        "hozir javob bering",
+        "zarur harakat"
+    ],
+    "greetingWords": [
+        "salom",
+        "salom",
+        "azizim",
+        "hey",
+        "salomlar",
+        "xayrli tong",
+        "hayrli kun",
+        "hayrli kech"
+    ],
+    "genericGreetings": [
+        "hurmatli janob",
+        "aziz xonim",
+        "aziz mijoz",
+        "aziz foydalanuvchi",
+        "aziz a'zo",
+        "aziz do'stim",
+        "aziz qadrli",
+        "aziz oluvchi",
+        "aziz benefitsiar"
+    ]
+}

@@ -1,0 +1,1343 @@
+{
+    "language": "sm",
+    "languageName": "Samoan",
+    "spamWords": [
+        {
+            "word": "ali'i o nigeria",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "fesiitaiga uaea",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "fa'amatalaga o le teugatupe i le faletupe",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "tupe tofi",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "tupe e le'i fai mai",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "tagata e manuia",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "miliona tala",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "miliona usd",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "totogifuapauina o le fesiitaiga",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "totogifuapauina o le faagasologa",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "totogifuapauina muamua",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "iuni sisifo",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "atotupe bitcoin",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "tupe teufaafaigaluega i cryptocurrency",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "faaluaina lau bitcoin",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "meaalofa crypto",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "galue nei",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "gaoioi loa",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "tali vave",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "tausiga fa'anatinati",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "gaioiga vave",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "taimi fa'atapula'a",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "e muta i le asō",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "avanoa mulimuli",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "faasilasilaga mulimuli",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "tali vave mai",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "i totonu ole 24 itula",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "i totonu ole 48 itula",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "taimi e maaleale i ai",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "aua le faatuai",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "faamalo le manumalo",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ua e manumalo",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "tagata manumalo i le lotoa",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "faasilasilaga o le taui",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "fai lau taui",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "faasilasilaga manumalo",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "tagata manumalo laki",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "manumalo ua filifilia",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "taui tupe",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "taui e leai se totogi",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "tauvaga",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "fa'amaonia lau teugatupe",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "fa'amaonia lou fa'asinomaga",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "fa'afou lau totogi",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "teugatupe ua taofia",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "ua taofia le teugatupe",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "gaoioiga e le masani ai",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "gaoioiga masalomia",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "ulufale e le'i fa'atagaina",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "kiliki iinei e fa'amaonia",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "fa'amaoniga ulufale",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "toe setiina o le upu faataga",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "lapataiga saogalemu",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "o lau teugatupe o le a",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "le mafai ona fa'amaonia",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "toe fa'agaoioia lau",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "le toe lesitala",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "kiliki iinei",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "faatau nei",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "fa'atonu nei",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ofo fua",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ofo faapitoa",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "fefa'ataua'iga fa'apitoa",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "e leai se lamatiaga",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "leai se noataga",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "fa'amaoniga o tupe toe fa'afo'i",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "fa'amalieina mautinoa",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "telefoni mai nei",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "totogi fua",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% saoloto",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "saoloto atoatoa",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "leai se totogi",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "leai ni totogifuapauina",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "tau maualalo",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "tau sili ona lelei",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "fa'aitiitiga",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "sefe tele",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "sefe tupe",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "faaluaina lau",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "fa'ateleina lau",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "maua tupe",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "maua tupe",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "tupe maua faaopoopo",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "galue mai le fale",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ia avea oe ma ou pule",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "saolotoga tau tupe",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ia mauoa",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "maua le totogi",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "avanoa vave",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "auai i le faitau miliona",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "fale talavai",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "fale talavai i luga ole initaneti",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "fale talavai kanata",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "talavai",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "leai se talavai",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "e aunoa ma se fa'atonuga",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "faaletonu o le faatinoga",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "pa'u o le mamafa",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "fa'aitiitia le mamafa",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "fa'aitiitia pauna",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "fualaau taumafa",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "mea e fa'amumu ai ga'o",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "togafitiga fa'avavega",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "vaila'au fa'alenatura",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "tete'e i le matua",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "anotusi mo tagata matutua",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "tafaoga faamasani mo tagata matutua",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "feiloa'i ma tagata nofofua",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "tagata nofofua vevela",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "fafine tu'ua to'atasi",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "tina nofo to'atasi",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "uo pele",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "pele pele",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "susuga/tama'ita'i pele",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "faalilolilo",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "fa'alilolilo atoatoa",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "faalilolilo ma faalilolilo",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "aua le fa'agalogaloina",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "e tatau ona tali atu",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "e le o se spam lenei",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "e le o se otaota lenei",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "e le o se taufaasese",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ofo talafeagai",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "faasilasilaga faaletulafono",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "poloaiga a le faamasinoga",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "fesoasoani a le malo",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "fesoasoani fua",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "toe faafoi lafoga",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "fonotaga": -0.3,
+        "faasologa": -0.3,
+        "galuega faatino": -0.3,
+        "aso fa'atulagaina": -0.3,
+        "fa'apipi'i": -0.3,
+        "fa'afetai": -0.3,
+        "fa'amaoni": -0.2,
+        "fa'aauau pea": -0.3,
+        "e pei ona talanoaina": -0.5,
+        "e tusa ai ma la tatou talanoaga": -0.5,
+        "pili": -0.2,
+        "lipoti": -0.2,
+        "aotelega": -0.2,
+        "minute": -0.3,
+        "lisi o mataupu": -0.3,
+        "konafesi": -0.3,
+        "fale teuoloa": -0.5,
+        "talosaga toso": -0.8,
+        "tautino atu": -0.5,
+        "tu'ufa'atasia": -0.5,
+        "lālā": -0.5,
+        "fa'atulaga": -0.5,
+        "pepa fa'amaumau": -0.3
+    },
+    "bayesianTokens": {
+        "viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "fa'alauteleina": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "tagata nigeria": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "tofi": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "tagata e manuia": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "loteri": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "manumalo": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "tupe tele": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "le toe lesitala": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "filifili e le auai": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "kiliki": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "saoloto": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "tupe": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "taui": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "faanatinati": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "i le taimi lava lea": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "gaioiga": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "fa'atapula'aina": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "ofo": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "fa'aitiitiga": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "fa'amaonia": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "e leai se lamatiaga": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "tiute": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "aitalafu": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "nonogatupe": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "mokesi": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "fale talavai": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "talavai": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "vaila'au": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "fualaau": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "mamafa": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "taumafa": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "faia'ina": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "pauna": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "fa'atau": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "poloaiga": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "fa'atauga": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "taugofie": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "sefe": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "fefa'ataua'iga": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "faapitoa": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "fa'apitoa": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ponesi": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "meaalofa": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "fa'amalo": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "filifilia": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "teugatupe": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "numera e le iloa e sesi": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "fa'amutaina": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "loka": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "saogalemu": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "fa'afouga": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazon": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "faletupe": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "uaea": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "fesiitaiga": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "fa'asologa o ala": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "vave": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "sisifo": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "fa'atasiga": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "tupe numera": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "atotupe": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "poloka poloka": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "fonotaga": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "faasologa": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "galuega faatino": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "'au": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "aso fa'atulagaina": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "fa'apipi'i": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "pepa aloaia": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "lipoti": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "iloiloga": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "manatu faaalia": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "talanoaga": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "lisi o mataupu": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "minute": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "konafesi": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "vala'au": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "fa'afetai": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "fa'amaoni": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "talisapaia": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "mulimuli mai": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "talanoaina": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "pili": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "lisiti": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "aotelega": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "auiliiliga": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "suʻesuʻega": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "fa'amaumauga": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "i'uga": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "fale teuoloa": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "tautino atu": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "tu'ufa'atasia": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "lālā": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "toso": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "talosaga": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "fa'atulaga": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "fausia": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "suega": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "fa'asa'o mea sese": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "sese": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "iniseti": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "fa'aleleia": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "mataupu": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "foliga": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "fa'asa'olotoina": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "lomiga": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "pepa fa'amaumau": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "'au'aunaga": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "fesili": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "galuega": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "fesuia'i": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "vasega": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "metotia": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "feso'ota'iga": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "faanatinati",
+        "vave",
+        "i le taimi lava lea",
+        "vave lava",
+        "galue nei",
+        "aua le faatuai",
+        "fa'avave",
+        "taimi fa'atapula'a",
+        "e muta le aoga",
+        "aso fa'atulagaina",
+        "avanoa mulimuli",
+        "faasilasilaga mulimuli",
+        "taimi e maaleale i ai",
+        "tali atu nei",
+        "gaioiga e manaʻomia"
+    ],
+    "greetingWords": [
+        "malo",
+        "talofa",
+        "pele",
+        "talofa",
+        "fa'afeiloa'iga",
+        "manuia le taeao",
+        "manuia le aoauli",
+        "manuia le afiafi"
+    ],
+    "genericGreetings": [
+        "susuga pele",
+        "tama'ita'i pele",
+        "tagata fa'atau pele",
+        "tagata fa'aoga pele",
+        "le sui pele",
+        "uo pele",
+        "pele",
+        "pele e mauaina",
+        "pele e manuia"
+    ]
+}

@@ -1,0 +1,1369 @@
+{
+    "language": "ka",
+    "languageName": "Georgian",
+    "spamWords": [
+        {
+            "word": "ნიგერიელი პრინცი",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "საბანკო გადარიცხვა",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "საბანკო ანგარიშის დეტალები",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "მემკვიდრეობის ფონდი",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "მოუთხოველი თანხები",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "ბენეფიციარი",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "მილიონი დოლარი",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "მილიონი აშშ დოლარი",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "გადარიცხვის საკომისიო",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "დამუშავების საფასური",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "წინასწარი გადასახადი",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ვესტერნ იუნიონი",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "მანიგრამი",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "ბიტკოინის საფულე",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "კრიპტოვალუტის ინვესტიცია",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "გააორმაგეთ თქვენი ბიტკოინი",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "კრიპტო გათამაშება",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "იმოქმედე ახლავე",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "დაუყოვნებლივ იმოქმედე",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "სასწრაფო რეაგირება",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "სასწრაფო ყურადღება",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "დაუყოვნებელი მოქმედება",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "შეზღუდული დრო",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ვადა დღეს იწურება",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "ბოლო შანსი",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "საბოლოო შეტყობინება",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "დაუყოვნებლივ უპასუხე",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "24 საათის განმავლობაში",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "48 საათის განმავლობაში",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "დროზე მგრძნობიარე",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ნუ გადადებ",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "გილოცავთ გამარჯვებულს",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "შენ მოიგე",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ლატარიის გამარჯვებული",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "პრიზის შესახებ შეტყობინება",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "მიიღეთ თქვენი პრიზი",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "გამარჯვების შეტყობინება",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "იღბლიანი გამარჯვებული",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "შერჩეული გამარჯვებული",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ფულადი პრიზი",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "უფასო პრიზი",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "გათამაშება",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "დაადასტურეთ თქვენი ანგარიში",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "დაადასტურეთ თქვენი ვინაობა",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "განაახლეთ თქვენი გადახდა",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "შეჩერებული ანგარიში",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "ანგარიში შეჩერებულია",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "უჩვეულო აქტივობა",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "საეჭვო აქტივობა",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "არაავტორიზებული წვდომა",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "დააწკაპუნეთ აქ დასადასტურებლად",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "შესვლის ავტორიზაციის მონაცემები",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "პაროლის აღდგენა",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "უსაფრთხოების გაფრთხილება",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "თქვენი ანგარიში იქნება",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ვერიფიკაციის შეუძლებლობა",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "ხელახლა გაააქტიურეთ თქვენი",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "გამოწერის გაუქმება",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "დააწკაპუნეთ აქ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "იყიდე ახლა",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "შეუკვეთე ახლავე",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "უფასო შეთავაზება",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "სპეციალური შეთავაზება",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ექსკლუზიური შეთავაზება",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "რისკის გარეშე",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ვალდებულების გარეშე",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "თანხის დაბრუნების გარანტია",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "კმაყოფილება გარანტირებულია",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "დარეკე ახლავე",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "უფასო",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100%-ით უფასო",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "სრულიად უფასო",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "უფასო",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "საკომისიოს გარეშე",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ყველაზე დაბალი ფასი",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "საუკეთესო ფასი",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ფასდაკლება",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "დიდი დაზოგვა",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ფულის დაზოგვა",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "გააორმაგეთ თქვენი",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "გაზარდეთ თქვენი",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ფულის შოვნა",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ფულის შოვნა",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "დამატებითი შემოსავალი",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "სახლიდან მუშაობა",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "იყავი შენი თავის უფროსი",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ფინანსური თავისუფლება",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "გამდიდრება",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ანაზღაურების მიღება",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "მყისიერი წვდომა",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "შეუერთდი მილიონებს",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ვიაგრა",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ციალისი",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "აფთიაქი",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "ონლაინ აფთიაქი",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "კანადური აფთიაქი",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "რეცეპტი",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "რეცეპტის გარეშე",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "რეცეპტის გარეშე",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "ერექციული დისფუნქცია",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "წონის დაკლება",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "წონის დაკლება",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "კილოგრამების დაკლება",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "დიეტური აბი",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "ცხიმის მწველი",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "სასწაულებრივი განკურნება",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "ბუნებრივი საშუალება",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "დაბერების საწინააღმდეგო",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "ზრდასრულთათვის განკუთვნილი კონტენტი",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ზრდასრულთა შეხვედრები",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "გაიცანით მარტოხელები",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "ცხელი სინგლები",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "მარტოხელა ქალები",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "მარტოსული დიასახლისი",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "ძვირფასო მეგობარო",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ძვირფასო საყვარელო",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ძვირფასო ბატონო/ქალბატონო",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "კონფიდენციალური",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "მკაცრად კონფიდენციალური",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "პირადი და კონფიდენციალური",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "არ უგულებელყო",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "უნდა უპასუხოს",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "ეს სპამი არ არის",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ეს ნაგავი არ არის",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "არ არის თაღლითობა",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ლეგიტიმური შეთავაზება",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "იურიდიული შეტყობინება",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "სასამართლოს გადაწყვეტილება",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "სამთავრობო გრანტი",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "უფასო გრანტი",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "გადასახადის დაბრუნება",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "შეხვედრა": -0.3,
+        "გრაფიკი": -0.3,
+        "პროექტი": -0.3,
+        "ვადა": -0.3,
+        "მიმაგრებული": -0.3,
+        "დანართი": -0.3,
+        "პატივისცემით": -0.2,
+        "გულწრფელად": -0.2,
+        "მადლობა": -0.3,
+        "შემდგომი": -0.3,
+        "როგორც განხილულია": -0.5,
+        "ჩვენი საუბრის მიხედვით": -0.5,
+        "ინვოისი": -0.2,
+        "ანგარიში": -0.2,
+        "შეჯამება": -0.2,
+        "წუთები": -0.3,
+        "დღის წესრიგი": -0.3,
+        "კონფერენცია": -0.3,
+        "საცავი": -0.5,
+        "გაშვების მოთხოვნა": -0.8,
+        "ჩადენა": -0.5,
+        "შერწყმა": -0.5,
+        "ტოტი": -0.5,
+        "განლაგება": -0.5,
+        "დოკუმენტაცია": -0.3
+    },
+    "bayesianTokens": {
+        "ვიაგრა": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "ციალისი": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "გაფართოება": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "ნიგერიელი": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "მემკვიდრეობა": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "ბენეფიციარი": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "ლატარია": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "გამარჯვებული": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "ჯეკპოტი": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "გამოწერის გაუქმება": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "უარის თქმა": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "დაწკაპუნება": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "უფასო": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "ფული": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ნაღდი ფული": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "პრიზი": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "მოიგო": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "სასწრაფო": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "დაუყოვნებლივ": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "მოქმედება": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "შეზღუდული": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "შეთავაზება": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ფასდაკლება": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "გარანტირებული": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "რისკის გარეშე": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "ვალდებულება": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "კრედიტი": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "ვალი": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "სესხი": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "იპოთეკური სესხი": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "აფთიაქი": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "რეცეპტი": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "მედიკამენტი": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "აბები": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "წონა": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "დიეტა": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "წაგება": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "ფუნტი": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "ყიდვა": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "შეკვეთა": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "შეძენა": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "გაყიდვა": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "იაფი": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "შენახვა": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "გარიგება": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "განსაკუთრებული": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ექსკლუზიური": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ბონუსი": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "საჩუქარი": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "მილოცვები": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "არჩეული": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "დადასტურება": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "ანგარიში": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "პაროლი": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "შეჩერებული": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "ჩაკეტილი": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "უსაფრთხოება": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "განახლება": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "პეიპალი": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ამაზონი": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ბანკი": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "მავთული": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "გადაცემა": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "მარშრუტიზაცია": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "სწრაფი": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "დასავლური": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "კავშირი": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "მანიგრამი": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "ბიტკოინი": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "კრიპტოვალუტა": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "საფულე": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "ბლოკჩეინი": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "შეხვედრა": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "გრაფიკი": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "პროექტი": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "გუნდი": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ვადა": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "მიმაგრებული": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "დანართი": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "დოკუმენტი": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "მიმოხილვა": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "უკუკავშირი": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "დისკუსია": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "დღის წესრიგი": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "წუთები": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "კონფერენცია": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ზარი": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "პატივისცემით": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "გულწრფელად": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "მადლობა": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "დაფასება": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "შემდეგ": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "განხილული": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "საუბარი": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ინვოისი": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "ქვითარი": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "შეჯამება": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ანალიზი": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "კვლევა": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "მონაცემები": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "შედეგები": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "საცავი": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "ჩადენა": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "შერწყმა": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ტოტი": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "გაწევა": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "მოთხოვნა": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "განლაგება": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "აშენება": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ტესტი": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "გამართვა": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "შეცდომა": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "მწერი": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "შეკეთება": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "საკითხი": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ფუნქცია": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "გათავისუფლება": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ვერსია": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "დოკუმენტაცია": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "აპი": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "სერვერი": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "მონაცემთა ბაზა": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ცვლადი": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "კლასი": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "მეთოდი": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ინტერფეისი": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "სასწრაფო",
+        "დაუყოვნებლივი",
+        "დაუყოვნებლივ",
+        "რაც შეიძლება მალე",
+        "იმოქმედე ახლავე",
+        "ნუ გადადებ",
+        "ჩქარა",
+        "შეზღუდული დრო",
+        "ვადა იწურება",
+        "ვადა",
+        "ბოლო შანსი",
+        "საბოლოო შეტყობინება",
+        "დროზე მგრძნობიარე",
+        "უპასუხე ახლავე",
+        "საჭირო ქმედება"
+    ],
+    "greetingWords": [
+        "გამარჯობა",
+        "გამარჯობა",
+        "ძვირფასო",
+        "ჰეი",
+        "მისალმებები",
+        "დილა მშვიდობისა",
+        "შუადღე მშვიდობისა",
+        "საღამო მშვიდობისა"
+    ],
+    "genericGreetings": [
+        "ძვირფასო ბატონო",
+        "ძვირფასო ქალბატონო",
+        "ძვირფასო მომხმარებელო",
+        "ძვირფასო მომხმარებელო",
+        "ძვირფასო წევრო",
+        "ძვირფასო მეგობარო",
+        "ძვირფასო პატივცემულო",
+        "ძვირფასო მიმღებო",
+        "ძვირფასო ბენეფიციარ"
+    ]
+}

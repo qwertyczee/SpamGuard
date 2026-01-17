@@ -27,8 +27,8 @@ describe("SpamGuard Engine", () => {
             expect(config.spamThreshold).toBe(10);
         });
 
-        it("should return valid analysis result structure", () => {
-            const result = analyzeEmail({
+        it("should return valid analysis result structure", async () => {
+            const result = await analyzeEmail({
                 from: "test@example.com",
                 to: "recipient@example.com",
                 subject: "Test",
@@ -48,8 +48,8 @@ describe("SpamGuard Engine", () => {
             expect(result.analyzers.length).toBe(6); // 6 analyzers
         });
 
-        it("should include debug info when enabled", () => {
-            const result = analyzeEmail(
+        it("should include debug info when enabled", async () => {
+            const result = await analyzeEmail(
                 {
                     from: "test@example.com",
                     to: "recipient@example.com",
@@ -67,8 +67,8 @@ describe("SpamGuard Engine", () => {
 
     describe("Spam Detection", () => {
         SPAM_EMAILS.forEach(({ name, email, expectedMinScore }) => {
-            it(`should detect spam: ${name}`, () => {
-                const result = analyzeEmail(email);
+            it(`should detect spam: ${name}`, async () => {
+                const result = await analyzeEmail(email);
 
                 expect(result.score).toBeGreaterThanOrEqual(expectedMinScore);
                 expect(result.isSpam).toBe(true);
@@ -81,8 +81,8 @@ describe("SpamGuard Engine", () => {
 
     describe("Ham Detection", () => {
         HAM_EMAILS.forEach(({ name, email, expectedMaxScore }) => {
-            it(`should not flag as spam: ${name}`, () => {
-                const result = analyzeEmail(email);
+            it(`should not flag as spam: ${name}`, async () => {
+                const result = await analyzeEmail(email);
 
                 expect(result.score).toBeLessThanOrEqual(expectedMaxScore);
                 expect(result.isSpam).toBe(false);
@@ -95,24 +95,22 @@ describe("SpamGuard Engine", () => {
 
     describe("Edge Cases", () => {
         EDGE_CASE_EMAILS.forEach(({ name, email, description }) => {
-            it(`should handle edge case: ${name} - ${description}`, () => {
+            it(`should handle edge case: ${name} - ${description}`, async () => {
                 // Should not throw
-                expect(() => {
-                    const result = analyzeEmail(email);
-                    expect(result).toBeDefined();
-                    expect(typeof result.score).toBe("number");
-                    expect(typeof result.isSpam).toBe("boolean");
-                }).not.toThrow();
+                const result = await analyzeEmail(email);
+                expect(result).toBeDefined();
+                expect(typeof result.score).toBe("number");
+                expect(typeof result.isSpam).toBe("boolean");
             });
         });
     });
 
     describe("Classification Thresholds", () => {
-        it("should classify as spam above threshold", () => {
+        it("should classify as spam above threshold", async () => {
             const guard = new SpamGuard({ spamThreshold: 5 });
 
             // This email should score high
-            const result = guard.analyze({
+            const result = await guard.analyze({
                 from: "scammer@example.xyz",
                 subject: "URGENT!!! You have WON $1,000,000!!!",
                 textBody:
@@ -122,14 +120,14 @@ describe("SpamGuard Engine", () => {
             expect(result.classification).toBe("spam");
         });
 
-        it("should classify as probable_spam between thresholds", () => {
+        it("should classify as probable_spam between thresholds", async () => {
             const guard = new SpamGuard({
                 spamThreshold: 10,
                 probableSpamThreshold: 3,
             });
 
             // This should score medium
-            const result = guard.analyze({
+            const result = await guard.analyze({
                 from: "newsletter@company.com",
                 subject: "Special Offer - Limited Time!",
                 textBody: "Click here for amazing discounts. Buy now and save!",
@@ -140,8 +138,8 @@ describe("SpamGuard Engine", () => {
             }
         });
 
-        it("should classify as ham for low scores", () => {
-            const result = analyzeEmail({
+        it("should classify as ham for low scores", async () => {
+            const result = await analyzeEmail({
                 from: "colleague@company.com",
                 to: "me@company.com",
                 subject: "Re: Project Update",
@@ -158,10 +156,10 @@ describe("SpamGuard Engine", () => {
     });
 
     describe("Quick Methods", () => {
-        it("isSpam() should return boolean", () => {
+        it("isSpam() should return boolean", async () => {
             const guard = new SpamGuard();
 
-            const result = guard.isSpam({
+            const result = await guard.isSpam({
                 subject: "Normal email",
                 textBody: "Hi, how are you?",
             });
@@ -169,10 +167,10 @@ describe("SpamGuard Engine", () => {
             expect(typeof result).toBe("boolean");
         });
 
-        it("getScore() should return number", () => {
+        it("getScore() should return number", async () => {
             const guard = new SpamGuard();
 
-            const score = guard.getScore({
+            const score = await guard.getScore({
                 subject: "Test",
                 textBody: "Content",
             });
@@ -183,8 +181,8 @@ describe("SpamGuard Engine", () => {
     });
 
     describe("Performance", () => {
-        it("should analyze email quickly", () => {
-            const result = analyzeEmail({
+        it("should analyze email quickly", async () => {
+            const result = await analyzeEmail({
                 from: "test@example.com",
                 to: "recipient@example.com",
                 subject: "Performance test",
@@ -195,10 +193,10 @@ describe("SpamGuard Engine", () => {
             expect(result.processingTimeMs).toBeLessThan(100);
         });
 
-        it("should handle large emails", () => {
+        it("should handle large emails", async () => {
             const largeBody = "Lorem ipsum dolor sit amet. ".repeat(1000);
 
-            const result = analyzeEmail({
+            const result = await analyzeEmail({
                 from: "test@example.com",
                 to: "recipient@example.com",
                 subject: "Large email test",
@@ -211,8 +209,8 @@ describe("SpamGuard Engine", () => {
     });
 
     describe("Analyzer Coverage", () => {
-        it("should run all analyzers", () => {
-            const result = analyzeEmail({
+        it("should run all analyzers", async () => {
+            const result = await analyzeEmail({
                 from: "test@example.com",
                 to: "recipient@example.com",
                 subject: "Test",
@@ -230,8 +228,8 @@ describe("SpamGuard Engine", () => {
             expect(analyzerNames).toContain("bayesian");
         });
 
-        it("should provide top reasons for spam", () => {
-            const result = analyzeEmail(SPAM_EMAILS[0].email);
+        it("should provide top reasons for spam", async () => {
+            const result = await analyzeEmail(SPAM_EMAILS[0].email);
 
             expect(result.topReasons.length).toBeGreaterThan(0);
             expect(result.topReasons.length).toBeLessThanOrEqual(5);
@@ -240,11 +238,11 @@ describe("SpamGuard Engine", () => {
 });
 
 describe("Real-World Accuracy", () => {
-    it("should have >90% spam detection rate", () => {
+    it("should have >90% spam detection rate", async () => {
         let detected = 0;
 
         for (const { email } of SPAM_EMAILS) {
-            const result = analyzeEmail(email);
+            const result = await analyzeEmail(email);
             if (result.isSpam) detected++;
         }
 
@@ -252,11 +250,11 @@ describe("Real-World Accuracy", () => {
         expect(detectionRate).toBeGreaterThanOrEqual(0.9);
     });
 
-    it("should have <10% false positive rate", () => {
+    it("should have <10% false positive rate", async () => {
         let falsePositives = 0;
 
         for (const { email } of HAM_EMAILS) {
-            const result = analyzeEmail(email);
+            const result = await analyzeEmail(email);
             if (result.isSpam) falsePositives++;
         }
 

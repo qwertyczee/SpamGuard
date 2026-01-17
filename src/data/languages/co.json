@@ -1,0 +1,1377 @@
+{
+    "language": "co",
+    "languageName": "Corsican",
+    "spamWords": [
+        {
+            "word": "principe nigerianu",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "trasferimentu bancariu",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "dettagli di u contu bancariu",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "fondu di successione",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "fondi micca reclamati",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "beneficiariu",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "milioni di dollari",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "milioni di dollari americani",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "cumissione di trasferimentu",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "cumissione di trasfurmazione",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "tarifa anticipata",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "unione occidentale",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "portafogliu bitcoin",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "investimentu in criptovaluta",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "duppiate u vostru bitcoin",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "rigalu di criptovalute",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "agisce avà",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "agisce subitu",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "risposta urgente",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "attenzione urgente",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "azzione immediata",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "tempu limitatu",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "scade oghje",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "ultima chance",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "avvisu finale",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "risponde subitu",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "in 24 ore",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "in 48 ore",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "sensibile à u tempu",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ùn aspettate micca",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "felicitazioni vincitore",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "avete vintu",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "vincitore di a lotteria",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "notificazione di premiu",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "rivendicate u vostru premiu",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "notificazione di vincita",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "vincitore furtunatu",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "vincitore sceltu",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "premiu in soldi",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "premiu gratuitu",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "lotterie",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "verificate u vostru contu",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "cunfirmà a vostra identità",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "aghjurnà u vostru pagamentu",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "contu suspesu",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "contu suspesu",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "attività inusuale",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "attività suspettosa",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "accessu micca autorizatu",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "cliccate quì per verificà",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "credenziali di cunnessione",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "reset di password",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "alerta di sicurezza",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "u vostru contu serà",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "fallimentu di verificazione",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "riattivate u vostru",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "disabbunà si",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "cliccate quì",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "cumprà avà",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ordinate avà",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "offerta gratuita",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "offerta speciale",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "accordu esclusivu",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "senza risicu",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "senza obbligazione",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "garanzia di rimborsu",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "satisfaczione garantita",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "chjamate avà",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "senza spese",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% gratuitu",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "cumpletamente gratuitu",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "senza costu",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "senza spese",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "prezzu u più bassu",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "u megliu prezzu",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "scontu",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "risparmià in grande",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "risparmià soldi",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "duppiate u vostru",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "aumentate u vostru",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "guadagnà soldi",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "fà soldi",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "redditu supplementu",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "travagliu da casa",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "esse u vostru propiu capu",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "libertà finanziaria",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "diventà riccu",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "esse pagatu",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "accessu immediatu",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "unisciti à milioni",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "farmacia",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "farmacia in linea",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "farmacia canadiana",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "ricetta",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "senza ricetta",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "senza ricetta",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "disfunzione erettile",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "perdita di pesu",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "perde pesu",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "perde chili",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "pillula di dieta",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "bruciatore di grassu",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "cura miraculosa",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "rimediu naturale",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "anti-invecchiamento",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "cuntenutu per adulti",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "appuntamenti per adulti",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "scuntrà single",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "single caldi",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "donne sole",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "casalinga sola",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "caru amicu",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "caru amatu",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "caru signore/signora",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "cunfidenziale",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "strettamente cunfidenziale",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "privatu è cunfidenziale",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ùn ignurà",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "deve risponde",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "questu ùn hè micca spam",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "questu ùn hè micca spazzatura",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "micca una truffa",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "offerta legittima",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "avvisu legale",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "ordine di a corte",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "sussidiu guvernamentale",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "cuncessione gratuita",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "rimborsu d'imposte",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "riunione": -0.3,
+        "calendariu": -0.3,
+        "prughjettu": -0.3,
+        "scadenza": -0.3,
+        "attaccatu": -0.3,
+        "attaccamentu": -0.3,
+        "saluti": -0.2,
+        "sinceramente": -0.2,
+        "grazie": -0.3,
+        "seguitu": -0.3,
+        "cum'è discussu": -0.5,
+        "per a nostra cunversazione": -0.5,
+        "fattura": -0.2,
+        "rapportu": -0.2,
+        "riassuntu": -0.2,
+        "minuti": -0.3,
+        "agenda": -0.3,
+        "cunferenza": -0.3,
+        "repositoriu": -0.5,
+        "dumanda di pull": -0.8,
+        "cummette": -0.5,
+        "fusionà": -0.5,
+        "ramu": -0.5,
+        "spiegà": -0.5,
+        "ducumentazione": -0.3
+    },
+    "bayesianTokens": {
+        "viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "allargamentu": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "nigerianu": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "eredità": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "beneficiariu": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "lotteria": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "vincitore": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "jackpot": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "disabbunà si": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "rinuncià": {
+            "spam": 0.85,
+            "ham": 0.05
+        },
+        "rinuncia": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "cliccà": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "liberu": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "soldi": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "premiu": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "vintu": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "urgente": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "subitu": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "attu": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "limitatu": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "offerta": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "scontu": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "garantitu": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "senza risicu": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "obbligazione": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "creditu": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "debitu": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "prestitu": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ipoteca": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "farmacia": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "ricetta": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "medicazione": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "pillule": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "pesu": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "dieta": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "perde": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "libbre": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "cumprà": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ordine": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "vendita": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "prezzu bassu": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "salvà": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "affare": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "speciale": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "esclusivu": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "bonus": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "rigalu": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "felicitazioni": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "sceltu": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "cunfirmà": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "verificà": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "contu": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "codice": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "suspesu": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "chjusu": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "sicurità": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "aghjurnamentu": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazona": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "banca": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "filu": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "trasferimentu": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "routing": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "veloce": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "occidentale": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "unione": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "criptovaluta": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "portafogliu": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "blockchain": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "riunione": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "calendariu": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "prughjettu": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "squadra": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "scadenza": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "attaccatu": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "attaccamentu": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "documentu": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "rapportu": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "rivista": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "feedback": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "discussione": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "agenda": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "minuti": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "cunferenza": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "chjama": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "saluti": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "sinceramente": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "grazie": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ringrazià": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "apprezzà": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "dopu": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "discussu": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "cunversazione": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "fattura": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "ricevuta": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "riassuntu": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "analisi": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ricerca": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "dati": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "risultati": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "repositoriu": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "cummette": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "fusionà": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ramu": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "tirà": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "dumanda": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "spiegà": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "custruisce": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "prova": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "debug": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "errore": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "insettu": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "riparà": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "prublema": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "funzione": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "liberazione": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "versione": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ducumentazione": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "servitore": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "basa di dati": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "variabile": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "classe": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "metudu": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "interfaccia": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "urgente",
+        "immediatu",
+        "subitu",
+        "u più prestu pussibule",
+        "agisce avà",
+        "ùn aspettate micca",
+        "sbrigà",
+        "tempu limitatu",
+        "scade",
+        "scadenza",
+        "ultima chance",
+        "avvisu finale",
+        "sensibile à u tempu",
+        "rispondi avà",
+        "azzione necessaria"
+    ],
+    "greetingWords": [
+        "salute",
+        "bonghjornu",
+        "caru",
+        "ehi",
+        "saluti",
+        "bonghjornu",
+        "bonu dopu meziornu",
+        "bona sera"
+    ],
+    "genericGreetings": [
+        "caru signore",
+        "cara signora",
+        "caru cliente",
+        "caru utilizatore",
+        "caru membru",
+        "caru amicu",
+        "caru/a apprezzatu/a",
+        "caru destinatariu",
+        "caru beneficiariu"
+    ]
+}

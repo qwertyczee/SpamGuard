@@ -1,0 +1,1377 @@
+{
+    "language": "ml",
+    "languageName": "Malayalam",
+    "spamWords": [
+        {
+            "word": "നൈജീരിയൻ രാജകുമാരൻ",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "വയർ ട്രാൻസ്ഫർ",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "ബാങ്ക് അക്കൗണ്ട് വിശദാംശങ്ങൾ",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "പാരമ്പര്യ ഫണ്ട്",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "അവകാശപ്പെടാത്ത ഫണ്ടുകൾ",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "ഗുണഭോക്താവ്",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "ദശലക്ഷം ഡോളർ",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ദശലക്ഷം യുഎസ്ഡി",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ട്രാൻസ്ഫർ ഫീസ്",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "പ്രോസസ്സിംഗ് ഫീസ്",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "മുൻകൂർ ഫീസ്",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "വെസ്റ്റേൺ യൂണിയൻ",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "മണിഗ്രാം",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "ബിറ്റ്കോയിൻ വാലറ്റ്",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "ക്രിപ്‌റ്റോകറൻസി നിക്ഷേപം",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "നിങ്ങളുടെ ബിറ്റ്കോയിൻ ഇരട്ടിയാക്കൂ",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "ക്രിപ്‌റ്റോ സമ്മാനം",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "ഇപ്പോൾ പ്രവർത്തിക്കൂ",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ഉടനടി പ്രവർത്തിക്കുക",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "അടിയന്തര പ്രതികരണം",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "അടിയന്തര ശ്രദ്ധ",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "അടിയന്തര നടപടി",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "പരിമിതമായ സമയം",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ഇന്ന് കാലഹരണപ്പെടും",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "അവസാന അവസരം",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "അന്തിമ അറിയിപ്പ്",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ഉടനെ പ്രതികരിക്കുക",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "24 മണിക്കൂറിനുള്ളിൽ",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "48 മണിക്കൂറിനുള്ളിൽ",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "സമയ സംവേദനക്ഷമതയുള്ളത്",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "വൈകരുത്",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "വിജയിക്ക് അഭിനന്ദനങ്ങൾ",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "നീ ജയിച്ചു",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ലോട്ടറി വിജയി",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "സമ്മാന അറിയിപ്പ്",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "നിങ്ങളുടെ സമ്മാനം നേടൂ",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "വിജയ അറിയിപ്പ്",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ഭാഗ്യവാൻ",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "തിരഞ്ഞെടുത്ത വിജയി",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ക്യാഷ് പ്രൈസ്",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "സൗജന്യ സമ്മാനം",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "സ്വീപ്പ്സ്റ്റേക്കുകൾ",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "നിങ്ങളുടെ അക്കൗണ്ട് പരിശോധിക്കുക",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "നിങ്ങളുടെ ഐഡന്റിറ്റി സ്ഥിരീകരിക്കുക",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "നിങ്ങളുടെ പേയ്‌മെന്റ് അപ്‌ഡേറ്റ് ചെയ്യുക",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "താൽക്കാലികമായി നിർത്തിവച്ച അക്കൗണ്ട്",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "അക്കൗണ്ട് താൽക്കാലികമായി നിർത്തിവച്ചു",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "അസാധാരണമായ പ്രവർത്തനം",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "സംശയാസ്പദമായ പ്രവർത്തനം",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "അനധികൃത പ്രവേശനം",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "സ്ഥിരീകരിക്കാൻ ഇവിടെ ക്ലിക്ക് ചെയ്യുക",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "ലോഗിൻ ക്രെഡൻഷ്യലുകൾ",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "പാസ്‌വേഡ് പുനഃസജ്ജമാക്കൽ",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "സുരക്ഷാ മുന്നറിയിപ്പ്",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "നിങ്ങളുടെ അക്കൗണ്ട് ഇതായിരിക്കും",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "പരിശോധിക്കുന്നതിൽ പരാജയപ്പെട്ടു",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "വീണ്ടും സജീവമാക്കുക നിങ്ങളുടെ",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "അൺസബ്‌സ്‌ക്രൈബ് ചെയ്യുക",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "ഇവിടെ ക്ലിക്ക് ചെയ്യുക",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ഇപ്പോൾ വാങ്ങുക",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ഇപ്പോൾ ഓർഡർ ചെയ്യൂ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "സൗജന്യ ഓഫർ",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "പ്രത്യേക ഓഫർ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "എക്സ്ക്ലൂസീവ് ഡീൽ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "അപകടരഹിതം",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "യാതൊരു ബാധ്യതയുമില്ല",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "പണം തിരികെ ലഭിക്കുമെന്ന ഉറപ്പ്",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "സംതൃപ്തി ഉറപ്പ്",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ഇപ്പോൾ വിളിക്കൂ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ടോൾ ഫ്രീ",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% സൗജന്യം",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "പൂർണ്ണമായും സൗജന്യം",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ചെലവില്ല",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ഫീസ് ഇല്ല",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ഏറ്റവും കുറഞ്ഞ വില",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "മികച്ച വില",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "കിഴിവ്",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "വലിയ ലാഭം",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "പണം ലാഭിക്കുക",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ഇരട്ടി നിങ്ങളുടെ",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "നിങ്ങളുടെ വർദ്ധിപ്പിക്കുക",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "പണം സമ്പാദിക്കുക",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "പണം സമ്പാദിക്കുക",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "അധിക വരുമാനം",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "വീട്ടിൽ നിന്ന് ജോലി ചെയ്യുക",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "നിങ്ങളുടെ സ്വന്തം ബോസ് ആകുക",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "സാമ്പത്തിക സ്വാതന്ത്ര്യം",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "സമ്പന്നനാകുക",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "പണം ലഭിക്കുക",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "തൽക്ഷണ പ്രവേശനം",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ദശലക്ഷക്കണക്കിന് ആളുകളുമായി ചേരുക",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "വയാഗ്ര",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "സിയാലിസ്",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ഫാർമസി",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "ഓൺലൈൻ ഫാർമസി",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "കനേഡിയൻ ഫാർമസി",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "കുറിപ്പടി",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "കുറിപ്പടിയില്ല",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "കുറിപ്പടി ഇല്ലാതെ",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "ഉദ്ധാരണക്കുറവ്",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ഭാരനഷ്ടം",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "ഭാരം കുറയ്ക്കുക",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "ഭാരം കുറയ്ക്കുക",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "ഭക്ഷണ ഗുളിക",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "കൊഴുപ്പ് കത്തിക്കുന്നയാൾ",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "അത്ഭുത ചികിത്സ",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "പ്രകൃതിദത്ത പരിഹാരം",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "വാർദ്ധക്യം തടയൽ",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "മുതിർന്നവർക്കുള്ള ഉള്ളടക്കം",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx അശ്ലീലം",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "മുതിർന്നവർക്കുള്ള ഡേറ്റിംഗ്",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "അവിവാഹിതരെ കണ്ടുമുട്ടുക",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "ഹോട്ട് സിംഗിൾസ്",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ഏകാന്തരായ സ്ത്രീകൾ",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ഏകാന്തമായ വീട്ടമ്മ",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "പ്രിയ സുഹൃത്തേ",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "പ്രിയപ്പെട്ടവളേ",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "പ്രിയപ്പെട്ട സർ/മാഡം",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "രഹസ്യാത്മകം",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "കർശനമായി രഹസ്യാത്മകം",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "സ്വകാര്യവും രഹസ്യാത്മകവും",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "അവഗണിക്കരുത്",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "പ്രതികരിക്കണം",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "ഇത് സ്പാം അല്ല.",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ഇത് ചവറല്ല.",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ഒരു തട്ടിപ്പല്ല",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "നിയമാനുസൃത ഓഫർ",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "നിയമപരമായ അറിയിപ്പ്",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "കോടതി ഉത്തരവ്",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "സർക്കാർ ഗ്രാന്റ്",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "സൗജന്യ ഗ്രാന്റ്",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ഐആർഎസ്",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "നികുതി റീഫണ്ട്",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "യോഗം": -0.3,
+        "ഷെഡ്യൂൾ": -0.3,
+        "പദ്ധതി": -0.3,
+        "ഡെഡ്ലൈൻ": -0.3,
+        "ഘടിപ്പിച്ചിരിക്കുന്നു": -0.3,
+        "അറ്റാച്ചുമെന്റ്": -0.3,
+        "ആശംസകൾ": -0.2,
+        "ആത്മാർത്ഥതയോടെ": -0.2,
+        "നന്ദി": -0.3,
+        "ഫോളോ അപ്പ്": -0.3,
+        "ചർച്ച ചെയ്തതുപോലെ": -0.5,
+        "നമ്മുടെ സംഭാഷണം അനുസരിച്ച്": -0.5,
+        "ഇൻവോയ്സ്": -0.2,
+        "റിപ്പോർട്ട്": -0.2,
+        "സംഗ്രഹം": -0.2,
+        "മിനിറ്റ്": -0.3,
+        "അജണ്ട": -0.3,
+        "സമ്മേളനം": -0.3,
+        "സംഭരണി": -0.5,
+        "പിൻവലിക്കൽ അഭ്യർത്ഥന": -0.8,
+        "പ്രതിജ്ഞാബദ്ധമാക്കുക": -0.5,
+        "ലയിപ്പിക്കുക": -0.5,
+        "ശാഖ": -0.5,
+        "വിന്യസിക്കുക": -0.5,
+        "ഡോക്യുമെന്റേഷൻ": -0.3
+    },
+    "bayesianTokens": {
+        "വയാഗ്ര": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "സിയാലിസ്": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "വലുതാക്കൽ": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "നൈജീരിയൻ": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "അനന്തരാവകാശം": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "ഗുണഭോക്താവ്": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "ലോട്ടറി": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "വിജയി": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "ജാക്ക്പോട്ട്": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "അൺസബ്‌സ്‌ക്രൈബ് ചെയ്യുക": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "വേണ്ടെന്ന് വയ്ക്കുക": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "ക്ലിക്ക് ചെയ്യുക": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "സൌജന്യമായി": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "പണം": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "സമ്മാനം": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "വിജയിച്ചു": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "അടിയന്തരം": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "ഉടനെ": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "പ്രവർത്തിക്കുക": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "പരിമിതമായ": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "ഓഫർ": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "കിഴിവ്": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ഉറപ്പ്": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "അപകടരഹിതം": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "കടപ്പാട്": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "ക്രെഡിറ്റ്": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "കടം": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "വായ്പ": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "മോർട്ട്ഗേജ്": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "ഫാർമസി": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "കുറിപ്പടി": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "മരുന്ന്": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "ഗുളികകൾ": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "ഭാരം": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "ഭക്ഷണക്രമം": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "തോൽക്കുക": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "പൗണ്ട്": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "വാങ്ങുക": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "ഓർഡർ": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "വാങ്ങൽ": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "വിൽപ്പന": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "വിലകുറഞ്ഞത്": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "രക്ഷിക്കൂ": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "ഇടപാട്": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "പ്രത്യേക": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "എക്സ്ക്ലൂസീവ്": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ബോണസ്": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "അഭിനന്ദനങ്ങൾ": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "തിരഞ്ഞെടുത്തു": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "സ്ഥിരീകരിക്കുക": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "പരിശോധിക്കുക": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "അക്കൗണ്ട്": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "പാസ്‌വേഡ്": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "താൽക്കാലികമായി നിർത്തിവച്ചു": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "പൂട്ടിയിരിക്കുന്നു": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "സുരക്ഷ": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "അപ്ഡേറ്റ് ചെയ്യുക": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "പേപാൽ": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ഇബേ": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ആമസോൺ": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ബാങ്ക്": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "വയർ": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "കൈമാറ്റം": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "റൂട്ടിംഗ്": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "വേഗതയുള്ള": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "പടിഞ്ഞാറൻ": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "യൂണിയൻ": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "മണിഗ്രാം": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "ബിറ്റ്കോയിൻ": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ക്രിപ്‌റ്റോകറൻസി": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "വാലറ്റ്": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "ബ്ലോക്ക്‌ചെയിൻ": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "യോഗം": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ഷെഡ്യൂൾ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "പദ്ധതി": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ടീം": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ഡെഡ്ലൈൻ": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ഘടിപ്പിച്ചിരിക്കുന്നു": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "അറ്റാച്ചുമെന്റ്": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "പ്രമാണം": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "റിപ്പോർട്ട്": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "അവലോകനം": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ഫീഡ്‌ബാക്ക്": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ചർച്ച": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "അജണ്ട": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "മിനിറ്റ്": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "സമ്മേളനം": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "വിളി": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "ആശംസകൾ": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ആത്മാർത്ഥതയോടെ": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "നന്ദി": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "അഭിനന്ദിക്കുക": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "പിന്തുടരുന്നു": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "ചർച്ച ചെയ്തു": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "സംഭാഷണം": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ഇൻവോയ്സ്": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "രസീത്": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "സംഗ്രഹം": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "വിശകലനം": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ഗവേഷണം": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ഡാറ്റ": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "ഫലങ്ങൾ": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "സംഭരണി": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "പ്രതിജ്ഞാബദ്ധമാക്കുക": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "ലയിപ്പിക്കുക": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ശാഖ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "വലിക്കുക": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "അഭ്യർത്ഥന": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "വിന്യസിക്കുക": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "പണിയുക": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "പരീക്ഷ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ഡീബഗ് ചെയ്യുക": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "പിശക്": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ബഗ്": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "പരിഹരിക്കുക": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ഇഷ്യൂ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "സവിശേഷത": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "റിലീസ്": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "പതിപ്പ്": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ഡോക്യുമെന്റേഷൻ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "എപിഐ": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "സെർവർ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ഡാറ്റാബേസ്": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ചോദ്യം": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "പ്രവർത്തനം": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "വേരിയബിൾ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ക്ലാസ്": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "രീതി": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ഇന്റർഫേസ്": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "അടിയന്തരം",
+        "ഉടനടി",
+        "ഉടനെ",
+        "ഉടനടി",
+        "ഇപ്പോൾ പ്രവർത്തിക്കൂ",
+        "വൈകരുത്",
+        "വേഗം",
+        "പരിമിതമായ സമയം",
+        "കാലാവധി അവസാനിക്കുന്നു",
+        "ഡെഡ്ലൈൻ",
+        "അവസാന അവസരം",
+        "അന്തിമ അറിയിപ്പ്",
+        "സമയ സംവേദനക്ഷമതയുള്ളത്",
+        "ഇപ്പോൾ പ്രതികരിക്കൂ",
+        "നടപടി ആവശ്യമാണ്"
+    ],
+    "greetingWords": [
+        "ഹായ്",
+        "ഹലോ",
+        "പ്രിയേ",
+        "ഹേയ്",
+        "ആശംസകൾ",
+        "സുപ്രഭാതം",
+        "ഗുഡ് ആഫ്റ്റർനൂൺ",
+        "ഗുഡ് ഈവനിംഗ്"
+    ],
+    "genericGreetings": [
+        "പ്രിയ സാർ",
+        "പ്രിയപ്പെട്ട മാഡം",
+        "പ്രിയ ഉപഭോക്താവേ",
+        "പ്രിയ ഉപയോക്താവേ",
+        "പ്രിയ അംഗമേ",
+        "പ്രിയ സുഹൃത്തേ",
+        "പ്രിയപ്പെട്ട",
+        "പ്രിയപ്പെട്ട സ്വീകർത്താവേ",
+        "പ്രിയപ്പെട്ട ഗുണഭോക്താവേ"
+    ]
+}

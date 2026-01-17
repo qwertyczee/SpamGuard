@@ -1,0 +1,1381 @@
+{
+    "language": "hi",
+    "languageName": "Hindi",
+    "spamWords": [
+        {
+            "word": "नाइजीरियाई राजकुमार",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "तार स्थानांतरण",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "बैंक के खाते का विवरण",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "विरासत निधि",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "दावा न किए गए धन",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "लाभार्थी",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "मिलियन डॉलर",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "मिलियन अमेरिकी डॉलर",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "स्थानांतरण शुल्क",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "प्रक्रमण संसाधन शुल्क",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "अग्रिम शुल्क",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "पश्चिमी संघ",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "पैसे ग्राम",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "बिटकॉइन वॉलेट",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "क्रिप्टोकरेंसी निवेश",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "अपने बिटकॉइन को दोगुना करें",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "क्रिप्टो उपहार",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "अभी कदम उठाएं",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "तुरंत कार्रवाई करें",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "तत्काल प्रतिक्रिया",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "तत्काल ध्यान",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "तुरंत कार्रवाई",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "सीमित समय",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "आज समाप्त हो रहा है",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "आखिरी मौका",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "अंतिम सूचना",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "तुरंत जवाब दें",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "चौबीस घंटों के भीतर",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "48 घंटों के भीतर",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "समय संवेदी",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "देरी मत करो",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "विजेता को बधाई!",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "आप जीत लिये हैं",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "लॉटरी विजेता",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "पुरस्कार सूचना",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "अपना पुरस्कार प्राप्त करें",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "जीत की सूचना",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "भाग्यशाली विनर",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "चयनित विजेता",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "नकद पुरस्कार",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "मुफ्त पुरस्कार",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "घुड़दौड़ का जुआ",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "अपने खाते को सत्यापित करें",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "आपकी पहचान की पुष्टि करें",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "अपने भुगतान को अपडेट करें",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "निलंबित खाता",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "खाता निलंबित कर दिया गया है",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "असामान्य गतिविधि",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "संदिग्ध गतिविधि",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "अनधिकृत पहुंच",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "सत्यापन के लिए यहां क्लिक करें",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "लॉग इन प्रमाण - पत्र",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "पासवर्ड रीसेट",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "सुरक्षा चेतावनी",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "आपका खाता होगा",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "सत्यापन में विफलता",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "अपने को पुनः सक्रिय करें",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "सदस्यता रद्द",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "यहाँ क्लिक करें",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "अभी खरीदें",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "अब ऑर्डर दें",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "निःशुल्क ऑफ़र",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "विशेष पेशकश",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "विशेष डील",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "जोखिम मुक्त",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "कोई बाध्यता नहीं",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "पैसे वापस गारंटी",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "संतुष्टि की गारंटी",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "अब कॉल करें",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "टोल फ्री",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% मुफ़्त",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "पूरी तरह से मुफ़्त",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "कोई लागत नहीं अाना",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "कोई शुल्क नहीं",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "सबसे कम कीमत",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "सबसे अच्छी कीमत",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "छूट",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "ज़्यादा बचत करें",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "पैसे बचाएं",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "अपने को दोगुना करें",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "अपनी वृद्धि करें",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "पैसे कमाएं",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "पैसा बनाएं",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "अतिरिक्त आय",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "घर से काम करें",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "अपने खुद के मालिक बनो",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "वित्तीय स्वतंत्रता",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "अमीर हो",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "भुगतान प्राप्त करना",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "त्वरित पहुँच",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "लाखों लोगों से जुड़ें",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "वियाग्रा",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "फार्मेसी",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "ऑनलाइन फार्मेसी",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "कनाडाई फार्मेसी",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "नुस्खा",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "बिना नुस्खे के",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "बिना नुस्खे के",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "स्तंभन दोष",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "वजन घटाना",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "वजन कम करें",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "वजन कम करें",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "डाइट पिल",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "वसा दाहक",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "चमत्कारी इलाज",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "प्राकृतिक उपचार",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "बुढ़ापा विरोधी",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "वयस्क सामग्री",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "वयस्क डेटिंग",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "सिंगल्स से मिलें",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "हॉट सिंगल्स",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "अकेली महिलाएं",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "अकेली गृहिणी",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "प्रिय मित्र",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "प्रिय प्रिय",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "प्रिय महोदय/महोदया",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "गोपनीय",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "पूरी तरह से गोपनीय",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "निजी और गोपनीय",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "उपेक्षा नहीं करें",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "जवाब देना होगा",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "यह स्पैम नहीं है",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "यह बेकार की चीज नहीं है",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "यह कोई घोटाला नहीं है",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "वैध प्रस्ताव",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "कानूनी नोटिस",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "अदालती आदेश",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "सरकारी अनुदान",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "निःशुल्क अनुदान",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "आईआर",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "कर वापसी",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "बैठक": -0.3,
+        "अनुसूची": -0.3,
+        "परियोजना": -0.3,
+        "अंतिम तारीख": -0.3,
+        "जुड़ा हुआ": -0.3,
+        "लगाव": -0.3,
+        "सम्मान": -0.2,
+        "ईमानदारी से": -0.2,
+        "धन्यवाद": -0.3,
+        "अनुवर्ती कार्रवाई": -0.3,
+        "चर्चा के अनुसार": -0.5,
+        "हमारी बातचीत के अनुसार": -0.5,
+        "चालान": -0.2,
+        "प्रतिवेदन": -0.2,
+        "सारांश": -0.2,
+        "मिनट": -0.3,
+        "कार्यसूची": -0.3,
+        "सम्मेलन": -0.3,
+        "कोष": -0.5,
+        "पुल अनुरोध": -0.8,
+        "प्रतिबद्ध": -0.5,
+        "मर्ज": -0.5,
+        "शाखा": -0.5,
+        "तैनात करना": -0.5,
+        "प्रलेखन": -0.3
+    },
+    "bayesianTokens": {
+        "वियाग्रा": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "इज़ाफ़ा": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "नाइजीरियाई": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "विरासत": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "लाभार्थी": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "लॉटरी": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "विजेता": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "खजाना": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "सदस्यता रद्द": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "ऑप्टआउट": {
+            "spam": 0.85,
+            "ham": 0.05
+        },
+        "ऑप्ट-आउट": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "क्लिक": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "मुक्त": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "धन": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "नकद": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "पुरस्कार": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "जीत गया": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "अति आवश्यक": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "तुरंत": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "कार्य": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "सीमित": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "प्रस्ताव": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "छूट": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "गारंटी": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "जोखिम-मुक्त": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "दायित्व": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "श्रेय": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "ऋृण": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "गिरवी रखना": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "फार्मेसी": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "नुस्खा": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "दवाई": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "गोलियाँ": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "वज़न": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "आहार": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "खोना": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "पाउंड": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "खरीदना": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "आदेश": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "बिक्री": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "सस्ता": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "बचाना": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "सौदा": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "विशेष": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "अनन्य": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "बोनस": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "उपहार": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "बधाई हो": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "चयनित": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "पुष्टि करना": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "सत्यापित करें": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "खाता": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "पासवर्ड": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "निलंबित": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "बंद": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "सुरक्षा": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "अद्यतन": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "अमेज़न": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "किनारा": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "तार": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "स्थानांतरण": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "मार्ग": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "तीव्र": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "वेस्टर्न": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "मिलन": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "पैसे ग्राम": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "cryptocurrency": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "बटुआ": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "ब्लॉकचेन": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "बैठक": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "अनुसूची": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "परियोजना": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "टीम": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "अंतिम तारीख": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "जुड़ा हुआ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "लगाव": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "दस्तावेज़": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "प्रतिवेदन": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "समीक्षा": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "प्रतिक्रिया": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "बहस": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "कार्यसूची": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "मिनट": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "सम्मेलन": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "पुकारना": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "सम्मान": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ईमानदारी से": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "धन्यवाद": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "प्रशंसा करना": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "अगले": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "चर्चा की गई": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "बातचीत": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "चालान": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "रसीद": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "सारांश": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "विश्लेषण": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "अनुसंधान": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "डेटा": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "परिणाम": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "कोष": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "प्रतिबद्ध": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "मर्ज": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "शाखा": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "खींचो": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "अनुरोध": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "तैनात करना": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "निर्माण": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "परीक्षा": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "डिबग": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "गलती": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "कीड़ा": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "हल करना": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "मुद्दा": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "विशेषता": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "मुक्त करना": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "संस्करण": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "प्रलेखन": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "एपीआई": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "सर्वर": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "डेटाबेस": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "सवाल": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "समारोह": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "चर": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "कक्षा": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "तरीका": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "इंटरफ़ेस": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "अति आवश्यक",
+        "तुरंत",
+        "तुरंत",
+        "यथाशीघ्र",
+        "अभी कदम उठाएं",
+        "देरी मत करो",
+        "जल्दी",
+        "सीमित समय",
+        "समय सीमा समाप्त",
+        "अंतिम तारीख",
+        "आखिरी मौका",
+        "अंतिम सूचना",
+        "समय संवेदी",
+        "अभी जवाब दीजिये",
+        "कार्रवाई आवश्यक है"
+    ],
+    "greetingWords": [
+        "नमस्ते",
+        "नमस्ते",
+        "प्रिय",
+        "अरे",
+        "अभिवादन",
+        "शुभ प्रभात",
+        "शुभ दोपहर",
+        "शुभ संध्या"
+    ],
+    "genericGreetings": [
+        "प्रिय महोदय",
+        "प्रिय मैडम",
+        "प्रिय ग्राहक",
+        "प्रिय उपयोगकर्ता",
+        "प्रिय सदस्य",
+        "प्रिय मित्र",
+        "प्रिय मूल्यवान",
+        "प्रिय प्राप्तकर्ता",
+        "प्रिय लाभार्थी"
+    ]
+}

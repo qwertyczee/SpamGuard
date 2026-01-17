@@ -1,0 +1,1369 @@
+{
+    "language": "la",
+    "languageName": "Latin",
+    "spamWords": [
+        {
+            "word": "princeps nigerianus",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "translatio telegraphica",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "notitiae rationis argentariae",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "fundus hereditarius",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "pecuniae non reclamatae",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "beneficiarius",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "decies centena milia dollariorum",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "decies centena milia dollariorum americanorum",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "pretium translationis",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "pretium processus",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "pretium anticipatum",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "unio occidentalis",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "monetagramma",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "crumena bitcoiniana",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "pecunia cryptographica collocanda",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "duplica bitcoin tuum",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "donatio cryptographica",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "age nunc",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "statim agere",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "responsum urgens",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "cura urgente",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "actio immediata",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "tempus limitatum",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "hodie exspirat",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "ultima occasio",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ultima notificatio",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "statim responde",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "intra horas viginti quattuor",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "intra horas quadraginta octo",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "temporis sensitivus",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "noli morari",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "gratulationes victori",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "vicisti",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "victor loteriae",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "nuntius praemii",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "praemium tuum vindica",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "nuntius victrix",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "victor felix",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "victor electus",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "praemium pecuniarium",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "praemium gratuitum",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "sortes",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "rationem tuam verifica",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "identitatem tuam confirma",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "solutionem tuam renova",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "ratio suspensa",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "ratio suspensa",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "actio insolita",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "actio suspecta",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "accessus non auctorizatus",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "preme hic ad verificandum",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "credentiales inscriptionis",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "tesserae renovatio",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "monitum securitatis",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "ratio tua erit",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "defectus verificationis",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "reactiva tuum",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "abrogare",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "preme hic",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "eme nunc",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "iube nunc",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "oblatio gratuita",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "oblatio specialis",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "pactum exclusivum",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "sine periculo",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "nulla obligatio",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "pignus pecuniae reddendae",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "satisfactio garantita",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "voca nunc",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "sine pretio",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% gratuitum",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "omnino liber",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "sine pretio",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "nullae mercedes",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "infimum pretium",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "optimum pretium",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "deminutio",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "magnam serva",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "pecuniam serva",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "duplica tuum",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "auge tuum",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "pecuniam lucrari",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "pecuniam facere",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "reditus additus",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "laborare domi",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "esto dominus tui ipsius",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "libertas pecuniaria",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "dives fieri",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "pecuniam accipere",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "accessus statim",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "iunge te millionibus",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "pharmacopola",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "pharmacopola interretialis",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "pharmacopola canadensis",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "praescriptio",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "sine praescriptione",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "sine praescriptione",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "dysfunctio erectilis",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "amissio ponderis",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "pondus amittere",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "libras amittere",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "pilula diaetetica",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "combustor adipis",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "remedium miraculosum",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "remedium naturale",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "anti-senescentem",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "contenta adulta",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "congressus amorosi adulti",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "convenire singulos",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "singuli calidi",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "mulieres solae",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "sola domina",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "carissime amicus",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "carissime",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "domine/domina carissime",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "secretum",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "omnino secreto",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "privatum et secretum",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "noli neglegere",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "respondere debeo",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "hoc non est spam",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "hoc non est quisquilia",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "non fraus",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "oblatio legitima",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "notificatio legalis",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "mandatum iudiciale",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "subsidium publicum",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "concessio gratuita",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ministerium iuridicum",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "restitutio vectigalis",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "conventus": -0.3,
+        "ordo": -0.3,
+        "proiectum": -0.3,
+        "terminus": -0.3,
+        "adiunctus": -0.3,
+        "affixus": -0.3,
+        "salutationes": -0.2,
+        "sincere": -0.2,
+        "gratias": -0.2,
+        "gratias tibi ago": -0.3,
+        "sequens": -0.3,
+        "ut dictum est": -0.5,
+        "secundum sermonem nostrum": -0.5,
+        "factura": -0.2,
+        "relatio": -0.2,
+        "summarium": -0.2,
+        "minuta": -0.3,
+        "ordo rerum agendarum": -0.3,
+        "repositorium": -0.5,
+        "petitio extractionis": -0.8,
+        "committo": -0.5,
+        "coniungere": -0.5,
+        "ramus": -0.5,
+        "explicare": -0.5,
+        "documentatio": -0.3
+    },
+    "bayesianTokens": {
+        "viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "amplificatio": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "nigerianus": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "hereditas": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "beneficiarius": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "loteria": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "victor": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "praemium maximum": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "abrogare": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "recusatio": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "clic": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "liber": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "pecunia": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "praemium": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "vicit": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "urgens": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "statim": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "actus": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "limitatus": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "offero": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "deminutio": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "certus": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "sine periculo": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "obligatio": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "creditum": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "aes alienum": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "mutuum": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "hypotheca": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "pharmacopola": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "praescriptio": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "medicamentum": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "pilulae": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "pondus": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "victus": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amittere": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "librae": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "eme": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "ordo": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "emptio": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "venditio": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "vilis": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "serva": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "pactum": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "specialis": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "exclusivus": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "donum": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "gratulationes": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "selectus": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "confirmare": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "verificare": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "ratio": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "tessera": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "suspensus": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "clausus": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "securitas": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "renovatio": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazonia": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "argentaria": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "filum": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "translatio": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "itineratio": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "celer": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "occidentalis": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "unio": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "monetagramma": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "cryptomoneta": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "crumena": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "catena catenarum": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "conventus": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "proiectum": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "turma": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "terminus": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "adiunctus": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "affixus": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "documentum": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "relatio": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "recensio": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "responsa": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "disputatio": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ordo rerum agendarum": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "minuta": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "vocatio": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "salutationes": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "sincere": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "gratias": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "gratias ago": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "aestimo": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "sequentes": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "disputatum": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "colloquium": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "factura": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "acceptilatio": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "summarium": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "analysis": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "investigatio": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "data": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "eventus": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "repositorium": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "committo": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "coniungere": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ramus": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "trahere": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "petitio": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "explicare": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "aedificare": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "experimentum": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "depurgare": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "error": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "cimex": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "reficere": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "quaestio": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "lineamentum": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "liberatio": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "versio": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "documentatio": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "servus": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "basis datorum": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "functio": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "variabilis": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "classis": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "methodus": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "interfacies": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "urgens",
+        "statim",
+        "statim",
+        "quam primum",
+        "age nunc",
+        "noli morari",
+        "festinare",
+        "tempus limitatum",
+        "exspirat",
+        "terminus",
+        "ultima occasio",
+        "ultima notificatio",
+        "temporis sensitivus",
+        "responde nunc",
+        "actio requisita"
+    ],
+    "greetingWords": [
+        "salve",
+        "salve",
+        "carus",
+        "heus",
+        "salutationes",
+        "bonum mane",
+        "bona vespera",
+        "bona vespera"
+    ],
+    "genericGreetings": [
+        "domine carissime",
+        "domina cara",
+        "care emptor",
+        "carissime usore",
+        "care sodalis",
+        "carissime amicus",
+        "carus/aestimatus/aestimata",
+        "carus recipiens",
+        "carus beneficiarius"
+    ]
+}

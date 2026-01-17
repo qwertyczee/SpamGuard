@@ -1,0 +1,1366 @@
+{
+    "language": "gd",
+    "languageName": "Scottish Gaelic",
+    "spamWords": [
+        {
+            "word": "prionnsa na nigèiria",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "gluasad uèir",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "mion-fhiosrachadh cunntais banca",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "maoin oighreachd",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "airgead gun iarraidh",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "neach-tairbhe",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "millean dolar",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "millean dolar",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "cìs gluasaid",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "cìs giollachd",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "cìs ro-làimh",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "aonadh an iar",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "sporan bitcoin",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "tasgadh airgead didseatach",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "dùblaich do bitcoin",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "tabhartas crypto",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "gnìomh a-nis",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "gnìomhaich sa bhad",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "freagairt èiginneach",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "aire èiginneach",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "gnìomh sa bhad",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ùine chuingealaichte",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "a’ tighinn gu crìch an-diugh",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "cothrom mu dheireadh",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "brath mu dheireadh",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "freagair sa bhad",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "taobh a-staigh 24 uairean",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "taobh a-staigh 48 uairean",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "mothachail air ùine",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "na cuir dàil",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "meala-naidheachd air a’ bhuannaiche",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "tha thu air buannachadh",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "buannaiche crannchuir",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "fios mu dhuais",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "faigh do dhuais",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "fios a bhuannaicheas",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "buannaiche fortanach",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "buannaiche taghte",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "duais airgid",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "duais an-asgaidh",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "crannchur",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "dearbhaich do chunntas",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "dearbhaich d’ dearbh-aithne",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ùraich do phàigheadh",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "cunntas crochte",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "cunntas air a chuir dheth",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "gnìomhachd neo-àbhaisteach",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "gnìomhachd amharasach",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "ruigsinneachd gun chead",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "briog an seo gus dearbhadh",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "teisteanasan logadh a-steach",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ath-shuidheachadh facal-faire",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "rabhadh tèarainteachd",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "bidh do chunntas",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "fàilligeadh dearbhaidh",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "ath-ghnìomhachadh do",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "dì-chlàradh",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "briog an seo",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ceannaich a-nis",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "òrdaich a-nis",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "tairgse an-asgaidh",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "tairgse shònraichte",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "cùmhnant sònraichte",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "gun chunnart",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "gun ghealladh sam bith",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "gealltanas airgead air ais",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "sàsachd cinnteach",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "cuir fòn a-nis",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "saor-chìs",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% an-asgaidh",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "gu tur saor",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "gun chosgais",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "gun chosgaisean",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "a’ phrìs as ìsle",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "a’ phrìs as fheàrr",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "lasachadh",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "sàbhail mòr",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "sàbhail airgead",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "dùblaich do",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "àrdaich do",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "airgead a chosnadh",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "airgead a dhèanamh",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "teachd-a-steach a bharrachd",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "obair bhon taigh",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "bi nad cheannard fhèin",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "saorsa ionmhais",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "fàs beairteach",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "faigh pàigheadh",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ruigsinneachd sa bhad",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "thig còmhla ri milleanan",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "bùth-leighis",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "bùth-leigheadaireachd air-loidhne",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "bùth-leigheadaireachd chanada",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "òrdugh-leighis",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "gun òrdugh-leigheis",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "gun òrdugh-leighis",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "mì-ghnìomhachd erectile",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "call cuideim",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "call cuideam",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "caill notaichean",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "pill daithead",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "losgaidh geir",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "leigheas mìorbhaileach",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "leigheas nàdarra",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "an-aghaidh a bhith a’ fàs sean",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "susbaint inbheach",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "cinn-latha inbheach",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "coinneachadh ri daoine singilte",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "singiltean teth",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "boireannaich aonaranach",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "bean-taighe aonaranach",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "a charaid ghràdhaich",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "a ghràidh, a ghràidh",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "a dhuine uasail/a bhean uasal",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "dìomhair",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "gu tur dìomhair",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "prìobhaideach agus dìomhair",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "na dèan dearmad",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "feumaidh freagairt",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "chan e spama a tha seo",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "chan e sgudal a tha seo",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "chan e sgam a th' ann",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "tairgse dligheach",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "brath laghail",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "òrdugh cùirte",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "tabhartas an riaghaltais",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "tabhartas an-asgaidh",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "ais-dhìoladh cìse",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "coinneamh": -0.3,
+        "clàr-ama": -0.3,
+        "pròiseact": -0.3,
+        "ceann-latha": -0.3,
+        "ceangailte": -0.3,
+        "ceangal": -0.3,
+        "meas": -0.2,
+        "gu dùrachdach": -0.2,
+        "mòran taing": -0.2,
+        "tapadh leat": -0.3,
+        "a’ leantainn suas": -0.3,
+        "mar a chaidh a dheasbad": -0.5,
+        "a rèir ar còmhraidh": -0.5,
+        "cunntas": -0.2,
+        "aithris": -0.2,
+        "geàrr-chunntas": -0.2,
+        "mionaidean": -0.3,
+        "clàr-gnothaich": -0.3,
+        "co-labhairt": -0.3,
+        "stòr-tasgaidh": -0.5,
+        "iarrtas tarraing": -0.8,
+        "gealltainn": -0.5,
+        "co-aonadh": -0.5,
+        "meur": -0.5,
+        "cuir a-mach": -0.5,
+        "sgrìobhainnean": -0.3
+    },
+    "bayesianTokens": {
+        "viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cial": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "leudachadh": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "nigèirianach": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "oighreachd": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "neach-tairbhe": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "crannchur": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "buannaiche": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "duais mhòr": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "dì-chlàradh": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "roghainn a-mach": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "cliog": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "saor": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "airgead": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "duais": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bhuannaich": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "èiginneach": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "sa bhad": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "gnìomh": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "cuibhrichte": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "tairgse": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "lasachadh": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "gealltanach": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "gun chunnart": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "dleastanas": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "creideas": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "fiachan": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "iasad": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "morgaids": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "bùth-leighis": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "òrdugh-leighis": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "cungaidh-leigheis": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "pilltean": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "cuideam": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "daithead": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "caill": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "notaichean": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "ceannaich": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "òrdugh": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ceannach": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "reic": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "sàbhail": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "cùmhnant": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "sònraichte": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "bònas": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "tiodhlac": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "meala-naidheachd": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "taghte": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "dearbhadh": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "dearbhaich": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "cunntas": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "facal-faire": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "air a chrochadh": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "glaiste": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "tèarainteachd": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ùrachadh": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazon": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "banca": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "uèir": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "gluasad": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "sligheachadh": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "luath": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "an iar": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "aonadh": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "airgead didseatach": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "sporan": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "blockchain": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "coinneamh": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "clàr-ama": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "pròiseact": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "sgioba": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ceann-latha": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ceangailte": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ceangal": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "sgrìobhainn": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "aithris": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "lèirmheas": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "fios-air-ais": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "deasbad": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "clàr-gnothaich": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "mionaidean": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "co-labhairt": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "gairm": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "meas": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "gu dùrachdach": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "mòran taing": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "taing": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "a leanas": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "air a dheasbad": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "còmhradh": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "cuidhteas": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "geàrr-chunntas": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "mion-sgrùdadh": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "rannsachadh": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "dàta": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "toraidhean": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "stòr-tasgaidh": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "gealltainn": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "co-aonadh": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "meur": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "tarraing": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "iarrtas": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "cuir a-mach": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "togail": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "deuchainn": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "dì-bhugachadh": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "mearachd": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "biast": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "càradh": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "cùis": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "feart": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "leigeil ma sgaoil": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "dreach": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "sgrìobhainnean": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "frithealaiche": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "stòr-dàta": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ceist": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "caochladair": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "clas": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "dòigh": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "eadar-aghaidh": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "èiginneach",
+        "sa bhad",
+        "sa bhad",
+        "cho luath 's a ghabhas",
+        "gnìomh a-nis",
+        "na cuir dàil",
+        "cabhag",
+        "ùine chuingealaichte",
+        "a’ tighinn gu crìch",
+        "ceann-latha",
+        "cothrom mu dheireadh",
+        "brath mu dheireadh",
+        "mothachail air ùine",
+        "freagair a-nis",
+        "gnìomh a dhìth"
+    ],
+    "greetingWords": [
+        "hi",
+        "halò",
+        "a ghràidh",
+        "halò",
+        "fàilte",
+        "madainn mhath",
+        "feasgar math",
+        "feasgar math"
+    ],
+    "genericGreetings": [
+        "a dhuine uasail",
+        "a bhean uasal",
+        "a charaid a luchd-ceannach",
+        "a charaid, neach-cleachdaidh",
+        "a bhall ghràdhach",
+        "a charaid ghràdhaich",
+        "a ghràidh, luachmhor",
+        "a charaid a gheibh",
+        "a charaid, a tha na neach-tairbhe"
+    ]
+}

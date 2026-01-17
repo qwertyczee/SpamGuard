@@ -1,0 +1,1389 @@
+{
+    "language": "da",
+    "languageName": "Danish",
+    "spamWords": [
+        {
+            "word": "nigeriansk prins",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "bankoverførsel",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "bankkontooplysninger",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "arvefond",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "uafhentede midler",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "modtager",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "millioner dollars",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "millioner dollars",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "overførselsgebyr",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "behandlingsgebyr",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "forudbetaling",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "western union",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "bitcoin-pung",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "kryptovalutainvestering",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "fordobl dine bitcoins",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "krypto-giveaway",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "handle nu",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "handle straks",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "akut svar",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "akut opmærksomhed",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "øjeblikkelig handling",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "begrænset tid",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "udløber i dag",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "sidste chance",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "endelig meddelelse",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "svar straks",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "inden for 24 timer",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "inden for 48 timer",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "tidsfølsom",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "vent ikke",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "tillykke med vinderen",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "du har vundet",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "lotterivinder",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "præmiemeddelelse",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "kræv din præmie",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "vindende notifikation",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "heldig vinder",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "udvalgt vinder",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "pengepræmie",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "gratis præmie",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "konkurrencer",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "bekræft din konto",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "bekræft din identitet",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "opdater din betaling",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "suspenderet konto",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "konto suspenderet",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "usædvanlig aktivitet",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "mistænkelig aktivitet",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "uautoriseret adgang",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "klik her for at bekræfte",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "loginoplysninger",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "nulstilling af adgangskode",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "sikkerhedsadvarsel",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "din konto vil være",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "manglende verifikation",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "genaktiver din",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "afmeld",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "klik her",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "køb nu",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "bestil nu",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "gratis tilbud",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "særligt tilbud",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "eksklusivt tilbud",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "risikofri",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ingen forpligtelse",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "pengene tilbage-garanti",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "tilfredshedsgaranti",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ring nu",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "gratisnummer",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% gratis",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "helt gratis",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ingen omkostninger",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ingen gebyrer",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "laveste pris",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "bedste pris",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "rabat",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "spar stort",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "spar penge",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "fordoble din",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "øge din",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "tjene penge",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "tjene penge",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ekstra indkomst",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "arbejde hjemmefra",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "vær din egen chef",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "økonomisk frihed",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "blive rig",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "få betalt",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "øjeblikkelig adgang",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "slutt dig til millioner",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "apotek",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "online apotek",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "canadisk apotek",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "recept",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ingen recept",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "uden recept",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "erektil dysfunktion",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "vægttab",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "tabe sig",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "tabe kilo",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "slankepille",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "fedtforbrænder",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "mirakelkur",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "naturligt middel",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "anti-aging",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "indhold for voksne",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "dating for voksne",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "møde singler",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "hotte singler",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ensomme kvinder",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ensom husmor",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "kære ven",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "kære elskede",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "kære herre/frue",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "fortrolig",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "strengt fortroligt",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "privat og fortrolig",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ignorer ikke",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "skal svare",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "dette er ikke spam",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "dette er ikke skrammel",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ikke en fupnummer",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "legitimt tilbud",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "juridisk meddelelse",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "retskendelse",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "statstilskud",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "gratis tilskud",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "skattemyndighederne",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "skatterefusion",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "møde": -0.3,
+        "skema": -0.3,
+        "projekt": -0.3,
+        "deadline": -0.3,
+        "vedhæftet": -0.3,
+        "vedhæftet fil": -0.3,
+        "hilsen": -0.2,
+        "oprigtigt": -0.2,
+        "tak": -0.3,
+        "opfølgning": -0.3,
+        "som diskuteret": -0.5,
+        "ifølge vores samtale": -0.5,
+        "faktura": -0.2,
+        "rapport": -0.2,
+        "oversigt": -0.2,
+        "minutter": -0.3,
+        "dagsorden": -0.3,
+        "konference": -0.3,
+        "arkivet": -0.5,
+        "pull-anmodning": -0.8,
+        "begå": -0.5,
+        "fusionere": -0.5,
+        "filial": -0.5,
+        "indsætte": -0.5,
+        "dokumentation": -0.3
+    },
+    "bayesianTokens": {
+        "viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "udvidelse": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "nigeriansk": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "arv": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "modtager": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "lotteri": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "vinder": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "jackpotten": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "afmeld": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "fravalg": {
+            "spam": 0.85,
+            "ham": 0.05
+        },
+        "frameld dig": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "klik": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "gratis": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "penge": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "kontanter": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "præmie": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "vundet": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "presserende": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "straks": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "handling": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "begrænset": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "tilbud": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "rabat": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "garanteret": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "risikofri": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "forpligtelse": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "kredit": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "gæld": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "lån": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "pant": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "apotek": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "recept": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "medicin": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "piller": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "vægt": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "kost": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "tabe": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "pund": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "købe": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "bestille": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "køb": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "salg": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "billig": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "spare": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "del": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "særlig": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "eksklusiv": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "bonus": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "gave": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "tillykke": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "udvalgte": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "bekræfte": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "verificere": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "konto": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "adgangskode": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "suspenderet": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "låst": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "sikkerhed": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "opdatering": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazon": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "bank": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "tråd": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "overførsel": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ruteføring": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "hurtig": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "vestlig": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "union": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "kryptovaluta": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "tegnebog": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "blockchain": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "møde": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "skema": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "projekt": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "hold": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "deadline": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "vedhæftet": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "vedhæftet fil": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "dokument": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "rapport": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "anmeldelse": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "feedback": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "diskussion": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "dagsorden": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "minutter": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "konference": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "opkald": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "hilsen": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "oprigtigt": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "tak": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "takke": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "værdsætte": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "følge": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "diskuteret": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "samtale": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "faktura": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "modtagelse": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "oversigt": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "analyse": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "forskning": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "data": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "resultater": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "arkivet": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "begå": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "fusionere": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "filial": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "træk": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "anmodning": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "indsætte": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "bygge": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "prøve": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "fejlfinding": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "fejl": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "lave": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "spørgsmål": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "funktion": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "frigøre": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "version": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "dokumentation": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "server": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "database": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "forespørgsel": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "fungere": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "variabel": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "klasse": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "metode": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "grænseflade": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "presserende",
+        "umiddelbar",
+        "straks",
+        "hurtigst muligt",
+        "handle nu",
+        "vent ikke",
+        "skynde sig",
+        "begrænset tid",
+        "udløber",
+        "deadline",
+        "sidste chance",
+        "endelig meddelelse",
+        "tidsfølsom",
+        "svar nu",
+        "handling kræves"
+    ],
+    "greetingWords": [
+        "hej",
+        "hej",
+        "kære",
+        "hej",
+        "hilsner",
+        "godmorgen",
+        "god eftermiddag",
+        "god aften"
+    ],
+    "genericGreetings": [
+        "kære herre",
+        "kære frue",
+        "kære kunde",
+        "kære bruger",
+        "kære medlem",
+        "kære ven",
+        "kære værdsatte",
+        "kære modtager",
+        "kære modtager"
+    ]
+}

@@ -26,8 +26,10 @@ export interface LanguageDetectionResult {
 
 /**
  * Map from ISO 639-3 (franc output) to ISO 639-1 (our codes)
+ * Comprehensive mapping for 100+ languages
  */
 const ISO_639_3_TO_639_1: Record<string, string> = {
+    // Major European languages
     eng: "en",
     spa: "es",
     fra: "fr",
@@ -37,27 +39,127 @@ const ISO_639_3_TO_639_1: Record<string, string> = {
     nld: "nl",
     pol: "pl",
     rus: "ru",
-    // Additional common languages (for detection, even if not supported)
+    ukr: "uk",
+    ces: "cs",
+    slk: "sk",
+    hun: "hu",
+    ron: "ro",
+    bul: "bg",
+    hrv: "hr",
+    srp: "sr",
+    slv: "sl",
+    bos: "bs",
+    mkd: "mk",
+    sqi: "sq",
+    ell: "el",
+    tur: "tr",
+    // Scandinavian languages
+    swe: "sv",
+    dan: "da",
+    nor: "no",
+    nob: "no", // Norwegian Bokmål
+    nno: "no", // Norwegian Nynorsk
+    fin: "fi",
+    isl: "is",
+    // Baltic languages
+    lit: "lt",
+    lav: "lv",
+    est: "et",
+    // Celtic languages
+    gle: "ga",
+    cym: "cy",
+    gla: "gd",
+    // Asian languages
     cmn: "zh", // Chinese Mandarin
-    arb: "ar", // Arabic
-    jpn: "ja", // Japanese
-    kor: "ko", // Korean
-    tur: "tr", // Turkish
-    hin: "hi", // Hindi
-    vie: "vi", // Vietnamese
-    tha: "th", // Thai
-    ukr: "uk", // Ukrainian
-    ces: "cs", // Czech
-    swe: "sv", // Swedish
-    dan: "da", // Danish
-    nor: "no", // Norwegian
-    fin: "fi", // Finnish
-    hun: "hu", // Hungarian
-    ron: "ro", // Romanian
-    bul: "bg", // Bulgarian
-    ell: "el", // Greek
-    heb: "he", // Hebrew
-    ind: "id", // Indonesian
+    zho: "zh", // Chinese
+    yue: "zh", // Cantonese (map to zh)
+    jpn: "ja",
+    kor: "ko",
+    vie: "vi",
+    tha: "th",
+    ind: "id",
+    msa: "ms", // Malay
+    zlm: "ms", // Malay
+    tgl: "tl", // Tagalog
+    fil: "tl", // Filipino
+    hin: "hi",
+    ben: "bn",
+    tam: "ta",
+    tel: "te",
+    mar: "mr",
+    guj: "gu",
+    kan: "kn",
+    mal: "ml",
+    pan: "pa",
+    urd: "ur",
+    nep: "ne",
+    sin: "si",
+    mya: "my",
+    khm: "km",
+    lao: "lo",
+    mon: "mn",
+    kat: "ka",
+    hye: "hy",
+    aze: "az",
+    kaz: "kk",
+    uzb: "uz",
+    kir: "ky",
+    tgk: "tg",
+    tuk: "tk",
+    // Middle Eastern languages
+    arb: "ar", // Standard Arabic
+    ara: "ar", // Arabic
+    heb: "he",
+    fas: "fa", // Persian
+    pes: "fa", // Iranian Persian
+    pus: "ps", // Pashto
+    kur: "ku",
+    kmr: "ku", // Kurdish Kurmanji
+    // African languages
+    swa: "sw",
+    swh: "sw", // Swahili
+    amh: "am",
+    hau: "ha",
+    ibo: "ig",
+    yor: "yo",
+    zul: "zu",
+    xho: "xh",
+    afr: "af",
+    som: "so",
+    mlg: "mg",
+    nya: "ny",
+    sna: "sn",
+    kin: "rw",
+    // Other European languages
+    eus: "eu",
+    cat: "ca",
+    glg: "gl",
+    mlt: "mt",
+    ltz: "lb",
+    bel: "be",
+    // South American indigenous
+    que: "qu",
+    aym: "ay",
+    grn: "gn",
+    // Pacific languages
+    mri: "mi",
+    smo: "sm",
+    haw: "haw",
+    // South/Southeast Asian
+    jav: "jw",
+    sun: "su",
+    ceb: "ceb",
+    hmn: "hmn",
+    // Constructed/Special
+    epo: "eo",
+    lat: "la",
+    // Additional languages
+    hat: "ht",
+    yid: "yi",
+    cos: "co",
+    fry: "fy",
+    snd: "sd",
+    tat: "tt",
 };
 
 /**

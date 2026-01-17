@@ -1,0 +1,1381 @@
+{
+    "language": "tk",
+    "languageName": "Turkmen",
+    "spamWords": [
+        {
+            "word": "nigeriýaly şazada",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "bank geçirimi",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "bank hasabynyň maglumatlary",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "miras gaznasy",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "talap edilmedik serişdeler",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "peýdalanýan",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "million dollar",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "million amerikan dollary",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "geçiş tölegi",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "işleme tölegi",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "öňünden töleg",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "günbatar ýunýon",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "pulgram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "bitkoin gapjygy",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "kripto maýa goýumy",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "bitkoiniňi iki esse köpeltmek",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "kripto sowgat",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "häzir hereket ediň",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "derhal hereket ediň",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "gyssagly jogap",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "gyssagly üns",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "derhal hereket",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "çäkli wagt",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "şu gün möhleti gutarýar",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "soňky mümkinçilik",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "soňky bildiriş",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "derrew jogap ber",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "24 sagadyň içinde",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "48 sagadyň içinde",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "wagta duýgur",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "gijikdirme",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "gutlaýaryn ýeňiji",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "sen ýeňdiň",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "lotereýa ýeňijisi",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "baýrak barada bildiriş",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "baýragyňyzy talap ediň",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ýeňiş barada bildiriş",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "bagtly ýeňiji",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "saýlanan ýeňiji",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "pul baýragy",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "mugt baýrak",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "lotereýa",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "hasabyňyzy tassyklaň",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "kimligiňizi tassyklaň",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "tölegiňizi täzeläň",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "togtadylan hasap",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "hasap togtadyldy",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "adatdan daşary işjeňlik",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "şübheli hereket",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "rugsatsyz giriş",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "tassyklamak üçin şu ýere basyň",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "giriş maglumatlary",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "paroly täzeden düzetmek",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "howpsuzlyk duýduryşy",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "hasabyňyz bolar",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "barlamakda şowsuzlyk",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "gaýtadan işjeňleşdiriň",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "abuna ýazylyşdan çykmak",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "şu ýere basyň",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "häzir satyn alyň",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "häzir sargyt ediň",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "mugt teklip",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ýörite teklip",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "eksklýuziw ylalaşyk",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "töwekgelçiliksiz",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "borçnama ýok",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "pul yzyna gaýtarmak kepilligi",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "kanagatlanma kepillendirilýär",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "häzir jaň ediň",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "tölegsiz",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% mugt",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "düýbünden mugt",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "çykdajysyz",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "töleg ýok",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "iň pes baha",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "iň gowy baha",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "arzanladyş",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "uly tygşytlaň",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "pul tygşytlaň",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "iki esse köp",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "köpelt",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "pul gazanmak",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "pul gazanmak",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "goşmaça girdeji",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "öýden işlemek",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "öz başlygyň bol",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "maliýe azatlygy",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "baýamak",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "töleg almak",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "derrew giriş",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "millionlarça adama goşulyň",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "wiagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "sialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "dermanhana",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "onlaýn dermanhana",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "kanada dermanhanasy",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "resept",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "reseptsiz",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "reseptsiz",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "erektil disfunksiýa",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "agramyň azalmagy",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "agramyny ýitirmek",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "funt ýitirmek",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "diet tabletkasy",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "ýag ýakyjy",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "gudratly bejeriş",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "tebigy derman",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "garrama garşy",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "ulular üçin niýetlenen mazmun",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ulular üçin tanyşlyk",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ýeke adamlar bilen tanyşyň",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "gyzgyn ýekelikler",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ýalňyz aýallar",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ýalňyz öý hojalykçysy",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "eziz dostum",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "eziz söýgüli",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "hormatly jenap/hanym",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "gizlin",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "berk gizlin",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "hususy we gizlin",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "gözardy etme",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "jogap bermeli",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "bu spam däl",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "bu hapa däl",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "aldaw däl",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "kanuny teklip",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "kanuny bildiriş",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "sud buýrugy",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "hökümet granty",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "mugt grant",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "salgyt yzyna gaýtarylmasy",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "duşuşyk": -0.3,
+        "tertip": -0.3,
+        "taslama": -0.3,
+        "möhlet": -0.3,
+        "birikdirilen": -0.3,
+        "goşundy": -0.3,
+        "hormatlamak bilen": -0.2,
+        "ýürekden": -0.2,
+        "sag bol": -0.3,
+        "yzarlamak": -0.3,
+        "ara alnyp maslahatlaşylan ýaly": -0.5,
+        "söhbetdeşligimiz boýunça": -0.5,
+        "faktura": -0.2,
+        "hasabat": -0.2,
+        "gysgaça maglumat": -0.2,
+        "minut": -0.3,
+        "gün tertibi": -0.3,
+        "konferensiýa": -0.3,
+        "ammar": -0.5,
+        "çekmek haýyşy": -0.8,
+        "borçlanmak": -0.5,
+        "birleşmek": -0.5,
+        "şaha": -0.5,
+        "ýerleşdirmek": -0.5,
+        "resminamalar": -0.3
+    },
+    "bayesianTokens": {
+        "wiagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "sialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "ulaltmak": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "nigeriýaly": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "miras": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "peýdalanýan": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "lotereýa": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "ýeňiji": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "jackpot": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "abuna ýazylyşdan çykmak": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "çykmak": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "basmak": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "mugt": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "pul": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "nagt pul": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "baýrak": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "ýeňdi": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "gyssagly": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "derrew": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "hereket": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "çäkli": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "teklip": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "arzanladyş": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "kepillendirilen": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "töwekgelçiliksiz": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "borç": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "kredit": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "bergi": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "karz": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ipoteka": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "dermanhana": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "resept": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "derman": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "tabletkalar": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "agram": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "iýmit": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ýeňilmek": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "funt": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "satyn al": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "sargyt": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "satyn alyş": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "satuw": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "arzan": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "halas et": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "ylalaşyk": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ýörite": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "eksklýuziw": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "bonus": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "sowgat": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "gutlaýaryn": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "saýlanan": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "tassyklamak": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "hasap": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "parol": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "togtadylan": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "gulplanan": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "howpsuzlyk": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "täzelemek": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazon": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "bank": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "sim": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "geçirmek": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "marşrutlaşdyrma": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "çalt": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "günbatar": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "birleşik": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "pulgram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitkoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "kriptowalýuta": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "gapjyk": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "blokçeýn": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "duşuşyk": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "tertip": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "taslama": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "topar": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "möhlet": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "birikdirilen": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "goşundy": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "resminama": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "hasabat": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "gözden geçirmek": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "pikir": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "pikir alyşma": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "gün tertibi": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "minut": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "konferensiýa": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "jaň etmek": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "hormatlamak bilen": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ýürekden": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "sag bol": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "minnetdar": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "yzarlaýan": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "ara alnyp maslahatlaşyldy": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "gürrüňdeşlik": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "faktura": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "çek": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "gysgaça maglumat": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "analiz": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ylmy-barlag": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "maglumatlar": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "netijeler": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ammar": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "borçlanmak": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "birleşmek": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "şaha": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "çekmek": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "haýyş": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "ýerleşdirmek": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "gurmak": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "synag": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "sazlamak": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "ýalňyşlyk": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "mör-möjek": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "düzetmek": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "mesele": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "aýratynlyk": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "goýbermek": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "wersiýa": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "resminamalar": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "serwer": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "maglumat bazasy": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "sorag": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "funksiýa": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "üýtgeýän": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "synp": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "usul": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "interfeýs": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "gyssagly",
+        "derrew",
+        "derrew",
+        "mümkin boldugyça çalt",
+        "häzir hereket ediň",
+        "gijikdirme",
+        "howlukmaçlyk",
+        "çäkli wagt",
+        "möhleti gutarýar",
+        "möhlet",
+        "soňky mümkinçilik",
+        "soňky bildiriş",
+        "wagta duýgur",
+        "häzir jogap ber",
+        "zerur hereket"
+    ],
+    "greetingWords": [
+        "salam",
+        "salam",
+        "eziz",
+        "heý",
+        "gutlaglar",
+        "ertiriňiz haýyrly bolsun",
+        "günortanyňyz haýyrly bolsun",
+        "agşamyňyz haýyrly bolsun"
+    ],
+    "genericGreetings": [
+        "hormatly jenap",
+        "hormatly hanym",
+        "hormatly müşderi",
+        "hormatly ulanyjy",
+        "hormatly agza",
+        "eziz dostum",
+        "gymmatly",
+        "hormatly alyjy",
+        "hormatly peýdalanýan"
+    ]
+}

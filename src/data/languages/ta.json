@@ -1,0 +1,1361 @@
+{
+    "language": "ta",
+    "languageName": "Tamil",
+    "spamWords": [
+        {
+            "word": "நைஜீரிய இளவரசர்",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "கம்பி பரிமாற்றம்",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "வங்கி கணக்கு விவரங்கள்",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "பரம்பரை நிதி",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "உரிமை கோரப்படாத நிதிகள்",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "பயனாளி",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "மில்லியன் டாலர்கள்",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "மில்லியன் அமெரிக்க டாலர்",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "பரிமாற்ற கட்டணம்",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "செயலாக்க கட்டணம்",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "முன்பணம்",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "மேற்கு ஒன்றியம்",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "மணிகிராம்",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "பிட்காயின் பணப்பை",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "கிரிப்டோகரன்சி முதலீடு",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "உங்கள் பிட்காயினை இரட்டிப்பாக்குங்கள்.",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "கிரிப்டோ பரிசு",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "இப்போதே செயல்படுங்கள்",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "உடனடியாக செயல்படுங்கள்",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "அவசர பதில்",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "அவசர கவனம்",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "உடனடி நடவடிக்கை",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "வரையறுக்கப்பட்ட நேரம்",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "இன்று காலாவதியாகிறது",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "கடைசி வாய்ப்பு",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "இறுதி அறிவிப்பு",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "உடனடியாக பதிலளிக்கவும்",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "24 மணி நேரத்திற்குள்",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "48 மணி நேரத்திற்குள்",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "நேர உணர்திறன்",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "தாமதிக்காதே",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "வெற்றியாளருக்கு வாழ்த்துக்கள்",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "நீங்கள் வெற்றி பெற்றீர்கள்.",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "லாட்டரி வென்றவர்",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "பரிசு அறிவிப்பு",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "உங்கள் பரிசைப் பெறுங்கள்.",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "வெற்றி அறிவிப்பு",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "அதிர்ஷ்டசாலி வெற்றியாளர்",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "தேர்ந்தெடுக்கப்பட்ட வெற்றியாளர்",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ரொக்கப் பரிசு",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "இலவச பரிசு",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "பரிசுப் போட்டிகள்",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "உங்கள் கணக்கைச் சரிபார்க்கவும்.",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "உங்கள் அடையாளத்தை உறுதிப்படுத்தவும்.",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "உங்கள் கட்டணத்தைப் புதுப்பிக்கவும்.",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "இடைநிறுத்தப்பட்ட கணக்கு",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "கணக்கு இடைநிறுத்தப்பட்டது",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "அசாதாரண செயல்பாடு",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "சந்தேகத்திற்கிடமான செயல்பாடு",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "அங்கீகரிக்கப்படாத அணுகல்",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "சரிபார்க்க இங்கே கிளிக் செய்யவும்.",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "உள்நுழைவு சான்றுகள்",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "கடவுச்சொல் மீட்டமைப்பு",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "பாதுகாப்பு எச்சரிக்கை",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "உங்கள் கணக்கு",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "சரிபார்க்கத் தவறியது",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "உங்கள்",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "குழுவிலகு",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "இங்கே கிளிக் செய்யவும்",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "இப்போது வாங்கவும்",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "இப்போதே ஆர்டர் செய்யுங்கள்",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "இலவச சலுகை",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "சிறப்பு சலுகை",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "பிரத்யேக சலுகை",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ஆபத்து இல்லாதது",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "எந்த கடமையும் இல்லை",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "பணம் திரும்ப உத்தரவாதம்",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "திருப்தி உத்தரவாதம்",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "இப்போதே அழையுங்கள்",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "கட்டணமில்லா",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% இலவசம்",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "முற்றிலும் இலவசம்",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "செலவு இல்லை",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "கட்டணம் இல்லை",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "மிகக் குறைந்த விலை",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "சிறந்த விலை",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "தள்ளுபடி",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "பெரிய அளவில் சேமிக்கவும்",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "பணத்தை சேமிக்கவும்",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "இரட்டிப்பாக்கு உன்",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "உங்கள்",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "பணம் சம்பாதிக்கவும்",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "பணம் சம்பாதி",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "கூடுதல் வருமானம்",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "வீட்டிலிருந்து வேலை செய்யுங்கள்",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "உங்களுக்கு நீங்களே முதலாளியா இருங்க.",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "நிதி சுதந்திரம்",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "பணக்காரர் ஆகுங்கள்",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "பணம் பெறுங்கள்",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "உடனடி அணுகல்",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "மில்லியன் கணக்கானவர்களுடன் சேருங்கள்",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "வயக்ரா",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "சியாலிஸ்",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "மருந்தகம்",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "ஆன்லைன் மருந்தகம்",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "கனடிய மருந்தகம்",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "மருந்துச் சீட்டு",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "மருந்துச் சீட்டு இல்லை",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "மருந்துச் சீட்டு இல்லாமல்",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "விறைப்புத்தன்மை குறைபாடு",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "எடை இழப்பு",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "எடை குறைக்க",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "எடையைக் குறை",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "உணவு மாத்திரை",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "கொழுப்பு எரிப்பான்",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "அதிசய சிகிச்சை",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "இயற்கை வைத்தியம்",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "வயதான எதிர்ப்பு",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "வயதுவந்தோர் உள்ளடக்கம்",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx செக்ஸ்",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "வயது வந்தோருக்கான டேட்டிங்",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ஒற்றையர்களை சந்திக்கவும்",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "கவர்ச்சியான சிங்கிள்ஸ்",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "தனிமையான பெண்கள்",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "தனிமையான இல்லத்தரசி",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "அன்பு நண்பரே",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "அன்பான அன்பே",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "அன்புள்ள ஐயா/மேடம்",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "ரகசியமானது",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "கண்டிப்பாக ரகசியமானது",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "தனிப்பட்ட மற்றும் ரகசியமானது",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "புறக்கணிக்காதீர்கள்",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "பதிலளிக்க வேண்டும்",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "இது ஸ்பேம் இல்லை.",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "இது குப்பை இல்லை.",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ஒரு மோசடி அல்ல.",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "முறையான சலுகை",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "சட்ட அறிவிப்பு",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "நீதிமன்ற உத்தரவு",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "அரசு மானியம்",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "இலவச மானியம்",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ஐஆர்எஸ்",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "வரி திரும்பப் பெறுதல்",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "கூட்டம்": -0.3,
+        "அட்டவணை": -0.3,
+        "திட்டம்": -0.3,
+        "காலக்கெடு": -0.3,
+        "இணைக்கப்பட்டது": -0.3,
+        "இணைப்பு": -0.3,
+        "வாழ்த்துக்கள்": -0.2,
+        "உண்மையுள்ள": -0.2,
+        "நன்றி": -0.3,
+        "பின்தொடர்தல்": -0.3,
+        "விவாதிக்கப்பட்டபடி": -0.5,
+        "நமது உரையாடலின் படி": -0.5,
+        "விலைப்பட்டியல்": -0.2,
+        "அறிக்கை": -0.2,
+        "சுருக்கம்": -0.2,
+        "நிமிடங்கள்": -0.3,
+        "நிகழ்ச்சி நிரல்": -0.3,
+        "மாநாடு": -0.3,
+        "களஞ்சியம்": -0.5,
+        "கோரிக்கையை இழுக்கவும்": -0.8,
+        "உறுதி செய்": -0.5,
+        "ஒன்றிணை": -0.5,
+        "கிளை": -0.5,
+        "வரிசைப்படுத்து": -0.5,
+        "ஆவணங்கள்": -0.3
+    },
+    "bayesianTokens": {
+        "வயக்ரா": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "சியாலிஸ்": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "விரிவாக்கம்": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "நைஜீரிய": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "பரம்பரை": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "பயனாளி": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "லாட்டரி": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "வெற்றியாளர்": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "ஜாக்பாட்": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "குழுவிலகு": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "விலகு": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "கிளிக் செய்யவும்": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "இலவசம்": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "பணம்": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "பரிசு": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "வென்றது": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "அவசரம்": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "உடனடியாக": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "செயல்": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "வரையறுக்கப்பட்ட": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "சலுகை": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "தள்ளுபடி": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "உத்தரவாதம் அளிக்கப்பட்டது": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "ஆபத்து இல்லாதது": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "கடமை": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "கடன்": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "அடமானம்": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "மருந்தகம்": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "மருந்துச் சீட்டு": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "மருந்து": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "மாத்திரைகள்": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "எடை": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "உணவுமுறை": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "இழக்க": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "பவுண்டுகள்": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "வாங்க": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "உத்தரவு": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "கொள்முதல்": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "விற்பனை": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "மலிவான": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "சேமி": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "ஒப்பந்தம்": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "சிறப்பு": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "பிரத்தியேகமானது": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "போனஸ்": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "வாழ்த்துக்கள்": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "தேர்ந்தெடுக்கப்பட்டது": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "உறுதிப்படுத்து": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "சரிபார்க்கவும்": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "கணக்கு": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "கடவுச்சொல்": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "இடைநிறுத்தப்பட்டது": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "பூட்டப்பட்டது": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "பாதுகாப்பு": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "மேம்படுத்தல்": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "பேபால்": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ஈபே": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "அமேசான்": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "வங்கி": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "கம்பி": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "பரிமாற்றம்": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "வழிப்படுத்தல்": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "வேகமான": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "மேற்கத்திய": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "தொழிற்சங்கம்": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "மணிகிராம்": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "பிட்காயின்": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "கிரிப்டோகரன்சி": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "பணப்பை": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "தொகுதிச் சங்கிலி": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "கூட்டம்": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "அட்டவணை": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "திட்டம்": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "குழு": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "காலக்கெடு": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "இணைக்கப்பட்டது": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "இணைப்பு": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "ஆவணம்": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "அறிக்கை": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "விமர்சனம்": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "கருத்து": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "விவாதம்": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "நிகழ்ச்சி நிரல்": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "நிமிடங்கள்": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "மாநாடு": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "அழைப்பு": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "உண்மையுள்ள": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "நன்றி": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "பாராட்டுகிறேன்": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "தொடர்ந்து": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "விவாதிக்கப்பட்டது": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "உரையாடல்": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "விலைப்பட்டியல்": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "ரசீது": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "சுருக்கம்": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "பகுப்பாய்வு": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ஆராய்ச்சி": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "தரவு": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "முடிவுகள்": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "களஞ்சியம்": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "உறுதி செய்": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "ஒன்றிணை": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "கிளை": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "இழு": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "கோரிக்கை": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "வரிசைப்படுத்து": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "கட்டமை": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "சோதனை": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "பிழைத்திருத்தம்": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "பிழை": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "சரி செய்": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "பிரச்சினை": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "அம்சம்": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "வெளியீடு": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "பதிப்பு": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ஆவணங்கள்": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ஏபிஐ": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "சர்வர்": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "தரவுத்தளம்": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "கேள்வி": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "செயல்பாடு": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "மாறி": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "வர்க்கம்": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "முறை": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "இடைமுகம்": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "அவசரம்",
+        "உடனடி",
+        "உடனடியாக",
+        "விரைவில்",
+        "இப்போதே செயல்படுங்கள்",
+        "தாமதிக்காதே",
+        "அவசரம்",
+        "வரையறுக்கப்பட்ட நேரம்",
+        "காலாவதியாகிறது",
+        "காலக்கெடு",
+        "கடைசி வாய்ப்பு",
+        "இறுதி அறிவிப்பு",
+        "நேர உணர்திறன்",
+        "இப்போது பதிலளிக்கவும்",
+        "நடவடிக்கை தேவை"
+    ],
+    "greetingWords": [
+        "வணக்கம்",
+        "வணக்கம்",
+        "அன்பே",
+        "ஏய்",
+        "வாழ்த்துக்கள்",
+        "காலை வணக்கம்",
+        "மதிய வணக்கம்",
+        "மாலை வணக்கம்"
+    ],
+    "genericGreetings": [
+        "அன்புள்ள ஐயா",
+        "அன்புள்ள மேடம்",
+        "அன்புள்ள வாடிக்கையாளர்",
+        "அன்புள்ள பயனர்",
+        "அன்புள்ள உறுப்பினர்",
+        "அன்பு நண்பரே",
+        "அன்பான மதிப்புமிக்க",
+        "அன்புள்ள பெறுநரே",
+        "அன்புள்ள பயனாளியே"
+    ]
+}

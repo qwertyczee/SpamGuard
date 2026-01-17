@@ -1,0 +1,1374 @@
+{
+    "language": "tg",
+    "languageName": "Tajik",
+    "spamWords": [
+        {
+            "word": "шоҳзодаи нигериягӣ",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "фиристодани хаттии пул",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "тафсилоти суратҳисоби бонкӣ",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "фонди мерос",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "маблағҳои талабнашуда",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "бенефитсиар",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "миллион доллар",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "миллион доллари има",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ҳаққи интиқол",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ҳаққи коркард",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "пардохти пешпардохт",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "вестерн юнион",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "ҳамёни биткоин",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "сармоягузории криптовалюта",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "биткоини худро ду баробар зиёд кунед",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "тӯҳфаи крипто",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "ҳоло амал кунед",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "фавран амал кунед",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "вокуниши фаврӣ",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "таваҷҷӯҳи фаврӣ",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "амали фаврӣ",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "вақти маҳдуд",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "имрӯз ба охир мерасад",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "имконияти охирин",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "огоҳиномаи ниҳоӣ",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "фавран посух диҳед",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "дар давоми 24 соат",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "дар давоми 48 соат",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "вақтро дарк мекунад",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "таъхир накунед",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "табрикоти ғолиб",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "шумо ғолиб омадед",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ғолиби лотерея",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "огоҳиномаи ҷоиза",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ҷоизаи худро талаб кунед",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "огоҳиномаи ғолиб",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ғолиби хушбахт",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ғолиби интихобшуда",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ҷоизаи пулӣ",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ҷоизаи ройгон",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "лотерея",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "ҳисоби худро тасдиқ кунед",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "шахсияти худро тасдиқ кунед",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "пардохти худро навсозӣ кунед",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "ҳисоби боздошташуда",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "ҳисоб боздошта шуд",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "фаъолияти ғайриоддӣ",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "фаъолияти шубҳанок",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "дастрасии беиҷозат",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "барои тасдиқ ин ҷо клик кунед",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "эътимодномаҳои воридшавӣ",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "аз нав танзимкунии парол",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "огоҳии амниятӣ",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "ҳисоби шумо хоҳад буд",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "нокомӣ дар тасдиқ",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "дубора фаъол созед",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "обунаро қатъ кардан",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "ин ҷоро ангушт зан",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ҳозир харед",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ҳоло фармоиш диҳед",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "пешниҳоди ройгон",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "пешниҳоди махсус",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "созишномаи истисноӣ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "бехатар",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "бе ӯҳдадорӣ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "кафолати баргардонидани пул",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "қаноатмандӣ кафолат дода мешавад",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ҳоло занг занед",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "пулакии ройгон",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% ройгон",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "комилан ройгон",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "бепул",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "бе ягон пардохт",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "пасттарин нарх",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "беҳтарин нарх",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "тахфиф",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "калон сарфа кунед",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "пулро сарфа кунед",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ду баробар кунед",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "зиёд кардани шумо",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "пул кор кардан",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "пул кор кардан",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "даромади иловагӣ",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "кор аз хона",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "сардори худ бошед",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "озодии молиявӣ",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "сарватманд шудан",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "пул гирифтан",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "дастрасии фаврӣ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ба миллионҳо ҳамроҳ шавед",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "виагра",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "сиалис",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "дорухона",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "дорухонаи онлайн",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "дорухонаи канада",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "дорухат",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "бе дорухат",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "бе дорухат",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "норасоии эректилӣ",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "кам кардани вазн",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "вазн кам кардан",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "кам кардани фунт",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "ҳаби парҳезӣ",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "равған сӯзонанда",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "табобати мӯъҷизавӣ",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "табобати табиӣ",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "зидди пиршавӣ",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "мундариҷаи калонсолон",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "шиносоии калонсолон",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "бо шахсони танҳо шинос шавед",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "муҷаррадони гарм",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "занони танҳо",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "хонашини танҳо",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "дӯсти азиз",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "маҳбуби азиз",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ҷаноби азиз/хонум",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "махфӣ",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "қатъиян махфӣ",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "хусусӣ ва махфӣ",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "нодида нагиред",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "бояд посух диҳад",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "ин спам нест",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ин ахлот нест",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "қаллобӣ нест",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "пешниҳоди қонунӣ",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "огоҳиномаи ҳуқуқӣ",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "қарори суд",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "гранти давлатӣ",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "гранти ройгон",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "баргардонидани андоз",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "вохӯрӣ": -0.3,
+        "ҷадвал": -0.3,
+        "лоиҳа": -0.3,
+        "мӯҳлати охирин": -0.3,
+        "замимашуда": -0.3,
+        "замима": -0.3,
+        "эҳтиром": -0.2,
+        "самимона": -0.2,
+        "ташаккур": -0.2,
+        "сипос": -0.3,
+        "пайгирӣ": -0.3,
+        "тавре ки муҳокима карда шуд": -0.5,
+        "мувофиқи сӯҳбати мо": -0.5,
+        "ҳисобнома-фактура": -0.2,
+        "гузориш": -0.2,
+        "хулоса": -0.2,
+        "дақиқа": -0.3,
+        "рӯзнома": -0.3,
+        "конфронс": -0.3,
+        "анбор": -0.5,
+        "дархости кашидан": -0.8,
+        "ӯҳдадорӣ кардан": -0.5,
+        "якҷояшавӣ": -0.5,
+        "шоха": -0.5,
+        "ҷойгиркунӣ": -0.5,
+        "ҳуҷҷатгузорӣ": -0.3
+    },
+    "bayesianTokens": {
+        "виагра": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "сиалис": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "васеъкунӣ": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "нигериягӣ": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "мерос": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "бенефитсиар": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "лотерея": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "ғолиб": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "ҷекпот": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "обунаро қатъ кардан": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "канорагирӣ": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "клик": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "озод": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "пул": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "пули нақд": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "ҷоиза": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "бурд": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "фаврӣ": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "фавран": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "амал": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "маҳдуд": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "пешниҳод": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "тахфиф": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "кафолат додашуда": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "бехатар": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "ӯҳдадорӣ": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "қарз": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ипотека": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "дорухона": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "дорухат": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "дору": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "ҳабҳо": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "вазн": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "парҳез": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "бохт": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "фунт": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "харидан": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "фармоиш": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "харид": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "фурӯш": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "арзон": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "захира кардан": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "созишнома": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "махсус": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "истисноӣ": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "бонус": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "тӯҳфа": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "табрикот": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "интихобшуда": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "тасдиқ кардан": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "ҳисоб": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "парол": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "боздошташуда": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "қулфшуда": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "амният": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "навсозӣ": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazon": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "бонк": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "сим": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "интиқол": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "маршрутизатсия": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "тез": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "ғарбӣ": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "иттифоқ": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "биткоин": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "криптовалюта": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ҳамён": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "блокчейн": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "вохӯрӣ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ҷадвал": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "лоиҳа": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "даста": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "мӯҳлати охирин": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "замимашуда": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "замима": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "ҳуҷҷат": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "гузориш": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "баррасӣ": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "фикру мулоҳиза": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "муҳокима": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "рӯзнома": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "дақиқа": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "конфронс": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "занг": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "эҳтиром": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "самимона": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "ташаккур": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "қадр кардан": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "пайравӣ": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "муҳокима карда шуд": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "сӯҳбат": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ҳисобнома-фактура": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "квитансия": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "хулоса": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "таҳлил": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "тадқиқот": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "маълумот": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "натиҷаҳо": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "анбор": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "ӯҳдадорӣ кардан": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "якҷояшавӣ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "шоха": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "кашидан": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "дархост": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "ҷойгиркунӣ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "сохтан": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "озмоиш": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ислоҳи хато": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "хато": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ҳашароте": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ислоҳ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "чоп": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "хусусият": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "озод кардан": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "версия": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ҳуҷҷатгузорӣ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "апи": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "сервер": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "пойгоҳи додаҳо": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "пурсиш": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "вазифа": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "тағйирёбанда": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "синф": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "усул": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "интерфейс": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "фаврӣ",
+        "фаврӣ",
+        "фавран",
+        "ҳар чи зудтар",
+        "ҳоло амал кунед",
+        "таъхир накунед",
+        "шитоб кардан",
+        "вақти маҳдуд",
+        "мӯҳлаташ тамом мешавад",
+        "мӯҳлати охирин",
+        "имконияти охирин",
+        "огоҳиномаи ниҳоӣ",
+        "вақтро дарк мекунад",
+        "ҳоло посух диҳед",
+        "амали зарурӣ"
+    ],
+    "greetingWords": [
+        "салом",
+        "салом",
+        "азиз",
+        "эй",
+        "табрикот",
+        "субҳ ба хайр",
+        "нимирӯзи ба хайр",
+        "шаб ба хайр"
+    ],
+    "genericGreetings": [
+        "ҷаноби азиз",
+        "хонуми азиз",
+        "муштарии азиз",
+        "корбари азиз",
+        "узви азиз",
+        "дӯсти азиз",
+        "азизи гиромӣ",
+        "гирандаи азиз",
+        "азизтарин баҳрабаранда"
+    ]
+}

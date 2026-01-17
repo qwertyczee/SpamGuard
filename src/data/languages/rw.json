@@ -1,0 +1,1352 @@
+{
+    "language": "rw",
+    "languageName": "Kinyarwanda",
+    "spamWords": [
+        {
+            "word": "igikomangoma cyo muri nijeriya",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "kohereza amafaranga hakoreshejwe ikoranabuhanga",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "amakuru arambuye kuri konti ya banki",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "ikigega cy'umurage",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "amafaranga atasabwe",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "umuntu ugenerwa inyungu",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "miliyoni y'amadolari",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "miliyoni y'amadorari y'amerika",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "amafaranga yo kohereza amafaranga",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "amafaranga yo gutunganya",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "amafaranga y'inyongera",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ihuriro ry'ibihugu by'iburengerazuba",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "agakapu ka bitcoin",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "ishoramari rya cryptocurrency",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "gukuba kabiri bitcoin yawe",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "impano ya crypto",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "gira icyo ukora nonaha",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "gira icyo ukora ako kanya",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "igisubizo cyihutirwa",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "kwita ku buryo bwihutirwa",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "igikorwa cyihuse",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "igihe gito",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "irarangira uyu munsi",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "amahirwe ya nyuma",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "itangazo rya nyuma",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "subiza ako kanya",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "mu masaha 24",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "mu masaha 48",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "ikoresha igihe",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ntutinde",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "gushimira uwatsinze",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "watsinze",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "uwatsindiye tombola",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "imenyesha ry'igihembo",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "shaka igihembo cyawe",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "imenyesha ry'abatsinze",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "umunyamahirwe",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "uwatsinze yatoranyijwe",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "igihembo cy'amafaranga",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "igihembo cy'ubuntu",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "imikino y'igikombe cy'isiganwa",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "genzura konti yawe",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "yemeza umwirondoro wawe",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "vugurura uburyo wishyura",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "konti yahagaritswe",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "konti yahagaritswe",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "igikorwa kidasanzwe",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "ibikorwa biteye amakenga",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "uburenganzira bwo kwinjira mu buryo butemewe",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "kanda hano kugira ngo wemeze",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "ibyangombwa byo kwinjira",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "gusubizaho ijambo ry'ibanga",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "imenyesha ry'umutekano",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "konti yawe izaba",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "kunanirwa kugenzura",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "ongera ushyireho",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "kuvanaho kwiyandikisha",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "kanda hano",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "gura nonaha",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "gutumiza nonaha",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "igiciro cy'ubuntu",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "igiciro cyihariye",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "amasezerano yihariye",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "nta ngaruka",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "nta nshingano",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "garanti yo gusubizwa amafaranga",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "byemewe ko umuntu anyurwa",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "hamagara nonaha",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "terefone itishyurwa",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% ubuntu",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ubuntu bwose",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "nta kiguzi",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "nta mafaranga y'ikiguzi",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "igiciro gito cyane",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "igiciro cyiza cyane",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "kugabanyirizwa ibiciro",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "gabanya amafaranga menshi",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "kuzigama amafaranga",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "kabiri ibyawe",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ongera ubushobozi bwawe",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "kubona amafaranga",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "gushaka amafaranga",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "amafaranga y'inyongera",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "gukorera mu rugo",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ba umuyobozi wawe bwite",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ubwisanzure mu by'imari",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "gukira",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "wishyurwe",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "kwinjira ako kanya",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "wifatanye na za miliyoni",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "farumasi",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "farumasi yo kuri interineti",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "farumasi yo muri kanada",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "imiti yanditswe na muganga",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "nta muganga wanditse",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "nta muganga wanditse",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "kudakora neza kw'imibonano mpuzabitsina",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "kugabanya ibiro",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "kugabanya ibiro",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "kugabanya ibiro",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "ibinini byo kurya",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "itwika ibinure",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "gukira mu buryo bw'igitangaza",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "umuti karemano",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "kurwanya gusaza",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "ibikubiye mu nkuru z'abantu bakuru",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "gukundana n'abantu bakuru",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "guhura n'abantu batarashaka",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "abasore n'inkumi bashyushye",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "abagore bigunze",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "umugore wo mu rugo wenyine",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "nshuti ikundwa",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "mukunzi wanjye",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "nyakubahwa/madamu",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "ibanga",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "ibanga rikomeye",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ibanga n'ibanga",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ntukirengagize",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "agomba gusubiza",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "ibi si spam",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ibi si imyanda",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ntabwo ari uburiganya",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "igiciro cyemewe n'amategeko",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "itangazo ryemewe n'amategeko",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "icyemezo cy'urukiko",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "inkunga ya leta",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "inkunga y'ubuntu",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "gusubizwa imisoro",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "inama": -0.3,
+        "gahunda": -0.3,
+        "umushinga": -0.3,
+        "itariki ntarengwa": -0.3,
+        "byafatiriweho": -0.3,
+        "gufatisha": -0.3,
+        "muraho": -0.2,
+        "mu by'ukuri": -0.2,
+        "urakoze": -0.3,
+        "gukurikirana": -0.3,
+        "nkuko byaganiriweho": -0.5,
+        "nk'uko twaganiriye": -0.5,
+        "inyemezabuguzi": -0.2,
+        "raporo": -0.2,
+        "incamake": -0.2,
+        "iminota": -0.3,
+        "gahunda y'ibikorwa": -0.3,
+        "ububiko": -0.5,
+        "gusaba gukurura": -0.8,
+        "kwiyemeza": -0.5,
+        "guhuza": -0.5,
+        "ishami": -0.5,
+        "kohereza": -0.5,
+        "inyandiko": -0.3
+    },
+    "bayesianTokens": {
+        "viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "kwagura": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "umunya-nijeriya": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "umurage": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "umuntu ugenerwa inyungu": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "tombola": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "uwatsinze": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "jackpot": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "kuvanaho kwiyandikisha": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "guhitamo": {
+            "spam": 0.85,
+            "ham": 0.05
+        },
+        "guhitamo kwiyanga": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "kanda": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ubuntu": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "amafaranga": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "igihembo": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "yatsinze": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "byihutirwa": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "ako kanya": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "igikorwa": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "imipaka": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "gutanga": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "kugabanyirizwa ibiciro": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "byemejwe": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "nta ngaruka": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "inshingano": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "inguzanyo": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "umwenda": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "farumasi": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "imiti yanditswe na muganga": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "umuti": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "ibinini": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "uburemere": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "indyo": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "gutakaza": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "ibiro": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "kugura": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "gutumiza": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "kugurisha": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "gihendutse": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "kubika": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "amasezerano": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "byihariye": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "yihariye": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "bonus": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "impano": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "gushimira": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "byatoranyijwe": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "kwemeza": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "kugenzura": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "konti": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "ijambo ry'ibanga": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "guhagarikwa": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "ifunze": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "umutekano": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "kuvugurura": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazon": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "banki": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "insinga": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "kohereza": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "inzira": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "yihuse": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "iburengerazuba": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ishyirahamwe": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ifaranga rya elegitoroniki": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ikofi": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "blockchain": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "inama": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "gahunda": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "umushinga": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ikipe": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "itariki ntarengwa": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "byafatiriwe": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "gufatisha": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "inyandiko": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "raporo": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "isuzuma": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ibitekerezo": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ikiganiro": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "gahunda y'ibikorwa": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "iminota": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "hamagara": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "muraho": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "mu by'ukuri": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "urakoze": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "shima": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "gukurikira": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "byaganiriweho": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "inyemezabuguzi": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "inyemezabwishyu": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "incamake": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "isesengura": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ubushakashatsi": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "amakuru": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "ibisubizo": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ububiko": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "kwiyemeza": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "guhuza": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ishami": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "gukurura": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ubusabe": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "kubaka": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ikizamini": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "gukosora amakosa": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "ikosa": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "agakoko": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "gusana": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ikibazo": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ikiranga": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "kurekura": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "verisiyo": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "seriveri": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ububiko bw'amakuru": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "imikorere": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ihinduka": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "isomo": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "uburyo": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "aho uhurira": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "byihutirwa",
+        "ako kanya",
+        "ako kanya",
+        "vuba bishoboka",
+        "gira icyo ukora nonaha",
+        "ntutinde",
+        "kwihuta",
+        "igihe gito",
+        "irangira",
+        "itariki ntarengwa",
+        "amahirwe ya nyuma",
+        "itangazo rya nyuma",
+        "ikoresha igihe",
+        "subiza nonaha",
+        "igikorwa gikenewe"
+    ],
+    "greetingWords": [
+        "muraho",
+        "muraho",
+        "mukundwa",
+        "muraho",
+        "indamukanyo",
+        "mwaramutse",
+        "mwaramutse neza",
+        "umugoroba mwiza"
+    ],
+    "genericGreetings": [
+        "nyakubahwa",
+        "madamu mwiza",
+        "mukiriya mwiza",
+        "mukoresha ukundwa",
+        "munyamuryango mwiza",
+        "nshuti ikundwa",
+        "mukundwa",
+        "uwakira neza",
+        "umugenerwabikorwa mwiza"
+    ]
+}

@@ -1,0 +1,1385 @@
+{
+    "language": "bn",
+    "languageName": "Bengali",
+    "spamWords": [
+        {
+            "word": "নাইজেরিয়ান রাজপুত্র",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "ওয়্যার ট্রান্সফার",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "ব্যাংক অ্যাকাউন্টের বিবরণ",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "উত্তরাধিকার তহবিল",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "দাবিহীন তহবিল",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "সুবিধাভোগী",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "মিলিয়ন ডলার",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "মিলিয়ন মার্কিন ডলার",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "স্থানান্তর ফি",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "প্রক্রিয়াকরণ ফি",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "অগ্রিম ফি",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ওয়েস্টার্ন ইউনিয়ন",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "মানিগ্রাম",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "বিটকয়েন ওয়ালেট",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "ক্রিপ্টোকারেন্সি বিনিয়োগ",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "আপনার বিটকয়েন দ্বিগুণ করুন",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "ক্রিপ্টো গিভওয়ে",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "এখনই কাজ করো",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "অবিলম্বে ব্যবস্থা নিন",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "জরুরি প্রতিক্রিয়া",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "জরুরি মনোযোগ",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "তাৎক্ষণিক ব্যবস্থা",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "সীমিত সময়",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "আজ মেয়াদ শেষ হচ্ছে",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "শেষ সুযোগ",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "চূড়ান্ত নোটিশ",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "অবিলম্বে সাড়া দিন",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "২৪ ঘন্টার মধ্যে",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "৪৮ ঘন্টার মধ্যে",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "সময় সংবেদনশীল",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "দেরি করো না",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "অভিনন্দন বিজয়ী",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "তুমি জিতে গেছো।",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "লটারি বিজয়ী",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "পুরস্কার বিজ্ঞপ্তি",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "তোমার পুরষ্কার দাবি করো",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "বিজয়ী বিজ্ঞপ্তি",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ভাগ্যবান বিজয়ী",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "নির্বাচিত বিজয়ী",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "নগদ পুরস্কার",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "বিনামূল্যে পুরস্কার",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "সুইপস্টেক",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "আপনার অ্যাকাউন্ট যাচাই করুন",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "তোমার পরিচয় নিশ্চিত করো",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "আপনার পেমেন্ট আপডেট করুন",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "স্থগিত অ্যাকাউন্ট",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "অ্যাকাউন্ট স্থগিত করা হয়েছে",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "অস্বাভাবিক কার্যকলাপ",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "সন্দেহজনক কার্যকলাপ",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "অননুমোদিত প্রবেশাধিকার",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "যাচাই করতে এখানে ক্লিক করুন",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "লগইন শংসাপত্র",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "পাসওয়ার্ড রিসেট",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "নিরাপত্তা সতর্কতা",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "তোমার অ্যাকাউন্ট হবে",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "যাচাই করতে ব্যর্থতা",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "পুনরায় সক্রিয় করুন আপনার",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "সদস্যতা ত্যাগ করুন",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "এখানে ক্লিক করুন",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "এখনই কিনুন",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "এখনই অর্ডার করুন",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "বিনামূল্যে অফার",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "বিশেষ অফার",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "এক্সক্লুসিভ ডিল",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ঝুঁকিমুক্ত",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "কোন বাধ্যবাধকতা নেই",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "টাকা ফেরতের গ্যারান্টি",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "সন্তুষ্টি নিশ্চিত",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "এখনই ফোন করুন",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "টোল ফ্রি",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "১০০% বিনামূল্যে",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "সম্পূর্ণ বিনামূল্যে",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "বিনামূল্যে",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "কোন ফি নেই",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "সর্বনিম্ন দাম",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "সবচেয়ে ভালো দাম",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ছাড়",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "অনেক কিছু বাঁচাও",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "টাকা বাঁচাও",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "তোমার দ্বিগুণ",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "তোমার বাড়াও",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "টাকা উপার্জন",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "অর্থ উপার্জন করা",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "অতিরিক্ত আয়",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "বাড়ি থেকে কাজ",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "নিজের বস হও",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "আর্থিক স্বাধীনতা",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ধনী হও",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "বেতন পান",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "তাৎক্ষণিক অ্যাক্সেস",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "লক্ষ লক্ষের সাথে যোগ দিন",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ভায়াগ্রা",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "সিয়ালিস",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ফার্মেসি",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "অনলাইন ফার্মেসি",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "কানাডিয়ান ফার্মেসি",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "প্রেসক্রিপশন",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "প্রেসক্রিপশন নেই",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "প্রেসক্রিপশন ছাড়া",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "ইরেক্টাইল ডিসফাংশন",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ওজন কমানো",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "ওজন কমানো",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "ওজন কমানো",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "ডায়েট পিল",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "চর্বি পোড়ানোর যন্ত্র",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "অলৌকিক নিরাময়",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "প্রাকৃতিক প্রতিকার",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "বার্ধক্য রোধক",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "প্রাপ্তবয়স্কদের জন্য কন্টেন্ট",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx সেক্স",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "প্রাপ্তবয়স্কদের ডেটিং",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "এককদের সাথে দেখা করুন",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "হট সিঙ্গেলস",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "একাকী নারী",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "একাকী গৃহিণী",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "প্রিয় বন্ধু",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "প্রিয় প্রিয়",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "প্রিয় স্যার/ম্যাডাম",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "গোপনীয়",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "সম্পূর্ণ গোপনীয়",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ব্যক্তিগত এবং গোপনীয়",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "উপেক্ষা করো না",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "সাড়া দিতে হবে",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "এটা স্প্যাম নয়।",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "এটা আবর্জনা নয়।",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "কোনও কেলেঙ্কারী নয়",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "বৈধ প্রস্তাব",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "আইনি নোটিশ",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "আদালতের আদেশ",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "সরকারি অনুদান",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "বিনামূল্যে অনুদান",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "আইআরএস",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "কর ফেরত",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "সভা": -0.3,
+        "সময়সূচী": -0.3,
+        "প্রকল্প": -0.3,
+        "সময়সীমা": -0.3,
+        "সংযুক্ত": -0.3,
+        "সংযুক্তি": -0.3,
+        "শুভেচ্ছা সহ": -0.2,
+        "আন্তরিকভাবে": -0.2,
+        "ধন্যবাদ": -0.3,
+        "অনুসরণ করা": -0.3,
+        "আলোচনা অনুসারে": -0.5,
+        "আমাদের কথোপকথন অনুসারে": -0.5,
+        "চালান": -0.2,
+        "রিপোর্ট": -0.2,
+        "সারাংশ": -0.2,
+        "মিনিট": -0.3,
+        "এজেন্ডা": -0.3,
+        "সম্মেলন": -0.3,
+        "সংগ্রহস্থল": -0.5,
+        "পুল রিকোয়েস্ট": -0.8,
+        "কমিট করা": -0.5,
+        "একত্রিত করা": -0.5,
+        "শাখা": -0.5,
+        "স্থাপন করা": -0.5,
+        "ডকুমেন্টেশন": -0.3
+    },
+    "bayesianTokens": {
+        "ভায়াগ্রা": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "সিয়ালিস": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "বর্ধন": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "নাইজেরিয়ান": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "উত্তরাধিকার": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "সুবিধাভোগী": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "লটারি": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "বিজয়ী": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "জ্যাকপট": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "সদস্যতা ত্যাগ করুন": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "অপ্ট আউট": {
+            "spam": 0.85,
+            "ham": 0.05
+        },
+        "অপ্ট-আউট": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "ক্লিক করুন": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "বিনামূল্যে": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "টাকা": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "নগদ": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "পুরষ্কার": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "জিতেছে": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "জরুরি": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "অবিলম্বে": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "কাজ করা": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "সীমিত": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "প্রস্তাব": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ছাড়": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "নিশ্চিত": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "ঝুঁকিমুক্ত": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "বাধ্যবাধকতা": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "ক্রেডিট": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "ঋণ": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "বন্ধক": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "ফার্মেসি": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "প্রেসক্রিপশন": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "ঔষধ": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "বড়ি": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "ওজন": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "খাদ্যাভ্যাস": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "হারানো": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "পাউন্ড": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "কেনা": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "অর্ডার": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ক্রয়": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "বিক্রয়": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "সস্তা": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "সংরক্ষণ করুন": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "চুক্তি": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "বিশেষ": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "একচেটিয়া": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "বোনাস": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "উপহার": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "অভিনন্দন": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "নির্বাচিত": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "নিশ্চিত করা": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "যাচাই করা": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "হিসাব": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "পাসওয়ার্ড": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "স্থগিত": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "তালাবদ্ধ": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "নিরাপত্তা": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "আপডেট": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "পেপ্যাল": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ইবে": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "আমাজন": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ব্যাংক": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "তার": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "স্থানান্তর": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "রাউটিং": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "দ্রুত": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "পশ্চিমা": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ইউনিয়ন": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "মানিগ্রাম": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "বিটকয়েন": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ক্রিপ্টোকারেন্সি": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "মানিব্যাগ": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "ব্লকচেইন": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "সভা": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "সময়সূচী": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "প্রকল্প": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "দল": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "সময়সীমা": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "সংযুক্ত": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "সংযুক্তি": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "দলিল": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "রিপোর্ট": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "পর্যালোচনা": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "প্রতিক্রিয়া": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "আলোচনা": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "এজেন্ডা": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "মিনিট": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "সম্মেলন": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "কল": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "শুভেচ্ছা সহ": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "আন্তরিকভাবে": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "ধন্যবাদ": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "প্রশংসা করা": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "অনুসরণ করা": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "আলোচনা করা হয়েছে": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "কথোপকথন": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "চালান": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "প্রাপ্তি": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "সারাংশ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "বিশ্লেষণ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "গবেষণা": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "তথ্য": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "ফলাফল": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "সংগ্রহস্থল": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "কমিট করা": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "একত্রিত করা": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "শাখা": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "টান": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "অনুরোধ": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "স্থাপন করা": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "নির্মাণ করা": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "পরীক্ষা": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ডিবাগ": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "ত্রুটি": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "পোকামাকড়": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ঠিক করা": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ইস্যু": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "বৈশিষ্ট্য": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "মুক্তি": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "সংস্করণ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ডকুমেন্টেশন": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "এপিআই": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "সার্ভার": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ডাটাবেস": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "প্রশ্ন": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ফাংশন": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "পরিবর্তনশীল": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "শ্রেণী": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "পদ্ধতি": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ইন্টারফেস": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "জরুরি",
+        "তাৎক্ষণিক",
+        "অবিলম্বে",
+        "যত তাড়াতাড়ি সম্ভব",
+        "এখনই কাজ করো",
+        "দেরি করো না",
+        "তাড়াতাড়ি করা",
+        "সীমিত সময়",
+        "মেয়াদ শেষ হয়",
+        "সময়সীমা",
+        "শেষ সুযোগ",
+        "চূড়ান্ত নোটিশ",
+        "সময় সংবেদনশীল",
+        "এখনই সাড়া দাও",
+        "পদক্ষেপ প্রয়োজন"
+    ],
+    "greetingWords": [
+        "হাই",
+        "হ্যালো",
+        "প্রিয়",
+        "হেই",
+        "শুভেচ্ছা",
+        "শুভ সকাল",
+        "শুভ বিকাল",
+        "শুভ সন্ধ্যা"
+    ],
+    "genericGreetings": [
+        "প্রিয় জনাব",
+        "প্রিয় ম্যাডাম",
+        "প্রিয় গ্রাহক",
+        "প্রিয় ব্যবহারকারী",
+        "প্রিয় সদস্য",
+        "প্রিয় বন্ধু",
+        "প্রিয় মূল্যবান",
+        "প্রিয় প্রাপক",
+        "প্রিয় সুবিধাভোগী"
+    ]
+}

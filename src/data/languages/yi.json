@@ -1,0 +1,1381 @@
+{
+    "language": "yi",
+    "languageName": "Yiddish",
+    "spamWords": [
+        {
+            "word": "ניגערישער פרינץ",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "דראָט טראַנספער",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "באַנק אקאַונט דעטאַלן",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "ירושה פאָנד",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "נישט-געפֿאָדערטע געלטער",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "בענעפיציאר",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "מיליאָן דאָלאַר",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "מיליאָן דאָלאַר",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "טראַנספער אָפּצאָל",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "פּראַסעסינג אָפּצאָל",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "פֿאָרויסגעצאָלט",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "וועסטערן יוניאן",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "מאַניגראַם",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "ביטקאָין בייַטל",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "קריפּטאָקוררענסי ינוועסטמענט",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "טאָפּל דיין ביטקאָין",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "קריפּטאָ מתּנה",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "האַנדלען איצט",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "האַנדלען גלייך",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "דרינגענדיקע ענטפער",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "דרינגענדיקע אויפמערקזאמקייט",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "באַלדיקע אַקציע",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "באַגרענעצטע צייט",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "עקספּירירט היינט",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "לעצטע געלעגנהייט",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "לעצטע מעלדונג",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ענטפֿערן גלייך",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "אינערהאלב 24 שעה",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "אינערהאלב 48 שעה",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "צייט סענסיטיוו",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "פֿאַרשפּעטיק נישט",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "מזל טוב געווינער",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "דו האסט געוואונען",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "לאָטעריע געווינער",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "פרייז מעלדונג",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "באַקומען דיין פרייז",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "געווינער מעלדונג",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "גליקלעכער געווינער",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "אויסגעקליבענער געווינער",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "געלט־פרייז",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "פרייער פרייז",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "לאָטעריע",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "באַשטעטיקן דיין חשבון",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "באַשטעטיקן אייער אידענטיטעט",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "דערהייַנטיקן דיין צאָלונג",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "סוספּענדירטן חשבון",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "קאנטע סוספענדירט",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "אומגעוויינטלעכע טעטיקייט",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "פארדעכטיקע טעטיקייט",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "נישט-אויטאריזירטער צוטריט",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "דריקט דאָ צו באַשטעטיקן",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "לאָגין קראַדענטשאַלז",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "פּאַראָל צוריקשטעלן",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "זיכערהייט וואָרענונג",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "דיין חשבון וועט זיין",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "דורכפאַל צו וועריפיצירן",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "רעאַקטיווירן דיין",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "אָפּמעלדן",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "דריקט דאָ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "קויף איצט",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "באַשטעל איצט",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "פרייע אָפער",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ספּעציעלע אָפֿער",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "עקסקלוסיווע אָפּמאַך",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ריזיקע-פֿרײַ",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "קיין פֿאַרפֿליכטונג נישט",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "געלט צוריק גאַראַנטיע",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "צופֿרידנקייט געראַנטירט",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "רוף איצט אָן",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "טאָל־פֿרײַ",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% פריי",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "גאָר פריי",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "קיין קאָסטן נישט",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "קיין אָפּצאָלן",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "נידעריגסטע פרייז",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "בעסטער פרייז",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "אַראָפּרעכענונג",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "שפּאָרן גרויס",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "שפּאָרן געלט",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "טאָפּל דיין",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "פֿאַרגרעסערן דיין",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "פֿאַרדינען געלט",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "מאַכן געלט",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "עקסטרע הכנסה",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ארבעטן פון שטוב",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "זײַ דײַן אייגענער באַלעבאָס",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "פינאַנציעלע פרייהייט",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ווערן רייך",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "באַקומען באַצאָלט",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "גלייכע צוטריט",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "שליסט זיך אן אין מיליאנען",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "וויאַגראַ",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "סיאַליס",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "אַפּטייק",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "אָנליין אַפּטייק",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "קאַנאַדישע אַפּטייק",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "רעצעפּט",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "קיין רעצעפּט נישט",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "אָן רעצעפּט",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "ערעקטילע דיספונקציע",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "וואָג אָנווער",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "פאַרלירן וואָג",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "פאַרלירן פונט",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "דיעט פּיל",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "פעט ברענער",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "וואונדער היילן",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "נאַטירלעכע רפואה",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "אַנטי-יידזשינג",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "אינהאַלט פֿאַר דערוואַקסענע",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "דערוואַקסענע דייטינג",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "טרעפן סינגלעס",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "הייסע סינגלעס",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "איינזאַמע פרויען",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "איינזאַמע באַלעבאָסטע",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "טייערער פרייַנד",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "טייערע באַליבטע",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "געערטער הער/פרוי",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "קאָנפידענציעל",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "שטרענג קאָנפידענציעל",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "פּריוואַט און קאָנפֿידענציעל",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "איגנאריר נישט",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "מוז ענטפֿערן",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "דאָס איז נישט ספּאַם",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "דאָס איז נישט קיין מיסט",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "נישט קיין שווינדל",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "לעגיטימע אָפֿער",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "לעגאַלע נאָטיץ",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "געריכט־באפעל",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "רעגירונג גראַנט",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "פרייער גראַנט",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "די איירס",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "שטייער צוריקצאָל",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "זיצונג": -0.3,
+        "פּלאַן": -0.3,
+        "פּראָיעקט": -0.3,
+        "דעדליין": -0.3,
+        "אַטאַטשט": -0.3,
+        "אַטאַטשמענט": -0.3,
+        "גרוס": -0.2,
+        "מיט אַכטונג": -0.2,
+        "א דאנק": -0.3,
+        "נאכפאלגן": -0.3,
+        "ווי דיסקוטירט": -0.5,
+        "לויט אונדזער שמועס": -0.5,
+        "רעכענונג": -0.2,
+        "באַריכט": -0.2,
+        "קיצור": -0.2,
+        "מינוטן": -0.3,
+        "אַגענדאַ": -0.3,
+        "קאָנפֿערענץ": -0.3,
+        "רעפּאָזיטאָרי": -0.5,
+        "ציען פארלאנג": -0.8,
+        "זיך אונטערנעמען": -0.5,
+        "צונויפגיסן": -0.5,
+        "צווייַג": -0.5,
+        "אויסשטעלן": -0.5,
+        "דאָקומענטאַציע": -0.3
+    },
+    "bayesianTokens": {
+        "וויאַגראַ": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "סיאַליס": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "פֿאַרגרעסערונג": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "ניגעריש": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "ירושה": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "בענעפיציאר": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "לאָטעריע": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "געווינער": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "דזשעקפּאָט": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "אָפּמעלדן": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "אויסקלייבן": {
+            "spam": 0.85,
+            "ham": 0.05
+        },
+        "אויסמעקן": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "קליק": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "פריי": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "געלט": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "פרייז": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "געוואונען": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "דרינגלעך": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "גלייך": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "אַקט": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "באַגרענעצט": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "אָנבאָט": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "אַראָפּרעכענונג": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "געראַנטירט": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "ריזיקע-פֿרײַ": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "פליכט": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "קרעדיט": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "חובות": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "אַנטלייַען": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "היפּאָטעק": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "אַפּטייק": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "רעצעפּט": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "מעדיקאַציע": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "פּילן": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "וואָג": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "דיעטע": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "פאַרלירן": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "פונט": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "קויפן": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "באַשטעלן": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "פאַרקויף": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ביליק": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "ראַטעווען": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "אָפּמאַך": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ספּעציעל": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "עקסקלוסיוו": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "באָנוס": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "מתּנה": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "מזל טוב": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "אויסגעקליבן": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "באַשטעטיקן": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "חשבון": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "פּאַראָל": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "סוספּענדירט": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "פארשלאסן": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "זיכערהייט": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "דערהייַנטיקן": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "פּייַפּאַל": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "אי-ביי": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "אַמאַזאָן": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "באַנק": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "דראָט": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "איבערפירן": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "רוטינג": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "שנעל": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "מערבדיק": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "פֿאַראיין": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "מאַניגראַם": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "ביטקאָין": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "קריפּטאָקוררענסי": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "בייטל": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "בלאָקטשיין": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "זיצונג": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "פּלאַן": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "פּראָיעקט": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "מאַנשאַפֿט": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "דעדליין": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "אַטאַטשט": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "אַטאַטשמענט": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "דאָקומענט": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "באַריכט": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "איבערבליק": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "צוריקקער": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "דיסקוסיע": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "אַגענדאַ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "מינוטן": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "קאָנפֿערענץ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "רופן": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "גרוס": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "מיט אַכטונג": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "א דאנק": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "דאַנקען": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "אָפּשאַצן": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "פאלגנדיק": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "דיסקוטירט": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "שמועס": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "רעכענונג": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "קוויטונג": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "קיצור": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "אַנאַליז": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "פאָרשונג": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "דאַטן": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "רעזולטאַטן": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "רעפּאָזיטאָרי": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "זיך אונטערנעמען": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "צונויפגיסן": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "צווייַג": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ציען": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "בקשה": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "אויסשטעלן": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "בויען": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "פּרובירן": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "דיבאַגן": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "טעות": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "באַג": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "פאַרריכטן": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "פּראָבלעם": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "שטריך": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "מעלדונג": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ווערסיע": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "דאָקומענטאַציע": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "אַפּי": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "סערווער": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "דאַטאַבייס": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "אָנפֿרעג": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "פונקציע": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "וועריאַבלע": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "קלאַס": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "מעטאָדע": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "צובינד": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "דרינגלעך",
+        "באַלדיק",
+        "גלייך",
+        "אזוי שנעל ווי מעגלעך",
+        "האַנדלען איצט",
+        "פֿאַרשפּעטיק נישט",
+        "אייל זיך",
+        "באַגרענעצטע צייט",
+        "עקספּייערט",
+        "דעדליין",
+        "לעצטע געלעגנהייט",
+        "לעצטע מעלדונג",
+        "צייט סענסיטיוו",
+        "ענטפער יעצט",
+        "אַקציע פארלאנגט"
+    ],
+    "greetingWords": [
+        "היי",
+        "העלא",
+        "טייערע",
+        "העי",
+        "גרוסן",
+        "גוט מאָרגן",
+        "גוטן נאכמיטאג",
+        "גוטן אָוונט"
+    ],
+    "genericGreetings": [
+        "געערטער הער",
+        "טייערע מאַדאַם",
+        "טייערער קונה",
+        "טייערער באַניצער",
+        "טייערער מיטגליד",
+        "טייערער פרייַנד",
+        "טייערע געשעצטע",
+        "טייערער באַקומער",
+        "טייערע בענעפיציאר"
+    ]
+}

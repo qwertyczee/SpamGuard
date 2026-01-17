@@ -1,0 +1,1386 @@
+{
+    "language": "fy",
+    "languageName": "Frisian",
+    "spamWords": [
+        {
+            "word": "nigeriaanske prins",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "bankoerdracht",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "bankrekkengegevens",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "erfskipfûns",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "net opeaske fûnsen",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "begunstigde",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "miljoen dollar",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "miljoen dollar",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "oerdrachtkosten",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ferwurkingskosten",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "foarskot",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "western union",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "jildgram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "bitcoin-portefeuille",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "ynvestearring yn kryptofaluta",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "ferdûbelje jo bitcoin",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "krypto-kado",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "hannelje no",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "hannelje fuortendaliks",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "driuwende reaksje",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "driuwende oandacht",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "direkte aksje",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "beheinde tiid",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ferrint hjoed",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "lêste kâns",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "lêste berjocht",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "reagearje fuortendaliks",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "binnen 24 oeren",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "binnen 48 oeren",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "tiidgefoelich",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "fertrage net",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "lokwinsken winner",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "do hast wûn",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "lotterijwinner",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "priismelding",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "claim dyn priis",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "winnende notifikaasje",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "gelokkige winner",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "selektearre winner",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "jildpriis",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "fergese priis",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "priisfragen",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "ferifiearje jo akkount",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "befêstigje jo identiteit",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "jo betelling bywurkje",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "skorst akkount",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "akkount opskort",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "ûngewoane aktiviteit",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "fertochte aktiviteit",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "net-autorisearre tagong",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "klik hjir om te ferifiearjen",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "oanmeldgegevens",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "wachtwurd weromsette",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "feiligensalarm",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "dyn akkount sil wêze",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "mislearre ferifikaasje",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "aktivearje jo opnij",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ôfmelde",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "klik hjir",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "keapje no",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "bestel no",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "fergese oanbieding",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "spesjale oanbieding",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "eksklusive deal",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "risikofrij",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "gjin ferplichting",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "jild werom garânsje",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "tefredenheid garandearre",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "belje no",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "fergees",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% fergees",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "folslein fergees",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "gjin kosten",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "gjin fergoedingen",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "leechste priis",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "bêste priis",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "koarting",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "grut besparje",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "jild besparje",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ferdûbelje dyn",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "fergrutsje dyn",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "jild fertsjinje",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "jild fertsjinje",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ekstra ynkommen",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "wurkje fan hûs",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "wês dyn eigen baas",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "finansjele frijheid",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ryk wurde",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "betelle wurde",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "direkte tagong",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "doch mei oan miljoenen",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "apteek",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "online apteek",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "kanadeeske apotheek",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "resept",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "gjin resept",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "sûnder resept",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "erektile dysfunksje",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "gewichtsverlies",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "gewicht ferlieze",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "pûn ferlieze",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "dieetpil",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "fetferbaarner",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "wûndermiddel",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "natuerlike remedie",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "anti-aging",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "ynhâld foar folwoeksenen",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "dating foar folwoeksenen",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "moetsje singles",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "hjitte singles",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "iensume froulju",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "iensume húsfrou",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "bêste freon",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "leave leafste",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "leave hear/mefrou",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "fertroulik",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "strikt fertroulik",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "privee en fertroulik",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "net negearje",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "moat reagearje",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "dit is gjin spam",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "dit is gjin rommel",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "gjin oplichterij",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "legitime oanbieding",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "juridyske meidieling",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "rjochtbankbefel",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "oerheidssubsydzje",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "fergese subsydzje",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "belestingtsjinst",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "belestingrestitúsje",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "moeting": -0.3,
+        "skema": -0.3,
+        "projekt": -0.3,
+        "deadline": -0.3,
+        "oanhechte": -0.3,
+        "taheaksel": -0.3,
+        "groetnis": -0.2,
+        "oprjocht": -0.2,
+        "tank": -0.2,
+        "tanke": -0.3,
+        "opfolgje": -0.3,
+        "lykas besprutsen": -0.5,
+        "neffens ús petear": -0.5,
+        "faktuer": -0.2,
+        "melde": -0.2,
+        "gearfetting": -0.2,
+        "minuten": -0.3,
+        "aginda": -0.3,
+        "konferinsje": -0.3,
+        "opslachplak": -0.5,
+        "pull-oanfraach": -0.8,
+        "begean": -0.5,
+        "fusearje": -0.5,
+        "tûke": -0.5,
+        "ynsette": -0.5,
+        "dokumintaasje": -0.3
+    },
+    "bayesianTokens": {
+        "viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "fergrutting": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "nigeriaansk": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "erfenis": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "begunstigde": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "ferlotting": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "winner": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "jackpot": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "ôfmelde": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "klik": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "frij": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "jild": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "kontant": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "priis": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "wûn": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "driuwend": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "fuortendaliks": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "handeling": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "beheind": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "oanbod": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "koarting": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "garandearre": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "risikofrij": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "ferplichting": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "kredyt": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "skuld": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "liening": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "hypoteek": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "apteek": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "resept": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "medikaasje": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "pillen": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "gewicht": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "dieet": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ferlieze": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "pûn": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "keapje": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "oarder": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "oankeap": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ferkeap": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "goedkeap": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "rêde": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "deal": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "spesjaal": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "eksklusyf": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "bonus": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "jefte": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "lokwinsken": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "selektearre": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "befêstigje": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ferifiearje": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "rekken": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "wachtwurd": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "skorst": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "opsluten": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "feiligens": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "bywurkje": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazone": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "bank": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "tried": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "oerdracht": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "rûtearring": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "fluch": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "westlik": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "uny": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "jildgram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "krypto-munt": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "portemonnee": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "blockchain": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "moeting": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "skema": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "projekt": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ploech": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "deadline": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "oanhechte": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "taheaksel": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "dokumint": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "melde": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "resinsje": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "feedback": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "diskusje": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "aginda": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "minuten": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "konferinsje": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "belje": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "groetnis": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "oprjocht": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "tank": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "tankje": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "wurdearje": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "folgjend": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "besprutsen": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "petear": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "faktuer": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "ûntfangstbewiis": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "gearfetting": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "analyze": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ûndersyk": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "data": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "resultaten": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "opslachplak": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "begean": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "fusearje": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "tûke": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "lûke": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "fersyk": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "ynsette": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "bouwe": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "toets": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "debuggen": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "fersin": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ynsekt": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "reparearje": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "probleem": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "eigenskip": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "frijlitting": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ferzje": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "dokumintaasje": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "tsjinner": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "databank": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "fraach": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "funksje": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "fariabele": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "klasse": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "metoade": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ynterface": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "driuwend",
+        "direkte",
+        "fuortendaliks",
+        "sa gau mooglik",
+        "hannelje no",
+        "fertrage net",
+        "hastich",
+        "beheinde tiid",
+        "ferrint",
+        "deadline",
+        "lêste kâns",
+        "lêste berjocht",
+        "tiidgefoelich",
+        "reagearje no",
+        "aksje fereaske"
+    ],
+    "greetingWords": [
+        "hoi",
+        "hallo",
+        "leave",
+        "hee",
+        "groetnis",
+        "goeiemoarn",
+        "goeiemiddei",
+        "goejûn"
+    ],
+    "genericGreetings": [
+        "bêste hear",
+        "leave mefrou",
+        "leave klant",
+        "leave brûker",
+        "leave lid",
+        "bêste freon",
+        "leave wurdearre",
+        "leave ûntfanger",
+        "leave begunstigde"
+    ]
+}

@@ -97,7 +97,7 @@ app.post("/analyze", async (c) => {
             config.enableDebug = true;
         }
 
-        const result = analyzeEmail(email, config);
+        const result = await analyzeEmail(email, config);
 
         return c.json(result);
     } catch (error) {
@@ -160,7 +160,7 @@ app.post("/score", async (c) => {
             raw: body.raw,
         };
 
-        const result = analyzeEmail(email);
+        const result = await analyzeEmail(email);
 
         return c.json({
             score: result.score,
@@ -270,7 +270,7 @@ app.post("/analyze/raw", async (c) => {
             return c.json({ error: "Raw email content required" }, 400);
         }
 
-        const result = analyzeEmail({ raw });
+        const result = await analyzeEmail({ raw });
 
         return c.json(result);
     } catch (error) {

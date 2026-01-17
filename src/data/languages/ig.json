@@ -1,0 +1,1345 @@
+{
+    "language": "ig",
+    "languageName": "Igbo",
+    "spamWords": [
+        {
+            "word": "onyeisi naịjirịa",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "nnyefe ego",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "nkọwa akaụntụ ụlọ akụ",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "ego nketa",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "ego a na-akpọghị",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "onye ga-erite uru",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "nde dọla",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "nde dollar",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ego mbufe",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ụgwọ nhazi",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "ụgwọ mbido",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "western union",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "egogram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "obere akpa bitcoin",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "itinye ego na cryptocurrency",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "okpukpu abụọ nke bitcoin gị",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "onyinye ego crypto",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "mee ihe ugbu a",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "mee ihe ozugbo",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "nzaghachi ngwa ngwa",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "nlebara anya ngwa ngwa",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ihe ozugbo",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "oge pere mpe",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ga-agwụ taa",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "ohere ikpeazụ",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ọkwa ikpeazụ",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "zaghachi ozugbo",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "n'ime awa iri abụọ na anọ",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "n'ime awa iri anọ na asatọ",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "ihe na-eme ka oge dị mfe nghọta",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "egbula oge",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "onye mmeri ekele",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "i meriela",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "onye meriri lọtrị",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ọkwa onyinye",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "nweta ihe nrite gị",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ọkwa mmeri",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "onye mmeri nwere ihu ọma",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "onye mmeri ahọpụtara",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "onyinye ego",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ihe nrite n'efu",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "asọmpi asọmpi",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "nyochaa akaụntụ gị",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "gosi njirimara gị",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "melite ịkwụ ụgwọ gị",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "akaụntụ akwụsịla",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "akwụsịtụla akaụntụ",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "ihe omume pụrụ iche",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "ihe a na-enyo enyo",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "ohere na-enweghị ikike",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "pịa ebe a iji nyochaa",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "nzere nbanye",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "tọgharịa paswọọdụ",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "ịdọ aka ná ntị nchekwa",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "akaụntị gị ga-adị",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "enweghị ike inyocha",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "mee ka nke gị rụọ ọrụ ọzọ",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ewepụ aha",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "pịa ebe a",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "zụta ugbu a",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ịtụ ugbu a",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "onyinye efu",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "onyinye pụrụ iche",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "azụmahịa pụrụ iche",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "enweghị ihe egwu",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "enweghị ọrụ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "nkwa ịkwụghachi ego",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "afọ ojuju e kwere nkwa ya",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "kpọọ ugbu a",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ụgwọ ekwentị n'efu",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% n'efu",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "n'efu kpamkpam",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ọ dịghị ego",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "enweghị ụgwọ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ọnụahịa kacha ala",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ọnụahịa kacha mma",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "mbelata",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "chekwaa nnukwu",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "chekwaa ego",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "okpukpu abụọ nke gị",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "mụbaa gị",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ịkpata ego",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "mee ego",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ego mgbakwunye",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "rụọ ọrụ n'ụlọ",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "bụrụ onyeisi nke gị",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "nnwere onwe ego",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "baa ọgaranya",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "nweta ụgwọ ọrụ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ohere ozugbo",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "isonyere ọtụtụ nde mmadụ",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ụlọ ahịa ọgwụ",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "ụlọ ahịa ọgwụ dị n'ịntanetị",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ụlọ ahịa ọgwụ ndị canada",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "ọgwụ dọkịta nyere",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "enweghị ọgwụ dọkịta",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "na-enweghị ọgwụ dọkịta",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "nsogbu erectile",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "mbelata ibu",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "felata",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "fefuo kilogram",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "ọgwụ nri",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "ihe na-ere abụba",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "ọgwụgwọ ọrụ ebube",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "ọgwụgwọ sitere n'okike",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "mgbochi ịka nká",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "ọdịnaya ndị okenye",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "mkpakọrịta nwoke na nwanyị nke ndị okenye",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "zute ndị na-alụbeghị di ma ọ bụ nwunye",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "ndị na-alụbeghị di na nwunye na-ekpo ọkụ",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ụmụ nwanyị nọ naanị ha",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "nwunye ụlọ nọ naanị ya",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "ezigbo enyi m",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ezigbo onye m hụrụ n'anya",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ezigbo nna ukwu/nne ukwu",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "nzuzo",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "nzuzo nke ọma",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "nkeonwe na nke nzuzo",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "elegharala anya",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ga-aza",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "nke a abụghị spam",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "nke a abụghị ihe efu",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ọ bụghị wayo",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "onyinye ziri ezi",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ọkwa iwu",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "iwu ụlọ ikpe",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "enyemaka gọọmentị",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "onyinye efu",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "nkwụghachi ụtụ isi",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "nzukọ": -0.3,
+        "usoro iheomume": -0.3,
+        "ọrụ": -0.3,
+        "oge njedebe": -0.3,
+        "agbakwunyere": -0.3,
+        "mgbakwunye": -0.3,
+        "ekele": -0.2,
+        "n'eziokwu": -0.2,
+        "daalụ": -0.3,
+        "na-esochi": -0.3,
+        "dịka e si atụle ya": -0.5,
+        "site na mkparịta ụka anyị": -0.5,
+        "akwụkwọ ọnụahịa": -0.2,
+        "akụkọ": -0.2,
+        "nchịkọta": -0.2,
+        "nkeji": -0.3,
+        "agenda": -0.3,
+        "ogbako": -0.3,
+        "ebe nchekwa": -0.5,
+        "arịrịọ ịdọrọ": -0.8,
+        "ikwe nkwa": -0.5,
+        "ijikọ ọnụ": -0.5,
+        "alaka": -0.5,
+        "itinye": -0.5,
+        "akwụkwọ": -0.3
+    },
+    "bayesianTokens": {
+        "viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "ibuwanye": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "onye naịjirịa": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "ihe nketa": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "onye ga-erite uru": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "lọtrị": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "onye mmeri": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "jackpot": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "ewepụ aha": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "họrọ ọpụpụ": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "pịa": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "n'efu": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "ego": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "ihe nrite": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "meriri": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "ngwa ngwa": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "ozugbo": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "omume": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "oke": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "onyinye": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "mbelata": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ekwere nkwa": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "enweghị ihe egwu": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "ibu ọrụ": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "kredit": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "ụgwọ": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "mbinye ego": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "mbinye ego ụlọ": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "ụlọ ahịa ọgwụ": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "ọgwụ dọkịta nyere": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "ọgwụ": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "mkpụrụ ọgwụ": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "ibu": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "nri": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "idafu": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "paụnd": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "zụta": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "ịtụ iwu": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ịzụta": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ire ere": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "dị ọnụ ala": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "chekwaa": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "azụmahịa": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "pụrụ iche": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "naanị ya": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ego mgbakwunye": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ekele": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ahọpụtara": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "kwado": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "nyochaa": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "akaụntụ": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "paswọọdụ": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "kwụsịtụrụ": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "akpọchiri akpọchi": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "nchekwa": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "mmelite": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazon": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ụlọ akụ": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "waya": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "nyefe": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "nhazi ụzọ": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ọdịda anyanwụ": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "otu": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "egogram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ego dijitalụ": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "obere akpa ego": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "blockchain": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "nzukọ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "usoro iheomume": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ọrụ": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "oge njedebe": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "agbakwunyere": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "mgbakwunye": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "akwụkwọ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "akụkọ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "nyocha": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "nzaghachi": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "mkparịta ụka": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "agenda": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "nkeji": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ogbako": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "kpọọ oku": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "n'eziokwu": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "daalụ": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "na-eso": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "a tụlere": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "akwụkwọ ọnụahịa": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "nnata": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "nchịkọta": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "nnyocha": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "data": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "nsonaazụ": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ebe nchekwa": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "ikwe nkwa": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "ijikọ ọnụ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "alaka": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "dọọ": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "arịrịọ": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "itinye": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "iwu": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ule": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "nrụbido nsogbu": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "mmejọ": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ahụhụ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ndozi": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "nsogbu": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "atụmatụ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ntọhapụ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ụdị": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "sava": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "nchekwa data": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ajụjụ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ihe na-agbanwe agbanwe": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "klaasị": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "usoro": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "njikọ": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "ngwa ngwa",
+        "ozugbo",
+        "ozugbo",
+        "ozugbo e mesịrị",
+        "mee ihe ugbu a",
+        "egbula oge",
+        "ọsọ ọsọ",
+        "oge pere mpe",
+        "na-agwụ",
+        "oge njedebe",
+        "ohere ikpeazụ",
+        "ọkwa ikpeazụ",
+        "ihe na-eme ka oge dị mfe nghọta",
+        "zaghachi ugbu a",
+        "ihe achọrọ ime"
+    ],
+    "greetingWords": [
+        "ndewo",
+        "nnọọ",
+        "ezigbo m",
+        "ndeewo",
+        "ekele",
+        "ụtụtụ ọma",
+        "ehihie ọma",
+        "mgbede ọma"
+    ],
+    "genericGreetings": [
+        "ezigbo",
+        "ezigbo nne",
+        "ezigbo onye ahịa",
+        "ezigbo onye ọrụ",
+        "ezigbo onye otu",
+        "ezigbo enyi m",
+        "ezigbo uru",
+        "ezigbo onye nnata",
+        "ezigbo onye na-erite uru"
+    ]
+}

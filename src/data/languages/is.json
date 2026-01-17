@@ -1,0 +1,1382 @@
+{
+    "language": "is",
+    "languageName": "Icelandic",
+    "spamWords": [
+        {
+            "word": "nígerískur prins",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "millifærsla",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "upplýsingar um bankareikning",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "erfðasjóður",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "óinnheimt fé",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "styrkþegi",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "milljón dollara",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "milljónir bandaríkjadala",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "flutningsgjald",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "úrvinnslugjald",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "fyrirframgreiðslu",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "western union",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "peningagramm",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "bitcoin veski",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "fjárfesting í dulritunargjaldmiðlum",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "tvöfaldaðu bitcoin-ið þitt",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "dulritunargjaldmiðill",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "bregðast við núna",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "bregðast strax við",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "brýn viðbrögð",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "brýn athygli",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "tafarlaus aðgerð",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "takmarkaður tími",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "rennur út í dag",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "síðasta tækifæri",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "lokatilkynning",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "svaraðu strax",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "innan sólarhrings",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "innan 48 klukkustunda",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "tímanæmur",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ekki tefja",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "til hamingju sigurvegari",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "þú hefur unnið",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "lottóvinningshafi",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "tilkynning um verðlaun",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "krefjast verðlaunanna þinna",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "tilkynning um sigur",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "heppinn vinningshafi",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "valinn sigurvegari",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "peningaverðlaun",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ókeypis verðlaun",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "happdrætti",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "staðfestu reikninginn þinn",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "staðfesta hver þú ert",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "uppfæra greiðsluna þína",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "lokað reikning",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "reikningi lokað",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "óvenjuleg virkni",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "grunsamleg virkni",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "óheimill aðgangur",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "smelltu hér til að staðfesta",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "innskráningarupplýsingar",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "endurstilling lykilorðs",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "öryggisviðvörun",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "reikningurinn þinn verður",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "mistókst að staðfesta",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "endurvirkjaðu þinn",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "afskrá",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "smelltu hér",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "kaupa núna",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "panta núna",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ókeypis tilboð",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "sértilboð",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "einkaréttartilboð",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "áhættulaust",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "engin skylda",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "peningaábyrgð",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ánægju tryggð",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "hringdu núna",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "gjaldfrjálst",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% ókeypis",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "alveg ókeypis",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "enginn kostnaður",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "engin gjöld",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "lægsta verð",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "besta verðið",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "afsláttur",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "spara stórt",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "spara peninga",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "tvöfaldaðu þinn",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "auka þinn",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "vinna sér inn peninga",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "græða peninga",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "aukatekjur",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "vinna heiman frá",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "vertu þinn eigin yfirmaður",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "fjárhagslegt frelsi",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "verða ríkur",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "fá greitt",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "tafarlaus aðgangur",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "sameinast milljónum",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cial",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "apótek",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "netapótek",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "kanadískt apótek",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "lyfseðill",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "engin lyfseðill",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "án lyfseðils",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "stinningarvandamál",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "þyngdartap",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "léttast",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "léttast",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "megrunarpilla",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "fitubrennari",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "kraftaverkalækning",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "náttúruleg lækning",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "öldrunarvarna",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "efni fyrir fullorðna",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "stefnumót fyrir fullorðna",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "hitta einhleypinga",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "heitir einstaklingar",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "einmana konur",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "einmana húsmóðir",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "kæri vinur",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "kæri ástkæri",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "kæri herra/frú",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "trúnaðarmál",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "stranglega trúnaðarmál",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "einkamál og trúnaðarmál",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ekki hunsa",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "verður að svara",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "þetta er ekki ruslpóstur",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "þetta er ekki rusl",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ekki svindl",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "lögmætt tilboð",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "lagaleg tilkynning",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "dómsúrskurður",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ríkisstyrkur",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ókeypis styrkur",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "skattyfirvöld",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "skattaendurgreiðsla",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "fundur": -0.3,
+        "tímaáætlun": -0.3,
+        "verkefni": -0.3,
+        "frestur": -0.3,
+        "meðfylgjandi": -0.3,
+        "viðhengi": -0.3,
+        "kveðjur": -0.2,
+        "einlæglega": -0.2,
+        "takk": -0.2,
+        "takk fyrir": -0.3,
+        "eftirfylgni": -0.3,
+        "eins og rætt var um": -0.5,
+        "samkvæmt samtali okkar": -0.5,
+        "reikningur": -0.2,
+        "skýrsla": -0.2,
+        "samantekt": -0.2,
+        "mínútur": -0.3,
+        "dagskrá": -0.3,
+        "ráðstefna": -0.3,
+        "geymsla": -0.5,
+        "beiðni um að draga": -0.8,
+        "skuldbinda sig": -0.5,
+        "sameina": -0.5,
+        "útibú": -0.5,
+        "dreifa": -0.5,
+        "skjölun": -0.3
+    },
+    "bayesianTokens": {
+        "viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cial": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "stækkun": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "nígerískt": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "erfðir": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "styrkþegi": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "happdrætti": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "sigurvegari": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "gullpottinn": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "afskrá": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "afþakka": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "smell": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "frjáls": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "peningar": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "reiðufé": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "verðlaun": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "vann": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "brýnt": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "strax": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "athöfn": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "takmarkað": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "tilboð": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "afsláttur": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "tryggt": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "áhættulaust": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "skylda": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "lánsfé": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "skuldir": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "lán": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "húsnæðislán": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "apótek": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "lyfseðill": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "lyf": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "pillur": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "þyngd": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "mataræði": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "tapa": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "pund": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "kaupa": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "pöntun": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "kaup": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "sölu": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ódýr": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "vista": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "samningur": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "sérstakt": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "einkarétt": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "bónus": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "gjöf": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "til hamingju": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "valið": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "staðfesta": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "reikningur": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "lykilorð": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "frestað": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "læst": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "öryggi": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "uppfæra": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazon": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "banki": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "vír": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "millifærsla": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "leiðsögn": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "hraðvirk": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "vestrænt": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "stéttarfélag": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "peningagramm": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "dulritunargjaldmiðill": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "veski": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "blokkarkeðja": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "fundur": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "tímaáætlun": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "verkefni": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "lið": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "frestur": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "meðfylgjandi": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "viðhengi": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "skjal": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "skýrsla": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "umsögn": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ábendingar": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "umræða": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "dagskrá": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "mínútur": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ráðstefna": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "hringja": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "kveðjur": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "einlæglega": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "takk": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "þakka": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "meta": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "eftirfarandi": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "rætt": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "samtal": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "kvittun": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "samantekt": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "greining": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "rannsóknir": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "gögn": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "niðurstöður": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "geymsla": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "skuldbinda sig": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "sameina": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "útibú": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "toga": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "beiðni": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "dreifa": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "byggja": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "próf": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "villuleit": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "villa": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "galla": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "laga": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "mál": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "eiginleiki": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "losun": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "útgáfa": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "skjölun": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "forritaskil": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "netþjónn": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "gagnagrunnur": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "fyrirspurn": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "virkni": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "breytu": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "bekkur": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "aðferð": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "viðmót": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "brýnt",
+        "tafarlaus",
+        "strax",
+        "eins fljótt og auðið er",
+        "bregðast við núna",
+        "ekki tefja",
+        "flýta",
+        "takmarkaður tími",
+        "rennur út",
+        "frestur",
+        "síðasta tækifæri",
+        "lokatilkynning",
+        "tímanæmur",
+        "svaraðu núna",
+        "aðgerða krafist"
+    ],
+    "greetingWords": [
+        "hæ",
+        "halló",
+        "kæri",
+        "hæ",
+        "kveðjur",
+        "góðan daginn",
+        "góðan daginn",
+        "gott kvöld"
+    ],
+    "genericGreetings": [
+        "kæri herra",
+        "kæra frú",
+        "kæri viðskiptavinur",
+        "kæri notandi",
+        "kæri meðlimur",
+        "kæri vinur",
+        "kæra virðing",
+        "kæri viðtakandi",
+        "kæri styrkþegi"
+    ]
+}

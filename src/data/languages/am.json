@@ -1,0 +1,1357 @@
+{
+    "language": "am",
+    "languageName": "Amharic",
+    "spamWords": [
+        {
+            "word": "የናይጄሪያ ልዑል",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "የሽቦ ማስተላለፍ",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "የባንክ ሂሳብ ዝርዝሮች",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "የውርስ ፈንድ",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "ያልተጠየቁ ገንዘቦች",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "ተጠቃሚ",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "ሚሊዮን ዶላር",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ሚሊዮን የአሜሪካን ዶላር",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "የማስተላለፊያ ክፍያ",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "የማሰናጃ ክፍያ",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "የቅድሚያ ክፍያ",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ዌስተርን ዩኒየን",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "ገንዘብግራም",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "የቢትኮይን ቦርሳ",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "የክሪፕቶ ምንዛሬ ኢንቨስትመንት",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "ቢትኮይንዎን በእጥፍ ይጨምሩ",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "የክሪፕቶ ስጦታ",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "አሁኑኑ እርምጃ ይውሰዱ",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ወዲያውኑ እርምጃ ይውሰዱ",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "አስቸኳይ ምላሽ",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "አስቸኳይ ትኩረት",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "አስቸኳይ እርምጃ",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "የተወሰነ ጊዜ",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ዛሬ ያበቃል",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "የመጨረሻ እድል",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "የመጨረሻ ማስታወቂያ",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ወዲያውኑ ምላሽ ይስጡ",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "በ24 ሰዓታት ውስጥ",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "በ48 ሰዓታት ውስጥ",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "ጊዜን የሚነካ",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "አትዘግይ",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "እንኳን ደስ አላችሁ አሸናፊ",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "አሸንፈሃል",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "የሎተሪ አሸናፊ",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "የሽልማት ማስታወቂያ",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ሽልማትዎን ይጠይቁ",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "የማሸነፍ ማሳወቂያ",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "እድለኛ አሸናፊ",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "የተመረጠ አሸናፊ",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "የገንዘብ ሽልማት",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ነፃ ሽልማት",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ፉክክር",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "መለያዎን ያረጋግጡ",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "ማንነትዎን ያረጋግጡ",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ክፍያዎን ያዘምኑ",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "የታገደ መለያ",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "መለያው ታግዷል",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "ያልተለመደ እንቅስቃሴ",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "አጠራጣሪ እንቅስቃሴ",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "ያልተፈቀደ መዳረሻ",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "ለማረጋገጥ እዚህ ጠቅ ያድርጉ",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "የመግቢያ ምስክርነቶች",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "የይለፍ ቃል ዳግም ማስጀመር",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "የደህንነት ማንቂያ",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "የእርስዎ መለያ ይሆናል",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ማረጋገጥ አለመቻል",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "የእርስዎን እንደገና ያግብሩ",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ከደንበኝነት ምዝገባ ይውጡ",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "እዚህ ጠቅ ያድርጉ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "አሁን ግዛ",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "አሁን ይዘዙ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ነፃ ቅናሽ",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ልዩ ቅናሽ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ልዩ ስምምነት",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "አደጋ የሌለው",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ምንም ግዴታ የለም",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "የገንዘብ ተመላሽ ዋስትና",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "እርካታ የተረጋገጠ",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "አሁን ይደውሉ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ከክፍያ ነፃ",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% ነፃ",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ሙሉ በሙሉ ነፃ",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ምንም ወጪ የለም",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ምንም ክፍያ የለም",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ዝቅተኛው ዋጋ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ምርጥ ዋጋ",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ቅናሽ",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "ትልቅ ይቆጥቡ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ገንዘብ ይቆጥቡ",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "የእርስዎን እጥፍ ያድርጉት",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "የእርስዎን ያሳድጉ",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ገንዘብ ያግኙ",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ገንዘብ ማግኘት",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ተጨማሪ ገቢ",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ከቤት ሆነው ይስሩ",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "የራስዎ አለቃ ይሁኑ",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "የገንዘብ ነፃነት",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ሀብታም መሆን",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ክፍያ ያግኙ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ፈጣን መዳረሻ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "በሚሊዮኖች ይቀላቀሉ",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ቪያግራ",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ሲያሊስ",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ፋርማሲ",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "የመስመር ላይ ፋርማሲ",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "የካናዳ ፋርማሲ",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "የሐኪም ማዘዣ",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "የሐኪም ማዘዣ የለም",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "ያለ ማዘዣ",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "የብልት መቆም ችግር",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "የክብደት መቀነስ",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "ክብደት መቀነስ",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "ፓውንድ ማጣት",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "የአመጋገብ ክኒን",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "የስብ ማቃጠያ",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "ተአምር ፈውስ",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "ተፈጥሯዊ መድኃኒት",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "ፀረ-እርጅና",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "የአዋቂዎች ይዘት",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "የአዋቂዎች የፍቅር ጓደኝነት",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ነጠላዎችን ይተዋወቁ",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "ትኩስ ነጠላዎች",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ብቸኛ ሴቶች",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ብቸኛ የቤት እመቤት",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "ውድ ጓደኛዬ",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ውድ ፍቅረኛዬ",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ውድ ጌታዬ/እመቤት",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "ሚስጥራዊ",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "በጥብቅ ሚስጥራዊ",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "የግል እና ሚስጥራዊ",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ችላ አትበል",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ምላሽ መስጠት አለበት",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "ይህ አይፈለጌ መልዕክት አይደለም",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ይህ ቆሻሻ አይደለም",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ማጭበርበር አይደለም",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ሕጋዊ ቅናሽ",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ሕጋዊ ማስታወቂያ",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "የፍርድ ቤት ትዕዛዝ",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "የመንግስት ድጎማ",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ነፃ እርዳታ",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "አይአርኤስ",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "የግብር ተመላሽ ገንዘብ",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "ስብሰባ": -0.3,
+        "የጊዜ ሰሌዳ": -0.3,
+        "ፕሮጀክት": -0.3,
+        "የመጨረሻ ቀን": -0.3,
+        "ተያይዟል": -0.3,
+        "አባሪ": -0.3,
+        "ከሰላምታ ጋር": -0.2,
+        "ከልብ": -0.2,
+        "አመሰግናለሁ": -0.3,
+        "መከታተል": -0.3,
+        "እንደተብራራው": -0.5,
+        "በውይይታችን መሰረት": -0.5,
+        "ደረሰኝ": -0.2,
+        "ሪፖርት ያድርጉ": -0.2,
+        "ማጠቃለያ": -0.2,
+        "ደቂቃዎች": -0.3,
+        "አጀንዳ": -0.3,
+        "ኮንፈረንስ": -0.3,
+        "ማከማቻ": -0.5,
+        "የመጎተት ጥያቄ": -0.8,
+        "ቃል መግባት": -0.5,
+        "አዋህድ": -0.5,
+        "ቅርንጫፍ": -0.5,
+        "ማሰማራት": -0.5,
+        "ሰነድ": -0.3
+    },
+    "bayesianTokens": {
+        "ቪያግራ": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "ሲያሊስ": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "ማስፋት": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "ናይጄሪያዊ": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "ውርስ": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "ተጠቃሚ": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "ሎተሪ": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "አሸናፊ": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "ጃክፖት": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "ከደንበኝነት ምዝገባ ይውጡ": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "መርጠህ ውጣ": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "ጠቅ ያድርጉ": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ፍርይ": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "ገንዘብ": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ጥሬ ገንዘብ": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "ሽልማት": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "አሸንፏል": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "አስቸኳይ": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "ወድያው": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "ድርጊት": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "የተወሰነ": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "ቅናሽ": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ዋስትና የተሰጠው": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "አደጋ የሌለው": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "ግዴታ": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "ክሬዲት": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "ዕዳ": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "ብድር": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "የቤት ብድር": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "ፋርማሲ": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "የሐኪም ማዘዣ": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "መድሃኒት": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "ክኒኖች": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "ክብደት": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "አመጋገብ": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ተሸናፊ": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "ፓውንድ": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "ግዛ": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "ትዕዛዝ": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ግዢ": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ሽያጭ": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ርካሽ": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "አስቀምጥ": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "ስምምነት": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ልዩ": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ጉርሻ": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ስጦታ": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "እንኳን ደስ አላችሁ": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "ተመርጧል": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "አረጋግጥ": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "መለያ": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "የይለፍ ቃል": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ታግዷል": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "ተቆልፏል": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ደህንነት": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ዝማኔ": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "ፓይፓል": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ኢቤይ": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "አማዞን": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ባንክ": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ሽቦ": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ዝውውር": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ማስተላለፊያ": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ፈጣን": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "ምዕራባዊ": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ህብረት": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "ገንዘብግራም": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "ቢትኮይን": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ክሪፕቶ ምንዛሬ": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "የኪስ ቦርሳ": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "ብሎክቼይን": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ስብሰባ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "የጊዜ ሰሌዳ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ፕሮጀክት": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ቡድን": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "የመጨረሻ ቀን": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ተያይዟል": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "አባሪ": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "ሰነድ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ሪፖርት ያድርጉ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ግምገማ": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ግብረመልስ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ውይይት": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "አጀንዳ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ደቂቃዎች": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ኮንፈረንስ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ደውል": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "ከሰላምታ ጋር": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ከልብ": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "አመሰግናለሁ": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "አድናቆት": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "መከተል": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "ውይይት ተደርጎበታል": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ደረሰኝ": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "ማጠቃለያ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ትንታኔ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ምርምር": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ውሂብ": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "ውጤቶች": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ማከማቻ": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "ቃል መግባት": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "አዋህድ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ቅርንጫፍ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ይጎትቱ": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ጥያቄ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ማሰማራት": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ግንባታ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ፈተና": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ስህተት ማረም": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "ስህተት": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ሳንካ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "አስተካክል": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ችግር": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ባህሪ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ልቀት": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ስሪት": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ኤፒአይ": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "አገልጋይ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "የውሂብ ጎታ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ተግባር": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ተለዋዋጭ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ክፍል": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ዘዴ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "በይነገጽ": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "አስቸኳይ",
+        "ወዲያውኑ",
+        "ወድያው",
+        "በተቻለ ፍጥነት",
+        "አሁኑኑ እርምጃ ይውሰዱ",
+        "አትዘግይ",
+        "ፍጠን",
+        "የተወሰነ ጊዜ",
+        "ጊዜው ያበቃል",
+        "የመጨረሻ ቀን",
+        "የመጨረሻ እድል",
+        "የመጨረሻ ማስታወቂያ",
+        "ጊዜን የሚነካ",
+        "አሁን ምላሽ ይስጡ",
+        "እርምጃ ያስፈልጋል"
+    ],
+    "greetingWords": [
+        "ሃይ",
+        "ሀሎ",
+        "ውድ",
+        "ሄይ",
+        "ሰላምታዎች",
+        "ምልካም እድል",
+        "እንደምን አረፈድክ",
+        "አንደምን አመሸህ"
+    ],
+    "genericGreetings": [
+        "ውድ ጌታዬ",
+        "ውድ እመቤት",
+        "ውድ ደንበኛ",
+        "ውድ ተጠቃሚ",
+        "ውድ አባል",
+        "ውድ ጓደኛዬ",
+        "ውድ ውድ",
+        "ውድ ተቀባይ",
+        "ውድ ተጠቃሚ"
+    ]
+}

@@ -1,0 +1,1377 @@
+{
+    "language": "jw",
+    "languageName": "Javanese",
+    "spamWords": [
+        {
+            "word": "pangeran nigeria",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "transfer kawat",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "rincian rekening bank",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "dana warisan",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "dana sing ora diklaim",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "ahli waris",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "yuta dolar",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "yuta dolar as",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "biaya transfer",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "biaya pangolahan",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "biaya dimuka",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "serikat pekerja barat",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "dompet bitcoin",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "investasi mata uang kripto",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "tikel loro bitcoin sampeyan",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "hadiah kripto",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "tumindak saiki",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "tumindak langsung",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "respon cepet",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "perhatian darurat",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "tumindak langsung",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "wektu winates",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "kadaluwarsa dina iki",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "kesempatan pungkasan",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "kabar pungkasan",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "langsung nanggapi",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "sajrone 24 jam",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "sajrone 48 jam",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "sensitif wektu",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "aja nundha",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "sugeng rawuh",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "kowé wis menang",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "pemenang lotre",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "kabar hadiah",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "njaluk hadiahmu",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "kabar menang",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "pemenang sing begja",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "pemenang sing dipilih",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "hadiah awis",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "hadiah gratis",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "undian",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "verifikasi akun sampeyan",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "konfirmasi identitas sampeyan",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "nganyari pambayaran sampeyan",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "akun sing ditangguhkan",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "akun ditangguhkan",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "aktivitas sing ora umum",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "aktivitas sing mencurigakan",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "akses tanpa ijin",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "klik ing kene kanggo verifikasi",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "kredensial mlebu log",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "nyetel ulang sandhi",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "tandha keamanan",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "akunmu bakal",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "kegagalan kanggo verifikasi",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "aktifake maneh awakmu",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "batal langganan",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "klik ing kene",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "tuku saiki",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "pesen saiki",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "tawaran gratis",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "tawaran khusus",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "kesepakatan eksklusif",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "bebas risiko",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ora ana kewajiban",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "garansi dhuwit bali",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "kepuasan dijamin",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "nelpon saiki",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "bebas pulsa",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% gratis",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "gratis tenan",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "tanpa biaya",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ora ana biaya",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "rega paling murah",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "rega paling apik",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "diskon",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "ngirit gedhe",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ngirit dhuwit",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "tikel loro awakmu",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "tambahi awakmu",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "entuk dhuwit",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "golek dhuwit",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "penghasilan tambahan",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "kerja saka omah",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "dadi bosmu dhewe",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "kebebasan finansial",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "dadi sugih",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "entuk bayaran",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "akses cepet",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "gabung karo mayuta-yuta wong",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "apotek",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "apotek online",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "apotek kanada",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "resep",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ora ana resep",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "tanpa resep dokter",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "disfungsi ereksi",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "mundhut bobot",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "ngurangi bobot awak",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "ilang bobot",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "pil diet",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "pembakar lemak",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "tamba ajaib",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "obat alami",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "anti-aging",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "konten diwasa",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "kencan diwasa",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ketemu wong lajang",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "para lajang sing panas",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "wanita sing kesepian",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ibu rumah tangga sing kesepian",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "kancaku sing tak tresnani",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "kekasihku",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "bapak/ibu ingkang kinurmatan",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "rahasia",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "rahasia banget",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "pribadi lan rahasia",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "aja nglirwakake",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "kudu nanggapi",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "iki dudu spam",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "iki dudu barang bekas",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "dudu penipuan",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "tawaran sing sah",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "kabar hukum",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "prentah pengadilan",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "hibah pemerintah",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "hibah gratis",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "pengembalian pajak",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "rapat": -0.3,
+        "jadwal": -0.3,
+        "proyek": -0.3,
+        "wates wektu": -0.3,
+        "dipasang": -0.3,
+        "lampiran": -0.3,
+        "salam": -0.2,
+        "kanthi tulus": -0.2,
+        "matur nuwun": -0.3,
+        "tindak lanjut": -0.3,
+        "kaya sing wis dirembug": -0.5,
+        "miturut obrolan kita": -0.5,
+        "faktur": -0.2,
+        "laporan": -0.2,
+        "ringkesan": -0.2,
+        "menit": -0.3,
+        "agenda": -0.3,
+        "konferensi": -0.3,
+        "gudang": -0.5,
+        "panjaluk tarik": -0.8,
+        "komitmen": -0.5,
+        "gabung": -0.5,
+        "cabang": -0.5,
+        "nyebarake": -0.5,
+        "dokumentasi": -0.3
+    },
+    "bayesianTokens": {
+        "viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "pembesaran": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "wong nigeria": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "warisan": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "ahli waris": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "lotre": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "pemenang": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "jackpot": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "batal langganan": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "milih metu": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "klik": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "gratis": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "dhuwit": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "awis": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "hadiah": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "menang": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "penting": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "langsung": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "tumindak": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "winates": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "nawakake": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "diskon": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "dijamin": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "tanpa risiko": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "kewajiban": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "kredit": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "utang": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "silihan": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "hipotek": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "apotek": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "resep": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "obat": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "pil": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "bobot": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "diet": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "kalah": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "pound": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "tuku": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "pesenan": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "dodolan": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "murah": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "nyimpen": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "kesepakatan": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "khusus": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "eksklusif": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "bonus": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "sugeng rawuh": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "dipilih": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "konfirmasi": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "verifikasi": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "akun": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "sandhi": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "digantung": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "dikunci": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "keamanan": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "nganyari": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazon": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "bank": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "kawat": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "transfer": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "rute": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "cepet": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "kulon": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "persatuan": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "mata uang kripto": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "dompet": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "blockchain": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "rapat": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "jadwal": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "proyek": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "tim": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "wates wektu": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "dipasang": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "lampiran": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "dokumen": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "laporan": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ulasan": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "umpan balik": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "diskusi": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "agenda": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "menit": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "konferensi": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "nelpon": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "salam": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "kanthi tulus": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "matur nuwun": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "ngajeni": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ngetutake": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "dirembug": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "obrolan": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "faktur": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "kuitansi": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "ringkesan": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "analisis": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "riset": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "data": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "asil": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "gudang": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "komitmen": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "gabung": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "cabang": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "narik": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "panjaluk": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "nyebarake": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "mbangun": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "tes": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "debug": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "kesalahan": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "serangga": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ndandani": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "masalah": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "fitur": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ngeculake": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "versi": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "dokumentasi": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "pelayan": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "basis data": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "pitakon": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "fungsi": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "variabel": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "kelas": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "cara": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "antarmuka": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "penting",
+        "langsung",
+        "langsung",
+        "cepet-cepet",
+        "tumindak saiki",
+        "aja nundha",
+        "cepet-cepet",
+        "wektu winates",
+        "kadaluwarsa",
+        "wates wektu",
+        "kesempatan pungkasan",
+        "kabar pungkasan",
+        "sensitif wektu",
+        "wangsulana saiki",
+        "tumindak sing dibutuhake"
+    ],
+    "greetingWords": [
+        "halo",
+        "halo",
+        "sayang",
+        "hei",
+        "salam",
+        "sugeng enjang",
+        "sugeng sonten",
+        "sugeng sonten"
+    ],
+    "genericGreetings": [
+        "pak",
+        "bu ingkang kinurmatan",
+        "pelanggan sing ditresnani",
+        "pangguna sing ditresnani",
+        "anggota sing ditresnani",
+        "kancaku sing tak tresnani",
+        "sing ditresnani",
+        "panampa sing ditresnani",
+        "ahli waris ingkang kinurmatan"
+    ]
+}

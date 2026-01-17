@@ -1,0 +1,1378 @@
+{
+    "language": "az",
+    "languageName": "Azerbaijani",
+    "spamWords": [
+        {
+            "word": "nigeriya şahzadəsi",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "pul köçürməsi",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "bank hesabı məlumatları",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "miras fondu",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "tələb olunmamış vəsaitlər",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "faydalanan",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "milyon dollar",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "milyon abş dolları",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "köçürmə haqqı",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "emal haqqı",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "avans haqqı",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "vestern yunion",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "bitcoin cüzdanı",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "kriptovalyuta investisiyası",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "bitkoininizi ikiqat artırın",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "kripto hədiyyəsi",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "indi hərəkətə keçin",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "dərhal hərəkətə keçin",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "təcili cavab",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "təcili diqqət",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "dərhal hərəkət",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "məhdud vaxt",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "bu gün bitir",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "son şans",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "son bildiriş",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "dərhal cavab verin",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "24 saat ərzində",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "48 saat ərzində",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "zamana həssas",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "gecikmə",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "təbriklər qalib",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "sən qalib gəlmisən",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "lotereya qalibi",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "mükafat bildirişi",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "mükafatınızı tələb edin",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "qalib bildiriş",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "şanslı qalib",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "seçilmiş qalib",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "pul mükafatı",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "pulsuz mükafat",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "lotereya",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "hesabınızı təsdiqləyin",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "şəxsiyyətinizi təsdiqləyin",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ödənişinizi yeniləyin",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "dayandırılmış hesab",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "hesab dayandırılıb",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "qeyri-adi fəaliyyət",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "şübhəli fəaliyyət",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "icazəsiz giriş",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "təsdiqləmək üçün buraya klikləyin",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "giriş etimadnaməsi",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "parol sıfırlama",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "təhlükəsizlik xəbərdarlığı",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "hesabınız olacaq",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "yoxlamada uğursuzluq",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "yenidən aktivləşdirin",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "abunəlikdən çıxın",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "buraya klikləyin",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "indi al",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "indi sifariş edin",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "pulsuz təklif",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "xüsusi təklif",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "eksklüziv təklif",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "risksiz",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "heç bir öhdəlik yoxdur",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "pul geri zəmanəti",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "məmnuniyyət zəmanətlidir",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "indi zəng edin",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ödənişsiz",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% pulsuz",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "tamamilə pulsuz",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "pulsuz",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "heç bir ödəniş yoxdur",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ən aşağı qiymət",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ən yaxşı qiymət",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "endirim",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "böyük qənaət edin",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "pula qənaət edin",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ikiqat sənin",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "artırın",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "pul qazanmaq",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "pul qazanmaq",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "əlavə gəlir",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "evdən işləmək",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "öz patronun ol",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "maliyyə azadlığı",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "varlanmaq",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "pul almaq",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ani giriş",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "milyonlarla qoşulun",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "aptek",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "onlayn aptek",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "kanada apteki",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "resept",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "reseptsiz",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "reseptsiz",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "erektil disfunksiya",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "çəki itkisi",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "arıqlamaq",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "kilo itirmək",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "pəhriz həbi",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "yağ yandırıcı",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "möcüzəvi müalicə",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "təbii vasitə",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "yaşlanma əleyhinə",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "yetkinlər üçün məzmun",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "yetkinlərlə tanışlıq",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "subaylarla tanış olun",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "isti subaylar",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "tənha qadınlar",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "tənha evdar qadın",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "əziz dostum",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "əziz sevgilim",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "hörmətli cənab/xanım",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "məxfi",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "ciddi şəkildə məxfi",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "özəl və məxfi",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "görməzdən gəlmə",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "cavab verməlidir",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "bu spam deyil",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "bu zibil deyil",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "fırıldaq deyil",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "qanuni təklif",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "hüquqi bildiriş",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "məhkəmə qərarı",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "dövlət qrantı",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "pulsuz qrant",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "vergi geri qaytarılması",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "görüş": -0.3,
+        "cədvəl": -0.3,
+        "layihə": -0.3,
+        "son tarix": -0.3,
+        "əlavə olunmuş": -0.3,
+        "əlavə": -0.3,
+        "hörmətlə": -0.2,
+        "səmimi qəlbdən": -0.2,
+        "təşəkkürlər": -0.2,
+        "təşəkkür edirəm": -0.3,
+        "təqib": -0.3,
+        "müzakirə edildiyi kimi": -0.5,
+        "söhbətimizə görə": -0.5,
+        "faktura": -0.2,
+        "hesabat": -0.2,
+        "xülasə": -0.2,
+        "dəqiqə": -0.3,
+        "gündəm": -0.3,
+        "konfrans": -0.3,
+        "depo": -0.5,
+        "çəkmə tələbi": -0.8,
+        "törətmək": -0.5,
+        "birləşmək": -0.5,
+        "budaq": -0.5,
+        "yerləşdirmək": -0.5,
+        "sənədləşmə": -0.3
+    },
+    "bayesianTokens": {
+        "viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "böyütmə": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "nigeriyalı": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "miras": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "faydalanan": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "lotereya": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "qalib": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "cekpot": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "abunəlikdən çıxın": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "imtina": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "klikləmək": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "pulsuz": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "pul": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "nağd pul": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "mükafat": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "qazandı": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "təcili": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "dərhal": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "hərəkət": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "məhdud": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "təklif": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "endirim": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "zəmanətli": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "risksiz": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "öhdəlik": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "kredit": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "borc": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "ipoteka": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "aptek": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "resept": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "dərman": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "həblər": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "çəki": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "pəhriz": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "uduzmaq": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "funt": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "almaq": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "sifariş": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "satın alma": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "satış": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ucuz": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "saxla": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "sövdələşmə": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "xüsusi": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "eksklüziv": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "bonus": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "hədiyyə": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "təbriklər": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "seçilmiş": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "təsdiqləmək": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "hesab": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "parol": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "dayandırılıb": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "kilidli": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "təhlükəsizlik": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "yeniləmə": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazon": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "bank": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "məftil": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "köçürmə": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "marşrutlaşdırma": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "sürətli": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "qərb": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "birlik": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitkoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "kriptovalyuta": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "cüzdan": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "blokçeyn": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "görüş": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "cədvəl": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "layihə": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "komanda": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "son tarix": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "əlavə olunmuş": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "əlavə": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "sənəd": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "hesabat": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "rəy": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "müzakirə": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "gündəm": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "dəqiqə": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "konfrans": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "zəng": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "hörmətlə": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "səmimi qəlbdən": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "təşəkkürlər": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "təşəkkür etmək": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "qiymətləndirmək": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "aşağıdakı": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "müzakirə edildi": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "söhbət": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "faktura": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "qəbz": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "xülasə": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "təhlil": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "tədqiqat": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "məlumatlar": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "nəticələr": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "depo": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "törətmək": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "birləşmək": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "budaq": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "çək": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "tələb": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "yerləşdirmək": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "qurmaq": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "sınaq": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "sazlama": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "səhv": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "böcək": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "düzəltmək": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "məsələ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "xüsusiyyət": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "buraxılış": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "versiya": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "sənədləşmə": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "server": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "verilənlər bazası": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "sorğu": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "funksiya": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "dəyişkən": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "sinif": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "metod": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "interfeys": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "təcili",
+        "dərhal",
+        "dərhal",
+        "ən qısa zamanda",
+        "indi hərəkətə keçin",
+        "gecikmə",
+        "tələsmək",
+        "məhdud vaxt",
+        "müddəti bitir",
+        "son tarix",
+        "son şans",
+        "son bildiriş",
+        "zamana həssas",
+        "indi cavab ver",
+        "tələb olunan tədbir"
+    ],
+    "greetingWords": [
+        "salam",
+        "salam",
+        "əziz",
+        "hey",
+        "salamlar",
+        "sabahınız xeyir",
+        "günortanınız xeyir",
+        "axşamınız xeyir"
+    ],
+    "genericGreetings": [
+        "əziz cənab",
+        "əziz xanım",
+        "əziz müştəri",
+        "hörmətli istifadəçi",
+        "əziz üzv",
+        "əziz dostum",
+        "əziz dəyərli",
+        "əziz alıcı",
+        "əziz faydalanan"
+    ]
+}

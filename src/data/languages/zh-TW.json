@@ -1,0 +1,1376 @@
+{
+    "language": "zh-TW",
+    "languageName": "Chinese (Traditional)",
+    "spamWords": [
+        {
+            "word": "尼日利亞王子",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "電匯",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "銀行帳戶詳情",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "遺產基金",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "無人認領的資金",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "受益人",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "百萬美元",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "百萬美元",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "轉帳費",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "手續費",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "預付費",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "西聯匯款",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "速匯金",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "比特幣錢包",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "加密貨幣投資",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "你的比特幣翻倍",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "加密貨幣贈送",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "立即行動",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "立即行動",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "緊急回應",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "緊急關注",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "立即行動",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "限時優惠",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "今天到期",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "最後機會",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "最後通知",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "立即回應",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "24小時內",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "48小時內",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "時間敏感型",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "不要拖延",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "恭喜得獎者",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "你贏了",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "樂透中獎者",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "中獎通知",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "領取您的獎品",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "中獎通知",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "幸運兒",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "選定的獲獎者",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "現金獎勵",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "免費獎品",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "抽獎",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "驗證您的帳戶",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "確認您的身份",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "更新您的付款訊息",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "已暫停帳戶",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "帳戶已暫停",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "例外活動",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "可疑活動",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "未經授權的訪問",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "點擊此處進行驗證",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "登入憑證",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "密碼重設",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "安全警報",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "您的帳戶將",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "驗證失敗",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "重新啟動您的",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "取消訂閱",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "點這裡",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "立即購買",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "立即訂購",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "免費優惠",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "特價",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "獨家優惠",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "無風險",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "無義務",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "退款保證",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "滿意保證",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "立即致電",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "免費電話",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% 免費",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "完全免費",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "免費",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "無費用",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "最低價格",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "最優價格",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "折扣",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "省錢大優惠",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "省錢",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "雙倍的",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "增加你的",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "賺錢",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "賺錢",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "額外收入",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "在家工作",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "自己當老闆",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "財務自由",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "致富",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "獲得報酬",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "即時存取",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "加入數百萬人的行列",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "威而鋼",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "希愛力",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "藥局",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "網路藥房",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "加拿大藥房",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "處方",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "無需處方",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "無需處方",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "性功能障礙",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "減肥",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "減肥",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "減肥",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "減肥藥",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "燃脂劑",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "奇蹟療法",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "自然療法",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "抗衰老",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "成人內容",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "成人約會",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "認識單身人士",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "熱門單身人士",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "孤獨的女人",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "孤獨的家庭主婦",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "親愛的朋友",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "親愛的",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "尊敬的先生/女士",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "機密的",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "絕密",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "私密和保密",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "不要忽視",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "必須回應",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "這不是垃圾郵件。",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "這不是垃圾",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "這不是騙局",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "合法報價",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "法律聲明",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "法院命令",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "政府撥款",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "免費贈款",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "美國國稅局",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "退稅",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "會議": -0.3,
+        "行程": -0.3,
+        "專案": -0.3,
+        "最後期限": -0.3,
+        "隨附的": -0.3,
+        "依戀": -0.3,
+        "問候": -0.2,
+        "真摯地": -0.2,
+        "謝謝": -0.3,
+        "後續報道": -0.3,
+        "如討論中所述": -0.5,
+        "根據我們的談話": -0.5,
+        "發票": -0.2,
+        "報告": -0.2,
+        "概括": -0.2,
+        "分分鐘": -0.3,
+        "議程": -0.3,
+        "倉庫": -0.5,
+        "拉取請求": -0.8,
+        "犯罪": -0.5,
+        "合併": -0.5,
+        "分支": -0.5,
+        "部署": -0.5,
+        "文件": -0.3
+    },
+    "bayesianTokens": {
+        "威而鋼": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "希愛力": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "放大": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "奈及利亞": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "遺產": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "受益人": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "抽籤": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "優勝者": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "頭獎": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "取消訂閱": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "選擇退出": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "點選": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "自由的": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "錢": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "現金": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "獎": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "韓元": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "緊迫的": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "立即地": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "行為": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "有限的": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "提供": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "折扣": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "保證": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "無風險": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "義務": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "信用": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "債務": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "貸款": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "抵押": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "藥局": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "處方": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "藥物": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "藥片": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "重量": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "飲食": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "失去": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "磅": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "買": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "命令": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "購買": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "銷售": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "便宜的": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "節省": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "交易": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "特別的": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "獨家的": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "獎金": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "禮物": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "恭喜！": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "選定": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "確認": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "核實": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "帳戶": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "密碼": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "暫停": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "已鎖定": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "安全": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "更新": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "貝寶": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "亞馬遜": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "銀行": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "金屬絲": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "轉移": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "路由": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "迅速": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "西": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "聯盟": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "速匯金": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "比特幣": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "加密貨幣": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "錢包": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "區塊鏈": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "會議": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "行程": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "專案": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "團隊": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "最後期限": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "隨附的": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "依戀": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "文件": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "報告": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "審查": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "回饋": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "討論": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "議程": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "分分鐘": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "稱呼": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "問候": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "真摯地": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "謝謝": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "感謝": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "欣賞": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "下列的": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "對話": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "發票": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "收據": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "概括": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "分析": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "研究": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "數據": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "結果": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "倉庫": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "犯罪": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "合併": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "分支": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "拉": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "要求": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "部署": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "建造": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "測試": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "偵錯": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "錯誤": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "漏洞": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "使固定": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "問題": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "特徵": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "發布": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "版本": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "伺服器": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "資料庫": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "詢問": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "功能": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "多變的": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "班級": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "方法": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "介面": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "緊迫的",
+        "即時",
+        "立即地",
+        "盡快",
+        "立即行動",
+        "不要拖延",
+        "匆忙",
+        "限時優惠",
+        "到期",
+        "最後期限",
+        "最後機會",
+        "最後通知",
+        "時間敏感型",
+        "立即回覆",
+        "需要採取行動"
+    ],
+    "greetingWords": [
+        "你好",
+        "你好",
+        "親愛的",
+        "嘿",
+        "問候",
+        "早安",
+        "午安",
+        "晚安"
+    ],
+    "genericGreetings": [
+        "尊敬的先生",
+        "尊敬的女士",
+        "尊敬的顧客",
+        "尊敬的用戶",
+        "尊敬的會員",
+        "親愛的朋友",
+        "尊敬的",
+        "親愛的收件人",
+        "尊敬的受益人"
+    ]
+}

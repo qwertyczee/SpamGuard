@@ -1,0 +1,1356 @@
+{
+    "language": "sw",
+    "languageName": "Swahili",
+    "spamWords": [
+        {
+            "word": "mkuu wa nigeria",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "uhamisho wa waya",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "maelezo ya akaunti ya benki",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "mfuko wa urithi",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "fedha ambazo hazijadaiwa",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "mnufaika",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "dola milioni",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "dola milioni",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ada ya uhamisho",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ada ya usindikaji",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "ada ya awali",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "muungano wa magharibi",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "pesagramu",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "pochi ya bitcoin",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "uwekezaji wa sarafu ya kidijitali",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "mara mbili ya bitcoin yako",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "zawadi ya crypto",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "chukua hatua sasa",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "chukua hatua mara moja",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "majibu ya haraka",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "tahadhari ya haraka",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "hatua ya haraka",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "muda mdogo",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "inaisha leo",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "nafasi ya mwisho",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "taarifa ya mwisho",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "jibu mara moja",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ndani ya saa 24",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ndani ya saa 48",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "nyeti kwa wakati",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "usikawie",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "hongera mshindi",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "umeshinda",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "mshindi wa bahati nasibu",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "arifa ya zawadi",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "dai zawadi yako",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "arifa ya kushinda",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "mshindi mwenye bahati",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "mshindi aliyechaguliwa",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "zawadi ya pesa taslimu",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "zawadi ya bure",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "shindano la bahati nasibu",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "thibitisha akaunti yako",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "thibitisha utambulisho wako",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "sasisha malipo yako",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "akaunti iliyosimamishwa",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "akaunti imesimamishwa",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "shughuli isiyo ya kawaida",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "shughuli ya kutiliwa shaka",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "ufikiaji usioidhinishwa",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "bofya hapa ili kuthibitisha",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "vitambulisho vya kuingia",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "kuweka upya nenosiri",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "tahadhari ya usalama",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "akaunti yako itakuwa",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "kushindwa kuthibitisha",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "anzisha upya yako",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "jiondoe",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "bofya hapa",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "nunua sasa",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "agiza sasa",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ofa ya bure",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ofa maalum",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ofa ya kipekee",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "bila hatari",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "hakuna wajibu",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "dhamana ya kurejeshewa pesa",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "kuridhika kumehakikishwa",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "piga simu sasa",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "simu ya bure",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% bure",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "bure kabisa",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "bila gharama",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "hakuna ada",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "bei ya chini kabisa",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "bei nzuri zaidi",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "punguzo",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "kuokoa pesa nyingi",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "kuokoa pesa",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "mara mbili yako",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ongeza yako",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "pata pesa",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "pata pesa",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "mapato ya ziada",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "fanya kazi kutoka nyumbani",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "kuwa bosi wako mwenyewe",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "uhuru wa kifedha",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "pata utajiri",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "kulipwa",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ufikiaji wa papo hapo",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "jiunge na mamilioni",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "apoteket",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "duka la dawa mtandaoni",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "duka la dawa la kanada",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "dawa",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "hakuna agizo la daktari",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "bila agizo la daktari",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "kutofanya kazi vizuri kwa nguvu za kiume",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "kupunguza uzito",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "punguza uzito",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "punguza pauni",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "kidonge cha lishe",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "kichoma mafuta",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "tiba ya miujiza",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "tiba asilia",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "kuzuia kuzeeka",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "maudhui ya watu wazima",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "kuchumbiana na watu wazima",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "kukutana na watu wasio na wapenzi",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "single maarufu",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "wanawake wapweke",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "mama wa nyumbani mpweke",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "rafiki mpendwa",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "mpendwa mpendwa",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "mpendwa bwana/bibi",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "siri",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "siri kabisa",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "faragha na siri",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "usipuuze",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "lazima ajibu",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "hii si barua taka",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "hii si takataka",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "si ulaghai",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ofa halali",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "notisi ya kisheria",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "amri ya mahakama",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ruzuku ya serikali",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ruzuku ya bure",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "marejesho ya kodi",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "mkutano": -0.3,
+        "ratiba": -0.3,
+        "mradi": -0.3,
+        "tarehe ya mwisho": -0.3,
+        "imeambatanishwa": -0.3,
+        "kiambatisho": -0.3,
+        "salamu": -0.2,
+        "kwa dhati": -0.2,
+        "asante": -0.3,
+        "ufuatiliaji": -0.3,
+        "kama ilivyojadiliwa": -0.5,
+        "kwa mujibu wa mazungumzo yetu": -0.5,
+        "ankara": -0.2,
+        "ripoti": -0.2,
+        "muhtasari": -0.2,
+        "dakika": -0.3,
+        "ajenda": -0.3,
+        "hazina": -0.5,
+        "ombi la kuvuta": -0.8,
+        "kujitolea": -0.5,
+        "unganisha": -0.5,
+        "tawi": -0.5,
+        "peleka": -0.5,
+        "nyaraka": -0.3
+    },
+    "bayesianTokens": {
+        "viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "upanuzi": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "nigeria": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "urithi": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "mnufaika": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "bahati nasibu": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "mshindi": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "jackpot": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "jiondoe": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "kujiondoa": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "bofya": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "bure": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "pesa": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "pesa taslimu": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "zawadi": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "alishinda": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "dharura": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "mara moja": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "kitendo": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "mdogo": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "ofa": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "punguzo": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "imehakikishwa": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "isiyo na hatari": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "wajibu": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "mkopo": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "deni": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "rehani": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "apoteket": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "dawa": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "vidonge": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "uzito": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "lishe": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "kupoteza": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "pauni": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "nunua": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "agizo": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ununuzi": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "nafuu": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "hifadhi": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "maalum": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "kipekee": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "bonasi": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "pongezi": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "iliyochaguliwa": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "thibitisha": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "akaunti": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "nenosiri": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "imesimamishwa": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "imefungwa": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "usalama": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "sasisho": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazon": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "benki": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "waya": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "uhamisho": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "uelekezaji": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "mwepesi": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "magharibi": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "muungano": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "pesagramu": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "sarafu ya kidijitali": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "pochi": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "blockchain": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "mkutano": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ratiba": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "mradi": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "timu": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "tarehe ya mwisho": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "imeambatanishwa": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "kiambatisho": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "hati": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "ripoti": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "mapitio": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "maoni": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "majadiliano": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ajenda": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "dakika": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "simu": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "salamu": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "kwa dhati": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "asante": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "kuthamini": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "wanaofuata": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "kujadiliwa": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "mazungumzo": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ankara": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "risiti": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "muhtasari": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "uchambuzi": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "utafiti": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "data": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "matokeo": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "hazina": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "kujitolea": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "unganisha": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "tawi": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "vuta": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ombi": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "peleka": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "jenga": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "jaribio": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "utatuzi": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "hitilafu": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "mdudu": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "rekebisha": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "suala": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "kipengele": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "kutolewa": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "toleo": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "nyaraka": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "seva": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "hifadhidata": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "swali": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "kazi": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "kigezo": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "darasa": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "mbinu": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "kiolesura": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "dharura",
+        "papo hapo",
+        "mara moja",
+        "haraka iwezekanavyo",
+        "chukua hatua sasa",
+        "usikawie",
+        "haraka",
+        "muda mdogo",
+        "inaisha muda wake",
+        "tarehe ya mwisho",
+        "nafasi ya mwisho",
+        "taarifa ya mwisho",
+        "nyeti kwa wakati",
+        "jibu sasa",
+        "hatua inahitajika"
+    ],
+    "greetingWords": [
+        "habari",
+        "hujambo",
+        "mpendwa",
+        "hujambo",
+        "salamu",
+        "habari za asubuhi",
+        "mchana mwema",
+        "jioni njema"
+    ],
+    "genericGreetings": [
+        "mheshimiwa mpendwa",
+        "mpenzi bibi",
+        "mpendwa mteja",
+        "mtumiaji mpendwa",
+        "mshiriki mpendwa",
+        "rafiki mpendwa",
+        "mpendwa mwenye thamani",
+        "mpokeaji mpendwa",
+        "mpendwa mnufaika"
+    ]
+}

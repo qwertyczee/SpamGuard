@@ -1,0 +1,1377 @@
+{
+    "language": "mk",
+    "languageName": "Macedonian",
+    "spamWords": [
+        {
+            "word": "нигериски принц",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "банкарски трансфер",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "детали за банкарска сметка",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "фонд за наследство",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "непобарани средства",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "корисник",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "милион долари",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "милион американски долари",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "надомест за трансфер",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "надомест за обработка",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "авансна такса",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "вестерн јунион",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "маниграм",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "биткоин паричник",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "инвестиција во криптовалути",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "удвојте го вашиот биткоин",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "крипто подарок",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "дејствувај сега",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "дејствувај веднаш",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "итен одговор",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "итно внимание",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "итна акција",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ограничено време",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "истекува денес",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "последна шанса",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "конечно известување",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "одговори веднаш",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "во рок од 24 часа",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "во рок од 48 часа",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "временски чувствителен",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "не одложувај",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "честитки победник",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ти победи",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "добитник на лотарија",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "известување за награда",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "побарај ја твојата награда",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "известување за победа",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "среќен добитник",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "избран победник",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "парична награда",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "бесплатна награда",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "наградна игра",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "потврди ја твојата сметка",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "потврди го твојот идентитет",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ажурирајте го вашето плаќање",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "суспендирана сметка",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "сметката е суспендирана",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "необична активност",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "сомнителна активност",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "неовластен пристап",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "кликнете тука за да потврдите",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "акредитиви за најавување",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ресетирање на лозинката",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "безбедносно предупредување",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "вашата сметка ќе биде",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "неуспех за верификација",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "реактивирајте го вашиот",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "отпишување",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "кликнете тука",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "купи сега",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "нарачај сега",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "бесплатна понуда",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "специјална понуда",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ексклузивна понуда",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "без ризик",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "без обврска",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "гаранција за враќање на парите",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "задоволството е загарантирано",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "јавете се сега",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "бесплатен број",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% бесплатно",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "целосно бесплатно",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "без трошоци",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "без надоместоци",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "најниска цена",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "најдобра цена",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "попуст",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "заштеди многу",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "заштеди пари",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "удвои го твојот",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "зголемете го вашиот",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "заработувај пари",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "заработувај пари",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "дополнителен приход",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "работа од дома",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "биди свој шеф",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "финансиска слобода",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "збогати се",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "добиваш плата",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "моментален пристап",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "придружи се на милиони",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "вијагра",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "цијалис",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "аптека",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "онлајн аптека",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "канадска аптека",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "рецепт",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "без рецепт",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "без рецепт",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "еректилна дисфункција",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "губење на тежина",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "ослаби",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "изгубам килограми",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "апче за слабеење",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "согорувач на масти",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "чудотворен лек",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "природен лек",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "анти-стареење",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "содржина за возрасни",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "запознавање за возрасни",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "запознајте синглови",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "жешки синглови",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "осамени жени",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "осамена домаќинка",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "драг пријател",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "драги сакани",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "почитуван/а господине/госпоѓо",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "доверливо",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "строго доверливо",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "приватно и доверливо",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "не игнорирај",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "мора да одговори",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "ова не е спам",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ова не е ѓубре",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "не е измама",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "легитимна понуда",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "правно известување",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "судска наредба",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "владин грант",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "бесплатен грант",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "даночни обврзници",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "враќање на данок",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "состанок": -0.3,
+        "распоред": -0.3,
+        "проект": -0.3,
+        "рок": -0.3,
+        "прикачен": -0.3,
+        "прилог": -0.3,
+        "поздрави": -0.2,
+        "искрено": -0.2,
+        "благодарам": -0.3,
+        "следење": -0.3,
+        "како што е дискутирано": -0.5,
+        "според нашиот разговор": -0.5,
+        "фактура": -0.2,
+        "извештај": -0.2,
+        "резиме": -0.2,
+        "минути": -0.3,
+        "агенда": -0.3,
+        "конференција": -0.3,
+        "складиште": -0.5,
+        "барање за повлекување": -0.8,
+        "изврши": -0.5,
+        "спојување": -0.5,
+        "гранка": -0.5,
+        "распореди": -0.5,
+        "документација": -0.3
+    },
+    "bayesianTokens": {
+        "вијагра": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "цијалис": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "проширување": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "нигериски": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "наследство": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "корисник": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "лотарија": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "победник": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "џекпот": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "отпишување": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "откажување": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "клик": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "бесплатно": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "пари": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "готовина": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "награда": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "победи": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "итно": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "веднаш": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "чин": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "ограничен": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "понуда": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "попуст": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "гарантирано": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "без ризик": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "обврска": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "кредит": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "долг": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "заем": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "хипотека": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "аптека": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "рецепт": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "лекови": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "апчиња": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "тежина": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "диета": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "губи": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "фунти": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "купи": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "нарачка": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "купување": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "распродажба": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "евтин": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "зачувај": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "договор": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "посебен": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ексклузивен": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "бонус": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "подарок": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "честитки": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "избрано": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "потврди": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "сметка": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "лозинка": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "суспендиран": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "заклучено": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "безбедност": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ажурирање": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "пејпал": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ебеј": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "амазон": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "банка": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "жица": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "трансфер": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "рутирање": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "брз": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "западен": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "унија": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "маниграм": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "биткоин": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "криптовалута": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "паричник": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "блокчејн": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "состанок": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "распоред": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "проект": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "тим": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "рок": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "прикачен": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "прилог": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "документ": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "извештај": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "преглед": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "повратни информации": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "дискусија": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "агенда": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "минути": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "конференција": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "повик": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "поздрави": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "искрено": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "благодарам": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "ценам": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "следејќи": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "дискутирано": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "разговор": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "фактура": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "потврда": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "резиме": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "анализа": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "истражување": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "податоци": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "резултати": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "складиште": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "изврши": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "спојување": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "гранка": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "влече": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "барање": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "распореди": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "градење": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "тест": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "дебагирање": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "грешка": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "бубачка": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "поправка": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "проблем": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "карактеристика": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ослободување": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "верзија": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "документација": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "апи": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "сервер": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "база на податоци": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "функција": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "променлива": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "класа": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "метод": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "интерфејс": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "итно",
+        "веднаш",
+        "веднаш",
+        "што е можно поскоро",
+        "дејствувај сега",
+        "не одложувај",
+        "брза",
+        "ограничено време",
+        "истекува",
+        "рок",
+        "последна шанса",
+        "конечно известување",
+        "временски чувствителен",
+        "одговори сега",
+        "потребна акција"
+    ],
+    "greetingWords": [
+        "здраво",
+        "здраво",
+        "драги",
+        "еј",
+        "поздрави",
+        "добро утро",
+        "добар ден",
+        "добра вечер"
+    ],
+    "genericGreetings": [
+        "драг господине",
+        "драга госпоѓо",
+        "драг клиенте",
+        "драг кориснику",
+        "драг член",
+        "драг пријател",
+        "драги ценети",
+        "драг примател",
+        "драг корисник"
+    ]
+}

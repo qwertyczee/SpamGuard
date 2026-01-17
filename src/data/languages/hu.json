@@ -1,0 +1,1373 @@
+{
+    "language": "hu",
+    "languageName": "Hungarian",
+    "spamWords": [
+        {
+            "word": "nigériai herceg",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "banki átutalás",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "bankszámlaadatok",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "öröklési alap",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "fel nem használt pénzeszközök",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "kedvezményezett",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "millió dollár",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "millió dollár",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "átutalási díj",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "feldolgozási díj",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "előleg",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "western union",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "bitcoin pénztárca",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "kriptovaluta befektetés",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "duplázd meg a bitcoinodat",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "kripto nyereményjáték",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "cselekedj most",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "azonnal cselekedj",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "sürgős válasz",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "sürgős figyelmet",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "azonnali intézkedés",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "korlátozott ideig",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ma lejár",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "utolsó esély",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "utolsó értesítés",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "azonnal válaszolj",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "24 órán belül",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "48 órán belül",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "időérzékeny",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ne késlekedj",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "gratulálok a győztesnek",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "nyertél",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "lottónyertes",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "nyereményértesítés",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "igényeld a nyereményed",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "nyertes értesítés",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "szerencsés nyertes",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "kiválasztott győztes",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "pénzdíj",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ingyenes nyeremény",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "lóversenyfogadás",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "ellenőrizze fiókját",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "erősítse meg személyazonosságát",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "frissítse a fizetését",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "felfüggesztett fiók",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "fiók felfüggesztve",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "szokatlan tevékenység",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "gyanús tevékenység",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "jogosulatlan hozzáférés",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "kattintson ide az ellenőrzéshez",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "bejelentkezési adatok",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "jelszó visszaállítása",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "biztonsági riasztás",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "a fiókod a következő lesz:",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ellenőrzés elmulasztása",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "aktiváld újra a",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "leiratkozás",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "kattintson ide",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "vásárolj most",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "rendelj most",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ingyenes ajánlat",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "különleges ajánlat",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "exkluzív ajánlat",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "kockázatmentes",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "nincs kötelezettség",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "pénzvisszafizetési garancia",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "elégedettségi garancia",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "hívj most",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ingyenesen hívható",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100%-ban ingyenes",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "teljesen ingyenes",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ingyenes",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "nincsenek díjak",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "legalacsonyabb ár",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "legjobb ár",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "kedvezmény",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "nagyot spórolni",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "pénzt megtakarítani",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "duplázd meg a",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "növeld a",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "pénzt keresni",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "pénzt keresni",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "plusz bevétel",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "otthonról dolgozni",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "légy a saját főnököd",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "pénzügyi szabadság",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "meggazdagodni",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "fizetést kapni",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "azonnali hozzáférés",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "csatlakozz milliókhoz",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "gyógyszertár",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "online gyógyszertár",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "kanadai gyógyszertár",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "recept",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "recept nélkül",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "recept nélkül",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "merevedési zavar",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "fogyás",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "lefogy",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "fogyni",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "fogyókúrás tabletta",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "zsírégető",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "csodaszer",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "természetes gyógymód",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "öregedésgátló",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "felnőtt tartalom",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "felnőtt társkereső",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ismerkedj szinglikkel",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "dögös szinglik",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "magányos nők",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "magányos háziasszony",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "kedves barátom",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "kedves szeretett",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "tisztelt hölgyem/uram!",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "bizalmas",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "szigorúan bizalmas",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "privát és bizalmas",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ne hagyd figyelmen kívül",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "válaszolnia kell",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "ez nem spam",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ez nem szemét",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "nem átverés",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "jogos ajánlat",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "jogi közlemény",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "bírósági végzés",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "állami támogatás",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ingyenes támogatás",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "adóhatóság",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "adóvisszatérítés",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "találkozó": -0.3,
+        "menetrend": -0.3,
+        "projekt": -0.3,
+        "határidő": -0.3,
+        "csatolt": -0.3,
+        "melléklet": -0.3,
+        "üdvözlettel": -0.2,
+        "őszintén": -0.2,
+        "köszönöm": -0.3,
+        "nyomon követés": -0.3,
+        "a megbeszéltek szerint": -0.5,
+        "a beszélgetésünk szerint": -0.5,
+        "számla": -0.2,
+        "jelentés": -0.2,
+        "összefoglaló": -0.2,
+        "jegyzőkönyv": -0.3,
+        "napirend": -0.3,
+        "konferencia": -0.3,
+        "adattár": -0.5,
+        "lekéréses kérés": -0.8,
+        "elkötelez": -0.5,
+        "összeolvad": -0.5,
+        "ág": -0.5,
+        "telepítés": -0.5,
+        "dokumentáció": -0.3
+    },
+    "bayesianTokens": {
+        "viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "bővítés": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "nigériai": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "öröklés": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "kedvezményezett": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "lottó": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "győztes": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "főnyeremény": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "leiratkozás": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "kattintás": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ingyenes": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "pénz": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "készpénz": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "díj": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "won": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "sürgős": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "azonnal": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "törvény": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "korlátozott": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "ajánlat": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "kedvezmény": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "garantált": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "kockázatmentes": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "kötelezettség": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "hitel": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "adósság": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "jelzálog": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "gyógyszertár": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "recept": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "gyógyszer": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "tabletták": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "súly": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "diéta": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "veszít": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "font": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "vétel": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "rendelés": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "vásárlás": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "eladás": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "olcsó": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "megtakarítás": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "üzlet": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "különleges": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "kizárólagos": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "bónusz": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ajándék": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "gratulálok": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "kiválasztott": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "megerősíteni": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ellenőrizze": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "számla": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "jelszó": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "felfüggesztett": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "bezárt": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "biztonság": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "frissítés": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazon": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "bank": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "huzal": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "átruházás": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "útvonaltervezés": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "gyors": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "nyugati": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "unió": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "kriptovaluta": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "pénztárca": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "blokklánc": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "találkozó": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "menetrend": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "projekt": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "csapat": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "határidő": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "csatolt": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "melléklet": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "dokumentum": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "jelentés": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "felülvizsgálat": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "visszacsatolás": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "vita": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "napirend": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "jegyzőkönyv": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "konferencia": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "hívás": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "üdvözlettel": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "őszintén": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "köszönöm": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "köszönet": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "értékelem": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "következő": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "megvitatott": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "beszélgetés": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "nyugta": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "összefoglaló": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "elemzés": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "kutatás": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "adat": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "eredmények": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "adattár": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "elkötelez": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "összeolvad": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ág": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "húzni": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "kér": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "telepítés": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "épít": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "teszt": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "hibakeresés": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "hiba": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "bogár": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "javítás": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "kérdés": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "funkció": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "kiadás": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "változat": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "dokumentáció": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "szerver": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "adatbázis": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "lekérdezés": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "változó": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "osztály": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "módszer": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "felület": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "sürgős",
+        "azonnali",
+        "azonnal",
+        "amint lehetséges",
+        "cselekedj most",
+        "ne késlekedj",
+        "siet",
+        "korlátozott ideig",
+        "lejár",
+        "határidő",
+        "utolsó esély",
+        "utolsó értesítés",
+        "időérzékeny",
+        "válaszolj most",
+        "intézkedés szükséges"
+    ],
+    "greetingWords": [
+        "szia",
+        "helló",
+        "kedves",
+        "hé",
+        "üdvözletek",
+        "jó reggelt",
+        "jó napot",
+        "jó estét"
+    ],
+    "genericGreetings": [
+        "tisztelt uram",
+        "kedves asszonyom",
+        "kedves vásárlónk",
+        "kedves felhasználó",
+        "kedves tag",
+        "kedves barátom",
+        "kedves, értékes",
+        "kedves címzett",
+        "kedves kedvezményezett"
+    ]
+}

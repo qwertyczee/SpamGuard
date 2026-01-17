@@ -1,0 +1,1333 @@
+{
+    "language": "qu",
+    "languageName": "Quechua",
+    "spamWords": [
+        {
+            "word": "nigeriamanta kamachikuq",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "alambrewan apachiy",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "bancopi cuentamanta willakuy",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "herencia nisqa qolqe",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "mana reclamasqa qullqikuna",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "beneficiario nisqa",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "millonnintin qullqita",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "millón usd",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "transferencia nisqamanta qullqita",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "procesamiento nisqamanta qullqi",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "ñawpaqmanta qullqita",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "union occidental nisqa",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "qullqi yupay",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "bitcoin nisqa billetera",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "criptomoneda nisqa qullqi churay",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "iskay kutita bitcoin nisqayki",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "cripto nisqa quy",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "kunan ruway",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "chaylla ruway",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "usqhaylla kutichiy",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "urgente atención nisqa",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "chaylla ruway",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "pisi tiempolla",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "kunan punchawmi tukun",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "qhipa chansa",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "tukukuy willakuy",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "chaylla kutichiy",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "24 pachakunapi",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "48 pachakunapi",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "pachamanta yuyayniyuq",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ama tardaychu",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "felicitación ganaq",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ganarqanki",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "lotería nisqapi ganaq",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "premiomanta willakuy",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "premioykita reclamay",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "atipaq willakuy",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "suerteyuq ganaq",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "akllasqa atipaq",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "qullqimanta qullqi quy",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "gratis premio",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "sorteo nisqa",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "yupayniyki chiqaqchay",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "pi kasqaykita takyachiy",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "qullqi qusqaykita musuqyachiy",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "cuenta suspendida nisqa",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "cuenta suspendisqa",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "mana costumbre kaq ruway",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "sospechoso ruway",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "mana kamachisqa yaykuy",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "kaypi ñit’iy chiqapchanaykipaq",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "yaykuypaq credencialkuna",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "contraseña kutichiy",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "seguridad nisqamanta willakuy",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "cuentaykiqa kanqa",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "mana chiqaqchayta",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "reactivar tu",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "mana suscribikuychu",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "kaypi ñit’iy",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "kunan rantiy",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "kunanpacha kamachiy",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "gratis ofrecimiento nisqa",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ofrecimiento especial nisqa",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "trato exclusivo nisqa",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "mana riesgoyuq",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "mana obligacionniyuqchu",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "qullqi kutichiy garantia",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "satisfacción garantizada nisqa",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "kunan waqyay",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "mana qullqillapaq",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% mana qullqiyuq",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "tukuyninpi mana qullqiyuq",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "mana qullqiyuq",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "mana qullqiyuq",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "aswan pisi chanin",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "aswan allin chanin",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "pisiyachiy",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "hatun waqaychay",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "qullqita waqaychay",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "doble su",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "yapay qampaq",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "qullqita ganay",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "qullqita ganay",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "yapasqa qullqi chaskiy",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "wasimanta llamk’ay",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "kikiykipa jefeyki kay",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "qullqimanta kacharichiy",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "qhapaq kay",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "pagasqa kayta",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "chaylla yaykuy",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "millonnintin runakunaman hukllawakuy",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "farmacia nisqa",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "internetpi farmacia nisqa",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "canadá suyupi farmacia",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "receta nisqa",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "mana recetayuq",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "mana recetayuq",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "disfunción eréctil nisqa",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "llasaynin pisiyachiy",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "pisiyachiy",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "kilokunata pisiyachiy",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "dieta pastilla",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "wira ruphachiq",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "milagrowan hampiy",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "remedio natural nisqa",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "anti-envejecimiento nisqa",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "contenido adulto nisqa",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "kuraq runakunawan riqsinakuy",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "solterokunawan tupay",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "q’uñi sapallankuna",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "sapallan warmikuna",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "sapallan wasiyuq warmi",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "kuyasqay amistad",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "kuyasqay kuyasqay",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "munasqa wiraqocha/señora",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "pakasqa",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "sinchi pakasqa",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "sapanchasqa hinaspa pakasqa",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ama mana kaqpaqpas hapiychu",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "kutichinan tiyan",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "kayqa manam spamchu",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "kayqa manam ch’usaqchu",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "mana huk estafachu",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "legítima nisqa ofrecimiento nisqa",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "kamachiymanta willakuy",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "tribunalpa kamachikuynin",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "gobiernopa yanapakuynin",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "mana qullqiyuq yanapakuy",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "impuesto kutichipuy",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "huñunakuy": -0.3,
+        "programa": -0.3,
+        "ruwana": -0.3,
+        "tukuq pacha": -0.3,
+        "huñusqa": -0.3,
+        "yaparisqa": -0.3,
+        "napaykuy": -0.2,
+        "sullullchay": -0.2,
+        "riqsikuyki": -0.3,
+        "qatipay": -0.3,
+        "rimasqanchikman hina": -0.5,
+        "per rimasqanchisman hina": -0.5,
+        "factura": -0.2,
+        "willakuy": -0.2,
+        "pisiyachisqa": -0.2,
+        "minutokuna": -0.3,
+        "agenda nisqa": -0.3,
+        "rimanakuy": -0.3,
+        "waqaychana wasi": -0.5,
+        "aysana mañakuy": -0.8,
+        "ruway": -0.5,
+        "hukllanakuy": -0.5,
+        "kallma": -0.5,
+        "despliegue": -0.5,
+        "documentación nisqa": -0.3
+    },
+    "bayesianTokens": {
+        "viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "hatunyachiy": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "nigeriamanta": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "saqisqa": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "beneficiario nisqa": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "lotería nisqa": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "ganaq": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "jackpot nisqa": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "mana suscribikuychu": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "optout nisqa": {
+            "spam": 0.85,
+            "ham": 0.05
+        },
+        "opt-out nisqa": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "ñit’iy": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "qispisqa": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "qullqi": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "chani": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "llallisqa": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "utqaylla": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "chayllapuni": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "kamachiy": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "limitasqa": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "munachiy": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "pisiyachiy": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "garantizasqa": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "mana riesgoyuq": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "sullullchay": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "manu": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "hipoteca": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "farmacia nisqa": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "receta nisqa": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "hampi": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "pastillakuna": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "llasay": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "dieta": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "chinkachiy": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "libras": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "rantiy": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ñiqinchay": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "pisilla": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "waqaychay": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "sapaq": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "exclusivo": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "bonificación nisqa": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "suñay": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "napaykuy": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "akllasqa": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "yuyachiy": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "chiqaqchay": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "yupay": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "kichana": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "sayachisqa": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "wichqasqa": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "harkay": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "kunanyachiy": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazon": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "banco": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "cable": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "astay": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "enrutamiento nisqa": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "usqhaylla": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "occidental nisqamanta": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "union nisqa": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "qullqi yupay": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin nisqamanta": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "criptomoneda nisqamanta": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "chuspa": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "blockchain nisqa": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "huñunakuy": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "programa": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ruwana": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "huñu": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "tukuq pacha": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "huñusqa": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "yaparisqa": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "qillqa willakuq": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "willakuy": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "qawapay": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "rimaykuna": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "rimanakuy": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "agenda nisqa": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "minutokuna": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "qayay": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "riqsikuyki": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "riqsikuy": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "munay": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "qatiy": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "rimasqa": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "factura": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "chaskiy": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "pisiyachisqa": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "maskapay": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "tukusqakuna": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "waqaychana wasi": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "ruway": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "hukllanakuy": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "kallma": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "chutay": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "mañakusqa": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "despliegue": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "pantay allichay": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "pantay": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "kuru": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "allichay": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "sasachay": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "imayna kanan": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "qispichiy": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ima niraq": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "documentación nisqa": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "servidor": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "willay tantana wasi": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "tapuy": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "variable nisqa": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "yachakuna": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "imayna": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "interfaz nisqa": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "utqaylla",
+        "chayllapuni",
+        "chayllapuni",
+        "asap",
+        "kunan ruway",
+        "ama tardaychu",
+        "utqay",
+        "pisi tiempolla",
+        "tukukun",
+        "tukuq pacha",
+        "qhipa chansa",
+        "tukukuy willakuy",
+        "pachamanta yuyayniyuq",
+        "kunan kutichiy",
+        "ruway mañasqa"
+    ],
+    "greetingWords": [
+        "allinllachu",
+        "allinllachu",
+        "kuyasqa",
+        "yaw",
+        "napaykuy",
+        "rimaykullayki",
+        "rimaykullayki",
+        "rimaykullayki"
+    ],
+    "genericGreetings": [
+        "kuyasqa tayta",
+        "kuyasqay señora",
+        "kuyasqa rantiq",
+        "munasqa usuario",
+        "munasqa miembro",
+        "kuyasqay amistad",
+        "munasqa chaninchasqa",
+        "munasqa chaskiq",
+        "munasqa beneficiario"
+    ]
+}

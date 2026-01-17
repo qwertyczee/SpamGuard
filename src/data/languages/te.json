@@ -1,0 +1,1372 @@
+{
+    "language": "te",
+    "languageName": "Telugu",
+    "spamWords": [
+        {
+            "word": "నైజీరియన్ యువరాజు",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "వైర్ బదిలీ",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "బ్యాంకు ఖాతా వివరాలు",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "వారసత్వ నిధి",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "క్లెయిమ్ చేయని నిధులు",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "లబ్ధిదారుడు",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "మిలియన్ డాలర్లు",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "మిలియన్ usd",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "బదిలీ రుసుము",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ప్రాసెసింగ్ రుసుము",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "ముందస్తు రుసుము",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "వెస్ట్రన్ యూనియన్",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "మనీగ్రామ్",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "బిట్‌కాయిన్ వాలెట్",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "క్రిప్టోకరెన్సీ పెట్టుబడి",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "మీ బిట్‌కాయిన్‌ను రెట్టింపు చేసుకోండి",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "క్రిప్టో బహుమతి",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "ఇప్పుడే చర్య తీసుకోండి",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "వెంటనే చర్య తీసుకోండి",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "అత్యవసర ప్రతిస్పందన",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "అత్యవసర శ్రద్ధ",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "తక్షణ చర్య",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "పరిమిత సమయం",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ఈరోజు గడువు ముగుస్తుంది",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "చివరి అవకాశం",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "తుది నోటీసు",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "వెంటనే స్పందించండి",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "24 గంటల్లోపు",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "48 గంటల్లోపు",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "సమయానికి ప్రాధాన్యత కలిగిన",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ఆలస్యం చేయవద్దు",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "విజేతకు అభినందనలు",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "నువ్వు గెలిచావు",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "లాటరీ విజేత",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "బహుమతి నోటిఫికేషన్",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "మీ బహుమతిని క్లెయిమ్ చేసుకోండి",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "విజేత నోటిఫికేషన్",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "అదృష్ట విజేత",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ఎంపికైన విజేత",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "నగదు బహుమతి",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ఉచిత బహుమతి",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "స్వీప్‌స్టేక్స్",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "మీ ఖాతాను ధృవీకరించండి",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "మీ గుర్తింపును నిర్ధారించండి",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "మీ చెల్లింపును నవీకరించండి",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "సస్పెండ్ చేయబడిన ఖాతా",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "ఖాతా సస్పెండ్ చేయబడింది",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "అసాధారణ కార్యాచరణ",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "అనుమానాస్పద కార్యాచరణ",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "అనధికార ప్రాప్యత",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "ధృవీకరించడానికి ఇక్కడ క్లిక్ చేయండి",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "లాగిన్ ఆధారాలు",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "పాస్‌వర్డ్ రీసెట్",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "భద్రతా హెచ్చరిక",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "మీ ఖాతా ఇలా ఉంటుంది",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ధృవీకరించడంలో వైఫల్యం",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "మీ",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "చందాను తొలగించు",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "ఇక్కడ క్లిక్ చేయండి",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ఇప్పుడే కొనండి",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ఇప్పుడే ఆర్డర్ చేయండి",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ఉచిత ఆఫర్",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ప్రత్యేక ఆఫర్",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ప్రత్యేక డీల్",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ప్రమాద రహితం",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ఎటువంటి బాధ్యత లేదు",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "డబ్బు తిరిగి హామీ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "సంతృప్తి హామీ ఇవ్వబడింది",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ఇప్పుడే కాల్ చేయండి",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "టోల్ ఫ్రీ",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% ఉచితం",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "పూర్తిగా ఉచితం",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ఖర్చు లేదు",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "రుసుములు లేవు",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "అతి తక్కువ ధర",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ఉత్తమ ధర",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "డిస్కౌంట్",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "పెద్దగా ఆదా చేయండి",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "డబ్బు ఆదా చేయండి",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "మీ రెట్టింపు",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "మీ పెంచుకోండి",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "డబ్బు సంపాదించండి",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "డబ్బు సంపాదించండి",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "అదనపు ఆదాయం",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ఇంటి నుండి పని చేయండి",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "మీకు మీరే బాస్ అవ్వండి",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ఆర్థిక స్వేచ్ఛ",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ధనవంతులు అవ్వండి",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "జీతం పొందండి",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "తక్షణ యాక్సెస్",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "లక్షలాది మందితో చేరండి",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "వయాగ్రా",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "సియాలిస్",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ఫార్మసీ",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "ఆన్‌లైన్ ఫార్మసీ",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "కెనడియన్ ఫార్మసీ",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "ప్రిస్క్రిప్షన్",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ప్రిస్క్రిప్షన్ లేదు",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "ప్రిస్క్రిప్షన్ లేకుండా",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "అంగస్తంభన లోపం",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "బరువు తగ్గడం",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "బరువు తగ్గండి",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "బరువు తగ్గండి",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "డైట్ పిల్",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "కొవ్వును కరిగించే సాధనం",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "అద్భుత నివారణ",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "సహజ నివారణ",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "వృద్ధాప్య వ్యతిరేకత",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "పెద్దలకు మాత్రమే",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx వీడియో",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "వయోజన డేటింగ్",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "సింగిల్స్ ని కలవండి",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "హాట్ సింగిల్స్",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ఒంటరి మహిళలు",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ఒంటరి గృహిణి",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "ప్రియ మిత్రమా",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ప్రియమైన ప్రియతమా",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ప్రియమైన సర్/మేడమ్",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "గోప్యమైన",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "పూర్తిగా గోప్యంగా ఉంచబడింది",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ప్రైవేట్ మరియు గోప్యమైనది",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "విస్మరించవద్దు",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "స్పందించాలి",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "ఇది స్పామ్ కాదు.",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ఇది చెత్త కాదు.",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "స్కామ్ కాదు",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "చట్టబద్ధమైన ఆఫర్",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "చట్టపరమైన నోటీసు",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "కోర్టు ఆదేశం",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ప్రభుత్వ గ్రాంట్",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ఉచిత గ్రాంట్",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ఐఆర్ఎస్",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "పన్ను వాపసు",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "సమావేశం": -0.3,
+        "షెడ్యూల్": -0.3,
+        "ప్రాజెక్ట్": -0.3,
+        "గడువు": -0.3,
+        "జతచేయబడింది": -0.3,
+        "అటాచ్మెంట్": -0.3,
+        "శుభాకాంక్షలు": -0.2,
+        "భవదీయులు": -0.2,
+        "ధన్యవాదాలు": -0.3,
+        "ఫాలో అప్": -0.3,
+        "చర్చించినట్లుగా": -0.5,
+        "మన సంభాషణ ప్రకారం": -0.5,
+        "ఇన్వాయిస్": -0.2,
+        "నివేదిక": -0.2,
+        "సారాంశం": -0.2,
+        "నిమిషాలు": -0.3,
+        "అజెండా": -0.3,
+        "రిపోజిటరీ": -0.5,
+        "పుల్ రిక్వెస్ట్": -0.8,
+        "కట్టుబడి ఉండు": -0.5,
+        "విలీనం చేయు": -0.5,
+        "శాఖ": -0.5,
+        "అమలు చేయు": -0.5,
+        "డాక్యుమెంటేషన్": -0.3
+    },
+    "bayesianTokens": {
+        "వయాగ్రా": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "సియాలిస్": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "విస్తరణ": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "నైజీరియన్": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "వారసత్వం": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "లబ్ధిదారుడు": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "లాటరీ": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "విజేత": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "జాక్‌పాట్": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "చందాను తొలగించు": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "నిలిపివేయండి": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "క్లిక్ చేయండి": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ఉచితం": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "డబ్బు": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "నగదు": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "బహుమతి": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "గెలిచింది": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "అత్యవసరం": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "వెంటనే": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "చర్య": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "పరిమితం": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "ఆఫర్": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "డిస్కౌంట్": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "హామీ ఇవ్వబడింది": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "ప్రమాద రహితం": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "బాధ్యత": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "క్రెడిట్": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "అప్పు": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "ఋణం": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "తనఖా": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "ఫార్మసీ": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "ప్రిస్క్రిప్షన్": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "మందులు": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "మాత్రలు": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "బరువు": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "ఆహారం": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ఓడిపో": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "పౌండ్లు": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "కొనుగోలు": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ఆర్డర్": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "అమ్మకం": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "చౌక": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "సేవ్": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "ఒప్పందం": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ప్రత్యేక": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ప్రత్యేకమైన": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "బోనస్": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "అభినందనలు": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "ఎంపిక చేయబడింది": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "నిర్ధారించండి": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ధృవీకరించు": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "ఖాతా": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "పాస్‌వర్డ్": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "సస్పెండ్ చేయబడింది": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "లాక్ చేయబడింది": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "భద్రత": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "నవీకరణ": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "పేపాల్": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ఈబే": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "అమెజాన్": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "బ్యాంకు": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "వైర్": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "బదిలీ": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "రూటింగ్": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "వేగంగా": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "పశ్చిమ": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "యూనియన్": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "మనీగ్రామ్": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "బిట్‌కాయిన్": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "క్రిప్టోకరెన్సీ": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "పర్సు": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "బ్లాక్‌చెయిన్": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "సమావేశం": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "షెడ్యూల్": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ప్రాజెక్ట్": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "జట్టు": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "గడువు": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "జతచేయబడింది": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "అటాచ్మెంట్": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "పత్రం": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "నివేదిక": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "సమీక్ష": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "అభిప్రాయం": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "చర్చ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "అజెండా": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "నిమిషాలు": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "కాల్": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "శుభాకాంక్షలు": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "భవదీయులు": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "ధన్యవాదాలు": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "అభినందిస్తున్నాను": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "అనుసరిస్తున్నారు": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "చర్చించబడింది": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "సంభాషణ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ఇన్వాయిస్": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "రసీదు": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "సారాంశం": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "విశ్లేషణ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "పరిశోధన": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "డేటా": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "ఫలితాలు": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "రిపోజిటరీ": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "కట్టుబడి ఉండు": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "విలీనం చేయు": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "శాఖ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "లాగండి": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "అభ్యర్థన": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "అమలు చేయు": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "నిర్మించు": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "పరీక్ష": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "డీబగ్": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "లోపం": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "బగ్": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "సరిచేయు": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "సమస్య": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "లక్షణం": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "విడుదల": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "వెర్షన్": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "డాక్యుమెంటేషన్": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api తెలుగు in లో": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "సర్వర్": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "డేటాబేస్": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ప్రశ్న": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ఫంక్షన్": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "వేరియబుల్": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "తరగతి": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "పద్ధతి": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ఇంటర్ఫేస్": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "అత్యవసరం",
+        "తక్షణం",
+        "వెంటనే",
+        "వీలైనంత త్వరగా",
+        "ఇప్పుడే చర్య తీసుకోండి",
+        "ఆలస్యం చేయవద్దు",
+        "తొందరపడండి",
+        "పరిమిత సమయం",
+        "గడువు ముగుస్తుంది",
+        "గడువు",
+        "చివరి అవకాశం",
+        "తుది నోటీసు",
+        "సమయానికి ప్రాధాన్యత కలిగిన",
+        "ఇప్పుడే స్పందించండి",
+        "చర్య అవసరం"
+    ],
+    "greetingWords": [
+        "హాయ్",
+        "హలో",
+        "ప్రియమైన",
+        "హే",
+        "శుభాకాంక్షలు",
+        "శుభోదయం",
+        "శుభ మధ్యాహ్నం",
+        "శుభ సాయంత్రం"
+    ],
+    "genericGreetings": [
+        "ప్రియమైన సార్",
+        "ప్రియమైన మేడమ్",
+        "ప్రియమైన కస్టమర్",
+        "ప్రియమైన వినియోగదారు",
+        "ప్రియమైన సభ్యుడు",
+        "ప్రియ మిత్రమా",
+        "ప్రియమైన విలువైన",
+        "ప్రియమైన గ్రహీత",
+        "ప్రియమైన లబ్ధిదారునికి"
+    ]
+}

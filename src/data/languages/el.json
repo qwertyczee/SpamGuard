@@ -1,0 +1,1378 @@
+{
+    "language": "el",
+    "languageName": "Greek",
+    "spamWords": [
+        {
+            "word": "νιγηριανός πρίγκιπας",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "τραπεζικό έμβασμα",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "στοιχεία τραπεζικού λογαριασμού",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "ταμείο κληρονομιάς",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "αζήτητα κεφάλαια",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "δικαιούχος",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "εκατομμύρια δολάρια",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "εκατομμύρια δολάρια ηπα",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "χρέωση μεταφοράς",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "τέλος επεξεργασίας",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "προκαταβολή",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "δυτική ένωση",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "πορτοφόλι bitcoin",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "επένδυση σε κρυπτονομίσματα",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "διπλασιάστε το bitcoin σας",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "κρυπτογραφικό δώρο",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "δράσε τώρα",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ενεργήστε αμέσως",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "επείγουσα απάντηση",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "επείγουσα προσοχή",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "άμεση δράση",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "περιορισμένος χρόνος",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "λήγει σήμερα",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "τελευταία ευκαιρία",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "τελική ειδοποίηση",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "απαντήστε αμέσως",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "εντός 24 ωρών",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "εντός 48 ωρών",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "ευαίσθητο στο χρόνο",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "μην καθυστερείς",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "συγχαρητήρια νικητή",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "έχεις κερδίσει",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "νικητής λαχειοφόρου αγοράς",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ειδοποίηση βραβείου",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "διεκδικήστε το βραβείο σας",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ειδοποίηση νίκης",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "τυχερός νικητής",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "επιλεγμένος νικητής",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "χρηματικό έπαθλο",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "δωρεάν βραβείο",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "λαχείο υποδρομιών",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "επαληθεύστε τον λογαριασμό σας",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "επιβεβαιώστε την ταυτότητά σας",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ενημερώστε την πληρωμή σας",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "λογαριασμός σε αναστολή",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "λογαριασμός σε αναστολή",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "ασυνήθιστη δραστηριότητα",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "ύποπτη δραστηριότητα",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "μη εξουσιοδοτημένη πρόσβαση",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "κάντε κλικ εδώ για επαλήθευση",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "διαπιστευτήρια σύνδεσης",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "επαναφορά κωδικού πρόσβασης",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "ειδοποίηση ασφαλείας",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "ο λογαριασμός σας θα είναι",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "αποτυχία επαλήθευσης",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "επανενεργοποιήστε το",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "διαγραφή από την εγγραφή",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "κάντε κλικ εδώ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "αγοράστε τώρα",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "παραγγείλτε τώρα",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "δωρεάν προσφορά",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ειδική προσφορά",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "αποκλειστική προσφορά",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "χωρίς κίνδυνο",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "καμία υποχρέωση",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "εγγύηση επιστροφής χρημάτων",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "εγγυημένη ικανοποίηση",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "καλέστε τώρα",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "δωρεάν κλήση",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% δωρεάν",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "εντελώς δωρεάν",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "χωρίς κόστος",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "χωρίς χρεώσεις",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "χαμηλότερη τιμή",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "καλύτερη τιμή",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "έκπτωση",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "εξοικονομήστε πολλά",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "εξοικονομήστε χρήματα",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "διπλασιάστε το",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "αυξήστε το",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "κερδίζω χρήματα",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "κάνω λεφτά",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "επιπλέον εισόδημα",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "εργασία από το σπίτι",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "να είσαι το αφεντικό του εαυτού σου",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "οικονομική ελευθερία",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "γίνομαι πλούσιος",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "πληρώνομαι",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "άμεση πρόσβαση",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "γίνετε μέλος εκατομμυρίων",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "βιάγκρα",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "σιαλις",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "φαρμακείο",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "διαδικτυακό φαρμακείο",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "καναδικό φαρμακείο",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "συνταγή",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "χωρίς συνταγή",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "χωρίς συνταγή",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "στυτική δυσλειτουργία",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "απώλεια βάρους",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "χάστε βάρος",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "χάσω κιλά",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "χάπι αδυνατίσματος",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "καυστήρας λίπους",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "θαυματουργή θεραπεία",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "φυσική θεραπεία",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "αντιγήρανση",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "περιεχόμενο για ενηλίκους",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ραντεβού ενηλίκων",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "γνωρίστε singles",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "καυτά singles",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "μοναχικές γυναίκες",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "μοναχική νοικοκυρά",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "αγαπητέ φίλε",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "αγαπητέ/αγαπημένη",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "αγαπητέ/αγαπητέ/ή κύριε/κυρία",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "εμπιστευτικός",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "αυστηρά εμπιστευτικό",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ιδιωτικό και εμπιστευτικό",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "μην αγνοείς",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "πρέπει να απαντήσω",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "αυτό δεν είναι ανεπιθύμητο περιεχόμενο",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "αυτό δεν είναι σκουπίδι",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "δεν είναι απάτη",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "νόμιμη προσφορά",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "νομική ειδοποίηση",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "δικαστική απόφαση",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "κρατική επιχορήγηση",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "δωρεάν επιχορήγηση",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "εφορία",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "επιστροφή φόρου",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "συνάντηση": -0.3,
+        "πρόγραμμα": -0.3,
+        "σχέδιο": -0.3,
+        "διορία": -0.3,
+        "συνημμένο": -0.3,
+        "προσάρτημα": -0.3,
+        "χαιρετισμοί": -0.2,
+        "ειλικρινά": -0.2,
+        "ευχαριστώ": -0.2,
+        "σας ευχαριστώ": -0.3,
+        "παρακολούθηση": -0.3,
+        "όπως συζητήθηκε": -0.5,
+        "σύμφωνα με τη συζήτησή μας": -0.5,
+        "τιμολόγιο": -0.2,
+        "έκθεση": -0.2,
+        "περίληψη": -0.2,
+        "πρακτικά": -0.3,
+        "ημερήσια διάταξη": -0.3,
+        "διάσκεψη": -0.3,
+        "αποθήκη": -0.5,
+        "αίτημα έλξης": -0.8,
+        "διαπράττω": -0.5,
+        "συγχώνευση": -0.5,
+        "υποκατάστημα": -0.5,
+        "αναπτύσσω": -0.5,
+        "απόδειξη με έγγραφα": -0.3
+    },
+    "bayesianTokens": {
+        "βιάγκρα": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "σιαλις": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "μεγέθυνση": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "νιγηριανός": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "κληρονομία": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "δικαιούχος": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "λαχείο": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "νικητής": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "σύνολο στοιχημάτων": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "διαγραφή από την εγγραφή": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "εξαίρεση": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "κλικ": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "δωρεάν": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "χρήματα": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "μετρητά": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "βραβείο": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "γουόν": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "επείγων": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "αμέσως": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "πράξη": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "περιωρισμένος": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "προσφορά": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "έκπτωση": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "εγγυημένο": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "χωρίς κίνδυνο": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "υποχρέωση": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "πίστωση": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "χρέος": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "δάνειο": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "υποθήκη": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "φαρμακείο": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "συνταγή": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "φάρμακο": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "χάπια": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "βάρος": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "διατροφή": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "χάνω": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "λίβρες": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "αγορά": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "παραγγελία": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "πώληση": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "φτηνός": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "εκτός": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "συμφωνία": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ειδικός": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "αποκλειστικός": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "δώρο": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "συγχαρητήρια": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "επιλεγμένο": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "επιβεβαιώνω": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "επαληθεύω": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "λογαριασμός": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "σύνθημα": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ανασταλμένος": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "κλειδωμένο": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ασφάλεια": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "εκσυγχρονίζω": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "αμαζόνα": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "τράπεζα": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "σύρμα": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "μεταφορά": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "δρομολόγηση": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ταχύς": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "δυτικός": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ένωση": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "κρυπτονόμισμα": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "πορτοφόλι": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "blockchain": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "συνάντηση": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "πρόγραμμα": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "σχέδιο": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ομάδα": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "διορία": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "συνημμένο": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "προσάρτημα": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "έγγραφο": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "έκθεση": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "κριτική": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ανατροφοδότηση": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "συζήτηση": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ημερήσια διάταξη": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "πρακτικά": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "διάσκεψη": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "κλήση": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "χαιρετισμοί": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ειλικρινά": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "ευχαριστώ": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "εκτιμώ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "εξής": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "συζητήθηκε": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "συνομιλία": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "τιμολόγιο": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "παραλαβή": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "περίληψη": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ανάλυση": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "έρευνα": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "δεδομένα": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "αποτελέσματα": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "αποθήκη": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "διαπράττω": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "συγχώνευση": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "υποκατάστημα": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "τραβήξτε": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "αίτηση": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "αναπτύσσω": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "οικοδομώ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "δοκιμή": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "εντοπισμός σφαλμάτων": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "σφάλμα": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "έντομο": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "διορθώνω": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ζήτημα": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "χαρακτηριστικό": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ελευθέρωση": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "εκδοχή": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "απόδειξη με έγγραφα": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "υπηρέτης": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "βάση δεδομένων": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ερώτηση": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "λειτουργία": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "μεταβλητός": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "τάξη": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "μέθοδος": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "διεπαφή": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "επείγων",
+        "άμεσος",
+        "αμέσως",
+        "το συντομότερο δυνατό",
+        "δράσε τώρα",
+        "μην καθυστερείς",
+        "βιασύνη",
+        "περιορισμένος χρόνος",
+        "λήγει",
+        "διορία",
+        "τελευταία ευκαιρία",
+        "τελική ειδοποίηση",
+        "ευαίσθητο στο χρόνο",
+        "απάντησε τώρα",
+        "απαιτούμενη ενέργεια"
+    ],
+    "greetingWords": [
+        "γεια",
+        "γειά σου",
+        "αγαπητός",
+        "γεια",
+        "χαιρετίσματα",
+        "καλημέρα",
+        "καλημέρα",
+        "καλησπέρα"
+    ],
+    "genericGreetings": [
+        "αγαπητέ κύριε",
+        "αγαπητή κυρία",
+        "αγαπητέ πελάτη",
+        "αγαπητέ χρήστη",
+        "αγαπητό μέλος",
+        "αγαπητέ φίλε",
+        "αγαπητέ/ή",
+        "αγαπητέ παραλήπτη",
+        "αγαπητέ δικαιούχο"
+    ]
+}

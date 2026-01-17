@@ -1,0 +1,1377 @@
+{
+    "language": "ay",
+    "languageName": "Aymara",
+    "spamWords": [
+        {
+            "word": "nigeria markankir príncipe",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "alambre transferencia ukaxa mä juk’a pachanakwa lurasi",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "banco ukan cuentapat yatiyawinak uñt’ayaña",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "herencia qullqi churañataki",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "jan mayita qullqinaka",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "beneficiario ukaxa",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "millones de dólares ukha qullqiwa",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "millón millón usd",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "transferencia ukaxa qullqiwa",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "lurañataki qullqi",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "nayraqat qullqi churaña",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "occidental uksankir union",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "qullqi tuqitxa",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "bitcoin ukax mä billetera ukhamawa",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "criptomoneda ukax qullqichrantatawa",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "pä kutiw bitcoin ukax utji",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "cripto ukax mä jach’a uñacht’äwiwa",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "jichhax lurañamawa",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "jank’akiw kuns lurañama",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "jank’aki jaysañataki",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "jank’aki uñjaña",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "jank’aki luraña",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "mä juk’a pachanakwa",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "jichhüruw tukusxi",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "qhipa ch’amampi",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "qhipa yatiyawi",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "jank’akiw jaysaña",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "24 pachanakanxa",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "48 pachanakanxa",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "pacha uñakipaña",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "jan qhipt'amti",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "jallallt’apxsmawa atipt’iri",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "jumanakax atipt'apxtawa",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "lotería ukan atipt’iri",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "premio uñt’ayaña",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "premio katuqañamawa",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "atipt’ir yatiyawi",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "suerteni atipjiri",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ajllit atipiri",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "qullqi premio katuqaña",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "premio inakiw churasini",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "sorteo ukanaka",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "cuentam chiqapar uñjañamawa",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "identidad uñt’ayaña",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "payllawix machaqar tukuyatawa",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "cuenta suspendida ukampi",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "cuenta suspendida ukampi",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "jan uñt’at lurawi",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "suspecto lurawi",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "jan autorizacionampi mantañaxa",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "aka tuqir ch’iqt’am chiqañchañataki",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "uñt’ayañataki credenciales ukanaka",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "contraseña ukar kutt’ayaña",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "seguridad ukat alerta",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "cuentamajj ukhamäniwa",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "jan chiqapar uñjaña",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "reactivar ukax mä juk’a pachanakanwa",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "jan suscribirïñamawa",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "aka tuqir ch’iqt’am",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "jichhax alasipxam",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "jichhax mayiñani",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "inaki churaña",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ofrecimiento especial ukax mä jach’a uñacht’äwiwa",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "exclusivo ukax mä trato ukhamawa",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "jan riesgonïñapataki",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "janiw kuna obligacionas utjkiti",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "qullqi kutt’ayaña garantia",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "satisfacción ukaxa garantizatawa",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "jichhax jawst’apxam",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "jan qullqini",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% ukax inakiw",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "taqpach inaki",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "janiw kuna qullqis munaskiti",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "janiwa qullqixa utjkiti",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "juk’amp jisk’a qullqini",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "suma chanipa",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "iraqawi",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "jach’a qhispiyaña",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "qullqi imaña",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "doble ukham luraña",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "jilxatayañamatakixa",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "qullqi jikxataña",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "qullqi jikxataña",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "qullqi yapxataña",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "utatpach irnaqaña",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "juma pachpa jefemäñamawa",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "qullqi tuqita qhispiyasiña",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "qamiriptaña",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "payllawi katuqaña",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "jank’aki mantañataki",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "millones de jaqinakamp chikt’atäpxam",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra ukax mä juk’a pachanakanwa",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cialis ukax mä juk’a pachanakanwa",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "farmacia ukan irnaqiri",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "farmacia en línea uka tuqit yatxataña",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "canadiense farmacia ukan irnaqiri",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "receta ukata",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "janiw kuna recetas utjkiti",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "jan recetampi",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "disfunción eréctil ukaxa wali ch’amawa",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "jan lik’ïñapataki",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "jan lik’ïñapataki",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "kilonak chhaqhayaña",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "dieta pastilla",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "lik’i q’añuchaña",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "milagro qullañataki",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "natural qullaña",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "anti-aging ukampi",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "jilïr jaqinakan contenidopa",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "jilïr jaqinakan uñt’asiñapa",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "solteronakampi jikisiña",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "junt’u solteronaka",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "sapaki warminaka",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "sapaki utankir warmi",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "munat masija",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "munat munat jilata",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "munat jilata/madam",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "imantat yatiyañataki",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "wali imantatawa",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "privado ukatxa confidencial ukanaka",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "jan yäqañamäkiti",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "jaysañapawa",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "ukax janiw spam ukhamäkiti",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ukax janiw ch’usakïkiti",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "janiw mä estafa ukhamäkiti",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "oferta legítima ukaxa",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "kamachi tuqita yatiyawi",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "tribunal ukan kamachipa",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "gobiernon yanapt’apa",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "inaki yanapt’aña",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "impuesto qullqi kutt’ayaña",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "tantachäwi": -0.3,
+        "wakichäwi": -0.3,
+        "amta": -0.3,
+        "tukuy uru": -0.3,
+        "mayachata": -0.3,
+        "taqpacha": -0.3,
+        "aruntawi": -0.2,
+        "chiqpachansa": -0.2,
+        "pay suma": -0.3,
+        "arktañataki": -0.3,
+        "kunjamtï arsuwayktan ukhama": -0.5,
+        "per jiwasan aruskipäwisa": -0.5,
+        "phaktura": -0.2,
+        "uñt'ayawi": -0.2,
+        "juk'achata": -0.2,
+        "k'athanaka": -0.3,
+        "agenda ukax mä agenda ukankiwa": -0.3,
+        "yatiyawi": -0.3,
+        "imaña uta": -0.5,
+        "jaqukipaña mayiwi": -0.8,
+        "phuqhawsaña": -0.5,
+        "mayachasiña": -0.5,
+        "sukursala": -0.5,
+        "jithiqtaña": -0.5,
+        "documentación ukanaka": -0.3
+    },
+    "bayesianTokens": {
+        "viagra ukax mä juk’a pachanakanwa": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cialis ukax mä juk’a pachanakanwa": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "jach’aptayaña": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "nigeria markanxa": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "katuqata": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "beneficiario ukaxa": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "lotería ukata": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "atipt’iri": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "jackpot ukax mä juk’a pachanakanwa": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "jan suscribirïñamawa": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "optout ukax mä juk’a pachanakanwa": {
+            "spam": 0.85,
+            "ham": 0.05
+        },
+        "ukatsti janiw ukhamäkiti": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "ukxaru ch’iqt’aña": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "qhisphita": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "qulli": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "qullqi": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "waxt'a": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "atipjiwa": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "jank'aki": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "jank'akipuni": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "aktu": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "limitado ukhamawa": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "uphirta": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "iraqawi": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "garantizatawa": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "jan kuna jan walt’awinakani": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "phuqhawi": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "mayt'awi": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "manu": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "iputika": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "farmacia ukan irnaqiri": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "receta ukata": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "qullanaka": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "pastillanaka": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "pisu": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "juk'ak manq'aña": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "chhaqhayaña": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "libranaka": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "alaña": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "mayachthapiña": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "alja": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "juk'a chanini": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "imaña": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "tratu": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ispisyala": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ukatakipuni": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "bono ukampi": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "jallallt'apxsma": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "ajllitanaka": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "iyawsaña": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "uñakipaña": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "kuñta": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "chimpu": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "suyt'ata": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "llawintata": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "jark'aqawi": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "jichhakiptayaña": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal ukax mä juk’a pachanakanwa": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay ukat juk’ampinaka": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazon ukax mä jach’a uñacht’äwiwa": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "wanku": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "kawli": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "maysarstayaña": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ruteo ukanaka": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "jank’aki": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "inti jalant tuqinkir jaqinaka": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "union ukax mä jach’a uñacht’äwiwa": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "qullqi tuqitxa": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin ukax mä juk’a pachanakanwa": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "criptomoneda ukax mä juk’a pachanakanwa": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "willitira": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "blockchain ukax mä jach’a uñacht’äwiwa": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "tantachäwi": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "wakichäwi": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "amta": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "tama": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "tukuy uru": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "mayachata": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "taqpacha": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "tukumintu": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "uñt'ayawi": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "arunaka": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ch'axwa": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "agenda ukax mä agenda ukankiwa": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "k'athanaka": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "yatiyawi": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "jawsaña": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "aruntawi": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "chiqpachansa": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "pay suma": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "paychaña": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "yäqaña": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ukxaru": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "sasaw aruskipt’apxi": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "aruskipawi": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "phaktura": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "risiwu": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "juk'achata": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "amuykipawi": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "yatxatäwi": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "tatunaka": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "utjirinaka": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "imaña uta": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "phuqhawsaña": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "mayachasiña": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "sukursala": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "jaqtaña": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "mayiña": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "jithiqtaña": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "luraña": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "yant'a": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ukax mä debug ukhamawa": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "pantja": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "pantjata": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "askichaña": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "tima": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "uñstata": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "antutaña": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "wirsyuna": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "documentación ukanaka": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "servidor ukax mä servidor ukhamawa": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ukax mä base de datos ukankiwa": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "jiskt'a": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "phunsyuna": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "variable ukhamawa": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "klasi": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "thakhi": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "interfaz ukampi": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "jank'aki",
+        "jank'aki",
+        "jank'akipuni",
+        "asap",
+        "jichhax lurañamawa",
+        "jan qhipt'amti",
+        "jank'a",
+        "mä juk’a pachanakwa",
+        "ukax tukusxiwa",
+        "tukuy uru",
+        "qhipa ch’amampi",
+        "qhipa yatiyawi",
+        "pacha uñakipaña",
+        "jichhax jaysañamawa",
+        "lurañawa wakisi"
+    ],
+    "greetingWords": [
+        "kamisaki",
+        "kamisaki",
+        "munata",
+        "chhuy",
+        "aruntanaka",
+        "aski alwakipana",
+        "aski jayp'u",
+        "aski arumaki"
+    ],
+    "genericGreetings": [
+        "munata",
+        "munat kullaka",
+        "munat kliyinti",
+        "munat apnaqiri",
+        "munat miembro",
+        "munat masija",
+        "munat wali valorani",
+        "munat katuqiri",
+        "munat beneficiario jaqi"
+    ]
+}

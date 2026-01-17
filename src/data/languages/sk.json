@@ -1,0 +1,1382 @@
+{
+    "language": "sk",
+    "languageName": "Slovak",
+    "spamWords": [
+        {
+            "word": "nigérijský princ",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "bankový prevod",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "údaje o bankovom účte",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "dedičský fond",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "nevyžiadané finančné prostriedky",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "príjemca",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "milión dolárov",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "milión usd",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "poplatok za prevod",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "poplatok za spracovanie",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "poplatok vopred",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "západná únia",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "bitcoinová peňaženka",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "investície do kryptomien",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "zdvojnásobte svoj bitcoin",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "krypto súťaž",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "konaj teraz",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "konať okamžite",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "urgentná reakcia",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "naliehavá pozornosť",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "okamžitá akcia",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "obmedzený čas",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "vyprší dnes",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "posledná šanca",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "posledné oznámenie",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "okamžite odpovedať",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "do 24 hodín",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "do 48 hodín",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "časovo citlivý",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "neodkladaj",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "gratulujem víťazovi",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "vyhral si",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "výherca lotérie",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "oznámenie o výhre",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "vyzdvihnite si svoju výhru",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "oznámenie o výhre",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "šťastný výherca",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "vybraný víťaz",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "peňažná výhra",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "bezplatná cena",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "lotérie",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "overiť svoj účet",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "potvrďte svoju totožnosť",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "aktualizujte si platbu",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "pozastavený účet",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "účet pozastavený",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "nezvyčajná aktivita",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "podozrivá aktivita",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "neoprávnený prístup",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "kliknite sem pre overenie",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "prihlasovacie údaje",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "obnovenie hesla",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "bezpečnostné upozornenie",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "váš účet bude",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "neoverenie",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "znovu aktivovať svoj",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "odhlásiť sa",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "kliknite sem",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "kúpiť teraz",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "objednať teraz",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "bezplatná ponuka",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "špeciálna ponuka",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "exkluzívna ponuka",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "bez rizika",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "bez záväzku",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "záruka vrátenia peňazí",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "spokojnosť zaručená",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "zavolajte teraz",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "bezplatná linka",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% zadarmo",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "úplne zadarmo",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "žiadne náklady",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "žiadne poplatky",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "najnižšia cena",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "najlepšia cena",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "zľava",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "ušetrite veľa",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ušetriť peniaze",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "zdvojnásobte svoj",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "zvýšiť svoj",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "zarobiť peniaze",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "zarobiť peniaze",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "dodatočný príjem",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "práca z domu",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "buď svojím vlastným šéfom",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "finančná sloboda",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "zbohatnúť",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "dostať zaplatené",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "okamžitý prístup",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "pridajte sa k miliónom",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "lekáreň",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "online lekáreň",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "kanadská lekáreň",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "predpis",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "bez lekárskeho predpisu",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "bez lekárskeho predpisu",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "erektilná dysfunkcia",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "úbytok hmotnosti",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "schudnúť",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "schudnúť",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "tabletka na chudnutie",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "spaľovač tukov",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "zázračný liek",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "prírodný liek",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "proti starnutiu",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "obsah pre dospelých",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "zoznamovanie pre dospelých",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "stretnúť singlov",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "horúce single",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "osamelé ženy",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "osamelá žena v domácnosti",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "drahý priateľ",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "drahý/á milovaný/á",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "vážený pán/pani",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "dôverné",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "prísne dôverné",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "súkromné a dôverné",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "neignorovať",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "musí odpovedať",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "toto nie je spam",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "toto nie je haraburdie",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "nie je to podvod",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "legitímna ponuka",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "právne upozornenie",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "súdny príkaz",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "vládny grant",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "bezplatný grant",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "vnútorná správa",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "vrátenie dane",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "stretnutie": -0.3,
+        "rozvrh": -0.3,
+        "projekt": -0.3,
+        "termín": -0.3,
+        "priložený": -0.3,
+        "príloha": -0.3,
+        "s pozdravom": -0.2,
+        "úprimne": -0.2,
+        "vďaka": -0.2,
+        "ďakujem": -0.3,
+        "následné kroky": -0.3,
+        "ako bolo prediskutované": -0.5,
+        "podľa nášho rozhovoru": -0.5,
+        "faktúra": -0.2,
+        "správa": -0.2,
+        "zhrnutie": -0.2,
+        "minúty": -0.3,
+        "agenda": -0.3,
+        "konferencia": -0.3,
+        "úložisko": -0.5,
+        "žiadosť o stiahnutie": -0.8,
+        "zaviazať sa": -0.5,
+        "zlúčiť": -0.5,
+        "pobočka": -0.5,
+        "nasadiť": -0.5,
+        "dokumentácia": -0.3
+    },
+    "bayesianTokens": {
+        "viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "zväčšenie": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "nigérijský": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "dedičstvo": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "príjemca": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "lotéria": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "víťaz": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "jackpot": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "odhlásiť sa": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "odhlásenie": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "kliknite": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "zadarmo": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "peniaze": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "hotovosť": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "cena": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "vyhral": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "naliehavé": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "okamžite": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "konať": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "obmedzený": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "ponuka": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "zľava": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "zaručené": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "bez rizika": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "povinnosť": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "úver": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "dlh": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "pôžička": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "hypotéka": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "lekáreň": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "predpis": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "lieky": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "pilulky": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "hmotnosť": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "diéta": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "stratiť": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "libier": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "kúpiť": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "objednávka": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "nákup": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "predaj": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "lacné": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "uložiť": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "dohoda": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "špeciálny": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "exkluzívny": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "bonus": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "darček": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "gratulujem": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "vybrané": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "potvrdiť": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "overiť": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "účet": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "heslo": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "pozastavené": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "zamknuté": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "bezpečnosť": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "aktualizácia": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazon": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "banka": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "drôt": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "prevod": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "smerovanie": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "rýchly": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "západný": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "odbor": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "kryptomena": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "peňaženka": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "blockchain": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "stretnutie": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "rozvrh": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "projekt": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "tím": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "termín": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "priložený": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "príloha": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "dokument": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "správa": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "recenzia": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "spätná väzba": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "diskusia": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "agenda": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "minúty": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "konferencia": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "volať": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "s pozdravom": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "úprimne": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "vďaka": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ďakujem": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "oceniť": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "nasledujúce": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "diskutované": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "konverzácia": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "faktúra": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "potvrdenie": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "zhrnutie": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "analýza": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "výskum": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "údaje": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "výsledky": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "úložisko": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "zaviazať sa": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "zlúčiť": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "pobočka": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "sem": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "žiadosť": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "nasadiť": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "stavať": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "test": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ladenie": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "chyba": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "opraviť": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "problém": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "funkcia": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "uvoľnenie": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "verzia": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "dokumentácia": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "server": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "databáza": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "dopyt": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "premenná": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "trieda": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "metóda": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "rozhranie": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "naliehavé",
+        "okamžitý",
+        "okamžite",
+        "čo najskôr",
+        "konaj teraz",
+        "neodkladaj",
+        "ponáhľať sa",
+        "obmedzený čas",
+        "vyprší",
+        "termín",
+        "posledná šanca",
+        "posledné oznámenie",
+        "časovo citlivý",
+        "odpovedz teraz",
+        "vyžadovaná akcia"
+    ],
+    "greetingWords": [
+        "ahoj",
+        "ahoj",
+        "drahý/á",
+        "hej",
+        "pozdravy",
+        "dobré ráno",
+        "dobré popoludnie",
+        "dobrý večer"
+    ],
+    "genericGreetings": [
+        "vážený pane",
+        "vážená pani",
+        "vážený zákazník",
+        "vážený používateľ",
+        "vážený člen",
+        "drahý priateľ",
+        "drahý/á",
+        "milý príjemca",
+        "vážený príjemca"
+    ]
+}

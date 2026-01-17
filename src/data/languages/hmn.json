@@ -1,0 +1,1360 @@
+{
+    "language": "hmn",
+    "languageName": "Hmong",
+    "spamWords": [
+        {
+            "word": "tus tub huabtais nigerian",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "kev xa nyiaj los ntawm xov tooj",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "cov ntaub ntawv hais txog tus account hauv txhab nyiaj",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "nyiaj txais qub txeeg qub teg",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "cov nyiaj tsis tau thov",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "tus neeg tau txais txiaj ntsig",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "lab daus las",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "lab daus las",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "tus nqi hloov pauv",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "tus nqi ua haujlwm",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "tus nqi them ua ntej",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "lub koom haum sab hnub poob",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "lub hnab nyiaj bitcoin",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "kev nqis peev cryptocurrency",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "ob npaug koj cov bitcoin",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "kev muab crypto",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "ua tam sim no",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ua tam sim ntawd",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "kev teb sai",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "kev saib xyuas sai",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "kev nqis tes ua tam sim ntawd",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "lub sijhawm txwv",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "tas sij hawm hnub no",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "lub sijhawm kawg",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "daim ntawv ceeb toom kawg",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "teb tam sim ntawd",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "tsis pub dhau 24 teev",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "tsis pub dhau 48 teev",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "lub sijhawm rhiab heev",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "tsis txhob ncua sijhawm",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "kev zoo siab rau tus yeej",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "koj yeej lawm",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "tus yeej lottery",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "kev ceeb toom txog khoom plig",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "thov koj qhov khoom plig",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "kev ceeb toom yeej",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "tus yeej muaj hmoo",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "tus yeej xaiv",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "nyiaj ntsuab",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "khoom plig pub dawb",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "kev sib tw ua si",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "xyuas koj tus account",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "lees paub koj tus kheej",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "hloov kho koj qhov kev them nyiaj",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "tus account raug ncua",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "tus account raug tshem tawm",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "kev ua ub ua no txawv txawv",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "kev ua ub ua no uas tsis ntseeg",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "kev nkag mus tsis tau tso cai",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "nyem qhov no kom paub tseeb",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "cov ntaub ntawv nkag mus",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "rov pib dua lo lus zais",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "kev ceeb toom kev ruaj ntseg",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "koj tus account yuav",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ua tsis tiav los xyuas kom meej",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "rov qhib koj lub",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "tsis txhob sau npe",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "nyem qhov no",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "yuav tam sim no",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "txiav txim tam sim no",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "kev pub dawb",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "kev tshwj xeeb",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "daim ntawv cog lus tshwj xeeb",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "tsis muaj kev pheej hmoo",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "tsis muaj kev lav ris",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "lav nyiaj rov qab",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "kev txaus siab lav",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "hu tam sim no",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "hu dawb xwb",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% pub dawb",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "dawb kiag li",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "tsis muaj nqi",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "tsis muaj nqi",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "tus nqi qis tshaj plaws",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "tus nqi zoo tshaj plaws",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "luv nqi",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "txuag tau ntau",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "txuag nyiaj",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ob npaug koj",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ua kom koj loj hlob",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "khwv tau nyiaj",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ua kom tau nyiaj",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "cov nyiaj tau los ntxiv",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ua haujlwm hauv tsev",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ua koj tus thawj coj",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "kev ywj pheej nyiaj txiag",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ua kom nplua nuj",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "tau txais nyiaj",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "nkag mus tau tam sim ntawd",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "koom nrog ntau lab tus",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "tshuaj viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "tshuaj cialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "tsev muag tshuaj",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "tsev muag tshuaj online",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "tsev muag tshuaj canadian",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "daim ntawv qhia tshuaj",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "tsis muaj daim ntawv yuav tshuaj",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "tsis muaj daim ntawv yuav tshuaj",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "kev ua haujlwm tsis zoo ntawm lub cev",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "poob phaus",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "poob phaus",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "poob phaus",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "tshuaj noj kom poob phaus",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "lub tshuab hlawv rog",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "kev kho mob txuj ci tseem ceeb",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "tshuaj ntsuab",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "tiv thaiv kev laus",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "cov ntsiab lus rau cov neeg laus",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "kev sib tham rau cov neeg laus",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ntsib cov neeg tsis muaj txij nkawm",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "cov neeg kub kub",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "cov poj niam kho siab",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "tus poj niam tsev kho siab",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "tus phooj ywg zoo",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "tus hlub",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "nyob zoo tus txiv neej/poj niam",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "zais cia",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "zais cia tsis pub lwm tus paub",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ntiag tug thiab zais cia",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "tsis txhob quav ntsej",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "yuav tsum teb",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "qhov no tsis yog spam",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "qhov no tsis yog khib nyiab",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "tsis yog kev dag ntxias",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "kev muab raws cai",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "daim ntawv ceeb toom raws li txoj cai",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "kev txiav txim plaub ntug",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "nyiaj pab los ntawm tsoomfwv",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "nyiaj pub dawb",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "cov nyiaj ua haujlwm",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "nyiaj rov qab them se",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "kev sib ntsib": -0.3,
+        "teem sijhawm": -0.3,
+        "qhov project": -0.3,
+        "hnub kawg": -0.3,
+        "txuas nrog": -0.3,
+        "daim ntawv txuas": -0.3,
+        "kev hwm": -0.2,
+        "ua tsaug": -0.3,
+        "ua raws li": -0.3,
+        "raws li tau tham txog": -0.5,
+        "raws li peb qhov kev sib tham": -0.5,
+        "daim ntawv them nqi": -0.2,
+        "daim ntawv qhia": -0.2,
+        "kev xaus lus": -0.2,
+        "feeb": -0.3,
+        "cov txheej txheem": -0.3,
+        "lub rooj sib tham": -0.3,
+        "chaw khaws ntaub ntawv": -0.5,
+        "rub daim ntawv thov": -0.8,
+        "cog lus": -0.5,
+        "sib koom ua ke": -0.5,
+        "ceg ntoo": -0.5,
+        "xa mus": -0.5,
+        "cov ntaub ntawv pov thawj": -0.3
+    },
+    "bayesianTokens": {
+        "tshuaj viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "tshuaj cialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "kev loj hlob": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "neeg nigerian": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "kev txais qub txeeg qub teg": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "tus neeg tau txais txiaj ntsig": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "kev ua si lottery": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "tus yeej": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "nyiaj ntau heev": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "tsis txhob sau npe": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "xaiv tsis koom": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "nyem": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "pub dawb": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "nyiaj txiag": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "nyiaj ntsuab": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "khoom plig": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "yeej": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "ceev ceev": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "tam sim ntawd": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "ua yeeb yam": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "txwv": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "kev muab": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "luv nqi": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "lav": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "tsis muaj kev pheej hmoo": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "kev lav ris": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "qiv nyiaj": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "cov nuj nqis": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "kev qiv nyiaj yuav tsev": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "tsev muag tshuaj": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "daim ntawv qhia tshuaj": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "tshuaj": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "tshuaj ntsiav": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "qhov hnyav": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "kev noj haus": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "poob": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "phaus": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "yuav": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "kev txiav txim": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "kev yuav khoom": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "kev muag khoom": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "pheej yig": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "txuag": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "kev pom zoo": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "tshwj xeeb": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "nyiaj ntxiv": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "kev zoo siab": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "xaiv": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "lees paub": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "xyuas kom tseeb": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "tus account": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "lo lus zais": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "raug ncua": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "xauv": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "kev ruaj ntseg": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "hloov tshiab": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazon": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "lub tsev txhab nyiaj": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "hlau": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "kev hloov pauv": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "kev taw qhia": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "nrawm": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "sab hnub poob": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "lub koom haum": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "cryptocurrency": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "hnab nyiaj": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "blockchain": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "kev sib ntsib": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "teem sijhawm": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "qhov project": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "pab pawg": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "hnub kawg": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "txuas nrog": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "daim ntawv txuas": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "daim ntawv": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "daim ntawv qhia": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "kev tshuaj xyuas": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "cov lus taw qhia": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "kev sib tham": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "cov txheej txheem": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "feeb": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "lub rooj sib tham": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "hu xov tooj": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "kev hwm": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ua tsaug": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "txaus siab": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ua raws li": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "tau tham txog": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "daim ntawv them nqi": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "daim ntawv txais nyiaj": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "kev xaus lus": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "kev tshawb fawb": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "cov ntaub ntawv": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "cov txiaj ntsig": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "chaw khaws ntaub ntawv": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "cog lus": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "sib koom ua ke": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ceg ntoo": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "rub": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "kev thov": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "xa mus": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "tsim": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "kev sim": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "debug": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "qhov yuam kev": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "kab laum": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "kho": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "qhov teeb meem": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "yam ntxwv": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "tso tawm": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "version": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "cov ntaub ntawv pov thawj": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "tus neeg rau zaub mov": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "cov ntaub ntawv hauv paus": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "kev nug": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "kev ua haujlwm": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "hloov pauv tau": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "chav kawm": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "txoj kev": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "kev sib txuas lus": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "ceev ceev",
+        "tam sim ntawd",
+        "tam sim ntawd",
+        "sai li sai tau",
+        "ua tam sim no",
+        "tsis txhob ncua sijhawm",
+        "maj",
+        "lub sijhawm txwv",
+        "tas sij hawm",
+        "hnub kawg",
+        "lub sijhawm kawg",
+        "daim ntawv ceeb toom kawg",
+        "lub sijhawm rhiab heev",
+        "teb tam sim no",
+        "yuav tsum tau ua ib yam dab tsi"
+    ],
+    "greetingWords": [
+        "nyob zoo",
+        "nyob zoo",
+        "hlub",
+        "nyob zoo",
+        "kev txais tos",
+        "zoo sawv ntxov",
+        "nyob zoo tav su",
+        "zoo yav tsaus ntuj"
+    ],
+    "genericGreetings": [
+        "tus tswv",
+        "tus poj niam zoo",
+        "cov neeg siv khoom zoo",
+        "tus neeg siv khoom zoo",
+        "tus tswv cuab",
+        "tus phooj ywg zoo",
+        "muaj nqis",
+        "tus neeg txais txiaj ntsig zoo",
+        "tus neeg txais txiaj ntsig zoo"
+    ]
+}

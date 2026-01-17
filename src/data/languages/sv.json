@@ -1,0 +1,1386 @@
+{
+    "language": "sv",
+    "languageName": "Swedish",
+    "spamWords": [
+        {
+            "word": "nigeriansk prins",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "banköverföring",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "bankkontouppgifter",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "arvsfond",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "outtagna medel",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "förmånstagare",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "miljoner dollar",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "miljoner dollar",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "överföringsavgift",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "behandlingsavgift",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "förskottsavgift",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "western union",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "bitcoinplånbok",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "kryptovalutainvestering",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "dubbla dina bitcoin",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "krypto-utlottning",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "agera nu",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "agera omedelbart",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "brådskande svar",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "brådskande uppmärksamhet",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "omedelbara åtgärder",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "begränsad tid",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "löper ut idag",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "sista chansen",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "slutgiltigt meddelande",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "svara omedelbart",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "inom 24 timmar",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "inom 48 timmar",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "tidskänslig",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "dröj inte",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "grattis vinnaren",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "du har vunnit",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "lotterivinnare",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "prismeddelande",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "hämta ditt pris",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "vinnande meddelande",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "lycklig vinnare",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "utvald vinnare",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "kontantpris",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "gratispris",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "tävlingar",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "verifiera ditt konto",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "bekräfta din identitet",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "uppdatera din betalning",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "avstängt konto",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "kontot är avstängt",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "ovanlig aktivitet",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "misstänkt aktivitet",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "obehörig åtkomst",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "klicka här för att verifiera",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "inloggningsuppgifter",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "återställning av lösenord",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "säkerhetsvarning",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "ditt konto kommer att vara",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "misslyckades med att verifiera",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "återaktivera din",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "avsluta prenumerationen",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "klicka här",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "köp nu",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "beställ nu",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "gratis erbjudande",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "specialerbjudande",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "exklusivt erbjudande",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "riskfri",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ingen skyldighet",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "pengarna-tillbaka-garanti",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "nöjdhetsgaranti",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "ring nu",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "avgiftsfritt",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100 % gratis",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "helt gratis",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ingen kostnad",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "inga avgifter",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "lägsta pris",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "bästa pris",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "rabatt",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "spara stort",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "spara pengar",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "fördubbla din",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "öka din",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "tjäna pengar",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "tjäna pengar",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "extra inkomst",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "arbeta hemifrån",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "var din egen chef",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ekonomisk frihet",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "bli rik",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "få betalt",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "omedelbar åtkomst",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "gå med i miljontals",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "apotek",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "onlineapotek",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "kanadensiskt apotek",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "recept",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "inget recept",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "utan recept",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "erektil dysfunktion",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "viktminskning",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "gå ner i vikt",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "gå ner i kilon",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "bantningspiller",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "fettförbrännare",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "mirakelkur",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "naturlig botemedel",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "anti-aging",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "vuxeninnehåll",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "dejting för vuxna",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "träffa singlar",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "heta singlar",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ensamma kvinnor",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ensam hemmafru",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "kära vän",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "kära älskade",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ärade herr/fru",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "konfidentiell",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "strikt konfidentiellt",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "privat och konfidentiell",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ignorera inte",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "måste svara",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "detta är inte spam",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "detta är inte skräp",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "inte en bluff",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "legitimt erbjudande",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "juridiskt meddelande",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "domstolsbeslut",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "statligt bidrag",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "gratis bidrag",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "skattemyndigheten",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "skatteåterbäring",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "möte": -0.3,
+        "schema": -0.3,
+        "projekt": -0.3,
+        "tidsfrist": -0.3,
+        "bunden": -0.3,
+        "fastsättning": -0.3,
+        "hälsningar": -0.2,
+        "uppriktigt": -0.2,
+        "tack": -0.2,
+        "tack så mycket": -0.3,
+        "uppföljning": -0.3,
+        "som diskuterats": -0.5,
+        "enligt vårt samtal": -0.5,
+        "faktura": -0.2,
+        "rapportera": -0.2,
+        "sammanfattning": -0.2,
+        "minuter": -0.3,
+        "dagordning": -0.3,
+        "konferens": -0.3,
+        "förvar": -0.5,
+        "pull request": -0.8,
+        "begå": -0.5,
+        "slå ihop": -0.5,
+        "gren": -0.5,
+        "utplacera": -0.5,
+        "dokumentation": -0.3
+    },
+    "bayesianTokens": {
+        "viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "utvidgning": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "nigeriansk": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "arv": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "förmånstagare": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "lotteri": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "vinnare": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "jackpott": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "avsluta prenumerationen": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "välja bort": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "klick": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "gratis": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "pengar": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "kontanter": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "pris": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "won": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "brådskande": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "omedelbart": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "agera": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "begränsad": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "erbjuda": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "rabatt": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "garanterat": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "riskfri": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "skyldighet": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "kreditera": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "skuld": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "lån": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "inteckning": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "apotek": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "recept": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "medicin": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "biljard": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "vikt": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "diet": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "förlora": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "pund": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "köpa": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "beställa": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "försäljning": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "billig": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "spara": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "handla": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "särskild": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "exklusiv": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "bonus": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "gåva": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "grattis": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "vald": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "bekräfta": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "kontrollera": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "konto": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "lösenord": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "upphängd": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "låst": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "säkerhet": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "uppdatera": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazonas": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "bank": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "tråd": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "överföra": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "routing": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "snabb": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "västra": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "union": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "kryptovaluta": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "plånbok": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "blockkedja": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "möte": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "schema": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "projekt": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "team": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "tidsfrist": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "bunden": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "fastsättning": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "dokumentera": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "rapportera": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "recension": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "feed-back": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "diskussion": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "dagordning": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "minuter": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "konferens": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "samtal": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "hälsningar": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "uppriktigt": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "tack": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "tacka": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "uppskatta": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "följande": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "diskuterade": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "konversation": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "faktura": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "mottagande": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "sammanfattning": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "analys": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "forskning": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "data": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "resultat": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "förvar": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "begå": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "slå ihop": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "gren": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "dra": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "begäran": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "utplacera": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "bygga": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "testa": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "felsöka": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "fel": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "bugga": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "fixera": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "utfärda": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "särdrag": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "släppa": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "version": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "dokumentation": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "server": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "databas": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "fråga": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "fungera": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "variabel": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "klass": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "metod": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "gränssnitt": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "brådskande",
+        "omedelbar",
+        "omedelbart",
+        "så snart som möjligt",
+        "agera nu",
+        "dröj inte",
+        "skynda",
+        "begränsad tid",
+        "löper ut",
+        "tidsfrist",
+        "sista chansen",
+        "slutgiltigt meddelande",
+        "tidskänslig",
+        "svara nu",
+        "åtgärd krävs"
+    ],
+    "greetingWords": [
+        "hej",
+        "hej",
+        "kär",
+        "hej",
+        "hälsningar",
+        "god morgon",
+        "god eftermiddag",
+        "god afton"
+    ],
+    "genericGreetings": [
+        "kära herre",
+        "kära fru",
+        "kära kund",
+        "kära användare",
+        "kära medlem",
+        "kära vän",
+        "kära värderade",
+        "kära mottagare",
+        "kära förmånstagare"
+    ]
+}

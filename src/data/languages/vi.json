@@ -1,0 +1,1380 @@
+{
+    "language": "vi",
+    "languageName": "Vietnamese",
+    "spamWords": [
+        {
+            "word": "hoàng tử nigeria",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "chuyển khoản ngân hàng",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "chi tiết tài khoản ngân hàng",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "quỹ thừa kế",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "tiền không có người nhận",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "người thụ hưởng",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "triệu đô la",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "triệu đô la mỹ",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "phí chuyển khoản",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "phí xử lý",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "phí trả trước",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "western union",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "ví bitcoin",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "đầu tư tiền điện tử",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "nhân đôi bitcoin của bạn",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "tặng tiền điện tử",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "hành động ngay!",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "hành động ngay lập tức",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "phản hồi khẩn cấp",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "sự chú ý khẩn cấp",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "hành động ngay lập tức",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "thời gian có hạn",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "hết hạn hôm nay",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "cơ hội cuối cùng",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "thông báo cuối cùng",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "phản hồi ngay lập tức",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "trong vòng 24 giờ",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "trong vòng 48 giờ",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "cần gấp",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "đừng trì hoãn",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "chúc mừng người chiến thắng!",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "bạn đã thắng",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "người trúng xổ số",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "thông báo trúng giải",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "nhận giải thưởng của bạn",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "thông báo trúng thưởng",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "người chiến thắng may mắn",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "người chiến thắng được chọn",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "giải thưởng tiền mặt",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "giải thưởng miễn phí",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "cuộc thi trúng thưởng",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "xác minh tài khoản của bạn",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "xác nhận danh tính của bạn",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "cập nhật thông tin thanh toán của bạn",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "tài khoản bị đình chỉ",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "tài khoản bị đình chỉ",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "hoạt động bất thường",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "hoạt động đáng ngờ",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "truy cập trái phép",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "nhấp vào đây để xác minh",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "thông tin đăng nhập",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "đặt lại mật khẩu",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "cảnh báo an ninh",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "tài khoản của bạn sẽ được",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "không xác minh",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "kích hoạt lại của bạn",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "hủy đăng ký",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "bấm vào đây",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "mua ngay",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "đặt hàng ngay",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ưu đãi miễn phí",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ưu đãi đặc biệt",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ưu đãi độc quyền",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "không rủi ro",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "không có nghĩa vụ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "đảm bảo hoàn tiền",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "đảm bảo sự hài lòng",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "gọi ngay",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "miễn phí",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "hoàn toàn miễn phí",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "hoàn toàn miễn phí",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "không mất phí",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "không mất phí",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "giá thấp nhất",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "giá tốt nhất",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "giảm giá",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "tiết kiệm lớn",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "tiết kiệm tiền",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "gấp đôi bạn",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "tăng cường của bạn",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "kiếm tiền",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "kiếm tiền",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "thu nhập thêm",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "làm việc tại nhà",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "hãy làm chủ chính mình",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "tự do tài chính",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "làm giàu",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "được trả tiền",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "truy cập tức thì",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "tham gia cùng hàng triệu người",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "nhà thuốc",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "nhà thuốc trực tuyến",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "nhà thuốc canada",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "đơn thuốc",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "không cần toa thuốc",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "không cần toa thuốc",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "rối loạn cương dương",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "giảm cân",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "giảm cân",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "giảm cân",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "thuốc giảm cân",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "chất đốt mỡ",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "phương thuốc thần kỳ",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "phương pháp chữa trị tự nhiên",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "chống lão hóa",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "nội dung dành cho người lớn",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "hẹn hò người lớn",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "gặp gỡ người độc thân",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "những người độc thân nóng bỏng",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "những người phụ nữ cô đơn",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "bà nội trợ cô đơn",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "bạn thân mến",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "người yêu dấu thân mến",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "kính thưa ông/bà",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "bảo mật",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "tuyệt mật",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "riêng tư và bí mật",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "đừng bỏ qua",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "phải trả lời",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "đây không phải là thư rác",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "đây không phải là đồ bỏ đi",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "không phải là lừa đảo",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "lời đề nghị hợp pháp",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "thông báo pháp lý",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "lệnh của tòa án",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "trợ cấp của chính phủ",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "trợ cấp miễn phí",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "hoàn thuế",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "cuộc họp": -0.3,
+        "lịch trình": -0.3,
+        "dự án": -0.3,
+        "thời hạn": -0.3,
+        "đính kèm": -0.3,
+        "tệp đính kèm": -0.3,
+        "trân trọng": -0.2,
+        "cảm ơn": -0.3,
+        "tiếp theo": -0.3,
+        "như đã thảo luận": -0.5,
+        "theo cuộc trò chuyện của chúng tôi": -0.5,
+        "hóa đơn": -0.2,
+        "báo cáo": -0.2,
+        "bản tóm tắt": -0.2,
+        "phút": -0.3,
+        "chương trình nghị sự": -0.3,
+        "hội nghị": -0.3,
+        "kho lưu trữ": -0.5,
+        "yêu cầu kéo": -0.8,
+        "làm": -0.5,
+        "hợp nhất": -0.5,
+        "chi nhánh": -0.5,
+        "triển khai": -0.5,
+        "tài liệu": -0.3
+    },
+    "bayesianTokens": {
+        "viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "phóng to": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "người nigeria": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "thừa kế": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "người thụ hưởng": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "xổ số": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "người chiến thắng": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "trúng giải độc đắc": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "hủy đăng ký": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "từ chối": {
+            "spam": 0.85,
+            "ham": 0.05
+        },
+        "từ chối tham gia": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "nhấp chuột": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "miễn phí": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "tiền bạc": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "tiền mặt": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "phần thưởng": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "thắng": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "cấp bách": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "ngay lập tức": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "hành động": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "giới hạn": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "lời đề nghị": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "giảm giá": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "đảm bảo": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "không rủi ro": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "nghĩa vụ": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "tín dụng": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "món nợ": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "khoản vay": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "thế chấp": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "nhà thuốc": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "đơn thuốc": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "thuốc": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "thuốc viên": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "cân nặng": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "ăn kiêng": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "thua": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "pound": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "mua": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "đặt hàng": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "doanh thu": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "rẻ": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "cứu": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "thỏa thuận": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "đặc biệt": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "loại trừ": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "thưởng": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "quà ": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "chúc mừng": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "đã chọn": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "xác nhận": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "xác minh": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "tài khoản": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "mật khẩu": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "cấm": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "bị khóa": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "bảo vệ": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "cập nhật": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazon": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ngân hàng": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "dây điện": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "chuyển khoản": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "lộ trình": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "nhanh": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "phương tây": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "công đoàn": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "tiền điện tử": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "cái ví": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "chuỗi khối": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "cuộc họp": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "lịch trình": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "dự án": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "đội": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "thời hạn": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "đính kèm": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "tệp đính kèm": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "tài liệu": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "báo cáo": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ôn tập": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "nhận xét": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "cuộc thảo luận": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "chương trình nghị sự": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "phút": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "hội nghị": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "gọi ": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "trân trọng": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "cảm ơn": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "cám ơn": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "đánh giá": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "tiếp theo": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "đã thảo luận": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "cuộc hội thoại": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "hóa đơn": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "biên lai": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "bản tóm tắt": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "phân tích": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "nghiên cứu": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "dữ liệu": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "kết quả": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "kho lưu trữ": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "làm": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "hợp nhất": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "chi nhánh": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "sự lôi kéo": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "lời yêu cầu": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "triển khai": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "xây dựng": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "bài kiểm tra": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "gỡ lỗi": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "lỗi": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "sâu bọ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "sửa chữa": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "vấn đề": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "tính năng": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "giải phóng": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "phiên bản": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "máy chủ": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "cơ sở dữ liệu": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "truy vấn": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "chức năng": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "biến": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "lớp học": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "phương pháp": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "giao diện": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "cấp bách",
+        "ngay lập tức",
+        "ngay lập tức",
+        "càng sớm càng tốt",
+        "hành động ngay!",
+        "đừng trì hoãn",
+        "sự vội vàng",
+        "thời gian có hạn",
+        "hết hạn",
+        "thời hạn",
+        "cơ hội cuối cùng",
+        "thông báo cuối cùng",
+        "cần gấp",
+        "trả lời ngay",
+        "cần hành động"
+    ],
+    "greetingWords": [
+        "chào",
+        "xin chào",
+        "thân mến",
+        "chào",
+        "lời chào",
+        "chào buổi sáng",
+        "chào buổi chiều",
+        "chào buổi tối"
+    ],
+    "genericGreetings": [
+        "thưa ông",
+        "thưa bà",
+        "kính gửi quý khách hàng",
+        "người dùng thân mến",
+        "thành viên thân mến",
+        "bạn thân mến",
+        "kính gửi quý khách hàng thân mến",
+        "người nhận thân mến",
+        "kính gửi người thụ hưởng"
+    ]
+}

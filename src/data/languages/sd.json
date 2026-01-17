@@ -1,0 +1,1362 @@
+{
+    "language": "sd",
+    "languageName": "Sindhi",
+    "spamWords": [
+        {
+            "word": "نائجيرين شهزادو",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "وائر ٽرانسفر",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "بينڪ اڪائونٽ جي تفصيل",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "وراثت فنڊ",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "دعويٰ نه ڪيل فنڊ",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "فائدو وٺندڙ",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "ملين ڊالر",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ملين آمريڪي ڊالر",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "منتقلي جي فيس",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "پروسيسنگ فيس",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "اڳواٽ فيس",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ويسٽرن يونين",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "مني گرام",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "بِٽ ڪوئن والٽ",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "ڪرپٽو ڪرنسي سيڙپڪاري",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "پنهنجي بِٽ ڪوئن کي ٻيڻو ڪريو",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "ڪرپٽو تحفو",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "هاڻي عمل ڪريو",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "فوري طور تي ڪارروائي ڪريو",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "تڪڙو جواب",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "فوري ڌيان",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "فوري ڪارروائي",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "محدود وقت",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "اڄ ختم ٿئي ٿو",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "آخري موقعو",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "آخري اطلاع",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "فوري طور تي جواب ڏيو",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "24 ڪلاڪن اندر",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "48 ڪلاڪن اندر",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "وقت جي لحاظ کان حساس",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "دير نه ڪريو",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "مبارڪون هجن فاتح",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "توهان کٽيو آهي.",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "لاٽري کٽيندڙ",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "انعام جي اطلاع",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "پنهنجو انعام حاصل ڪريو",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "کٽڻ جو اطلاع",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "خوش قسمت فاتح",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "چونڊيل فاتح",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "نقد انعام",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "مفت انعام",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "سوئيپ اسٽيڪس",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "پنهنجو اڪائونٽ تصديق ڪريو",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "پنهنجي سڃاڻپ جي تصديق ڪريو",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "پنهنجي ادائيگي کي اپڊيٽ ڪريو",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "معطل ڪيل اڪائونٽ",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "اڪائونٽ معطل ڪيو ويو",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "غير معمولي سرگرمي",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "مشڪوڪ سرگرمي",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "غير مجاز رسائي",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "تصديق ڪرڻ لاءِ هتي ڪلڪ ڪريو",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "لاگ ان سندون",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "پاسورڊ ري سيٽ",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "سيڪيورٽي الرٽ",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "توهان جو اڪائونٽ هوندو",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "تصديق ڪرڻ ۾ ناڪامي",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "پنهنجو ٻيهر چالو ڪريو",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "رڪنيت ختم ڪريو",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "هتي ڪلڪ ڪريو",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "هاڻ خريد ڪريو",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "هاڻي آرڊر ڪريو",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "مفت آڇ",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "خاص آڇ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "خاص ڊيل",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "خطري کان خالي",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ڪابه ذميواري ناهي",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "پئسا واپس جي ضمانت",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "اطمينان جي ضمانت",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "هاڻي فون ڪريو",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ٽول فري",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100٪ مفت",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "مڪمل طور تي مفت",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ڪابه قيمت ناهي",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ڪابه فيس ناهي",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "گھٽ ۾ گھٽ قيمت",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "بهترين قيمت",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "رعايت",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "وڏو بچاءُ ڪريو",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "پئسا بچايو",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "پنهنجو ٻيڻو ڪريو",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "پنهنجو وڌايو",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "پيسا ڪماءِ",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "پئسو ڪماءِ",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "اضافي آمدني",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "گهر کان ڪم ڪريو",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "پنهنجو پاڻ جو مالڪ بڻجو",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "مالي آزادي",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "امير ٿيو",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "پئسا وٺو",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "فوري رسائي",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "لکين ماڻهن سان شامل ٿيو",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ويگرا",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "سيالس",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "دواسازي",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "آن لائن فارميسي",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ڪينيڊين فارميسي",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "نسخو",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ڪا به نسخو ناهي",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "نسخي کان سواءِ",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "عضو تناسل جي خرابي",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "وزن گھٽائڻ",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "وزن گھٽائڻ",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "وزن گھٽائڻ",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "غذا جي گولي",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "چربی ساڙڻ وارو",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "معجزاتي علاج",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "قدرتي علاج",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "عمر گهٽائڻ وارو",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "بالغن لاءِ مواد",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "ايڪس اينڪس",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "بالغن سان ڊيٽنگ",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "سنگلز سان ملو",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "گرم سنگلز",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "اڪيلو عورتون",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "اڪيلي گهر واري",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "عزيز دوست",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "پيارا پيارا",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "محترم سائين/سائڻ",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "رازدارانه",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "سخت رازداري سان",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "خانگي ۽ رازدارانه",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "نظرانداز نه ڪريو",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "جواب ڏيڻ گهرجي",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "هي اسپام نه آهي.",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "هي فضول نه آهي.",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "ڪو ٺڳي ناهي",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "جائز آڇ",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "قانوني نوٽيس",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "عدالتي حڪم",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "سرڪاري گرانٽ",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "مفت گرانٽ",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "آئي آر ايس",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "ٽيڪس واپسي",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "ملاقات": -0.3,
+        "شيڊول": -0.3,
+        "منصوبو": -0.3,
+        "آخري تاريخ": -0.3,
+        "ڳنڍيل": -0.3,
+        "منسلڪ": -0.3,
+        "سلام": -0.2,
+        "مخلصي سان": -0.2,
+        "مهرباني": -0.2,
+        "تنهنجي مهرباني": -0.3,
+        "پٺيان اچڻ": -0.3,
+        "جيئن بحث ڪيو ويو آهي": -0.5,
+        "اسان جي ڳالهه ٻولهه موجب": -0.5,
+        "انوائس": -0.2,
+        "رپورٽ ڪريو": -0.2,
+        "خلاصو": -0.2,
+        "منٽ": -0.3,
+        "ايجنڊا": -0.3,
+        "ڪانفرنس": -0.3,
+        "مخزن": -0.5,
+        "ڇڪڻ جي درخواست": -0.8,
+        "ڪميٽ ڪريو": -0.5,
+        "ضم ڪريو": -0.5,
+        "شاخ": -0.5,
+        "پهچائڻ": -0.5,
+        "دستاويز": -0.3
+    },
+    "bayesianTokens": {
+        "ويگرا": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "سيالس": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "واڌ": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "نائجيرين": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "وراثت": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "فائدو وٺندڙ": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "لاٽري": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "فاتح": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "جيڪ پاٽ": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "رڪنيت ختم ڪريو": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "آپٽ آئوٽ": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "ڪلڪ ڪريو": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "واندو": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "پئسا": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "نقد": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "انعام": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "کٽيو": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "تڪڙو": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "فوري طور تي": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "عمل": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "محدود": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "آڇ": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "رعايت": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ضمانت ٿيل": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "خطري کان خالي": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "فرض": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "ڪريڊٽ": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "قرض": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "گروي": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "دواسازي": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "نسخو": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "دوا": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "گوليون": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "وزن": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "غذا": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "وڃائڻ": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "پائونڊ": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "خريد ڪريو": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "حڪم": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "وڪري": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "سستو": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "بچايو": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "ڊيل": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "خاص": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "بونس": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "تحفو": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "مبارڪون هجن": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "چونڊيل": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "تصديق ڪريو": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "اڪائونٽ": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "پاسورڊ": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "معطل ٿيل": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "بند ٿيل": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "سيڪيورٽي": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "تازه ڪاري": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "پي پال": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "اي بي": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ايميزون": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "بينڪ": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "تار": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "منتقلي": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "روٽنگ": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "تيز": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "مغربي": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "يونين": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "مني گرام": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "بِٽ ڪوئن": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ڪرپٽو ڪرنسي": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "پرس": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "بلاڪچين": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ملاقات": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "شيڊول": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "منصوبو": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ٽيم": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "آخري تاريخ": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ڳنڍيل": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "منسلڪ": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "دستاويز": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "رپورٽ ڪريو": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "جائزو": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "موٽ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "بحث": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ايجنڊا": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "منٽ": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ڪانفرنس": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ڪال ڪريو": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "سلام": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "مخلصي سان": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "مهرباني": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "قدر ڪرڻ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "پٺيان": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "بحث ڪيو ويو": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ڳالهه ٻولهه": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "انوائس": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "رسيد": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "خلاصو": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "تجزيو": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "تحقيق": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ڊيٽا": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "نتيجا": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "مخزن": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "ڪميٽ ڪريو": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "ضم ڪريو": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "شاخ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ڇڪڻ": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "درخواست": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "پهچائڻ": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "تعمير ڪريو": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "امتحان": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ڊيبگ ڪريو": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "غلطي": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "بگ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "درست ڪريو": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "مسئلو": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "خصوصيت": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ڇڏڻ": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "سرور": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ڊيٽابيس": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "سوال": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "فنڪشن": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "متغير": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ڪلاس": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "طريقو": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "انٽرفيس": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "تڪڙو",
+        "فوري طور تي",
+        "فوري طور تي",
+        "جلد کان جلد",
+        "هاڻي عمل ڪريو",
+        "دير نه ڪريو",
+        "جلدي ڪريو",
+        "محدود وقت",
+        "ختم ٿئي ٿو",
+        "آخري تاريخ",
+        "آخري موقعو",
+        "آخري اطلاع",
+        "وقت جي لحاظ کان حساس",
+        "هاڻي جواب ڏيو",
+        "ڪارروائي گهربل آهي"
+    ],
+    "greetingWords": [
+        "سلام",
+        "سلام",
+        "پيارا",
+        "او",
+        "مبارڪون",
+        "صبح جو سلام",
+        "منجهند جو سلام",
+        "شام جو سلام"
+    ],
+    "genericGreetings": [
+        "پيارا سائين",
+        "پياري محترمه",
+        "پيارا گراهڪ",
+        "پيارا استعمال ڪندڙ",
+        "پيارا ميمبر",
+        "عزيز دوست",
+        "پيارا قدر ڪيل",
+        "پيارا وصول ڪندڙ",
+        "پيارا فائدو وٺندڙ"
+    ]
+}

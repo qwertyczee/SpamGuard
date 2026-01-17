@@ -1,0 +1,1345 @@
+{
+    "language": "xh",
+    "languageName": "Xhosa",
+    "spamWords": [
+        {
+            "word": "inkosana yasenigeria",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "udluliselo ngocingo",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "iinkcukacha zeakhawunti yebhanki",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "ingxowa-mali yelifa",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "imali engafunwanga",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "umxhamli",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "izigidi zeerandi",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "izigidi zeedola",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "umrhumo wokudlulisela",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "umrhumo wokucubungula",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "umrhumo wangaphambili",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "uwestern union",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "i-moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "isipaji se-bitcoin",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "utyalo-mali lwe-cryptocurrency",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "phinda kabini i-bitcoin yakho",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "isipho se-crypto",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "thatha inyathelo ngoku",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "thatha inyathelo ngoko nangoko",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "impendulo engxamisekileyo",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ingqwalasela engxamisekileyo",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "isenzo esikhawulezileyo",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "ixesha elilinganiselweyo",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "iphelelwa namhlanje",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "ithuba lokugqibela",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "isaziso sokugqibela",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "phendula ngoko nangoko",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "zingadlulanga iiyure ezingama-24",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "zingadlulanga iiyure ezingama-48",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "inovelwano ngexesha",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "musa ukulibazisa",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "siyavuyisana nophumeleleyo",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "uphumelele",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ophumelele ilotho",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "isaziso sebhaso",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "fumana ibhaso lakho",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "isaziso esiphumeleleyo",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ophumeleleyo onethamsanqa",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ophumeleleyo okhethiweyo",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ibhaso lemali",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ibhaso lasimahla",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ii-sweepstakes",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "gqina i-akhawunti yakho",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "qinisekisa ubuwena bakho",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "hlaziya intlawulo yakho",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "iakhawunti emisiwe",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "i-akhawunti imisiwe",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "umsebenzi ongaqhelekanga",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "umsebenzi okrokrisayo",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "ukufikelela okungagunyaziswanga",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "cofa apha ukuqinisekisa",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "iziqinisekiso zokungena",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ukuseta kwakhona igama lokugqitha",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "isaziso sokhuseleko",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "iakhawunti yakho iya kuba",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ukusilela ukuqinisekisa",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "vuselela eyakho",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "khupha ubhaliso",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "cofa apha",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "thenga ngoku",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "oda ngoku",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "isipho sasimahla",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "unikezo olulodwa",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "isivumelwano esikhethekileyo",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "akukho mngcipheko",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "akukho sibophelelo",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "isiqinisekiso sembuyiselo yemali",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ulwaneliseko luqinisekisiwe",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "fowuna ngoku",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "itholi yasimahla",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% yasimahla",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "simahla ngokupheleleyo",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "akukho ndleko",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "akukho zindleko",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ixabiso eliphantsi",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ixabiso elihle",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "isaphulelo",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "gcina imali eninzi",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "gcina imali",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "kabini yakho",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "yandisa eyakho",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "fumana imali",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "yenza imali",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ingeniso eyongezelelweyo",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "sebenzela ekhaya",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "yiba ngumphathi wakho",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "inkululeko yezemali",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "fumana ubutyebi",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "hlawulwa",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ukufikelela kwangoko",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "joyina izigidi",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "i-viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "i-cialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ikhemesti",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "ikhemesti ekwi-intanethi",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ikhemesti yasekhanada",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "amayeza kagqirha",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "akukho myalelo kagqirha",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "ngaphandle kwemvume kagqirha",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "ukungasebenzi kakuhle kwe-erectile",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ukuhla ukusinda",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "yehla emzimbeni",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "ukunciphisa iiponti",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "ipilisi yokutya",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "umtshisi manqathe",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "unyango oluyimimangaliso",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "iyeza lendalo",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "ukulwa nokwaluphala",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "umxholo wabantu abadala",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "ukuthandana kwabantu abadala",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "dibana nabantu abangatshatanga",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "abantu abangatshatanga abashushu",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "abafazi ababodwa",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "umfazi wekhaya onesizungu",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "molo bahlobo",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "sithandwa sam",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "mnu / nkszk ebekekileyo",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "iyimfihlo",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "iyimfihlo ngokungqongqo",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "yabucala neyimfihlo",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "musa ukungahoyi",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "kufuneka aphendule",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "oku akusiyo spam",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "oku akuyonkunkuma",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "asiyonkohliso",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "isipho esisemthethweni",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "isaziso sezomthetho",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "umyalelo wenkundla",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "isibonelelo sikarhulumente",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "isibonelelo sasimahla",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ii-ir",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "imbuyekezo yerhafu",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "intlanganiso": -0.3,
+        "ishedyuli": -0.3,
+        "iprojekthi": -0.3,
+        "umhla wokugqibela": -0.3,
+        "iqhotyoshelwe": -0.3,
+        "isincamathiselo": -0.3,
+        "imbeko": -0.2,
+        "ngokunyanisekileyo": -0.2,
+        "enkosi": -0.3,
+        "ukulandelela": -0.3,
+        "njengoko kuxoxiwe": -0.5,
+        "ngokwengxoxo yethu": -0.5,
+        "i-invoyisi": -0.2,
+        "ingxelo": -0.2,
+        "isishwankathelo": -0.2,
+        "imizuzu": -0.3,
+        "i-ajenda": -0.3,
+        "inkomfa": -0.3,
+        "indawo yokugcina izinto": -0.5,
+        "isicelo sokutsala": -0.8,
+        "zibophelele": -0.5,
+        "dibanisa": -0.5,
+        "isebe": -0.5,
+        "thumela": -0.5,
+        "uxwebhu": -0.3
+    },
+    "bayesianTokens": {
+        "i-viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "i-cialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "ukwandiswa": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "umnigeria": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "ilifa": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "umxhamli": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "ilotho": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "ophumeleleyo": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "i-jackpot": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "khupha ubhaliso": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "phuma kuyo": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "cofa": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "simahla": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "imali": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "ibhaso": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "uphumelele": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "ngokukhawuleza": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "ngoko nangoko": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "isenzo": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "inqunyelwe": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "isipho": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "isaphulelo": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "iqinisekisiwe": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "akukho mngcipheko": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "uxanduva": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "ityala": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "imali mboleko": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "imali mboleko yendlu": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "ikhemesti": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "amayeza kagqirha": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "amayeza": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "iipilisi": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "ubunzima": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "ukutya": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "lahlekelwa": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "iiponti": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "thenga": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "i-odolo": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "intengiso": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ingabizi": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "gcina": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "isivumelwano": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ekhethekileyo": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ibhonasi": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ukuvuyisana": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "ikhethiwe": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "qinisekisa": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "iakhawunti": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "inombolo yokuvula": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "imisiwe": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "itshixiwe": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ukhuseleko": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "uhlaziyo": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "i-paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "i-ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "i-amazon": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ibhanki": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ucingo": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ukudluliselwa": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "indlela": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "entshona": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "umanyano": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "i-moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "i-bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "imali yedijithali": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "isipaji": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "i-blockchain": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "intlanganiso": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ishedyuli": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "iprojekthi": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "iqela": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "umhla wokugqibela": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "iqhotyoshelwe": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "isincamathiselo": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "uxwebhu": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ingxelo": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "uphononongo": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ingxoxo": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "i-ajenda": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "imizuzu": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "inkomfa": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "fowunela": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "imbeko": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "ngokunyanisekileyo": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "enkosi": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "xabisa": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "abalandelayo": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "kuxoxwe ngazo": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "incoko": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "i-invoyisi": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "irisithi": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "isishwankathelo": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "uhlalutyo": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "uphando": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "idatha": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "iziphumo": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "indawo yokugcina izinto": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "zibophelele": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "dibanisa": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "isebe": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "tsala": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "isicelo": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "thumela": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ukwakha": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "uvavanyo": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "susa amaphutha": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "impazamo": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "incukuthu": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "lungisa": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "khupha": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "uphawu": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ukukhululwa": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "inguqulelo": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "i-api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "umncedisi": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "isiseko sedatha": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "umbuzo": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "umsebenzi": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "i-variable": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "iklasi": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ujongano": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "ngokukhawuleza",
+        "ngoko nangoko",
+        "ngoko nangoko",
+        "ngokukhawuleza okudibene nokungxama",
+        "thatha inyathelo ngoku",
+        "musa ukulibazisa",
+        "khawuleza",
+        "ixesha elilinganiselweyo",
+        "iphelelwa lixesha",
+        "umhla wokugqibela",
+        "ithuba lokugqibela",
+        "isaziso sokugqibela",
+        "inovelwano ngexesha",
+        "phendula ngoku",
+        "isenzo esifunekayo"
+    ],
+    "greetingWords": [
+        "mholo",
+        "mholo",
+        "sithandwa",
+        "molo",
+        "imibuliso",
+        "mholo ngalentsasa",
+        "mholo emvakwemini",
+        "mholo ngokuhlwa nje"
+    ],
+    "genericGreetings": [
+        "mnumzana omhle",
+        "nkosikazi ethandekayo",
+        "mthengi othandekayo",
+        "msebenzisi othandekayo",
+        "lungu elithandekayo",
+        "molo bahlobo",
+        "exabisekileyo",
+        "umamkeli othandekayo",
+        "mxhamli othandekayo"
+    ]
+}

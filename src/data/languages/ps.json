@@ -1,0 +1,1382 @@
+{
+    "language": "ps",
+    "languageName": "Pashto",
+    "spamWords": [
+        {
+            "word": "د نایجریا شهزاده",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "د تار لیږد",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "د بانکي حساب جزئیات",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "د میراث صندوق",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "نا ادعا شوې پیسې",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "ګټه اخیستونکی",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "ملیون ډالر",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ملیون ډالر",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "د لیږد فیس",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "د پروسس فیس",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "مخکې له مخکې فیس",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ویسټرن یونین",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "مني ګرام",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "د بټ کواین بټوه",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "د کریپټو اسعارو پانګونه",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "خپل بټ کواین دوه چنده کړئ",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "د کریپټو ډالۍ",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "اوس عمل وکړه",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "سمدلاسه عمل وکړئ",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "بیړنی ځواب",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "بیړنۍ پاملرنه",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "سمدستي اقدام",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "محدود وخت",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "نن پای ته رسیږي",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "وروستی چانس",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "وروستۍ خبرتیا",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "سمدلاسه ځواب ورکړئ",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "په ۲۴ ساعتونو کې",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "په ۴۸ ساعتونو کې",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "د وخت حساس",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ځنډ مه کوه",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "مبارکي ګټونکې",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ته بریالی شوی یې",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "د لاټرۍ ګټونکی",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "د جایزې خبرتیا",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "خپله جایزه وغواړئ",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "د ګټلو خبرتیا",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "بختور ګټونکی",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "غوره شوی ګټونکی",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "نغدي جایزه",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "وړیا جایزه",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "جایزې",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "خپل حساب تایید کړئ",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "خپل هویت تایید کړئ",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "خپل تادیه تازه کړئ",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "ځنډول شوی حساب",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "حساب وځنډول شو",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "غیر معمولي فعالیت",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "شکمن فعالیت",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "غیر مجاز لاسرسی",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "د تایید لپاره دلته کلیک وکړئ",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "د ننوتلو اسناد",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "د پټنوم بیا تنظیمول",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "امنیتي خبرتیا",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "ستاسو حساب به وي",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "د تایید ناکامي",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "خپل بیا فعال کړئ",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "غړیتوب لغوه کول",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "دلته کلیک وکړئ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "همدا اوس پیرل",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "اوس امر وکړئ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "وړیا وړاندیز",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "ځانګړې وړاندیز",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ځانګړې معامله",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "له خطره پاک",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "هیڅ مکلفیت نشته",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "د پیسو بیرته ورکولو تضمین",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "د رضایت تضمین",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "اوس زنګ ووهئ",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "وړیا",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "۱۰۰٪ وړیا",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "په بشپړه توګه وړیا",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "بې لګښته",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "هیڅ فیس نشته",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "تر ټولو ټیټه بیه",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "غوره بیه",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "تخفیف",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "ډېر خوندي کړه",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "پیسې خوندي کړئ",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "خپل دوه چنده کړئ",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "خپل زیات کړئ",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "پیسې ګټل",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "پیسې ګټل",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "اضافي عاید",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "له کوره کار کول",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "خپل مشر اوسئ",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "مالي ازادي",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "شتمن کېدل",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "معاش ورکول",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "فوري لاسرسی",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "په ملیونونو سره یوځای شئ",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ویاګرا",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "سیالیس",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "درملتون",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "آنلاین درملتون",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "کاناډایی درملتون",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "نسخه",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "نسخه نشته",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "پرته له نسخې",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "د نعوظ اختلال",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "د وزن کمول",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "وزن کم کړئ",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "وزن کم کړئ",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "د خوړو ګولۍ",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "غوړ سوځوونکی",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "معجزه درملنه",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "طبیعي درملنه",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "د عمر ضد",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "د لویانو لپاره مواد",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx پښتو",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "د لویانو ملګرتیا",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "مجردانو سره لیدنه",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "ګرم سندرغاړي",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "یوازې ښځې",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "یوازینۍ کور میرمن",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "ګرانه ملګریه",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ګرانه محبوبه",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "ګرانه ښاغلیه/مېډم",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "محرم",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "په کلکه محرم",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "شخصي او محرم",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "له پامه مه غورځوه",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "باید ځواب ووایی",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "دا سپیم نه دی",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "دا بې کاره نه ده",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "درغلۍ نه ده",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "قانوني وړاندیز",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "قانوني خبرتیا",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "د محکمې حکم",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "دولتي مرسته",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "وړیا مرسته",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "آی آر ایس",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "د مالیې بیرته ورکول",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "غونډه": -0.3,
+        "مهالویش": -0.3,
+        "پروژه": -0.3,
+        "وروستۍ نېټه": -0.3,
+        "نښلول شوی": -0.3,
+        "ضمیمه": -0.3,
+        "په درناوي": -0.2,
+        "په اخلاص سره": -0.2,
+        "مننه": -0.2,
+        "له تاسو مننه": -0.3,
+        "تعقیبول": -0.3,
+        "لکه څنګه چې بحث شوی": -0.5,
+        "زموږ د خبرو اترو له مخې": -0.5,
+        "بل": -0.2,
+        "راپور": -0.2,
+        "لنډیز": -0.2,
+        "دقیقې": -0.3,
+        "اجنډا": -0.3,
+        "کنفرانس": -0.3,
+        "زېرمه": -0.5,
+        "د را ایستلو غوښتنه": -0.8,
+        "ژمنه کول": -0.5,
+        "یوځای کول": -0.5,
+        "څانګه": -0.5,
+        "ځای پر ځای کول": -0.5,
+        "اسناد": -0.3
+    },
+    "bayesianTokens": {
+        "ویاګرا": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "سیالیس": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "پراخول": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "نایجیریایي": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "میراث": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "ګټه اخیستونکی": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "لاټري": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "ګټونکی": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "جیک پاټ": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "غړیتوب لغوه کول": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "له کاره ګوښه کول": {
+            "spam": 0.85,
+            "ham": 0.05
+        },
+        "له کاره ګوښه کېدل": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "کلیک": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "وړیا": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "پیسې": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "نغدي پیسې": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "جایزه": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "ګټلی": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "عاجل": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "سمدلاسه": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "عمل کول": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "محدود": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "وړاندیز": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "تخفیف": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "تضمین شوی": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "له خطره پاک": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "مکلفیت": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "کریډیټ": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "پور": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "ګروي": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "درملتون": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "نسخه": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "درمل": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "ګولۍ": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "وزن": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "خواړه": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "له لاسه ورکول": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "پونډه": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "اخیستل": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "امر": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "پیرود": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "خرڅلاو": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "ارزانه": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "خوندي کول": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "معامله": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "ځانګړی": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ځانګړې": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "بونس": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ډالۍ": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "مبارکۍ": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "غوره شوی": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "تاییدول": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "تایید کړئ": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "حساب": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "رمز": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "ځنډول شوی": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "تړل شوی": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "امنیت": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "تازه کول": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "پے پال": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ای بې": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "ایمیزون": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "بانک": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "تار": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "لیږدول": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "روټینګ": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "چټک": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "لویدیځ": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "اتحاد": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "مني ګرام": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "بټ کواین": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "کرېپټوکرنسي": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "بټوه": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "بلاکچین": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "غونډه": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "مهالویش": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "پروژه": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ټیم": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "وروستۍ نېټه": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "نښلول شوی": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ضمیمه": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "سند": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "راپور": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "کتنه": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "غبرګون": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "بحث": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "اجنډا": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "دقیقې": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "کنفرانس": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "زنګ وهل": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "په درناوي": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "په اخلاص سره": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "مننه": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "قدر کول": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "لاندې": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "بحث شوی": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "خبرې اترې": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "بل": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "رسید": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "لنډیز": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "تحلیل": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "څېړنه": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "معلومات": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "پایلې": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "زېرمه": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "ژمنه کول": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "یوځای کول": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "څانګه": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "کشول": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "غوښتنه": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "ځای پر ځای کول": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "جوړول": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ازموینه": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "ډیبګ کول": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "تېروتنه": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "بګ": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "اصلاح کول": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "موضوع": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ځانګړتیا": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "خوشې کول": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "اسناد": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "سرور": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "ډیټابیس": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "پوښتنه": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "فعالیت": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "متغیر": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "ټولګی": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "طریقه": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "انٹرفیس": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "عاجل",
+        "سمدستي",
+        "سمدلاسه",
+        "ژر تر ژره",
+        "اوس عمل وکړه",
+        "ځنډ مه کوه",
+        "ژر شه",
+        "محدود وخت",
+        "ختمېږي",
+        "وروستۍ نېټه",
+        "وروستی چانس",
+        "وروستۍ خبرتیا",
+        "د وخت حساس",
+        "اوس ځواب ورکړه",
+        "عمل اړین دی"
+    ],
+    "greetingWords": [
+        "سلام",
+        "سلام",
+        "ګرانه",
+        "سلام",
+        "سلامونه",
+        "سهار مو پخیر",
+        "بعد له غرمه مو پخیر",
+        "ماښام مو پخیر"
+    ],
+    "genericGreetings": [
+        "ګرانه صاحبه",
+        "ګرانې میرمنې",
+        "ګرانه پېرېدونکیه",
+        "ګرانه کاروونکې",
+        "ګرانه غړیه",
+        "ګرانه ملګریه",
+        "ګرانه قدرمنه",
+        "ګرانه ترلاسه کوونکې",
+        "ګرانه ګټه اخیستونکې"
+    ]
+}

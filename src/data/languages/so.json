@@ -1,0 +1,1369 @@
+{
+    "language": "so",
+    "languageName": "Somali",
+    "spamWords": [
+        {
+            "word": "amiirka nayjeeriya",
+            "score": 3.5,
+            "category": "scam"
+        },
+        {
+            "word": "wareejinta siligga",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "faahfaahinta akoonka bangiga",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "sanduuqa dhaxalka",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "lacagaha aan la sheegan",
+            "score": 3,
+            "category": "scam"
+        },
+        {
+            "word": "ka-faa'iideyste",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "milyan oo doolar",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "milyan oo doolarka mareykanka ah",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "kharashka wareejinta",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "khidmadda habaynta",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "khidmadda hore",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "midowga reer galbeedka",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "moneygram",
+            "score": 1.5,
+            "category": "finance"
+        },
+        {
+            "word": "boorsada bitcoin",
+            "score": 1,
+            "category": "crypto"
+        },
+        {
+            "word": "maalgashiga cryptocurrency",
+            "score": 1.5,
+            "category": "crypto"
+        },
+        {
+            "word": "labanlaab bitcoin-kaaga",
+            "score": 3,
+            "category": "crypto"
+        },
+        {
+            "word": "bixinta lacagta loo yaqaan 'crypto'",
+            "score": 2.5,
+            "category": "crypto"
+        },
+        {
+            "word": "hadda dhaqan",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "isla markiiba wax ka qabo",
+            "score": 1.8,
+            "category": "urgency"
+        },
+        {
+            "word": "jawaab degdeg ah",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "fiiro gaar ah oo degdeg ah",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "tallaabo degdeg ah",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "waqti xaddidan",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "maanta ayuu dhacayaa",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "fursaddii ugu dambeysay",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ogeysiiska kama dambaysta ah",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "isla markiiba ka jawaab",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "24 saacadood gudahood",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "48 saacadood gudahood",
+            "score": 0.8,
+            "category": "urgency"
+        },
+        {
+            "word": "waqtiga xasaasiga ah",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "ha dib dhigin",
+            "score": 1,
+            "category": "urgency"
+        },
+        {
+            "word": "guulaystaha hambalyo",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "waad guuleysatay",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ku guulaystaha bakhtiyaa-nasiibka",
+            "score": 2.5,
+            "category": "lottery"
+        },
+        {
+            "word": "ogeysiiska abaalmarinta",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "sheeg abaalmarintaada",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "ogeysiiska guusha",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "guulayste nasiib leh",
+            "score": 2,
+            "category": "lottery"
+        },
+        {
+            "word": "guuleyste la soo xulay",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "abaalmarin lacageed",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "abaalmarin bilaash ah",
+            "score": 1.5,
+            "category": "lottery"
+        },
+        {
+            "word": "tartanno",
+            "score": 1,
+            "category": "lottery"
+        },
+        {
+            "word": "xaqiiji akoonkaaga",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "xaqiiji aqoonsigaaga",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "cusbooneysii lacag bixintaada",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "akoon la hakiyey",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "akoonka waa la joojiyay",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "dhaqdhaqaaq aan caadi ahayn",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "dhaqdhaqaaq laga shakiyo",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "marin aan la ogolayn",
+            "score": 1.2,
+            "category": "phishing"
+        },
+        {
+            "word": "halkan guji si aad u xaqiijiso",
+            "score": 2,
+            "category": "phishing"
+        },
+        {
+            "word": "aqoonsiga galitaanka",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "dib u dejinta eraygaaga sirta ah",
+            "score": 0.8,
+            "category": "phishing"
+        },
+        {
+            "word": "digniinta amniga",
+            "score": 1,
+            "category": "phishing"
+        },
+        {
+            "word": "akoonkaagu wuxuu noqon doonaa",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ku guuldareysiga xaqiijinta",
+            "score": 1.8,
+            "category": "phishing"
+        },
+        {
+            "word": "dib u hawlgeli",
+            "score": 1.5,
+            "category": "phishing"
+        },
+        {
+            "word": "ka bax rukunka",
+            "score": 0.1,
+            "category": "marketing"
+        },
+        {
+            "word": "halkan guji",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "iibso hadda",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "dalbo hadda",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "dalab bilaash ah",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "dalab gaar ah",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "heshiis gaar ah",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "khatar la'aan",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "waajib ma jiro",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "dammaanad lacag celin ah",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "qanacsanaanta la hubo",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "wac hadda",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "lacag la'aan",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "100% bilaash ah",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "gebi ahaanba bilaash ah",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "kharash la'aan",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "kharash la'aan",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "qiimaha ugu hooseeya",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "qiimaha ugu fiican",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "qiimo dhimis",
+            "score": 0.3,
+            "category": "marketing"
+        },
+        {
+            "word": "keydi weyn",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "lacag kaydso",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "labanlaab kaaga",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "kordhi adiga",
+            "score": 0.5,
+            "category": "marketing"
+        },
+        {
+            "word": "lacag kasbado",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "lacag samee",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "dakhli dheeraad ah",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "ka shaqee guriga",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "noqo madaxaaga gaarka ah",
+            "score": 1.2,
+            "category": "marketing"
+        },
+        {
+            "word": "xorriyad dhaqaale",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "taajir noqo",
+            "score": 1.5,
+            "category": "marketing"
+        },
+        {
+            "word": "lacag hel",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "marin degdeg ah",
+            "score": 0.8,
+            "category": "marketing"
+        },
+        {
+            "word": "ku biir malaayiin",
+            "score": 1,
+            "category": "marketing"
+        },
+        {
+            "word": "viagra",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "cialis",
+            "score": 2.5,
+            "category": "drugs"
+        },
+        {
+            "word": "farmashiye",
+            "score": 0.8,
+            "category": "drugs"
+        },
+        {
+            "word": "farmashiyaha khadka tooska ah",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "farmashiyaha kanada",
+            "score": 1.8,
+            "category": "drugs"
+        },
+        {
+            "word": "warqad dhakhtar qoray",
+            "score": 0.5,
+            "category": "drugs"
+        },
+        {
+            "word": "ma jiro warqad dhakhtar qoray",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "iyada oo aan lahayn warqad dhakhtar",
+            "score": 2,
+            "category": "drugs"
+        },
+        {
+            "word": "cillad kacsi",
+            "score": 1.5,
+            "category": "drugs"
+        },
+        {
+            "word": "miisaan lumis",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "miisaan lumis",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "lumiyaan rodol",
+            "score": 1,
+            "category": "health"
+        },
+        {
+            "word": "kiniin cunto",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "gubaha baruurta",
+            "score": 1.5,
+            "category": "health"
+        },
+        {
+            "word": "daawo mucjiso ah",
+            "score": 2,
+            "category": "health"
+        },
+        {
+            "word": "daawo dabiici ah",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "ka hortagga gabowga",
+            "score": 0.8,
+            "category": "health"
+        },
+        {
+            "word": "waxyaabaha dadka waaweyn",
+            "score": 1.5,
+            "category": "adult"
+        },
+        {
+            "word": "xxx",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "shukaansiga dadka waaweyn",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "la kulan dadka keligood ah",
+            "score": 1.2,
+            "category": "adult"
+        },
+        {
+            "word": "kuwa kelida ah ee kulul",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "dumarka kalida ah",
+            "score": 2,
+            "category": "adult"
+        },
+        {
+            "word": "naag guri oo cidlo ah",
+            "score": 2.5,
+            "category": "adult"
+        },
+        {
+            "word": "saaxiib qaali ah",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "gacaliye qaali ah",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "mudane/marwo qaali ah",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "sir ah",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "si qarsoodi ah oo adag",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "gaar ah oo qarsoodi ah",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ha iska indha tirin",
+            "score": 1.5,
+            "category": "urgency"
+        },
+        {
+            "word": "waa in laga jawaabaa",
+            "score": 1.2,
+            "category": "urgency"
+        },
+        {
+            "word": "kani maaha spam",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "kani maaha qashin-qub",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "maaha khayaano",
+            "score": 2.5,
+            "category": "scam"
+        },
+        {
+            "word": "dalab sharci ah",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "ogeysiis sharci ah",
+            "score": 1,
+            "category": "scam"
+        },
+        {
+            "word": "amar maxkamadeed",
+            "score": 1.5,
+            "category": "scam"
+        },
+        {
+            "word": "deeq dawladeed",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "deeq bilaash ah",
+            "score": 2,
+            "category": "scam"
+        },
+        {
+            "word": "irs",
+            "score": 0.8,
+            "category": "scam"
+        },
+        {
+            "word": "lacag celin canshuur ah",
+            "score": 1.5,
+            "category": "scam"
+        }
+    ],
+    "spamSingleWords": {
+        "v1agra": 3,
+        "vi@gra": 3,
+        "c1alis": 3,
+        "p0rn": 3,
+        "pr0n": 3,
+        "s3x": 2,
+        "enlargement": 1.5,
+        "erectile": 1.2,
+        "orgasm": 1.5,
+        "libido": 1.2,
+        "potency": 1.2,
+        "unsubscribe": 0.3,
+        "opt-out": 0.3,
+        "optout": 0.3,
+        "junk": 0.5,
+        "bulk": 0.5,
+        "mass": 0.3,
+        "mlm": 1.5,
+        "roi": 0.5
+    },
+    "spamSubjectPatterns": [
+        {
+            "pattern": "^re:\\s*re:\\s*re:",
+            "score": 1.5,
+            "name": "MULTIPLE_RE"
+        },
+        {
+            "pattern": "^fw:\\s*fw:\\s*fw:",
+            "score": 1.5,
+            "name": "MULTIPLE_FW"
+        },
+        {
+            "pattern": "^re:\\s*$",
+            "score": 2,
+            "name": "EMPTY_RE"
+        },
+        {
+            "pattern": "\\$\\$\\$",
+            "score": 2,
+            "name": "DOLLAR_SIGNS"
+        },
+        {
+            "pattern": "!\\s*!\\s*!",
+            "score": 1.5,
+            "name": "MULTIPLE_EXCLAIM"
+        },
+        {
+            "pattern": "\\?\\s*\\?\\s*\\?",
+            "score": 1,
+            "name": "MULTIPLE_QUESTION"
+        },
+        {
+            "pattern": "[A-Z]{10,}",
+            "score": 1.5,
+            "name": "LONG_CAPS"
+        },
+        {
+            "pattern": "free\\s+(gift|money|cash|prize)",
+            "score": 2,
+            "name": "FREE_STUFF"
+        },
+        {
+            "pattern": "you('ve|'re|\\s+have|\\s+are)\\s+(been\\s+)?selected",
+            "score": 2,
+            "name": "YOU_SELECTED"
+        },
+        {
+            "pattern": "winner",
+            "score": 1.2,
+            "name": "WINNER"
+        },
+        {
+            "pattern": "urgent",
+            "score": 1,
+            "name": "URGENT"
+        },
+        {
+            "pattern": "important\\s+(notice|message|information)",
+            "score": 1.2,
+            "name": "IMPORTANT_NOTICE"
+        },
+        {
+            "pattern": "account\\s+(suspended|closed|locked)",
+            "score": 1.8,
+            "name": "ACCOUNT_SUSPENDED"
+        },
+        {
+            "pattern": "verify\\s+(your|account)",
+            "score": 1.5,
+            "name": "VERIFY_ACCOUNT"
+        },
+        {
+            "pattern": "\\d{1,3}%\\s*off",
+            "score": 0.8,
+            "name": "PERCENT_OFF"
+        },
+        {
+            "pattern": "limited\\s+time",
+            "score": 1,
+            "name": "LIMITED_TIME"
+        },
+        {
+            "pattern": "act\\s+now",
+            "score": 1.5,
+            "name": "ACT_NOW"
+        },
+        {
+            "pattern": "call\\s+now",
+            "score": 1,
+            "name": "CALL_NOW"
+        },
+        {
+            "pattern": "\\bATTN\\b",
+            "score": 1,
+            "name": "ATTN"
+        },
+        {
+            "pattern": "dear\\s+(customer|user|member|valued)",
+            "score": 1,
+            "name": "DEAR_GENERIC"
+        }
+    ],
+    "hamWords": {
+        "kulan": -0.3,
+        "jadwalka": -0.3,
+        "mashruuc": -0.3,
+        "waqtiga kama dambaysta ah": -0.3,
+        "ku lifaaqan": -0.3,
+        "lifaaq": -0.3,
+        "salaan": -0.2,
+        "si daacad ah": -0.2,
+        "mahadsanid": -0.3,
+        "dabagal": -0.3,
+        "sida laga wada hadlay": -0.5,
+        "wadahadalkeenna": -0.5,
+        "biilka": -0.2,
+        "warbixin": -0.2,
+        "soo koobid": -0.2,
+        "daqiiqado": -0.3,
+        "ajendaha": -0.3,
+        "shir": -0.3,
+        "kayd": -0.5,
+        "codsiga soo jiidashada": -0.8,
+        "ballanqaad": -0.5,
+        "isku dar": -0.5,
+        "laan": -0.5,
+        "geyn": -0.5,
+        "dukumeenti": -0.3
+    },
+    "bayesianTokens": {
+        "viagra": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "cialis": {
+            "spam": 0.99,
+            "ham": 0.001
+        },
+        "weyneyn": {
+            "spam": 0.98,
+            "ham": 0.002
+        },
+        "nayjeeriyaan": {
+            "spam": 0.97,
+            "ham": 0.01
+        },
+        "dhaxalka": {
+            "spam": 0.95,
+            "ham": 0.02
+        },
+        "ka-faa'iideyste": {
+            "spam": 0.92,
+            "ham": 0.03
+        },
+        "bakhtiyaa-nasiib": {
+            "spam": 0.96,
+            "ham": 0.01
+        },
+        "guuleyste": {
+            "spam": 0.88,
+            "ham": 0.08
+        },
+        "jackpot": {
+            "spam": 0.95,
+            "ham": 0.01
+        },
+        "ka bax rukunka": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "ka-bixid": {
+            "spam": 0.85,
+            "ham": 0.05
+        },
+        "ka bixitaan": {
+            "spam": 0.8,
+            "ham": 0.08
+        },
+        "guji": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "bilaash ah": {
+            "spam": 0.72,
+            "ham": 0.3
+        },
+        "lacag": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "lacag caddaan ah": {
+            "spam": 0.75,
+            "ham": 0.15
+        },
+        "abaalmarin": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "guuleystay": {
+            "spam": 0.72,
+            "ham": 0.25
+        },
+        "degdeg ah": {
+            "spam": 0.78,
+            "ham": 0.12
+        },
+        "isla markiiba": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "fal": {
+            "spam": 0.55,
+            "ham": 0.35
+        },
+        "xaddidan": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "dalab": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "qiimo dhimis": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "la damaanad qaaday": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "khatar la'aan": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "waajib": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "amaah": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "deynta": {
+            "spam": 0.7,
+            "ham": 0.2
+        },
+        "amaahda guryaha": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "farmashiye": {
+            "spam": 0.9,
+            "ham": 0.03
+        },
+        "warqad dhakhtar qoray": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "daawo": {
+            "spam": 0.78,
+            "ham": 0.15
+        },
+        "kiniiniyada": {
+            "spam": 0.85,
+            "ham": 0.08
+        },
+        "miisaanka": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "cunto": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "lumiyo": {
+            "spam": 0.55,
+            "ham": 0.38
+        },
+        "rodol": {
+            "spam": 0.6,
+            "ham": 0.32
+        },
+        "iibso": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "iibsi": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "iib": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "raqiis ah": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "keydi": {
+            "spam": 0.58,
+            "ham": 0.38
+        },
+        "heshiis": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "gaar ah": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "gunno": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "hadiyad": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "hambalyo": {
+            "spam": 0.82,
+            "ham": 0.12
+        },
+        "la soo xulay": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "xaqiijin": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "akoon": {
+            "spam": 0.48,
+            "ham": 0.48
+        },
+        "erayga sirta ah": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "la hakiyey": {
+            "spam": 0.75,
+            "ham": 0.18
+        },
+        "qufulan": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amniga": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "cusbooneysiin": {
+            "spam": 0.45,
+            "ham": 0.48
+        },
+        "paypal": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "ebay": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "amazon": {
+            "spam": 0.55,
+            "ham": 0.4
+        },
+        "bangi": {
+            "spam": 0.52,
+            "ham": 0.42
+        },
+        "silig": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "wareejinta": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "marin habayn": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "dhakhso badan": {
+            "spam": 0.65,
+            "ham": 0.3
+        },
+        "reer galbeed": {
+            "spam": 0.68,
+            "ham": 0.28
+        },
+        "urur shaqaale": {
+            "spam": 0.5,
+            "ham": 0.45
+        },
+        "moneygram": {
+            "spam": 0.88,
+            "ham": 0.05
+        },
+        "bitcoin": {
+            "spam": 0.72,
+            "ham": 0.22
+        },
+        "lacagta dijitaalka ah (cryptocurrency)": {
+            "spam": 0.7,
+            "ham": 0.25
+        },
+        "boorso yar": {
+            "spam": 0.62,
+            "ham": 0.32
+        },
+        "blockchain": {
+            "spam": 0.6,
+            "ham": 0.35
+        },
+        "kulan": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "jadwalka": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "mashruuc": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "kooxda": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "waqtiga kama dambaysta ah": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "ku lifaaqan": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "lifaaq": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "dukumeenti": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "warbixin": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "dib u eegis": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "jawaab celin": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "dood": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "ajendaha": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "daqiiqado": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "shir": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "wac": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "salaan": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "si daacad ah": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "mahadsanid": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "qadarin": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "raacitaanka": {
+            "spam": 0.25,
+            "ham": 0.68
+        },
+        "laga wada hadlay": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "wadahadal": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "biilka": {
+            "spam": 0.28,
+            "ham": 0.65
+        },
+        "rasiidh": {
+            "spam": 0.3,
+            "ham": 0.62
+        },
+        "soo koobid": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "falanqayn": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "cilmi-baaris": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "xog": {
+            "spam": 0.2,
+            "ham": 0.72
+        },
+        "natiijooyinka": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "kayd": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "ballanqaad": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "isku dar": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "laan": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "jiid": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "codsi": {
+            "spam": 0.35,
+            "ham": 0.58
+        },
+        "geyn": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "dhis": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "tijaabo": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "khalad khalad ah": {
+            "spam": 0.05,
+            "ham": 0.92
+        },
+        "qalad": {
+            "spam": 0.22,
+            "ham": 0.7
+        },
+        "cayayaan": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "hagaaji": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "arrin": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "sifada": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "sii deynta": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "nooc": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "api": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "server": {
+            "spam": 0.18,
+            "ham": 0.75
+        },
+        "xogta": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "weydiin": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "shaqada": {
+            "spam": 0.1,
+            "ham": 0.85
+        },
+        "doorsoome": {
+            "spam": 0.08,
+            "ham": 0.88
+        },
+        "fasalka": {
+            "spam": 0.12,
+            "ham": 0.82
+        },
+        "hab": {
+            "spam": 0.15,
+            "ham": 0.78
+        },
+        "interface": {
+            "spam": 0.12,
+            "ham": 0.82
+        }
+    },
+    "urgencyWords": [
+        "degdeg ah",
+        "degdeg ah",
+        "isla markiiba",
+        "sida ugu dhaqsaha badan",
+        "hadda dhaqan",
+        "ha dib dhigin",
+        "degdeg",
+        "waqti xaddidan",
+        "dhacayaa",
+        "waqtiga kama dambaysta ah",
+        "fursaddii ugu dambeysay",
+        "ogeysiiska kama dambaysta ah",
+        "waqtiga xasaasiga ah",
+        "hadda ka jawaab",
+        "tallaabo loo baahan yahay"
+    ],
+    "greetingWords": [
+        "salaan",
+        "haye",
+        "gacaliye",
+        "hey",
+        "salaan",
+        "subax wanaagsan",
+        "galab wanaagsan",
+        "fiid wanaagsan"
+    ],
+    "genericGreetings": [
+        "mudane qaali ah",
+        "marwo qaali ah",
+        "macaamiil qaali ah",
+        "isticmaale qaali ah",
+        "xubin qaali ah",
+        "saaxiib qaali ah",
+        "qaali qiimo leh",
+        "qaate qaali ah",
+        "ka faa'iideystaha qaaliga ah"
+    ]
+}
